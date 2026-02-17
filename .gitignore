@@ -1,0 +1,11 @@
+# Obsidian transient files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
