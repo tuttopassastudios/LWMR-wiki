@@ -88,6 +88,46 @@ Several community members advocate using different DAWs for different tasks:
 - [[Bounce and Export Workflows]] — export comparison
 - [[Plugin Formats and Compatibility]] — format support by DAW
 
+## Community Screenshots
+
+![[slow-hand_2021-03-10_at-pm.png]]
+***Slow Hand** — 2021-03-10 — THE FIDELITY OF ABLETON WARP ALGORITHMS
+
+Ok folks. I’ve been investigating the potential loss in fidelity around each of Ableton’s six *warp* algorith...*
+
+![[slow-hand_2021-07-05_at-am.png]]
+***Slow Hand** — 2021-07-05 — Also, shoutout to Ableton's *Utility* plugin. This thing is the *real* MVP. It's not sexy, but being able to insert this much control at any point in ...*
+
+![[zakhiggins_2022-01-06_anyone-know-what-this-means-when.jpg]]
+***Zakhiggins** — 2022-01-06 — Anyone know what this means when trying to load a plugin in Pro tools?*
+
+![[chadwahlbrink_2022-04-01_b-d-f-fa-bc-c-d-e-e-fc.jpg]]
+***chadwahlbrink** — 2022-04-01 — Pro Tools PSA - apparently, "side chain delay compensation" setting is tied to your specific .ptx session! Make sure this is on for all of your templa...*
+
+![[sukhuno_2022-07-03_at-pm.png]]
+***sukhuno** — 2022-07-03 — Not exactly what i promised (that will come as a bigger typed out segment - i'm working on it) but here are some more nuances with ableton you all sho...*
+
+![[cuba1956_2022-09-23_im-also-working-on-a-tape.png]]
+***cuba1956** — 2022-09-23 — I'm also working on a tape saturation device, which I'm happy to share as well to hear your thoughts if Ableton is your game. It models 4 studio tape ...*
+
+![[adam-thein_2023-02-23_at-pm.png]]
+***Adam Thein** — 2023-02-23 — Check out Align Delay device that's in the newest versions of 11!  Does a similar thing but you can set your time by samples, milliseconds, or distanc...*
+
+![[maxim_2023-04-02_anyone-else-use-pro-tools-heat.png]]
+***Maxim** — 2023-04-02 — Anyone else use Pro Tools HEAT? Discovered it today 💫*
+
+![[laphill_2023-07-26_if-you-havent-solved-it-yet.png]]
+***LAPhill** — 2023-07-26 — If you haven't solved it yet, you should be able to change your Nuendo's click sounds via the metronome menu. I'm in Cubase, but they're nearly identi...*
+
+![[slow-hand_2023-10-25_at-am.png]]
+***Slow Hand** — 2023-10-25 — Looks like Reaper 7.0 now has parallel FX routing containers. Hell yeah. Welcome to the club, folks! Life just got way better.*
+
+![[josh_2024-01-24_waiting-for-ableton-12-like.jpg]]
+***Josh** — 2024-01-24 — Waiting for ableton 12 like*
+
+![[joel-roomie-berghult_2024-06-08_no-cubase-rough.png]]
+***Joel "Roomie" Berghult** — 2024-06-08 — no cubase. rough.*
+
 ## Source Discussions
 
 > [!quote] Discord Source

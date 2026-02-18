@@ -72,6 +72,35 @@ Community members share strategies for managing software costs:
 - [[Plugin Ecosystem Overview]] — understanding the broader plugin market
 - [[DAW Version History and Updates]] — what you get with paid updates
 
+## Community Screenshots
+
+![[cian-riordan_2022-06-07_at-pm.png]]
+***cian riordan** — 2022-06-07 — Actually very reasonable for cleanroom recovery. Great rec! Prices have come down a lot since I've had to deal with this stuff.*
+
+![[jeremy-klein_2022-08-10_also-will-add-if-you-are.png]]
+***Jeremy Klein** — 2022-08-10 — Also will add if you are getting random crashes, the little Mac error window that pops up can be helpful to pinpoint which plugin is causing the issue...*
+
+![[slow-hand_2023-01-09_yeah-i-just-got-stiffed-by.jpg]]
+***Slow Hand** — 2023-01-09 — Yeah. I just got stiffed by iLok on Saturday too. Took my computer to someone's place and couldn't boot up my PT session because iLok hadn't checked i...*
+
+![[sethearnest_2023-03-24_anyone-heard-wind-of-this-just.png]]
+***sethearnest** — 2023-03-24 — Anyone heard wind of this? Just got it in my email. Waves sniffing that tasty, tasty subscription-only, recurring revenue glue.*
+
+![[thecoleyoung_2023-09-07_weird-thing-happened-where-all-of.jpg]]
+***thecoleyoung** — 2023-09-07 — Weird thing happened where all of a sudden Pro Tools said it couldn’t find my license for Seventh Heaven verb plugin and to check my ilok. When I went...*
+
+![[slow-hand_2023-09-21_at-pm.png]]
+***Slow Hand** — 2023-09-21 — I'm pleased to see the option of perpetual licenses become available again. But the biggest news to me is this:*
+
+![[slow-hand_2024-04-08_at-pm.png]]
+***Slow Hand** — 2024-04-08 — I just discovered that Steinberg does competitive crossgrades if you own a competing DAW license. Looks like you could purchase Cubase 13 Pro for over...*
+
+![[joshua-riley_2024-04-30_wonder-if-this-bad-boy-still.png]]
+***Joshua Riley** — 2024-04-30 — Wonder if this bad boy still costs an arm and a leg in todays plugin market*
+
+![[wyku_2025-10-24_samsung-internet.jpg]]
+***Wyku** — 2025-10-24 — I was going to snag that cable during their BF sale last year, but the shipping to Canada was 5x the price of the cable.*
+
 ## Source Discussions
 
 > [!quote] Discord Source

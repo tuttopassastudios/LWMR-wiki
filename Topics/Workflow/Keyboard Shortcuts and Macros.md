@@ -68,6 +68,25 @@ Beyond dedicated tools like SoundFlow, users employ Keyboard Maestro (macOS), Au
 - [[Control Surfaces and Peripherals]] — hardware for triggering shortcuts and macros
 - [[MIDI Controller]] — mapping physical controls to DAW functions
 
+## Community Screenshots
+
+![[antoniohannamusic_2021-05-08_httpsfolivoraai-i-can-also-send-you.jpg]]
+***antoniohannamusic** — 2021-05-08 — https://folivora.ai/ I can also send you the template I use to get started? It then you can see the setup and add your own shortcuts etc*
+
+![[antoniohannamusic_2021-05-08_httpsfolivoraai-i-can-also-send-you-2.jpg]]
+***antoniohannamusic** — 2021-05-08 — https://folivora.ai/ I can also send you the template I use to get started? It then you can see the setup and add your own shortcuts etc*
+
+![[will-melones_2022-10-04_at-pm.png]]
+***Will Melones** — 2022-10-04 — Yeah no need for System Prefs tricks anymore...you can just unassign it in PT's Keyboard Shortcuts!*
+
+![[slow-hand_2022-11-30_at-am-4.png]]
+***Slow Hand** — 2022-11-30 — I'll do something similar with an *Instrument Rack* when it comes to pitched samples like 808's.
+
+I'll load a whole folder of 808s into individual cha...*
+
+![[adam-thein_2023-11-19_at-am.png]]
+***Adam Thein** — 2023-11-19 — Yes - "Set Preset Shortcut"*
+
 ## Source Discussions
 
 > [!quote] Discord Source

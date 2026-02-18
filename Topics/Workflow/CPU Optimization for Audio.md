@@ -93,6 +93,46 @@ Ableton's CPU threading is tied to its group/track structure:
 - [[Pro Tools]] — lowest CPU usage in benchmarks
 - [[DAW Comparison]]
 
+## Community Screenshots
+
+![[longstoryshort_2021-05-04_at-pm.png]]
+***longstoryshort** — 2021-05-04 — one last ableton test....opened 30+ Serum tracks, just a saw wave, added a bunch of processing and maxed out my CPU.  no bit depth changes - it's exac...*
+
+![[peterlabberton_2021-08-24_anyone-know-why-pro-tools-occasionally.jpg]]
+***peterlabberton** — 2021-08-24 — Anyone know why pro tools occasionally has these more stock looking menus? It looks a little wonky visually which is whatever, but you can’t do the th...*
+
+![[yoel_2022-02-03_anyone-know-why-all-my-plugin.jpg]]
+***Yoel** — 2022-02-03 — Anyone know why all my plugin parameters have lime green around them in PT?*
+
+![[slow-hand_2022-11-30_at-am.png]]
+***Slow Hand** — 2022-11-30 — I like to swap drum samples too and have acquired a workflow built around quick auditioning and easy comparison. It sounds like you're using Ableton, ...*
+
+![[adam-thein_2023-02-04_at-pm.png]]
+***Adam Thein** — 2023-02-04 — Also a little hack I just found to avoid committing although the effect will be slightly different is setting your sidechain in Live to "Pre FX" seems...*
+
+![[chris-doms_2023-02-15_b-e-a-b-c-d-b-b.jpg]]
+***Chris Doms** — 2023-02-15 — Just wanted to update, at some point I turned off plug in latency compensation in my preferences and forgot. Switching it back on fixed everything.*
+
+![[alxcph_2023-02-23_i-made-this-preset-for-nudging.png]]
+***ALXCPH** — 2023-02-23 — I made this preset for nudging tracks back in time, i'm not sure why but it makes me feel better/safer than messing the the Delay feature that @Slow H...*
+
+![[billyc_2023-06-13_at-am.png]]
+***BillyC** — 2023-06-13 — Question for Mac OS/Pro Tools users: does anyone know how to stop Pro Tools from completely commandeering whatever you use for its playback engine? I ...*
+
+![[bryan-dimaio_2023-08-01_at-pm.png]]
+***Bryan DiMaio** — 2023-08-01 — Soooo hopefully by the end of the month we'll have most Plugin Alliance stuff on M1 Native AAX*
+
+![[sneaky-circuits_2023-11-26_pt-bus.png]]
+***sneaky_circuits** — 2023-11-26 — Hoping some PT folks could assist with an issue
+I'm having trouble disabling input monitoring on record armed tracks that go through busses.
+I only wa...*
+
+![[will-melones_2024-01-23_at-pm.png]]
+***Will Melones** — 2024-01-23 — Interesting update to this Finder thing. I had noticed that the Archive Utility settings were defaulted to "compressed archive" format and figured tha...*
+
+![[cian-riordan_2024-02-05_at-pm.png]]
+***cian riordan** — 2024-02-05 — Anyone have problems with Native Instruments Access installing the Komplete package on an M2 mac? I keep getting this message but I've already granted...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

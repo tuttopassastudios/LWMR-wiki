@@ -71,6 +71,16 @@ Before sharing or archiving a session, always use your DAW's "collect all and sa
 - [[Sample Rate]] — detailed discussion of sample rate choices
 - [[Bit Depth]] — bit depth and dynamic range
 
+## Community Screenshots
+
+![[slow-hand_2021-03-10_at-pm.png]]
+***Slow Hand** — 2021-03-10 — THE FIDELITY OF ABLETON WARP ALGORITHMS
+
+Ok folks. I’ve been investigating the potential loss in fidelity around each of Ableton’s six *warp* algorith...*
+
+![[spectrummasters_2023-09-16_untitled.jpg]]
+***spectrummasters** — 2023-09-16 — Logic gang, im getting this message when using rx10 as my audio editor in logic. (which is my usual workflow and i've never had it before), I usually ...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

@@ -64,6 +64,48 @@ Operating system updates are a major source of instability. macOS updates freque
 - [[DAW Version History and Updates]] — risks and benefits of DAW updates
 - [[Plugin Formats and Compatibility]] — plugin-related crash prevention
 
+## Community Screenshots
+
+![[cian-riordan_2021-05-04_at-pm.png]]
+***cian riordan** — 2021-05-04 — All for it and a huge part of my workflow. I never got into VCAs outside of a few problems that needed solving and always have leaned on heavy bussing...*
+
+![[mixedbywong-my_2021-12-29_at-pm.png]]
+***mixedbywong_my** — 2021-12-29 — https://tenor.com/view/so-happy-right-now-happy-ecstatic-excited-gif-4921257 TLDR , if you're having problems installing ozone 8 in Mac Os Monterey, c...*
+
+![[jeremy-klein_2022-08-10_also-will-add-if-you-are.png]]
+***Jeremy Klein** — 2022-08-10 — Also will add if you are getting random crashes, the little Mac error window that pops up can be helpful to pinpoint which plugin is causing the issue...*
+
+![[deleted-user_2023-01-08_e-c-b-fa-a-f-af-b-aef.jpg]]
+***Deleted User** — 2023-01-08 — has anyone had this issue? I believe this one is an older version of ghz plug so it doesn’t matter anyways but this has been popping up after the mont...*
+
+![[chris-doms_2023-02-15_b-e-a-b-c-d-b-b.jpg]]
+***Chris Doms** — 2023-02-15 — Just wanted to update, at some point I turned off plug in latency compensation in my preferences and forgot. Switching it back on fixed everything.*
+
+![[adam-thein_2023-02-23_at-pm.png]]
+***Adam Thein** — 2023-02-23 — Check out Align Delay device that's in the newest versions of 11!  Does a similar thing but you can set your time by samples, milliseconds, or distanc...*
+
+![[austenballard_2023-04-16_at-pm.png]]
+***austenballard** — 2023-04-16 — I have pre-roll built in to my template to avoid this problem*
+
+![[ross-fortune_2023-05-18_tried-your-cascading-system-it.png]]
+***Ross Fortune** — 2023-05-18 — Tried your cascading system - it works!
+
+With one issue, but it's workable. Sending to a return from a nested track ("drum rack" within =DRUMS= here) ...*
+
+![[adam-thein_2023-07-04_at-am.png]]
+***Adam Thein** — 2023-07-04 — @Ross Fortune might help the issue you've been having*
+
+![[barbara_2023-12-13_still-one-of-my-favorite-error.jpg]]
+***Barbara** — 2023-12-13 — Still one of my favorite error messages ever. It happened a few times this year, but I dont remember this happening since I upgraded to 2023.6*
+
+![[slow-hand_2024-03-08_at-pm.png]]
+***Slow Hand** — 2024-03-08 — So I've been experiencing a very specific problem for the last year and I want to see if anyone has been dealing with this and found a fix:
+
+I have a ...*
+
+![[joel-roomie-berghult_2024-12-12_the-little-search-bar-in-pro-q.png]]
+***Joel "Roomie" Berghult** — 2024-12-12 — the little search bar in Pro-Q 4 is really neatly thought out. If you tag your buses or categories with a specific symbol or prefix you can just put i...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

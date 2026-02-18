@@ -89,6 +89,47 @@ Sample accuracy issues are more common during playback than rendering, and less 
 - [[Cubase]] — gold standard export workflow
 - [[DAW Summing and Sound Differences]]
 
+## Community Screenshots
+
+![[longstoryshort_2021-05-04_at-pm.png]]
+***longstoryshort** — 2021-05-04 — one last ableton test....opened 30+ Serum tracks, just a saw wave, added a bunch of processing and maxed out my CPU.  no bit depth changes - it's exac...*
+
+![[oaklandmatt_2021-11-13_b-c-ae-a-d-f-c-d-b-bc.jpg]]
+***oaklandmatt** — 2021-11-13 — same bounce rendering both wav and mp3*
+
+![[dimitris-bourgiotis_2022-04-26_at-pm.png]]
+***Dimitris Bourgiotis** — 2022-04-26 — Super noob question,  I am giving pro tools  a go & while I love the workflow of a few things, I have stuck in compensating the hardware inserts with ...*
+
+![[will-melones_2022-05-18_at-am-2.png]]
+***Will Melones** — 2022-05-18 — So I was checking out the demo of this Firechild plugin that's on sale for $29, and I was interested in the harmonics it was generating. I put a 262is...*
+
+![[sukhuno_2022-07-03_at-pm-2.png]]
+***sukhuno** — 2022-07-03 — Not exactly what i promised (that will come as a bigger typed out segment - i'm working on it) but here are some more nuances with ableton you all sho...*
+
+![[sukhuno_2022-07-03_at-pm-4.png]]
+***sukhuno** — 2022-07-03 — Not exactly what i promised (that will come as a bigger typed out segment - i'm working on it) but here are some more nuances with ableton you all sho...*
+
+![[sethearnest_2023-03-24_anyone-heard-wind-of-this-just.png]]
+***sethearnest** — 2023-03-24 — Anyone heard wind of this? Just got it in my email. Waves sniffing that tasty, tasty subscription-only, recurring revenue glue.*
+
+![[will-melones_2023-04-01_at-pm.png]]
+***Will Melones** — 2023-04-01 — PT halp! I saw that I could export an 8 kHz mp3 and had to hear it for myself. But it just comes out at 44.1 kHz. WHAT TO DO!*
+
+![[adam-thein_2023-05-18_at-am.png]]
+***Adam Thein** — 2023-05-18 — Ah I see - so the way to get around the delay compensation issue with Return tracks in Live is to disable the sends on the track you are printing to.
+...*
+
+![[ross-fortune_2023-05-18_tried-your-cascading-system-it.png]]
+***Ross Fortune** — 2023-05-18 — Tried your cascading system - it works!
+
+With one issue, but it's workable. Sending to a return from a nested track ("drum rack" within =DRUMS= here) ...*
+
+![[spectrummasters_2023-09-16_untitled.jpg]]
+***spectrummasters** — 2023-09-16 — Logic gang, im getting this message when using rx10 as my audio editor in logic. (which is my usual workflow and i've never had it before), I usually ...*
+
+![[adam-thein_2024-01-14_at-pm.png]]
+***Adam Thein** — 2024-01-14 — I'd recommend still trying a new print with the setting left on just in case!  Just for posterity and clarity here's the settings I'm talking about sp...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

@@ -78,6 +78,37 @@ Nacho Sotelo uses SoundFlow scripts to automate mix prep:
 - [[Recording and Tracking Workflows]]
 - [[Mixing in the DAW]]
 
+## Community Screenshots
+
+![[cian-riordan_2021-05-04_at-pm.png]]
+***cian riordan** — 2021-05-04 — All for it and a huge part of my workflow. I never got into VCAs outside of a few problems that needed solving and always have leaned on heavy bussing...*
+
+![[antoniohannamusic_2021-05-08_httpsfolivoraai-i-can-also-send-you.jpg]]
+***antoniohannamusic** — 2021-05-08 — https://folivora.ai/ I can also send you the template I use to get started? It then you can see the setup and add your own shortcuts etc*
+
+![[antoniohannamusic_2021-05-08_httpsfolivoraai-i-can-also-send-you-2.jpg]]
+***antoniohannamusic** — 2021-05-08 — https://folivora.ai/ I can also send you the template I use to get started? It then you can see the setup and add your own shortcuts etc*
+
+![[chadwahlbrink_2022-04-01_b-d-f-fa-bc-c-d-e-e-fc.jpg]]
+***chadwahlbrink** — 2022-04-01 — Pro Tools PSA - apparently, "side chain delay compensation" setting is tied to your specific .ptx session! Make sure this is on for all of your templa...*
+
+![[jeremy-klein_2023-03-14_my-starting-template-for-production-looks.png]]
+***Jeremy Klein** — 2023-03-14 — My starting template for production looks like this, and i do in general slot things where they are supposed to go while building out a song so also n...*
+
+![[slow-hand_2023-03-14_at-pm.png]]
+***Slow Hand** — 2023-03-14 — Man. Y'all are super dialed in with your templates. I can't work with that level of clutter. My default set is austere. I always build it up from scra...*
+
+![[austenballard_2023-04-16_at-pm.png]]
+***austenballard** — 2023-04-16 — I have pre-roll built in to my template to avoid this problem*
+
+![[rollmottle_2023-05-02_rmreaper.png]]
+***Rollmottle** — 2023-05-02 — here's a screenshot of my template for @Pio's record. All in one screen. Pitch at the top, catch underneath, pre-lim under that. All effects for every...*
+
+![[slow-hand_2025-08-11_at-pm.png]]
+***Slow Hand** — 2025-08-11 — Who here is doing heavy orchestral sequencing? I've got a question about setting up a template.
+
+If you're breaking a single sampled instrument out ac...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

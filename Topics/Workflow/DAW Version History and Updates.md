@@ -70,6 +70,48 @@ Members track how DAWs evolve feature parity over time. Features that were once 
 - [[DAW Comparison]] — how feature additions change competitive positioning
 - [[DAW Pricing and Licensing]] — update costs and subscription implications
 
+## Community Screenshots
+
+![[slow-hand_2021-03-09_at-pm-2.png]]
+***Slow Hand** — 2021-03-09 — *Edit: Please disregard this post. It’s flawed and I’ve done a far more thorough write-up about ten posts later*
+
+Hmmm... The plot thickens. To verify...*
+
+![[zack-hames_2021-06-28_-pro-tools-20216-wonder-if.png]]
+***Zack Hames** — 2021-06-28 — 👀 Pro Tools 2021.6. wonder if it will work!*
+
+![[adam-thein_2023-01-12_at-am.png]]
+***Adam Thein** — 2023-01-12 — @Ross Fortune 
+
+I haven't confirmed this yet myself but if you were talking in #💬general-talk about delay compensation not working on return channels ...*
+
+![[chris-doms_2023-02-15_b-e-a-b-c-d-b-b.jpg]]
+***Chris Doms** — 2023-02-15 — Just wanted to update, at some point I turned off plug in latency compensation in my preferences and forgot. Switching it back on fixed everything.*
+
+![[adam-thein_2023-02-23_at-pm.png]]
+***Adam Thein** — 2023-02-23 — Check out Align Delay device that's in the newest versions of 11!  Does a similar thing but you can set your time by samples, milliseconds, or distanc...*
+
+![[alxcph_2023-03-22_also-why-is-the-beta-version.png]]
+***ALXCPH** — 2023-03-22 — Also why is the beta version a nr. lower than the live one? A typo on their end?*
+
+![[slow-hand_2023-05-01_at-pm.png]]
+***Slow Hand** — 2023-05-01 — Ableton Users: It seems that Rewire hasn't been removed from Live 11 after all. According to this Youtube comment (trustworthy, I know) it's seemingly...*
+
+![[slow-hand_2023-11-14_at-am.png]]
+***Slow Hand** — 2023-11-14 — I'm looking at the release notes and this seems promising:*
+
+![[cian-riordan_2023-11-20_at-pm.png]]
+***cian riordan** — 2023-11-20 — Update to this saga, finally got the drives from Backblaze a month later. Glad I didn't try and download all of this:*
+
+![[slow-hand_2024-04-08_at-pm.png]]
+***Slow Hand** — 2024-04-08 — I just discovered that Steinberg does competitive crossgrades if you own a competing DAW license. Looks like you could purchase Cubase 13 Pro for over...*
+
+![[noahc_2024-06-08_at-am.png]]
+***noahc** — 2024-06-08 — RX11 ARA update now works in Studio One! Stoked so far. (Next PT Update it will be active too)*
+
+![[will-melones_2025-07-31_soundtoys.png]]
+***Will Melones** — 2025-07-31 — Either Soundtoys must be preparing for a release, or...they're just being weird. Does this make sense to anyone?*
+
 ## Source Discussions
 
 > [!quote] Discord Source

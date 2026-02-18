@@ -1,0 +1,452 @@
+[
+  {
+    "filename": "dumlords_2021-02-04_uncategorized.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/806993552705191936/image0.jpg?ex=69958090&is=69942f10&hm=f472094962431eddfbc8153f8f9a82a2efd3ba16b4e74ac8628a93dc71b243d9&"
+  },
+  {
+    "filename": "josephmossbridge_2021-02-05_uncategorized.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/807372624626843698/image0.jpg?ex=69959019&is=69943e99&hm=287929499b5a48684ad36e16eda04564991fe43fb42719b5a0a7434c088c628d&"
+  },
+  {
+    "filename": "slow-hand_2021-03-09_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/818974436786176010/Screen_Shot_2021-03-09_at_2.31.13_PM.png?ex=69959521&is=699443a1&hm=aa096d37ce76f2e176c0f45ebee6d735358809f233add16ed4ad15342535c1fd&"
+  },
+  {
+    "filename": "zakhiggins_2021-03-25_as-in-im-automating-this-same.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/824772293615943690/20210325_222841.jpg?ex=699594ce&is=6994434e&hm=6dd1956c1c3b0864acfe91cb2b94a8e0f99d1df8dcbeb191833f71b8beda9186&"
+  },
+  {
+    "filename": "deleted-user_2021-04-16_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/832720919385604176/Screen_Shot_2021-04-16_at_4.52.22_PM.png?ex=69957e8a&is=69942d0a&hm=469fadf2fbd9f6c5fd448a8022b1fe4d4d31b2d33a1a348ff8848dae9943abcb&"
+  },
+  {
+    "filename": "deleted-user_2021-04-16_at-pm-2.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/832722066573623321/Screen_Shot_2021-04-16_at_4.58.39_PM.png?ex=69957f9b&is=69942e1b&hm=71ee42c033a7edc6877b3720b5f4e1245758564962921cd407e7c93325a5cd33&"
+  },
+  {
+    "filename": "kidcutler_2021-04-16_like-this-photo-of-one-of.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/832731150870249482/image0.png?ex=69958811&is=69943691&hm=7c049b1d69adac54c44f9bebd5754a22b59129b7ad11d1c9a78c827c8cdf1f63&"
+  },
+  {
+    "filename": "slow-hand_2021-05-29_man-avid-needs-to-chill-out.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/848330270822498364/image0.png?ex=69959761&is=699445e1&hm=7981ad2432853ac443bdf7b1d608c60ce9c811e87bbf8611fb824dae69147a39&"
+  },
+  {
+    "filename": "cian-riordan_2021-11-03_missing.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/905586760166309888/missing-image.png?ex=699596a4&is=69944524&hm=9837fa94a35893ad11a0d3e177c6d8992f6d767b119d73cc10c0628a9c854e17&"
+  },
+  {
+    "filename": "cian-riordan_2021-11-03_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/905588192332357643/Screen_Shot_2021-11-03_at_3.43.21_PM.png?ex=699597fa&is=6994467a&hm=4285dd8c968407ae46a2e511fd692f9cfd323f3b4b94cd044f92f40156a6f802&"
+  },
+  {
+    "filename": "maxim_2021-12-19_unfortunately-still-not-really-useable-on.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/922081717332893706/Screenshot_2021-12-19_at_12.00.46.png?ex=69959c84&is=69944b04&hm=e73d9816910e5cd44600f260a04125457da44938f83f7ce21b698423e0a1b186&"
+  },
+  {
+    "filename": "zack-hames_2022-01-24_at-am.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/935269642530865192/Screen_Shot_2021-12-22_at_9.40.10_AM.png?ex=699577fb&is=6994267b&hm=5999480a6d7db6f7c2d6710110ab84434f7da802001cc75a8db2c9ce6e334cab&"
+  },
+  {
+    "filename": "alxcph_2022-01-31_uncategorized.webp",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/937822342275555388/IMG_6403.webp?ex=699586de&is=6994355e&hm=74881c7aa6985289bd88cf26b1ce0565d17cc2c4bfb278390b9cb001ec803808&"
+  },
+  {
+    "filename": "adam-thein_2022-02-16_for-all-you-ableton-live-heads.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/943623083992944700/unknown.png?ex=6995893a&is=699437ba&hm=cf186e7f993028f7074540ac237a395668f5758518dc6511d9ef19638e03bafd&"
+  },
+  {
+    "filename": "adam-thein_2022-02-17_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/943987943419297842/unknown.png?ex=69958b88&is=69943a08&hm=6a75ae350437bc3141750aef9b2ac592781f3f75d0d8d421c9c21dfcc05ed03b&"
+  },
+  {
+    "filename": "adam-thein_2022-02-17_seems-to-work.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/943989452374683668/unknown.png?ex=69958cef&is=69943b6f&hm=3afbf396a90eaadae06bf7db6ba73c023ded7c3092809704fd7e7c885e786266&"
+  },
+  {
+    "filename": "tyler-graham_2022-04-05_cbbb-cc-a-c-a-d-f.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/961016674931323001/1CBBB2CC-A18C-4137-8A86-46380615D5F1.jpg?ex=69958846&is=699436c6&hm=40af372acad1bb8faa9c7110cc75b29234bcfa7dfae810fecf441dd3e8aaf6a2&"
+  },
+  {
+    "filename": "samvalentine_2022-05-02_at-pm.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/970817192633466930/Image_5-2-22_at_3.40_PM.JPG?ex=69959737&is=699445b7&hm=ebce006dc32522c6e9439d66865300758ae8d5fd38b997526d0db983d29dfa95&"
+  },
+  {
+    "filename": "1ggy_2022-05-24_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/978761930007273502/IMG_4263.png?ex=69957d54&is=69942bd4&hm=43336b77e208d9dd4a380d843761741b9d9783547556cbafb63dbbce5b15283a&"
+  },
+  {
+    "filename": "oaklandmatt_2022-06-14_d-cc-b-a-f-d-b-b-f-cf-f.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/986398125726007326/72D7CC3B-A22F-4D0B-B597-1F430CF24F56.jpg?ex=69959597&is=69944417&hm=ff1906be5db5a98004379fbf050119015b9772ad95104cea6a2b7b4fd734f972&"
+  },
+  {
+    "filename": "jeremy-klein_2022-07-20_siiiiiigh-i-was-hoping-you-wouldnt.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/999436984210685992/unknown.png?ex=69958ef9&is=69943d79&hm=a22425ea573ef06c3a674a183a446ded8425b7aeb656333e6222bdc6328c44f8&"
+  },
+  {
+    "filename": "louisvie_2022-08-21_hey-guys-i-think-i-found.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1010857184147550208/unknown.png?ex=6995939d&is=6994421d&hm=4dd50402644f17ab81a37c9b6c53dfd3c8e744b5cdf655e9becd85503060836c&"
+  },
+  {
+    "filename": "cian-riordan_2022-08-30_yes-he-still-using-this-lol.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1014302799330283631/unknown.png?ex=69959658&is=699444d8&hm=317b8c25a4193335bb55b9573952a3b5e4bed201cd9a7a8ce5467fdc59a90046&"
+  },
+  {
+    "filename": "alxcph_2022-09-13_fa-e-eac-d-b-a-ee-f-d-e-b.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1019194205840625684/555FA16E-2EAC-4D8B-A5EE-F71D613E299B.jpg?ex=69959592&is=69944412&hm=64952c6777bf9f013bd19c7d0302e0affbcc53279dc244e3f16bd0d4c630e109&"
+  },
+  {
+    "filename": "ehutton21_2022-09-30_uncategorized.gif",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1025509715226132580/IMG_4775.gif?ex=69957d19&is=69942b99&hm=d47009ee06c4189325e4a52d3b4002d22736501caaabaa70ba69e2f433da3e77&"
+  },
+  {
+    "filename": "sethearnest_2022-10-03_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1026612723624194078/Screen_Shot_2022-10-03_at_16.51.53.png?ex=69958bda&is=69943a5a&hm=945f66abcedd34a8df6964e189e5ff66eb3677d5e4ca5c3fa6d350201a7be2c0&"
+  },
+  {
+    "filename": "1ggy_2022-10-16_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1031303534328676473/unknown.png?ex=69957903&is=69942783&hm=c75d9a311a49d72176bbbcea386e9289093f81aa1904817349871d89c3531fa3&"
+  },
+  {
+    "filename": "jonmatteson_2022-11-30_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1047613515730518046/Screen_Shot_2022-11-30_at_12.41.16_PM.png?ex=69957b5d&is=699429dd&hm=973aef6c8eb861c2ce48ca0c355cfc8317b97ba15fd549bc4c69f6a92d9164cb&"
+  },
+  {
+    "filename": "slow-hand_2022-11-30_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1047635690617319434/Screen_Shot_2022-11-30_at_2.07.51_PM.png?ex=69959004&is=69943e84&hm=2d88c8567f8760a9f313e088feac5101997429c42a1855ce957f82fa714f97fb&"
+  },
+  {
+    "filename": "slow-hand_2022-11-30_at-pm-2.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1047635870905282762/Screen_Shot_2022-11-30_at_2.08.51_PM.png?ex=6995902f&is=69943eaf&hm=607783047f8f5190db34f57598c7391bc0c5b5947fcff5ea8d7b7f77463d9015&"
+  },
+  {
+    "filename": "slow-hand_2022-11-30_at-pm-3.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1047636066892525648/Screen_Shot_2022-11-30_at_2.09.01_PM.png?ex=6995905e&is=69943ede&hm=fc31437fc2d9b2f5d664a3d011e174fe49aad9faf99a233d3cd4d16d4c6f6821&"
+  },
+  {
+    "filename": "slow-hand_2022-12-05_oh-im-just-having-fun-in.jpeg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1049440114662703206/IMG_1564.jpeg?ex=69958904&is=69943784&hm=7e9276f2d6bf71d4da6e011f79a9f55889dd61f81e226dca3738446c6abcc0b6&"
+  },
+  {
+    "filename": "mixedbywong-my_2022-12-27_ive-used-the-dopamine-a-plugin.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1057240463213613076/image0.jpg?ex=69959169&is=69943fe9&hm=630935930f4b72175419e3fccd4ca494c869a2fb8edcb673cd9bc56e86239799&"
+  },
+  {
+    "filename": "deleted-user_2023-01-04_e-f-f-f-bc-b-af-c-d-e.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1060314056721965077/E199F1F0-9193-447F-86BC-B1AF360C6D5E.jpg?ex=69958b2a&is=699439aa&hm=087a4ba74350c6975d594186850c300ba6081e1708a82d28145f0e083babbf0b&"
+  },
+  {
+    "filename": "will-melones_2023-01-04_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1060327397834117200/Screen_Shot_2023-01-04_at_5.40.21_PM.png?ex=69959797&is=69944617&hm=5d229e033b3b8066e509066cec1e1389024646e9c740a23cf2ad64be99a5d51d&"
+  },
+  {
+    "filename": "austenballard_2023-02-07_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1072641603182796881/Screen_Shot_2023-02-07_at_5.14.42_PM.png?ex=69959116&is=69943f96&hm=4e29d9735c0b7a2b3497990a818d0b1e24c2fd094ca21de398a4d0272d72e2f8&"
+  },
+  {
+    "filename": "peterlabberton_2023-02-07_i-generally-like-dark-mode-across.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1072650808421777480/IMG_5920.png?ex=699599a9&is=69944829&hm=d62c7006d19f271793850cf37d0702364200e9e25b1e1917646b78e432c65f06&"
+  },
+  {
+    "filename": "slow-hand_2023-02-22_spoiler-pbf-punch-bout.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1078052248912928808/SPOILER_PBF-Punch-Bout.png?ex=699579a5&is=69942825&hm=fdd2ce3b7d9014d065ecebd0eb3f5008d65ac67f64df17c16b901bb12e94c6e9&"
+  },
+  {
+    "filename": "owengineered_2023-03-08_dbe-d-e-ba-b-ba-d-f.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1082950681318662164/2DBE82D9-181E-4772-BA81-3B2BA431D2F6.jpg?ex=69957f6a&is=69942dea&hm=0e531578035a3a0700a3202e5a4e049c0cefa8145e75b4903ec82b61da94f8b4&"
+  },
+  {
+    "filename": "sukhuno_2023-03-09_another-day-another-homie-having-an.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1083503419031031879/IMG_5796.jpg?ex=699587f1&is=69943671&hm=8b863d58b7b9d64947a0a34a7795d69fd814d56d55202a4c87520cf7ef0a7d81&"
+  },
+  {
+    "filename": "ross-fortune_2023-03-24_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1088757541653196880/IMG_4016.png?ex=6995877a&is=699435fa&hm=9697bb5bef9ff54520d5f486b53948268b7102e1076acdb7fd4fae83732b86ab&"
+  },
+  {
+    "filename": "ross-fortune_2023-03-27_is-there-a-way-to-batch.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1089849920703430737/Screenshot_2023-03-27_at_10.51.21.png?ex=69958c55&is=69943ad5&hm=0f931b8058490da9ada815ab8dad7ecb4c47aa13974a966b0ebb9b14325bcc96&"
+  },
+  {
+    "filename": "batmeckley_2023-04-06_a-ab-ebba-b-d-dd-f-ceee-bd-c.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1093636842315858064/1A7167AB-EBBA-4B5D-8DD7-2F5CEEE2BD4C.jpg?ex=69957b6d&is=699429ed&hm=2da318fb6fc3af87eab8f266dcba4184567c3b9940943de780c5ac1dc04e2e4e&"
+  },
+  {
+    "filename": "laphill_2023-04-06_maxresdefault.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1093640482854277140/maxresdefault.png?ex=69957ed1&is=69942d51&hm=85779a42b76263a14ff537533a23aa1752dd3b35042107505cdefdd5890ddf96&"
+  },
+  {
+    "filename": "ross-fortune_2023-04-19_laphill-did-you-pull-trigger-on.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1098363422539776081/IMG_4444.png?ex=699589e6&is=69943866&hm=95bbd994b171af3bd407080969fe9012a28a31c45c6305d7e51aa2af8b5bc16e&"
+  },
+  {
+    "filename": "laphill_2023-04-19_fspkdbf-s-bmqof-eo.gif",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1098374485817692210/fsPkDBF6S66bmQof6EO8_1.gif?ex=69959434&is=699442b4&hm=d7c9993bcb7db612a6bd18744f90304fe8202dc5cc002a2c0c92b6834a6ce1df&"
+  },
+  {
+    "filename": "cian-riordan_2023-05-09_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1105620061785428028/Screen_Shot_2023-05-09_at_3.17.19_PM.png?ex=6995922c&is=699440ac&hm=8a4259ce12e7d2d69e6dbfb4f3df312a2fc36feb5f21d700857ee00ec4f6fe9c&"
+  },
+  {
+    "filename": "cian-riordan_2023-05-09_jwk-e.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1105622375061520475/JwK6e.png?ex=69959453&is=699442d3&hm=6c55629381f92a4c0ef8e1489cb4c9d3bb2b249aae2df152b179a888056e9e1d&"
+  },
+  {
+    "filename": "alxcph_2023-05-15_uncategorized.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1107615625926422528/IMG_9082.jpg?ex=6995946f&is=699442ef&hm=b40d1e1a74ce980bbb30044e51aaa2551f31dd27cdf4af47ff69c3dabbf8df2c&"
+  },
+  {
+    "filename": "ross-fortune_2023-05-18_honestly-i-cant-remember-this-is.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1108858939979874385/Screenshot_2023-05-18_at_21.46.03.png?ex=69957d1c&is=69942b9c&hm=dea84e345733550d4fce9caeea193a8f42df0563e0c4e61a64d2b3c4243c3097&"
+  },
+  {
+    "filename": "bryan-dimaio_2023-05-25_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1111393545912336394/Screenshot_2023-05-25_at_4.41.05_PM.png?ex=69957b26&is=699429a6&hm=49cc075e36cd4f000067c0d240e0c160c178e5646ba8615e0698e570a17df316&"
+  },
+  {
+    "filename": "billyc_2023-06-13_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1118286435582222397/Screenshot_2023-06-13_at_2.07.42_PM.png?ex=69958227&is=699430a7&hm=dc151afeeec70149bdf439a9bc3609007706ffc418bfc5f4235c6d653aa63b13&"
+  },
+  {
+    "filename": "jerikcenteno_2023-06-13_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1118305674510733432/Screen_Shot_2023-06-13_at_3.22.53_PM.png?ex=69959411&is=69944291&hm=d8ce3cf1ef00bbc7ab8665865430022b25c69c804ea078f9cb46fdb54ed7b455&"
+  },
+  {
+    "filename": "edward-rivera_2023-06-14_i-dont-even-get-the-option.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1118670243032743936/IMG_3315.jpg?ex=69959619&is=69944499&hm=b9d376b1e12e21c46cc6b66ffecd6bb6b18714247fd9bf6cfdc0035149e844e9&"
+  },
+  {
+    "filename": "sethearnest_2023-06-28_long-shot-anyone-else-getting-this.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1123725594195136612/Screen_Shot_2023-06-28_at_15.46.54.png?ex=69958543&is=699433c3&hm=b506526cff393505ab3471c52f1d190388f283614edcba92cbe3233c9353b35b&"
+  },
+  {
+    "filename": "slow-hand_2023-07-28_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1134610877476249800/Screenshot_2023-07-28_at_3.17.39_PM.png?ex=699591f9&is=69944079&hm=b6d019831268ab84355c370f876c0909e877a2b9bb2527b2df2d621a0a0bcabe&"
+  },
+  {
+    "filename": "joshua-riley_2023-08-09_i-am-not-a-fan-of.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1138751472562098186/IMG_0611.png?ex=699578f4&is=69942774&hm=61d7f9c2bda6eb9f37a36e0f4292c0e3fffa4539df8f4a69c4ed4a8ea39b5e54&"
+  },
+  {
+    "filename": "edward-rivera_2023-08-17_uncategorized.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1141865136022376528/image0.jpg?ex=69959807&is=69944687&hm=41e99e9e81d8babde0209a0cb7ecd848c1fbd5c7969f2d10ae17d51394ceb9a8&"
+  },
+  {
+    "filename": "edward-rivera_2023-08-17_375-mb-on-this-bad-boy.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1141865491938426900/image0.jpg?ex=6995985c&is=699446dc&hm=8fb7a831161f14f32c1cbaf147aceefb57789ae912ebe2e06f5ff433392bc675&"
+  },
+  {
+    "filename": "joshua-riley_2023-08-23_any-tree-audio-branch-users-acustica.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1144005889360150608/IMG_0983.jpg?ex=699578c2&is=69942742&hm=c8d36a9a7dbba8c07b385f78929ff105302127774ed6a4ccb405fb22f9037a64&"
+  },
+  {
+    "filename": "joshua-riley_2023-08-25_silver-bullet.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1144562183351570452/IMG_1008.png?ex=69958499&is=69943319&hm=46c5678f547a3ccfbc99be28ae63933a63d6d82e033713f7b0afe3463d1c0689&"
+  },
+  {
+    "filename": "edward-rivera_2023-08-29_i-found-the-problem.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1146201829387026573/image0.jpg?ex=69958ce3&is=69943b63&hm=f19780ba473c95b56510965bac9c0525b1c15f126b1ddf0d5b0eaf5feadb4e66&"
+  },
+  {
+    "filename": "adam-thein_2023-09-21_nes-power-glove.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1154532272070987846/NES-Power-Glove.png?ex=699588b7&is=69943737&hm=ef385b840696bd3ac1f4f35ce1b69e8d9f65611a6473c24860a53bb11b2b3da8&"
+  },
+  {
+    "filename": "josh_2023-09-21_im-tryna-mix-with-this-bad.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1154536438633857154/IMG_0490.jpg?ex=69958c99&is=69943b19&hm=1b8aff0fd89ccb6dda20770e240a86c7c084ed839527f12b46d0ee2437d00dba&"
+  },
+  {
+    "filename": "josh_2023-09-25_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1155979123945128046/Screen_Shot_2023-09-25_at_5.28.13_PM.png?ex=69958634&is=699434b4&hm=6b87f9c0c84ae66aa089eb945f55c940856622bdfb9526d59d4be801e83cbd78&"
+  },
+  {
+    "filename": "laphill_2023-09-25_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1155979345454694504/image.png?ex=69958669&is=699434e9&hm=7448a237abe151eb8a7b41d9e1d5e8b735be96d7b381f01e82cbf276b0ee09dc&"
+  },
+  {
+    "filename": "noahneedleman_2023-09-25_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1155982097337552997/IMG_0820.png?ex=699588f9&is=69943779&hm=d8035d214e454e32e4dde68f2b338732cc0898ca0857bf37eab8290dd5e29184&"
+  },
+  {
+    "filename": "josh_2023-09-25_at-pm-2.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1155990063574962246/Screen_Shot_2023-09-25_at_6.07.36_PM.png?ex=69959064&is=69943ee4&hm=d0820af298f517252d483d05b554528bfdf28c9a3df986e505bdbe764853f17e&"
+  },
+  {
+    "filename": "joshua-riley_2023-11-06_4-new-uad-native-ports.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1171199301305769994/Screenshot_2023-11-06_at_21.26.06.png?ex=69958619&is=69943499&hm=88ca10da7b687eb5ffa8562d2acc6b2871bedb55b6716e9cebdffeceb63f137a&"
+  },
+  {
+    "filename": "gaspardmurph_2023-11-08_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1171764469014220810/Screenshot_2023-11-08_at_11.51.52.png?ex=69959a33&is=699448b3&hm=b0b86d75d43b034c8b2af7dcccd54c11dbb2b3a15aefc0635ee8cf6ed167b711&"
+  },
+  {
+    "filename": "joshua-riley_2023-11-10_new-purafied-plugin-distressor.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1172648587516198972/IMG_3074.png?ex=699585da&is=6994345a&hm=b6175c421c9146c1e71a7a2893b5dcdc8992a02022dc642295d0c1a48c33f23e&"
+  },
+  {
+    "filename": "joshua-riley_2023-11-11_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1172851373499498587/IMG_3093.png?ex=699599f5&is=69944875&hm=2adcf77973aa2c7cec1fb92ed55b4d89d96234ed59a5a7b17e4519a0edaad142&"
+  },
+  {
+    "filename": "rollmottle_2023-11-13_from-a-text-conversation-noahneedleman-and.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1173744312350167150/IMG_6564.png?ex=69958dd3&is=69943c53&hm=0b34724be147c37293aca2d4688bed2eb1b2e9aeb5ec5dced7a5fa405e165cf6&"
+  },
+  {
+    "filename": "slow-hand_2023-12-07_lr-c.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1182423393530826802/88lr3c.jpg?ex=69957cd9&is=69942b59&hm=aaf04f29c8becf8c45c096b7719e57b96afb62aad0acdcdaf370c83a5b34da37&"
+  },
+  {
+    "filename": "slow-hand_2024-01-18_black-smoke-vocal-chain.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1197666707565711430/Black_Smoke_Vocal_Chain_2.png?ex=6995924a&is=699440ca&hm=fa1333b61c3b0f69cf26a2edaf2be5dfdb86b37d11da337fc002f5c087982d61&"
+  },
+  {
+    "filename": "slow-hand_2024-01-18_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1197669104245547148/Screenshot_2024-01-18_at_2.27.00_PM.png?ex=69959486&is=69944306&hm=5b062f13fe9ecc0322fb5233728311b4aa164a116d1ee6db2d9a3e5c266436be&"
+  },
+  {
+    "filename": "slow-hand_2024-01-18_at-pm-2.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1197677526730932244/Screenshot_2024-01-18_at_3.02.15_PM.png?ex=69959c5e&is=69944ade&hm=6b288b29d19bd9c2a8de2eef545b2c83f0bf0cb45ece5d1b1eab55c297adb873&"
+  },
+  {
+    "filename": "sethearnest_2024-01-23_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1199468957728514178/Screenshot_2024-01-23_at_15.40.53.png?ex=69958944&is=699437c4&hm=049fdf2e71d21fe4ff0f2e0ac43d347a11802fbc0f054da13d13ad54617a7070&"
+  },
+  {
+    "filename": "zack-hames_2024-02-07_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1204911892255219712/Screen_Shot_2024-02-07_at_4.08.47_PM.png?ex=69958fe5&is=69943e65&hm=34482dc5c1b37b675ca9cee684e988b6c8d29f0509e497ccac607d8db020111c&"
+  },
+  {
+    "filename": "rollmottle_2024-02-15_reaper-and-rx.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1207817026706608128/IMG_7345.jpg?ex=69959583&is=69944403&hm=b3dce7622dfa4c1b09e1fc29039ab8b5a97a23a0d5c0cf2285fc7f7b445868e1&"
+  },
+  {
+    "filename": "rollmottle_2024-02-15_reaper-and-rx-2.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1207817027302068264/IMG_7346.jpg?ex=69959583&is=69944403&hm=ccfdc1a9a8c6b848ae16c208ab597afa9d19d04a0b2f21d75a2833539faea2d2&"
+  },
+  {
+    "filename": "batmeckley_2024-03-18_one-day-ill-be-able-to.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1219414890612264970/IMG_7904.png?ex=699596dd&is=6994455d&hm=a566ba6da583154e04c2d803d61648587c1b1f3fea08088f2a43f99e1da800ff&"
+  },
+  {
+    "filename": "joshua-riley_2024-04-09_ua-console-got-a-facelift.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1227365092266475670/IMG_0313.png?ex=69958211&is=69943091&hm=2a71d1049567f51fa1e0855df20e0d3ac8cd2f228cdc5a0f61b9b305610c8356&"
+  },
+  {
+    "filename": "cian-riordan_2024-04-09_m-fw.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1227393648119779439/8m87fw.png?ex=69959ca9&is=69944b29&hm=6a0be18bc7179946bb394aeaf4250168a89e56a87f68746b861989cc60063341&"
+  },
+  {
+    "filename": "hyanrarvey_2024-05-16_putting-this-here-and-then-walking.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1240782953408102470/Image_5-16-24_at_15.21.jpg?ex=69958aec&is=6994396c&hm=e04a1c517c673ce5808fbea026b2ce3ca705b32a838b7096427a321aa2623c5f&"
+  },
+  {
+    "filename": "joshua-riley_2024-05-24_here-we-go.jpg",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1243502494206918666/IMG_1523.jpg?ex=69958c71&is=69943af1&hm=6f14e4b6431e887b3c39233527ee823e49a4f42a76d2db432c21590ac87d8f60&"
+  },
+  {
+    "filename": "rollmottle_2024-06-09_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1249473278914072576/image.png?ex=6995846b&is=699432eb&hm=fca4ed958293fef75d210403a4b729d004a977b2e9eab68559683f27ba4321f4&"
+  },
+  {
+    "filename": "joshua-riley_2024-12-12_uncategorized.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1316704248674783242/Screenshot_2024-12-12_at_09.51.46.png?ex=69958be4&is=69943a64&hm=cce7e2418b8e3d4288e208c417de77bc6670500edba525b15e716f5fab6545c1&"
+  },
+  {
+    "filename": "bryan-dimaio_2025-01-06_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1325928906716352613/Screenshot_2025-01-06_at_3.47.48_PM.png?ex=69957cc5&is=69942b45&hm=ccffa9372ad373535a19fa5c021e6934bd336fb8365eb95fff5aa4b94489c838&"
+  },
+  {
+    "filename": "eric-martin_2025-09-18_at-pm.png",
+    "error": "curl: (56) The requested URL returned error: 404",
+    "cdn_url": "https://cdn.discordapp.com/attachments/806967264396967966/1418353422239010956/Screenshot_2025-09-18_at_4.43.05_PM.png?ex=69958b4f&is=699439cf&hm=9e5e0b627e8b30021609fd8675acd338df3d293831bcc0d68f5cff61adbd4d72&"
+  }
+]

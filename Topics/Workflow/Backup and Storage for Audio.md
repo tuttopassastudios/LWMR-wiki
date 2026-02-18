@@ -64,6 +64,20 @@ Time Machine on macOS provides basic versioned backup but has limitations for la
 - [[Audio File Management]] — file organization and formats
 - [[Session Templates and Organization]] — project structure best practices
 
+## Community Screenshots
+
+![[cian-riordan_2021-11-01_cr-backup.jpg]]
+***cian riordan** — 2021-11-01 — Finally listened to the backup episode from a few weeks ago. And given Matt's recent debacles, I feel like this is a pretty great system for covering ...*
+
+![[will-melones_2022-10-04_at-pm.png]]
+***Will Melones** — 2022-10-04 — Yeah no need for System Prefs tricks anymore...you can just unassign it in PT's Keyboard Shortcuts!*
+
+![[ross-fortune_2023-01-28_realised-that-acustica-has-been-taking.png]]
+***Ross Fortune** — 2023-01-28 — Realised that Acustica has been taking up a spare +20GB on my HD. Little bin icon top right of Aquarius purges this unnecessary double storage of down...*
+
+![[will-melones_2024-01-23_at-pm.png]]
+***Will Melones** — 2024-01-23 — Interesting update to this Finder thing. I had noticed that the Archive Utility settings were defaulted to "compressed archive" format and figured tha...*
+
 ## Source Discussions
 
 > [!quote] Discord Source

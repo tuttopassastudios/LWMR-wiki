@@ -66,6 +66,46 @@ SSDs are considered mandatory for modern audio production. Members recommend NVM
 - [[Troubleshooting DAW Issues]] — hardware-related crash diagnosis
 - [[Backup and Storage for Audio]] — storage strategies and backup workflows
 
+## Community Screenshots
+
+![[antoniohannamusic_2021-07-01_its-optionshiftd-on-mac-then-you.png]]
+***antoniohannamusic** — 2021-07-01 — It's Option+Shift+D on Mac, then you can uncheck the boxes you don't want duplicated, it will remember the settings the next time you do it*
+
+![[mixedbywong-my_2021-12-29_at-pm.png]]
+***mixedbywong_my** — 2021-12-29 — https://tenor.com/view/so-happy-right-now-happy-ecstatic-excited-gif-4921257 TLDR , if you're having problems installing ozone 8 in Mac Os Monterey, c...*
+
+![[jeremy-klein_2022-08-10_also-will-add-if-you-are.png]]
+***Jeremy Klein** — 2022-08-10 — Also will add if you are getting random crashes, the little Mac error window that pops up can be helpful to pinpoint which plugin is causing the issue...*
+
+![[slow-hand_2022-11-30_at-am-4.png]]
+***Slow Hand** — 2022-11-30 — I'll do something similar with an *Instrument Rack* when it comes to pitched samples like 808's.
+
+I'll load a whole folder of 808s into individual cha...*
+
+![[jeremy-klein_2023-03-14_my-starting-template-for-production-looks.png]]
+***Jeremy Klein** — 2023-03-14 — My starting template for production looks like this, and i do in general slot things where they are supposed to go while building out a song so also n...*
+
+![[adam-thein_2023-03-27_guess-we-will-all-be-on.png]]
+***Adam Thein** — 2023-03-27 — Guess we will all be on the sub eventually if we want to use Waves plugins across MacOS updates?*
+
+![[billyc_2023-06-13_at-am.png]]
+***BillyC** — 2023-06-13 — Question for Mac OS/Pro Tools users: does anyone know how to stop Pro Tools from completely commandeering whatever you use for its playback engine? I ...*
+
+![[bryan-dimaio_2023-08-01_at-pm.png]]
+***Bryan DiMaio** — 2023-08-01 — Soooo hopefully by the end of the month we'll have most Plugin Alliance stuff on M1 Native AAX*
+
+![[jantrit_2023-08-29_any-one-have-any-experience-with.jpg]]
+***jantrit** — 2023-08-29 — Any one have any experience with glitchy GUI of the weiss collection? Happens with the eq, the deesser and I think one other for me. Makes them unusab...*
+
+![[bryan-dimaio_2023-12-14_at-pm.png]]
+***Bryan DiMaio** — 2023-12-14 — If you have a 4k display on macOS try this one simple trick lolz*
+
+![[cian-riordan_2024-02-05_at-pm.png]]
+***cian riordan** — 2024-02-05 — Anyone have problems with Native Instruments Access installing the Komplete package on an M2 mac? I keep getting this message but I've already granted...*
+
+![[joel-roomie-berghult_2024-12-12_the-little-search-bar-in-pro-q.png]]
+***Joel "Roomie" Berghult** — 2024-12-12 — the little search bar in Pro-Q 4 is really neatly thought out. If you tag your buses or categories with a specific symbol or prefix you can just put i...*
+
 ## Source Discussions
 
 > [!quote] Discord Source
