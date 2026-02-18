@@ -150,70 +150,70 @@ modified: 2026-02-18
 
 *65 photos shared in #recording-talk. Showing selected highlights.*
 
-![[zack-hames_2022-01-13_tom-di-setup.jpg]]
+![zack hames 2022 01 13 tom di setup](https://cdn.discordapp.com/attachments/916021850683879434/931319082836426842/4C4653D6-23E4-4165-8CA1-AABDA112DC4D.jpg)
 *Zack Hames (2022-01-13) — This was exactly how it was setup. The left crash still didn’t speak great, the toms are ultra wide but balanced.*
 
-![[shadowherb_2022-02-11_drum-piano-room.jpg]]
+![shadowherb 2022 02 11 drum piano room](https://cdn.discordapp.com/attachments/916021850683879434/941778739828772924/IMG_6235.jpg)
 *Shadowherb (2022-02-11) — wondering if anyone has tips/tricks for this - due to the limitations of my space, my upright piano is about 3 feet away from my drumkit, separated by*
 
-![[zack-hames_2022-02-27_drum-kick.jpg]]
+![zack hames 2022 02 27 drum kick](https://cdn.discordapp.com/attachments/916021850683879434/947668571000016957/IMG_2354.jpg)
 *Zack Hames (2022-02-27) — I picked up this comically large kick drum (28x10). Any tips tuning this insanity??*
 
-![[zack-hames_2022-03-29_drum.jpg]]
+![zack hames 2022 03 29 drum](https://cdn.discordapp.com/attachments/916021850683879434/958413991619731516/67026672205__7EA0EF26-246E-42EC-AF4C-2AA7B00DFB02.jpg)
 *Zack Hames (2022-03-29) — So at my spot, this is the only convenient spot I have to put my drums but the metal ceiling above it, seriously fucks up a lot of the sound. I can’t*
 
-![[calvin-lauber_2022-05-23_drum-tracking.jpg]]
+![calvin lauber 2022 05 23 drum tracking](https://cdn.discordapp.com/attachments/916021850683879434/978307386169258064/372F5209-896E-4EE3-8A22-F4CA4F20E896.jpg)
 *Calvin Lauber (2022-05-23) — Drum tracking from a few weeks ago. I’ve been on the road playing some shows, excited to get home and back into this spot 🤠*
 
-![[zack-hames_2022-06-14_drum-tom-session.jpg]]
+![zack hames 2022 06 14 drum tom session](https://cdn.discordapp.com/attachments/916021850683879434/986331958806208613/IMG_3379.jpg)
 *Zack Hames (2022-06-14) — I am borrowing these 351’s for a session tomorrow! I won’t have time to experiment so I wanted to ask what sources do you all think I’d get the most m*
 
-![[calvin-lauber_2022-09-11_drum-guitar.jpg]]
+![calvin lauber 2022 09 11 drum guitar](https://cdn.discordapp.com/attachments/916021850683879434/1018706603945513001/IMG_1727.jpg)
 *Calvin Lauber (2022-09-11) — Recording some drums and giant fuzzy guitars today*
 
-![[calvin-lauber_2022-09-11_drum-guitar-2.jpg]]
+![calvin lauber 2022 09 11 drum guitar 2](https://cdn.discordapp.com/attachments/916021850683879434/1018706604264259636/IMG_1728.jpg)
 *Calvin Lauber (2022-09-11) — Recording some drums and giant fuzzy guitars today*
 
-![[slow-hand_2022-09-17_drum-amp-studio.png]]
+![slow hand 2022 09 17 drum amp studio](https://cdn.discordapp.com/attachments/916021850683879434/1020784377770291300/Glyn_Johns.png)
 *Slow Hand (2022-09-17) — The funniest moment for me is when Glyn asks a question about putting dampers on Ringo's drums and John gives him shit for not having the studio ready*
 
-![[eric-martin_2022-10-01_drum.jpg]]
+![eric martin 2022 10 01 drum](https://cdn.discordapp.com/attachments/916021850683879434/1025815298126925824/IMG_1904.jpg)
 *Eric Martin (2022-10-01) — todays drum sound brought to me by Silvia Massey and a Yeti cooler*
 
-![[peterlabberton_2022-10-03_drum-guitar.jpg]]
+![peterlabberton 2022 10 03 drum guitar](https://cdn.discordapp.com/attachments/916021850683879434/1026608051916120164/IMG_5420.jpg)
 *peterlabberton (2022-10-03) — I wanted to record myself playing drums, and some guy at guitar center told my parents this mic is all I’d need. Got it for Christmas one year, and di*
 
-![[eric-martin_2022-10-17_overhead-di-setup.jpg]]
+![eric martin 2022 10 17 overhead di setup](https://cdn.discordapp.com/attachments/916021850683879434/1031716094714581062/796087A0-6334-42B4-999C-E842737E6C18.jpg)
 *Eric Martin (2022-10-17) — this one*
 
-![[thecoleyoung_2022-11-16_drum-snare-setup.jpg]]
+![thecoleyoung 2022 11 16 drum snare setup](https://cdn.discordapp.com/attachments/916021850683879434/1042546322781253643/IMG_6038.jpg)
 *thecoleyoung (2022-11-16) — Here’s my dumbass moment of the day: working with this 4 mic drum setup (57, d12, km184s) for a tight dry sound, which normally sounds great setup her*
 
-![[ross-fortune_2023-01-15_tom-guitar-room.jpg]]
+![ross fortune 2023 01 15 tom guitar room](https://cdn.discordapp.com/attachments/916021850683879434/1064249914168717322/IMG_2893.jpg)
 *Ross Fortune (2023-01-15) — Sunday eve, rejigging the room to fit in a kit at the back of the room (under the acoustic guitar).
 
 Total shitshow at the mo, but in a few hours I wi*
 
-![[ross-fortune_2023-01-15_tom-guitar-room-2.jpg]]
+![ross fortune 2023 01 15 tom guitar room 2](https://cdn.discordapp.com/attachments/916021850683879434/1064249914684604548/IMG_2895.jpg)
 *Ross Fortune (2023-01-15) — Sunday eve, rejigging the room to fit in a kit at the back of the room (under the acoustic guitar).
 
 Total shitshow at the mo, but in a few hours I wi*
 
-![[ross-fortune_2023-01-15_tom-guitar-room-3.jpg]]
+![ross fortune 2023 01 15 tom guitar room 3](https://cdn.discordapp.com/attachments/916021850683879434/1064249915166961754/IMG_2894.jpg)
 *Ross Fortune (2023-01-15) — Sunday eve, rejigging the room to fit in a kit at the back of the room (under the acoustic guitar).
 
 Total shitshow at the mo, but in a few hours I wi*
 
-![[cian-riordan_2023-01-18_drum.png]]
+![cian riordan 2023 01 18 drum](https://cdn.discordapp.com/attachments/916021850683879434/1065412438557724702/Screen_Shot_2023-01-18_at_3.27.03_PM.png)
 *cian riordan (2023-01-18) — Made a handy dandy note to guide you on future drum mic'ing endeavors:*
 
-![[cian-riordan_2023-01-23_drum-snare.jpg]]
+![cian riordan 2023 01 23 drum snare](https://cdn.discordapp.com/attachments/916021850683879434/1067184280041685073/IMG_20140211_165500_Copy.jpg)
 *cian riordan (2023-01-23) — This garage sale junker*
 
-![[peterlabberton_2023-02-01_overhead-di-setup.jpg]]
+![peterlabberton 2023 02 01 overhead di setup](https://cdn.discordapp.com/attachments/916021850683879434/1070569025131778058/IMG_5905.jpg)
 *peterlabberton (2023-02-01) — @cian riordan beat me, I just snapped this for this very purpose*
 
-![[david-fuller_2023-06-02_tom.jpg]]
+![david fuller 2023 06 02 tom](https://cdn.discordapp.com/attachments/916021850683879434/1114294606713077892/PXL_20230602_204725973.MP.jpg)
 *David Fuller (2023-06-02) — Also, reasons I prefer tight polar pattern condensers on toms*
 
 *See [[_image-index|Image Index]] for all 65 photos.*

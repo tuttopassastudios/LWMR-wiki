@@ -102,66 +102,66 @@ The [[Shure SM57]] remains the default close mic on guitar cabinets, but the com
 
 *25 photos shared in #recording-talk. Showing selected highlights.*
 
-![[deleted-user_2022-03-05_vocal-amp.jpg]]
+![deleted user 2022 03 05 vocal amp](https://cdn.discordapp.com/attachments/916021850683879434/949793004766515240/IMG_6245.jpg)
 *Deleted User (2022-03-05) — Thought you dorks might appreciate this vocal reverb chain. Reamp through the pedals and the Spamp recorded back in with the Peluso 47. 🤙🏽*
 
-![[cian-riordan_2022-05-13_di.png]]
+![cian riordan 2022 05 13 di](https://cdn.discordapp.com/attachments/916021850683879434/974726650967228508/unknown.png)
 *cian riordan (2022-05-13) — I'm very picky about my audiophile cables:*
 
-![[hyanrarvey_2022-10-17_amp-session.jpg]]
+![hyanrarvey 2022 10 17 amp session](https://cdn.discordapp.com/attachments/916021850683879434/1031598256179908648/7E2595B3-BEBB-466D-B18B-7E347889EAE1.jpg)
 *hyanrarvey (2022-10-17) — Last reamping session 🔥*
 
-![[ross-fortune_2023-04-11_guitar-bass-session.png]]
+![ross fortune 2023 04 11 guitar bass session](https://cdn.discordapp.com/attachments/916021850683879434/1095274891051286528/Screenshot_2023-04-11_at_10.09.04.png)
 *Ross Fortune (2023-04-11) — Here with my own noise issue for the guitar heads. @GaspardMurph posted this troubleshooting guide a while back, and I've eliminated some of the poten*
 
-![[stefanmacc_2023-04-20_di-studio.jpg]]
+![stefanmacc 2023 04 20 di studio](https://cdn.discordapp.com/attachments/916021850683879434/1098811043674865704/image0.jpg)
 *stefanmacc (2023-04-20) — These are my main panels I’m wiring up for the Main live room and my control room… pulled from my old studio. Still have 200 ft of 24 ch cable for the*
 
-![[iwan-morgan_2023-05-09_bass-amp-studio.jpg]]
+![iwan morgan 2023 05 09 bass amp studio](https://cdn.discordapp.com/attachments/916021850683879434/1105554053636829244/94D556D0-9B6C-4F4E-9040-4D274A128009.jpg)
 *Iwan Morgan (2023-05-09) — I’ve been recording in this place over the last few days. One of the best experiences i’ve had in the studio. It’s an interesting space designed by th*
 
-![[iwan-morgan_2023-05-09_bass-amp-studio-2.jpg]]
+![iwan morgan 2023 05 09 bass amp studio 2](https://cdn.discordapp.com/attachments/916021850683879434/1105554054026903572/IMG_4420.jpg)
 *Iwan Morgan (2023-05-09) — I’ve been recording in this place over the last few days. One of the best experiences i’ve had in the studio. It’s an interesting space designed by th*
 
-![[batmeckley_2023-07-11_amp.png]]
+![batmeckley 2023 07 11 amp](https://cdn.discordapp.com/attachments/916021850683879434/1128356562897993912/IMG_6098.png)
 *BatMeckley (2023-07-11) — Jon Foreman into a green bullet into little marshall amp into u87.*
 
-![[ross-fortune_2023-08-22_di-placement.jpg]]
+![ross fortune 2023 08 22 di placement](https://cdn.discordapp.com/attachments/916021850683879434/1143605447186714714/IMG_6168.jpg)
 *Ross Fortune (2023-08-22) — Thanks! You can just about see it here, under the white tape. It’s a C-Ducer, looks like a watch strap.
 
 Also that’s a Flea47 with a shower cap becaus*
 
-![[eric-martin_2023-09-25_amp-di-studio.jpg]]
+![eric martin 2023 09 25 amp di studio](https://cdn.discordapp.com/attachments/916021850683879434/1155871552835960893/IMG_5169.jpg)
 *Eric Martin (2023-09-25) — I spent around 16 hours at Pachyderm Studios in Cannon Falls this Saturday helping my friends execute two tribute shows to In Utero at the studio it w*
 
-![[adam-thein_2023-11-28_amp-di-tracking.png]]
+![adam thein 2023 11 28 amp di tracking](https://cdn.discordapp.com/attachments/916021850683879434/1179067642594742383/Screen_Shot_2023-11-28_at_8.32.36_AM.png)
 *Adam Thein (2023-11-28) — Hey!  Just recently moved to a UFX III over here and admittedly latency wasn't quite the jump ahead I expected from my MOTU Ultralite Mk5, but I would*
 
-![[adam-thein_2023-11-28_amp-di-tracking-2.png]]
+![adam thein 2023 11 28 amp di tracking 2](https://cdn.discordapp.com/attachments/916021850683879434/1179067642909298688/Screen_Shot_2023-11-28_at_8.31.58_AM.png)
 *Adam Thein (2023-11-28) — Hey!  Just recently moved to a UFX III over here and admittedly latency wasn't quite the jump ahead I expected from my MOTU Ultralite Mk5, but I would*
 
-![[cian-riordan_2024-01-02_guitar-amp-session.png]]
+![cian riordan 2024 01 02 guitar amp session](https://cdn.discordapp.com/attachments/916021850683879434/1191921929733558292/ABLVV84_YezRx3KsEtlwkCwS3IMFvapOkxYOtfik_nLn4slxMcEPjRVtkIDA-soDk2mWS7VCBK0i4Z2LBXaXrbDrt9ecLF2BSUJmzhbJsVfEWuwh9VM82RdHsrKyBEmxcot0sFgpEJwwaaCRl_R3ZlcQAYx_0i2J0ggBWUcbTM8uocKi-mURsP6ObYTUL8FJuQhJ5x5uxRUvxMCyovV3Etlho1lr12BHei62k-_-xFf_7PkIxAZc4oVSRM-aXeTzllejMewoaXtckZnb2xdWMtan-75LBTC5pikOZ-h4FUMqagTWahKk9b4L2BXMwYFPKSth7yQFYgxC10YHGxYm1TAMbU5cUBWDhNk12N6nQBkfXOTBNCXaUksEriGFnKwnOxRT4I926BgZ1pNUyrL6i6J-qY3sxT0iJGFI9rZWxQl9yHxYgwUbTSrst9xxXr5xgWf7slk3OzaE8Df1ngyqHIqnSV12HEKtTouvH1P711nbyrj5iKgAUJMUP-U6..png)
 *cian riordan (2024-01-02) — Fun story: for the second album which I worked on, Slash wanted to record without headphones so we built out an iso booth in our giant live room just*
 
-![[david-fuller_2024-01-02_cab.jpg]]
+![david fuller 2024 01 02 cab](https://cdn.discordapp.com/attachments/916021850683879434/1191937192822575275/T3903-Vintage-30-copy.jpg)
 *David Fuller (2024-01-02) — This is the response curve of a Vintage 30 (in an open test baffle, the response will change especially in the low end when actually in a cabinet)...*
 
-![[ross-fortune_2024-01-24_amp.jpg]]
+![ross fortune 2024 01 24 amp](https://cdn.discordapp.com/attachments/916021850683879434/1199813319347941437/IMG_8712.jpg)
 *Ross Fortune (2024-01-24) — Not sure how heavy an iPad is, but as long as this is clamped on to something decently thick, it’s pretty sturdy. Cheap enough on Amazon I think*
 
-![[louisvie_2024-05-05_amp-di.png]]
+![louisvie 2024 05 05 amp di](https://cdn.discordapp.com/attachments/916021850683879434/1236773081943511110/image.png)
 *louisvie (2024-05-05) — can that 5 samples difference between the OH be considered a flex ?*
 
-![[chrissorem_2024-06-28_amp-di.png]]
+![chrissorem 2024 06 28 amp di](https://cdn.discordapp.com/attachments/916021850683879434/1256325093492260884/IMG_6586.png)
 *chrissorem (2024-06-28) — Sorry to break it to y’all but indie amps look like this*
 
-![[james-redfern_2024-06-29_di.png]]
+![james redfern 2024 06 29 di](https://cdn.discordapp.com/attachments/916021850683879434/1256724704597901352/IMG_3442.png)
 *James Redfern (2024-06-29) — Got a pair of Marshall branded G12-65 from the original run of JCM800 cabs and they’re 🤌🏻*
 
-![[brian-reynolds_2024-11-13_guitar-amp-session.jpg]]
+![brian reynolds 2024 11 13 guitar amp session](https://cdn.discordapp.com/attachments/916021850683879434/1306221931586125895/image0.jpg)
 *Brian Reynolds (2024-11-13) — NEED ME*
 
-![[jordana_2024-12-03_amp.jpg]]
+![jordana 2024 12 03 amp](https://cdn.discordapp.com/attachments/916021850683879434/1313653406543515688/IMG_2030.jpg)
 *jordana (2024-12-03) — It just has one I think*
 
 *See [[_image-index|Image Index]] for all 25 photos.*
