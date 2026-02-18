@@ -54,13 +54,13 @@ Commonly referenced settings from experienced engineers:
 
 ## Comparable Alternatives
 
-| Unit | How It Compares |
-|------|----------------|
-| Undertone Audio UnFairchild | The most respected modern Fairchild-inspired unit. cian riordan owns V1 SN from the original 10-unit run. peterlabberton: "The only Fairchild-ish thing I'd ever consider... actually flexible." Still considered overpriced for utility by some. |
-| Heritage Audio Grandchild 670 | A 500-series Fairchild at ~$2,000. Bryan DiMaio and the community were amused but skeptical. Rollmottle diagnosed the market as suffering from "Fairchild Fatigue." |
-| Telefunken/Fairchild 660 Reissue | David Fuller shared that the guy behind Telefunken US is relaunching Fairchild. Community reaction was muted -- "Whatever mystique they had is nowhere to be found when there are already more than half a dozen reissues." |
-| [[UREI 1176]] | Geoff Emerick told BatMeckley he would reach for an 1176 and be just as happy. Serves a different compression purpose but fulfills the same role in many contexts. |
-| Plugin emulations | Acustica Ultramarine and various UAD/Waves options exist. CK uses Acustica Ultramarine as a reference point. |
+| Unit                             | How It Compares                                                                                                                                                                                                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Undertone Audio UnFairchild      | The most respected modern Fairchild-inspired unit. cian riordan owns V1 SN from the original 10-unit run. peterlabberton: "The only Fairchild-ish thing I'd ever consider... actually flexible." Still considered overpriced for utility by some. |
+| Heritage Audio Grandchild 670    | A 500-series Fairchild at ~$2,000. Bryan DiMaio and the community were amused but skeptical. Rollmottle diagnosed the market as suffering from "Fairchild Fatigue."                                                                               |
+| Telefunken/Fairchild 660 Reissue | David Fuller shared that the guy behind Telefunken US is relaunching Fairchild. Community reaction was muted -- "Whatever mystique they had is nowhere to be found when there are already more than half a dozen reissues."                       |
+| [[UREI 1176]]                    | Geoff Emerick told BatMeckley he would reach for an 1176 and be just as happy. Serves a different compression purpose but fulfills the same role in many contexts.                                                                                |
+| Plugin emulations                | Acustica Ultramarine and various UAD/Waves options exist. CK uses Acustica Ultramarine as a reference point.                                                                                                                                      |
 
 ## Common Mistakes
 

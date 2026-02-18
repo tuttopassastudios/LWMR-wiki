@@ -6,6 +6,13 @@
 .obsidian/plugins/*/styles.css
 .trash/
 
+# Large binary assets (images from Discord)
+Assets/recording-talk/**/*.jpg
+Assets/recording-talk/**/*.jpeg
+Assets/recording-talk/**/*.png
+Assets/recording-talk/**/*.webp
+Assets/recording-talk/**/*.heic
+
 # OS files
 .DS_Store
 Thumbs.db

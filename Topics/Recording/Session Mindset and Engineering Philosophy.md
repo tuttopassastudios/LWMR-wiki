@@ -117,6 +117,91 @@ BatMeckley additions:
 - **Being so worried about mistakes** that you forget to be creative and bold
 - **Patronizing the client** rather than educating them
 
+## Gallery
+
+*246 photos shared in #recording-talk. Showing selected highlights.*
+
+![[zack-hames_2021-12-04_setup.jpg]]
+*Zack Hames (2021-12-04) — This was almost the exact setup.*
+
+![[zack-hames_2021-12-04_setup-2.jpg]]
+*Zack Hames (2021-12-04) — This was almost the exact setup.*
+
+![[david-fuller_2022-01-07_setup.jpg]]
+*David Fuller (2022-01-07) — Excuse my chicken scratch handwriting... This is my setup sheet for this afternoon. Gonna be fun.*
+
+![[jantrit_2022-01-14_di.jpg]]
+*jantrit (2022-01-14) — Recording some bloody music innit!*
+
+![[deleted-user_2022-02-27_vocal-di.jpg]]
+*Deleted User (2022-02-27) — Finished this vocal comp and immediately thought who the f*ck would want to watch a video of someone doing that then immediately thought probably me 🙃*
+
+![[absflores_2022-03-23_vocal-tracking.jpg]]
+*absflores (2022-03-23) — This is the Bieber settings Gudwin uses to track his vocals.*
+
+![[ross-fortune_2022-12-01_di-console.png]]
+*Ross Fortune (2022-12-01) — You can save on plugin instances by having a RECORD track with whatever plugs on it, then grabbing these clips as you record them and dropping them in*
+
+![[ross-fortune_2022-12-19_di-setup.jpg]]
+*Ross Fortune (2022-12-19) — Posted this here before somewhere but I made this at the start of lockdown.
+
+Wouldn’t necessarily advise sitting in a bay window for sonics, but that’*
+
+![[zack-hames_2023-02-14_setup.jpg]]
+*Zack Hames (2023-02-14) — Main setups*
+
+![[zack-hames_2023-02-14_setup-2.jpg]]
+*Zack Hames (2023-02-14) — Main setups*
+
+![[zack-hames_2023-02-14_setup-3.jpg]]
+*Zack Hames (2023-02-14) — Main setups*
+
+![[esquinalee_2023-04-11_di.png]]
+*esquinalee (2023-04-11) — …the only exercise I did today was try to get these conga parts grooving in the pocket and sitting in the mix. Don’t worry I didn’t sweat on the R92*
+
+![[chrissorem_2023-05-10_setup.jpg]]
+*chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
+
+![[chrissorem_2023-05-10_setup-2.jpg]]
+*chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
+
+![[chrissorem_2023-05-10_setup-3.jpg]]
+*chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
+
+![[chrissorem_2023-05-10_setup-4.jpg]]
+*chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
+
+![[chrissorem_2023-05-10_setup-5.jpg]]
+*chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
+
+![[chrissorem_2023-07-13_console.png]]
+*chrissorem (2023-07-13) — I think you forgot one thing*
+
+![[matthew-the-cooke_2023-09-24_setup.jpg]]
+*Matthew The Cooke🎄🎅🏻 (2023-09-24) — Tried kind of a triangular OH setup today worked quite nice tbh*
+
+![[eric-martin_2023-09-25_di-studio.jpg]]
+*Eric Martin (2023-09-25) — morning sun in the studio at 7:30 am*
+
+*See [[_image-index|Image Index]] for all 246 photos.*
+
+## External Resources
+
+### Videos
+
+- [Brett Young - Here Tonight (The Acoustic Sessions) ft. Charles Kelley](https://www.youtube.com/watch?v=ZrN09Zrkm_g) — shared by NoahNeedleman (2022-04-17)
+
+### Audio Samples & Shootouts
+
+- [https://www.dropbox.com/scl/fi/434r89i1ka4ggqg700k5h/y.wav?rlkey=e3pfmyxf1piglx9dh07wbe9de&dl=0](https://www.dropbox.com/scl/fi/434r89i1ka4ggqg700k5h/y.wav?rlkey=e3pfmyxf1piglx9dh07wbe9de&dl=0) — shared by hyanrarvey (2024-02-26)
+
+### Other Links
+
+- [https://www.reddit.com/r/audioengineering/comments/kbe9e3/morley_hum_exterminator/](https://www.reddit.com/r/audioengineering/comments/kbe9e3/morley_hum_exterminator/) — shared by shaunobi (2024-01-05)
+- [https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/?rdt=59536](https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/?rdt=59536) — shared by cleanplatesound (2025-01-19)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Vocal Chain]]
 - [[Recording and Tracking Workflows]]

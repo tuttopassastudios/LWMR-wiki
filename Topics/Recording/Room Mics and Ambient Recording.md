@@ -111,6 +111,32 @@ The community distinguishes between:
 - **Treating tracking room acoustics** the same as mixing room acoustics
 - **Ignoring the room mic contribution** when checking phase on close mics
 
+## Gallery
+
+*4 photos shared in #recording-talk. Showing selected highlights.*
+
+![[bennythetweet_2023-02-01_room.jpg]]
+*bennythetweet (2023-02-01) — Anyone else out there helping musical theater performers with “self-tapes”? Thinking a Senn 416 might be 1mX better than this. The room sounds like tr*
+
+![[soundslikejoe_2025-12-28_room.png]]
+*SoundsLikeJoe (2025-12-28) — I added a permanent room mic to the ceiling.  It's a mono omni in center and about 2" from the tiles. Has a great crunchy bleed sound. Not hi-fi but f*
+
+![[sei046_2026-01-04_room.jpg]]
+*Sei046 (2026-01-04) — Cheers! It can be a bit like being in a pool table at times. That’s actually a better pic of the live room and the other one is the control room befor*
+
+![[sei046_2026-01-04_room-2.jpg]]
+*Sei046 (2026-01-04) — Cheers! It can be a bit like being in a pool table at times. That’s actually a better pic of the live room and the other one is the control room befor*
+
+## External Resources
+
+### Gear Listings
+
+- [https://reverb.com/item/57208750-akg-c414-xls-condenser-microphone](https://reverb.com/item/57208750-akg-c414-xls-condenser-microphone) — shared by ehutton21 (2022-07-02)
+- [https://reverb.com/item/14038499-akg-c12-vintage-windscreens-3](https://reverb.com/item/14038499-akg-c12-vintage-windscreens-3) — shared by cian riordan (2024-01-19)
+- [https://reverb.com/item/3488439-crown-glm-100-lavalier-condenser-microphone](https://reverb.com/item/3488439-crown-glm-100-lavalier-condenser-microphone) — shared by Edward Rivera (2024-06-11)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Drum Recording Techniques]]
 - [[Stereo Miking Techniques]]

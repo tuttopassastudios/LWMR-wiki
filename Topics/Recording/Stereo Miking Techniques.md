@@ -119,6 +119,40 @@ A cardioid (mid) and figure-8 (side) at the same point, decoded for adjustable w
 - **Over-relying on width** at the expense of mono compatibility
 - **Placing spot mics too close** to string sections, creating harshness
 
+## Gallery
+
+*3 photos shared in #recording-talk. Showing selected highlights.*
+
+![[calvin-lauber_2024-07-30_horn-di.webp]]
+*Calvin Lauber (2024-07-30) — They way I learned at ardent/royal in Memphis is to choose a corner of the Leslie and mic it so you’re forming a 90 degree angle, makes for a pretty c*
+
+![[tim-adamson_2025-02-25_session.jpg]]
+*tim adamson 🇦🇺 (2025-02-25) — @Jonathan Arnold while you're asking about stereo bars,  you're able to put together quite a useful stand by attaching a mic arm with those old school*
+
+![[tim-adamson_2025-02-25_session.png]]
+*tim adamson 🇦🇺 (2025-02-25) — @Jonathan Arnold while you're asking about stereo bars,  you're able to put together quite a useful stand by attaching a mic arm with those old school*
+
+## External Resources
+
+### Videos
+
+- [https://youtu.be/OZOVZQgXl9k](https://youtu.be/OZOVZQgXl9k) — shared by tomtom (2023-06-23)
+- [https://www.youtube.com/watch?v=prLQhRYh_Ls&t=67s](https://www.youtube.com/watch?v=prLQhRYh_Ls&t=67s) — shared by LAPhill (2024-08-13)
+- [https://youtu.be/prLQhRYh_Ls?si=3jNC-Wa-H0k6261N&t=25](https://youtu.be/prLQhRYh_Ls?si=3jNC-Wa-H0k6261N&t=25) — shared by LAPhill (2024-08-13)
+- [https://youtu.be/prLQhRYh_Ls?si=lg7W4Cb5eXY2r56r&t=25](https://youtu.be/prLQhRYh_Ls?si=lg7W4Cb5eXY2r56r&t=25) — shared by LAPhill (2024-08-13)
+- [Thanxgiving Medley (Higher/My Sacrifice/Don't Stop Dancing](https://www.youtube.com/watch?v=prLQhRYh_Ls) — shared by LAPhill (2024-08-13)
+
+### Gear Listings
+
+- [https://www.guitarcenter.com/RODE/NT4-Stereo-X-Y-Condenser-Microphone-1274115056248.gc?algoliaQueryID=0539d5a1c31dae49ae9ed13940aa1cfb&algoliaIndexName=guitarcenter](https://www.guitarcenter.com/RODE/NT4-Stereo-X-Y-Condenser-Microphone-1274115056248.gc?algoliaQueryID=0539d5a1c31dae49ae9ed13940aa1cfb&algoliaIndexName=guitarcenter) — shared by BoozleBAM (2025-12-28)
+
+### Other Links
+
+- [https://www.allen-heath.com/hardware/me-series/me-500/](https://www.allen-heath.com/hardware/me-series/me-500/) — shared by Ross Fortune (2023-12-15)
+- [https://latchlakemusic.com/accessories/xtra-boom-2/](https://latchlakemusic.com/accessories/xtra-boom-2/) — shared by Eric Martin (2025-02-25)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Drum Recording Techniques]]
 - [[Piano and Keys Recording]]

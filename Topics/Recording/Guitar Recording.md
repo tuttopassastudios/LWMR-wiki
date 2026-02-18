@@ -98,6 +98,134 @@ The [[Shure SM57]] remains the default close mic on guitar cabinets, but the com
 - **Heavy EQ on acoustic guitar at tracking** -- Key changes make baked-in EQ problematic
 - **Not capturing a DI** for editing reference on electric guitar
 
+## Gallery
+
+*25 photos shared in #recording-talk. Showing selected highlights.*
+
+![[deleted-user_2022-03-05_vocal-amp.jpg]]
+*Deleted User (2022-03-05) — Thought you dorks might appreciate this vocal reverb chain. Reamp through the pedals and the Spamp recorded back in with the Peluso 47. 🤙🏽*
+
+![[cian-riordan_2022-05-13_di.png]]
+*cian riordan (2022-05-13) — I'm very picky about my audiophile cables:*
+
+![[hyanrarvey_2022-10-17_amp-session.jpg]]
+*hyanrarvey (2022-10-17) — Last reamping session 🔥*
+
+![[ross-fortune_2023-04-11_guitar-bass-session.png]]
+*Ross Fortune (2023-04-11) — Here with my own noise issue for the guitar heads. @GaspardMurph posted this troubleshooting guide a while back, and I've eliminated some of the poten*
+
+![[stefanmacc_2023-04-20_di-studio.jpg]]
+*stefanmacc (2023-04-20) — These are my main panels I’m wiring up for the Main live room and my control room… pulled from my old studio. Still have 200 ft of 24 ch cable for the*
+
+![[iwan-morgan_2023-05-09_bass-amp-studio.jpg]]
+*Iwan Morgan (2023-05-09) — I’ve been recording in this place over the last few days. One of the best experiences i’ve had in the studio. It’s an interesting space designed by th*
+
+![[iwan-morgan_2023-05-09_bass-amp-studio-2.jpg]]
+*Iwan Morgan (2023-05-09) — I’ve been recording in this place over the last few days. One of the best experiences i’ve had in the studio. It’s an interesting space designed by th*
+
+![[batmeckley_2023-07-11_amp.png]]
+*BatMeckley (2023-07-11) — Jon Foreman into a green bullet into little marshall amp into u87.*
+
+![[ross-fortune_2023-08-22_di-placement.jpg]]
+*Ross Fortune (2023-08-22) — Thanks! You can just about see it here, under the white tape. It’s a C-Ducer, looks like a watch strap.
+
+Also that’s a Flea47 with a shower cap becaus*
+
+![[eric-martin_2023-09-25_amp-di-studio.jpg]]
+*Eric Martin (2023-09-25) — I spent around 16 hours at Pachyderm Studios in Cannon Falls this Saturday helping my friends execute two tribute shows to In Utero at the studio it w*
+
+![[adam-thein_2023-11-28_amp-di-tracking.png]]
+*Adam Thein (2023-11-28) — Hey!  Just recently moved to a UFX III over here and admittedly latency wasn't quite the jump ahead I expected from my MOTU Ultralite Mk5, but I would*
+
+![[adam-thein_2023-11-28_amp-di-tracking-2.png]]
+*Adam Thein (2023-11-28) — Hey!  Just recently moved to a UFX III over here and admittedly latency wasn't quite the jump ahead I expected from my MOTU Ultralite Mk5, but I would*
+
+![[cian-riordan_2024-01-02_guitar-amp-session.png]]
+*cian riordan (2024-01-02) — Fun story: for the second album which I worked on, Slash wanted to record without headphones so we built out an iso booth in our giant live room just*
+
+![[david-fuller_2024-01-02_cab.jpg]]
+*David Fuller (2024-01-02) — This is the response curve of a Vintage 30 (in an open test baffle, the response will change especially in the low end when actually in a cabinet)...*
+
+![[ross-fortune_2024-01-24_amp.jpg]]
+*Ross Fortune (2024-01-24) — Not sure how heavy an iPad is, but as long as this is clamped on to something decently thick, it’s pretty sturdy. Cheap enough on Amazon I think*
+
+![[louisvie_2024-05-05_amp-di.png]]
+*louisvie (2024-05-05) — can that 5 samples difference between the OH be considered a flex ?*
+
+![[chrissorem_2024-06-28_amp-di.png]]
+*chrissorem (2024-06-28) — Sorry to break it to y’all but indie amps look like this*
+
+![[james-redfern_2024-06-29_di.png]]
+*James Redfern (2024-06-29) — Got a pair of Marshall branded G12-65 from the original run of JCM800 cabs and they’re 🤌🏻*
+
+![[brian-reynolds_2024-11-13_guitar-amp-session.jpg]]
+*Brian Reynolds (2024-11-13) — NEED ME*
+
+![[jordana_2024-12-03_amp.jpg]]
+*jordana (2024-12-03) — It just has one I think*
+
+*See [[_image-index|Image Index]] for all 25 photos.*
+
+## External Resources
+
+### Videos
+
+- [Samplerates: the higher the better, right?](https://www.youtube.com/watch?v=-jCwIsT0X8M) — shared by Zack Hames (2022-02-09)
+- [https://www.youtube.com/watch?v=I0HMIABTKW8](https://www.youtube.com/watch?v=I0HMIABTKW8) — shared by Adam Thein (2022-06-30)
+- [https://youtu.be/sb4MQUuq9pE?si=Tbv_DPTpV15ff4EH&t=61](https://youtu.be/sb4MQUuq9pE?si=Tbv_DPTpV15ff4EH&t=61) — shared by youngteam (2023-09-16)
+- [Shure SM57 Placement Comparison - Guitar Amp Recording](https://www.youtube.com/watch?v=sb4MQUuq9pE&start=61) — shared by youngteam (2023-09-16)
+- [https://youtu.be/oDIf7pOrmKo?si=b68oJOWa38c2tJiU](https://youtu.be/oDIf7pOrmKo?si=b68oJOWa38c2tJiU) — shared by 1ggy (2023-12-11)
+- [The Backseat Lovers - Snowbank Blues | Live Session](https://www.youtube.com/watch?v=oDIf7pOrmKo) — shared by 1ggy (2023-12-11)
+- [https://www.youtube.com/watch?v=AkqJf34J-DI&t=42s](https://www.youtube.com/watch?v=AkqJf34J-DI&t=42s) — shared by Slow Hand (2023-12-30)
+- [Inglourious Basterds (2009) - Hugo Sticlitz](https://www.youtube.com/watch?v=AkqJf34J-DI&start=42) — shared by Slow Hand (2023-12-30)
+- [https://youtu.be/wxxepqIwpB0?si=Z6qiKC5Rz4uOAFNj](https://youtu.be/wxxepqIwpB0?si=Z6qiKC5Rz4uOAFNj) — shared by esquinalee (2024-01-14)
+- [https://youtu.be/lrpUXyZXAQc?si=UbMSWrN5BToGnPpi](https://youtu.be/lrpUXyZXAQc?si=UbMSWrN5BToGnPpi) — shared by SoundsLikeJoe (2024-04-09)
+- [“I don’t recommend what we did for most companies” | Unconfuse Me w...](https://www.youtube.com/watch?v=lrpUXyZXAQc) — shared by SoundsLikeJoe (2024-04-09)
+- [Jens Bogren Acoustic Guitar Trick](https://www.youtube.com/watch?v=O5_RgFh_ysM) — shared by hyanrarvey (2024-08-03)
+- [https://www.youtube.com/watch?v=uLokV0By_cM](https://www.youtube.com/watch?v=uLokV0By_cM) — shared by Kodiak Studio (Marius) (2025-03-17)
+
+### Audio Samples & Shootouts
+
+- [https://www.dropbox.com/sh/gemoxlmunlits8s/AAAQ7ZkmBXlmHZF9OaOpdutta?dl=0](https://www.dropbox.com/sh/gemoxlmunlits8s/AAAQ7ZkmBXlmHZF9OaOpdutta?dl=0) — shared by Zack Hames (2022-01-10)
+- [https://dl.dropbox.com/s/icrhl5q7nmy3isu/FIRST%20REAMP%20RAW.wav?dl=0](https://dl.dropbox.com/s/icrhl5q7nmy3isu/FIRST%20REAMP%20RAW.wav?dl=0) — shared by hyanrarvey (2022-03-29)
+
+### Gear Listings
+
+- [https://reverb.com/item/36371362-mint-manley-labs-micmaid-4x4-microphone-and-preamp-matrix?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=36371362](https://reverb.com/item/36371362-mint-manley-labs-micmaid-4x4-microphone-and-preamp-matrix?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=36371362) — shared by Eric Martin (2021-12-06)
+- [https://reverb.com/item/53916270-neumann-u87-ai-vintage-80s-microphone-matte-black-nice?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=53916270](https://reverb.com/item/53916270-neumann-u87-ai-vintage-80s-microphone-matte-black-nice?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=53916270) — shared by alexstein (2022-10-10)
+- [https://reverb.com/item/59675885-akg-the-tube-variable-pattern-large-diaphragm-tube-condenser-microphone?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=59675885](https://reverb.com/item/59675885-akg-the-tube-variable-pattern-large-diaphragm-tube-condenser-microphone?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=59675885) — shared by alexstein (2022-10-10)
+- [https://reverb.com/item/71885617-vintage-1930-s-chromed-astatic-d104-microphone-working-w-handle?utm_source=google&utm_medium=cpc&utm_campaign=17684276397&utm_content=campaignid=17684276397_adgroupid=135883966222_productpartitionid=1944951334295=merchantid=381080699_productid=71885617_keyword=_device=m_adposition=_matchtype=_creative=609056678809&gbraid=0AAAAADRxZYX8-wd7XGgXG-PHtMMWP5vbJ&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtlk2V5mG5P4QQcpal8ClfgyWJhqOfPAYuiQxXJNpmla5tcRU31XMgRoC57AQAvD_BwE](https://reverb.com/item/71885617-vintage-1930-s-chromed-astatic-d104-microphone-working-w-handle?utm_source=google&utm_medium=cpc&utm_campaign=17684276397&utm_content=campaignid=17684276397_adgroupid=135883966222_productpartitionid=1944951334295=merchantid=381080699_productid=71885617_keyword=_device=m_adposition=_matchtype=_creative=609056678809&gbraid=0AAAAADRxZYX8-wd7XGgXG-PHtMMWP5vbJ&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtlk2V5mG5P4QQcpal8ClfgyWJhqOfPAYuiQxXJNpmla5tcRU31XMgRoC57AQAvD_BwE) — shared by jantrit (2023-09-14)
+- [https://reverb.com/p/furman-hds-6-headphone-distribution-system?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=csp&utm_content=137154](https://reverb.com/p/furman-hds-6-headphone-distribution-system?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=csp&utm_content=137154) — shared by peterlabberton (2024-02-06)
+- [https://reverb.com/item/87673551-shure-sm57-cardioid-dynamic-microphone-1984-present-black?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=87673551](https://reverb.com/item/87673551-shure-sm57-cardioid-dynamic-microphone-1984-present-black?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=listing&utm_content=87673551) — shared by chrissorem (2025-03-17)
+- [https://www.sweetwater.com/store/detail/XLR20-5pk--pro-co-exm-20-excellines-microphone-cable-20-foot-5-pack](https://www.sweetwater.com/store/detail/XLR20-5pk--pro-co-exm-20-excellines-microphone-cable-20-foot-5-pack) — shared by Zack Hames (2022-07-03)
+- [https://www.sweetwater.com/store/detail/SGI--radial-sgi-studio-guitar-interface?mrkgadid=&mrkgcl=28&mrkgen=&mrkgbflag=&mrkgcat=&acctid=21700000001645388&dskeywordid=92700080599738788&lid=92700080599738788&ds_s_kwgid=58700008756025329&ds_s_inventory_feed_id=97700000007215323&dsproductgroupid=2337411180399&product_id=SGI&prodctry=US&prodlang=en&channel=online&storeid=&device=m&network=g&matchtype=&adpos=largenumber&locationid=9032926&creative=709914980343&targetid=pla-2337411180399&campaignid=21587258354&awsearchcpc=1&gclsrc=aw.ds&gad_source=1&gbraid=0AAAAAD_RQYlr-T_YImS-mQMaCD5ipZroM&gclid=EAIaIQobChMI0YH-rYfdigMV7xOtBh2F3TVIEAQYCCABEgLuNfD_BwE](https://www.sweetwater.com/store/detail/SGI--radial-sgi-studio-guitar-interface?mrkgadid=&mrkgcl=28&mrkgen=&mrkgbflag=&mrkgcat=&acctid=21700000001645388&dskeywordid=92700080599738788&lid=92700080599738788&ds_s_kwgid=58700008756025329&ds_s_inventory_feed_id=97700000007215323&dsproductgroupid=2337411180399&product_id=SGI&prodctry=US&prodlang=en&channel=online&storeid=&device=m&network=g&matchtype=&adpos=largenumber&locationid=9032926&creative=709914980343&targetid=pla-2337411180399&campaignid=21587258354&awsearchcpc=1&gclsrc=aw.ds&gad_source=1&gbraid=0AAAAAD_RQYlr-T_YImS-mQMaCD5ipZroM&gclid=EAIaIQobChMI0YH-rYfdigMV7xOtBh2F3TVIEAQYCCABEgLuNfD_BwE) — shared by Paris / Blue Butler Studios (2025-01-04)
+- [https://www.sweetwater.com/store/detail/STDMerc--little-labs-std-mercenary-edition-instrument-cable-extender-splitter-system?srsltid=AfmBOorJUJ-bgezCjpCPOI8IBcUaVinzIZ7JvrJkCeoepGpOc57rzv_SKdE](https://www.sweetwater.com/store/detail/STDMerc--little-labs-std-mercenary-edition-instrument-cable-extender-splitter-system?srsltid=AfmBOorJUJ-bgezCjpCPOI8IBcUaVinzIZ7JvrJkCeoepGpOc57rzv_SKdE) — shared by jantrit (2025-01-04)
+- [https://www.sweetwater.com/used/listings/245004-used-aea-rpq2-2-channel-ribbon-microphone-preamp](https://www.sweetwater.com/used/listings/245004-used-aea-rpq2-2-channel-ribbon-microphone-preamp) — shared by NoahNeedleman (2025-06-02)
+- [https://www.guitarcenter.com/DR-Pro/DR259-MS1500BK-Low-Profile-Mic-Boom-Stand-1275776905352.gc?storeCode=&source=4WWMWXGL&gclid=CjwKCAjwjaWoBhAmEiwAXz8DBRHZbk_x4FLMquGO2BBacIpJiuFVy5dAQHI6r0ysxZ2nSZmBiOmhgxoClJYQAvD_BwE](https://www.guitarcenter.com/DR-Pro/DR259-MS1500BK-Low-Profile-Mic-Boom-Stand-1275776905352.gc?storeCode=&source=4WWMWXGL&gclid=CjwKCAjwjaWoBhAmEiwAXz8DBRHZbk_x4FLMquGO2BBacIpJiuFVy5dAQHI6r0ysxZ2nSZmBiOmhgxoClJYQAvD_BwE) — shared by jantrit (2023-09-19)
+- [https://vintageking.com/aea-rpq500-500-series-microphone-preamp-0995-used](https://vintageking.com/aea-rpq500-500-series-microphone-preamp-0995-used) — shared by NoahNeedleman (2025-06-02)
+
+### Articles & References
+
+- [https://www.soundonsound.com/reviews/how-effective-are-portable-vocal-booths?amp](https://www.soundonsound.com/reviews/how-effective-are-portable-vocal-booths?amp) — shared by markmaclure (2022-05-23)
+
+### Other Links
+
+- [http://www.timcampbell.dk/index2b.htm](http://www.timcampbell.dk/index2b.htm) — shared by David Fuller (2022-11-08)
+- [https://wetransfer.com/downloads/357ef1b53ddae3bd81569a42ebd755c320221203230247/c44a0a69438233ca74fbfa48597f84b120221203230333/b108bf?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid](https://wetransfer.com/downloads/357ef1b53ddae3bd81569a42ebd755c320221203230247/c44a0a69438233ca74fbfa48597f84b120221203230333/b108bf?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid) — shared by hyanrarvey (2022-12-03)
+- [https://schlarb.bandcamp.com/album/on-recording-a-manifesto](https://schlarb.bandcamp.com/album/on-recording-a-manifesto) — shared by Iwan Morgan (2023-02-12)
+- [https://www.neutrik.com/en/product/nc3fxx-emc](https://www.neutrik.com/en/product/nc3fxx-emc) — shared by Will Melones (2023-11-07)
+- [https://www.neutrik.com/en/neutrik/products/xlr-connectors/xlr-cable-connectors/emc-series](https://www.neutrik.com/en/neutrik/products/xlr-connectors/xlr-cable-connectors/emc-series) — shared by Will Melones (2023-11-07)
+- [https://www.morleyproducts.com/hum-eliminator/](https://www.morleyproducts.com/hum-eliminator/) — shared by tomtom (2024-01-05)
+- [https://www.amazon.co.uk/gp/product/B00OOJMZ9C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1](https://www.amazon.co.uk/gp/product/B00OOJMZ9C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) — shared by Ross Fortune (2024-01-24)
+- [https://www.amazon.co.uk/gp/product/B071XHYG5R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1](https://www.amazon.co.uk/gp/product/B071XHYG5R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) — shared by Ross Fortune (2024-01-24)
+- [http://www.douglas-self.com/ampins/books/ssad3.htm](http://www.douglas-self.com/ampins/books/ssad3.htm) — shared by Nomograph Mastering (2024-05-28)
+- [https://soniccircus.com/product/undertone-audio-satellite-standalone-re-amping-box/](https://soniccircus.com/product/undertone-audio-satellite-standalone-re-amping-box/) — shared by cian riordan (2025-06-23)
+- [https://www.guitarplayer.com/guitarists/dave-davies-on-the-speaker-slashing-skills-that-thrilled-townshend-beck-page](https://www.guitarplayer.com/guitarists/dave-davies-on-the-speaker-slashing-skills-that-thrilled-townshend-beck-page) — shared by Brian Reynolds (2025-07-20)
+- [https://www.thomann.co.uk/shure_wl93_lavalier.htm?gad_source=1&gad_campaignid=1581403909&gbraid=0AAAAADuDMCW6g1E1lC-1RRygeaGaNfUd7&gclid=EAIaIQobChMIpdD0m8qHjwMVnpZQBh3YYhoREAQYBiABEgJbJPD_BwE](https://www.thomann.co.uk/shure_wl93_lavalier.htm?gad_source=1&gad_campaignid=1581403909&gbraid=0AAAAADuDMCW6g1E1lC-1RRygeaGaNfUd7&gclid=EAIaIQobChMIpdD0m8qHjwMVnpZQBh3YYhoREAQYBiABEgJbJPD_BwE) — shared by Edward Rivera (2025-08-13)
+- [https://samply.app/p/ATUsjj8zv8sMQFQeaHb9](https://samply.app/p/ATUsjj8zv8sMQFQeaHb9) — shared by itMIGHTbeNICK (2025-09-28)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Shure SM57]]
 - [[Royer Ribbon Mics]]

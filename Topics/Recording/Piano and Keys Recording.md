@@ -88,6 +88,75 @@ chrissorem shared a "piano tape bridge" technique for dampening/modifying the pi
 - **Ignoring the room** -- Piano recording quality is heavily room-dependent
 - **Using only close mics** without capturing the room perspective
 
+## Gallery
+
+*14 photos shared in #recording-talk. Showing selected highlights.*
+
+![[hyanrarvey_2022-12-17_piano-brass.jpg]]
+*hyanrarvey (2022-12-17) — All jokes aside one of the 414s the single non matched one we have with a brass cap is living on the piano and i am extremely happy with how its sound*
+
+![[laphill_2023-03-28_di-session.jpg]]
+*LAPhill (2023-03-28) — Here’s a recent upright miking we did. More of a rounded jazz vibe, I’d put something higher on the neck for more clarity/cut, as @NoahNeedleman said*
+
+![[dudeitsmarcus_2023-03-31_piano.jpg]]
+*dudeitsmarcus (2023-03-31) — decided to throw a Coles under the grand piano for the hell of it. sounds awesome!*
+
+![[stefanmacc_2023-05-19_piano-organ-room.png]]
+*stefanmacc (2023-05-19) — Hey @chrissorem and everyone else who’s experienced with big boy pianos .. how wrong am I doing this ? 😂 
+
+Two spaced pairs of AEA n8 ribbons and two*
+
+![[ross-fortune_2023-09-02_vocal-organ-room.jpg]]
+*Ross Fortune (2023-09-02) — @Iwan Morgan not sure which thread you asked and I don’t want to sidetrack discussion in #👩🍳mixing-talk right now, but a pal happened to just comment*
+
+![[cian-riordan_2023-11-23_piano-strings-setup.jpg]]
+*cian riordan (2023-11-23) — Welcome! First thing I’d suggest is pulling off the front panel if you haven’t already. It’ll give a much more direct, clear sound and will help you b*
+
+![[louisvie_2023-12-13_tom-piano-placement.jpg]]
+*louisvie (2023-12-13) — P’aying and Recording my band’s debut album in there tomorrow, all live instruments
+
+Any placement recs for the Townsend Room Mic ?
+
+Should I keep the*
+
+![[alex-stinson_2024-01-22_piano.jpg]]
+*alex stinson (2024-01-22) — i know the royer sf24 has become a meme here- but it worked nicely today on a toy piano 😂*
+
+![[jantrit_2024-10-10_organ-setup.jpg]]
+*jantrit (2024-10-10) — Usually positioned something like this, love using m160’s for the top but only have one available here. Also had great luck with the aea88 a little wa*
+
+![[alex-stinson_2025-01-20_piano.jpg]]
+*alex stinson (2025-01-20) — day 5 of a solo piano record today.*
+
+![[oli-j_2025-02-28_piano.png]]
+*Oli J (2025-02-28) — When you close the lid of the piano, there’s another bit that then closes over the hammers that folds over. Tape them on here so they end up over the*
+
+![[paris-blue-butler-studios_2025-03-26_piano-di.jpg]]
+*Paris / Blue Butler Studios (2025-03-26) — Recording jazz piano today, really loving the tone I’m getting from the R44’s & schoeps wide cardioids*
+
+![[johnny-i_2025-07-22_piano.jpg]]
+*Johnny I (2025-07-22) — If the register being played on the piano is isolated to the lower end (within the red rectangle), would it be good practice to have the 2 mics coveri*
+
+![[noahneedleman_2024-02-29_vocal-organ-session.png]]
+*NoahNeedleman (2024-02-29)*
+
+## External Resources
+
+### Videos
+
+- [Lauren Passarelli ~ Mirizio Microphone Solutions for Piano](https://www.youtube.com/watch?v=EKXvCxkWdkU) — shared by tim adamson 🇦🇺 (2025-03-03)
+- [https://www.youtube.com/watch?v=2KovOl9bQ4E](https://www.youtube.com/watch?v=2KovOl9bQ4E) — shared by Paris / Blue Butler Studios (2025-03-19)
+
+### Gear Listings
+
+- [ToteScan Intelligent QR Labels for Organization/Moving/Storage (45 ...](https://www.amazon.com/ToteScan-Pre-Printed-Stick-Labels-Count/dp/B07LF3XPLJ/ref=mp_s_a_1_1_sspa?adgrpid=116887347271&hvadid=634087587031&hvdev=m&hvlocphy=1025197&hvnetw=g&hvqmt=b&hvrand=817019660257718141&hvtargid=kwd-1095047659343&hydadcr=20568_13411297&keywords=qr+code+storage+system&qid=1693097475&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1) — shared by tomtom (2023-08-26)
+
+### Other Links
+
+- [https://www.rossbfortune.com/wp-content/uploads/2022/07/Track-Piano-Thick-Warm-@-Narcissus-Studios-West-London.pdf](https://www.rossbfortune.com/wp-content/uploads/2022/07/Track-Piano-Thick-Warm-@-Narcissus-Studios-West-London.pdf) — shared by Ross Fortune (2022-12-25)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Stereo Miking Techniques]]
 - [[Neumann KM184]]

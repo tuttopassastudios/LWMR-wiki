@@ -181,6 +181,58 @@ For each channel processed, record:
 
 ---
 
+### #recording-talk — Media Extraction
+
+- **Objective:** Download recording-relevant images and extract/categorize web links from #recording-talk
+- **Date:** 2026-02-18
+
+**Image Extraction:**
+- Total image attachments in channel: 555 (non-GIF)
+- Downloaded: 413 images (~752MB)
+- Skipped (off-topic/no context): 142
+- Stored in: `Assets/recording-talk/`
+
+| Category | Count |
+|----------|-------|
+| Session setups | 314 |
+| Gear photos | 62 |
+| Mic placement | 35 |
+| Diagrams | 2 |
+
+**Link Extraction:**
+- Total relevant links extracted: 279
+- Skipped: ~308 (Tenor GIFs: 126, Instagram: 59, Spotify: 52, etc.)
+
+| Category | Count |
+|----------|-------|
+| YouTube videos | 130 |
+| Other | 90 |
+| Dropbox (audio samples) | 15 |
+| Gear marketplace | 13 |
+| Reverb.com | 12 |
+| Sweetwater | 9 |
+| Articles | 8 |
+| Manufacturer | 2 |
+
+**Pages updated with galleries and/or external resources:**
+- [[Drum Recording Techniques]] — 65 images, 49 links
+- [[Guitar Recording]] — 25 images, 41 links
+- [[Session Mindset and Engineering Philosophy]] — 246 images, 4 links
+- [[Piano and Keys Recording]] — 14 images, 4 links
+- [[Room Mics and Ambient Recording]] — 4 images, 3 links
+- [[Stereo Miking Techniques]] — 3 images, 8 links
+- [[Bass Recording]] — 3 images, 1 link
+
+**New pages created:**
+- [[External Resources from recording-talk]] — master index of all 279 links
+
+**Index files created:**
+- `Assets/recording-talk/_image-index.md` — full image catalog with message context
+- `Assets/recording-talk/_image-mapping.json` — machine-readable image data
+- `Assets/recording-talk/_link-mapping.json` — machine-readable link data
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -188,3 +240,4 @@ For each channel processed, record:
 | #daw-talk (Phase 3) | Feb 2021 – Feb 2026 | 17,331 | ~16,145 | 16 | ~20 |
 | #daw-talk (Phase 3.5) | Feb 2021 – Feb 2026 | — | +4,053 newly captured | +16 (32 total) | +15 (~35 total) |
 | #recording-talk | Dec 2021 – Feb 2026 | 16,219 | ~11,195 | 8 | 0 |
+| #recording-talk (Media) | Dec 2021 – Feb 2026 | — | 413 images, 279 links | +1 (External Resources) | 0 |

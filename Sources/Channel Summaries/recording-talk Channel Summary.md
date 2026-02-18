@@ -119,6 +119,20 @@ The channel has 4 pinned messages capturing core recording philosophy:
 6. **Phase alignment is non-negotiable** -- Checking polarity and phase between every mic pair is considered fundamental, not optional
 7. **API preamps are the consensus choice for drums** -- Multiple engineers advocate specifically for API on drum sessions
 
+## Media Content
+
+| Type | Total | Downloaded/Extracted | Skipped |
+|------|-------|---------------------|---------|
+| **Images** | 555 non-GIF | 413 (~752MB) | 142 off-topic |
+| **Links** | 587 total URLs | 279 relevant | 308 (GIFs, streaming, social) |
+
+**Image breakdown:** 314 session setups, 62 gear photos, 35 mic placement, 2 diagrams
+**Link breakdown:** 130 YouTube, 15 Dropbox audio samples, 12 Reverb listings, 9 Sweetwater, 8 articles, 90 other
+
+Images stored in `Assets/recording-talk/` with subdirectories by category.
+Full image catalog: [[_image-index|Image Index]]
+Full link index: [[External Resources from recording-talk]]
+
 ## See Also
 
 - [[daw-talk Channel Summary]] — DAW software discussions

@@ -87,6 +87,27 @@ The standard professional approach:
 - **Not checking phase** between DI and amp mic signals
 - **Over-compressing on the way in** without leaving room for dynamics
 
+## Gallery
+
+*3 photos shared in #recording-talk. Showing selected highlights.*
+
+![[oaklandmatt_2022-12-16_bass-vocal.png]]
+*oaklandmatt (2022-12-16) — Discord brain. Can y'all help me recommend a portable <$10k vocal chain for my buddy Marc E Bassey? @BatMeckley @cian riordan*
+
+![[soundslikejoe_2024-03-09_bass.jpg]]
+*SoundsLikeJoe (2024-03-09) — Firebird suite...  and that WW section R84 is doing work.  Bassoon solo loves that mic.*
+
+![[mike-tierney_2025-04-02_bass-strings-room.jpg]]
+*Mike Tierney (2025-04-02) — After deliberating with a few other engineer friends, here are the options I tried on hurdy gurdy. One of my friends who records a lot of early/mediev*
+
+## External Resources
+
+### Videos
+
+- [https://www.youtube.com/watch?v=G8i1YRllhvE](https://www.youtube.com/watch?v=G8i1YRllhvE) — shared by Slow Hand (2022-10-24)
+
+*See [[External Resources from recording-talk|Full External Resources Index]] for all links.*
+
 ## See Also
 - [[Reamping]]
 - [[Guitar Recording]]
