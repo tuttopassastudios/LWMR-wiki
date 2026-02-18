@@ -93,6 +93,9 @@ Contributors identified as high-credibility sources based on message volume, ave
 
 ## See Also
 
+- [[gear-talk Channel Summary]] — hardware gear discussions
+- [[recording-talk Channel Summary]] — practical recording techniques
+- [[nerd-talk Channel Summary]] — deep-dive technical discussions
 - [[Processing Log]] — full processing log for all channels
 - [[Home]] — vault dashboard
 

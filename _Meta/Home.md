@@ -3,13 +3,13 @@ type: dashboard
 tags:
   - type/dashboard
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Audio Production Wiki
 
-> [!tip] Dashboard
-> Central hub for navigating the vault. Built from Discord community discussions.
+> [!tip] Welcome
+> Community-built reference for audio production — mixing, mastering, recording, gear, and more. Built from Discord community discussions.
 
 ---
 
@@ -31,79 +31,19 @@ modified: 2026-02-17
 
 ## Quick Access
 
-- [[Processing Log]] — Track import progress
-- [[Contributors]] — Community contributor rankings
-- [[Glossary/]] — Term definitions
-- [[daw-talk Channel Summary]] — #daw-talk source data
-- [[gear-talk Channel Summary]] — #gear-talk source data
+- [[Glossary/index|Glossary]] — Term definitions and jargon reference
+- [[Budget Gear Guide]] — Recommended gear at every price point
+- [[DAW Comparison]] — Cross-reference guide comparing all major DAWs
+- [[Vocal Chain]] — Signal chain for vocal recording and processing
+- [[Editorial Dashboard]] — Page confidence, orphans, and vault stats
 
 ---
 
-## Recently Modified Pages
+## Recently Updated
 
 ```dataview
-TABLE file.mtime AS "Modified", type, confidence
+TABLE file.mtime AS "Modified", type
 FROM -"_Meta"
 SORT file.mtime DESC
-LIMIT 15
-```
-
-## Low-Confidence Pages (Needs Review)
-
-```dataview
-TABLE type, tags
-FROM -"_Meta"
-WHERE confidence = "low"
-SORT file.name ASC
-```
-
-## Medium-Confidence Pages
-
-```dataview
-TABLE type, tags
-FROM -"_Meta"
-WHERE confidence = "medium"
-SORT file.name ASC
-```
-
-## Orphan Pages (No Backlinks)
-
-```dataview
-LIST
-FROM -"_Meta" AND -"MOC"
-WHERE length(file.inlinks) = 0
-SORT file.name ASC
-```
-
-## Processing Summary
-
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Log Entry",
-  length(file.lists) AS "Items Logged"
-FROM "_Meta"
-WHERE file.name = "Processing Log"
-```
-
----
-
-## Vault Stats
-
-```dataview
-TABLE WITHOUT ID
-  length(filter(file.lists, (x) => true)) AS "Total Entries"
-FROM ""
-WHERE false
-```
-
-**Total pages by type:**
-
-```dataview
-TABLE WITHOUT ID
-  type AS "Type",
-  length(rows) AS "Count"
-FROM -"_Meta/Templates"
-WHERE type
-GROUP BY type
-SORT type ASC
+LIMIT 10
 ```

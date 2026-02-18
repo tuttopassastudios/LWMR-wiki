@@ -1,6 +1,6 @@
 # LWMR Wiki — Audio Production Knowledge Base
 
-Community-built wiki from the **Live with Matt Rad** Discord server's #daw-talk channel.
+Community-built wiki from the **Live with Matt Rad** Discord server
 
 ## How to Use
 
@@ -9,7 +9,7 @@ Community-built wiki from the **Live with Matt Rad** Discord server's #daw-talk 
 3. Install the community plugins when prompted (Dataview, Templater, etc.)
 4. Start browsing from `_Meta/Home.md`
 
-## How to Contribute
+ ## How to Contribute
 
 1. Fork this repo
 2. Open your fork in Obsidian

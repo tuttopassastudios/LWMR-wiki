@@ -142,6 +142,8 @@ The channel has 8 pinned messages that capture its core philosophy:
 ## See Also
 
 - [[daw-talk Channel Summary]] — companion channel covering DAW software
+- [[recording-talk Channel Summary]] — practical recording techniques
+- [[nerd-talk Channel Summary]] — deep-dive technical discussions
 - [[Processing Log]] — full processing log for all channels
 - [[Home]] — vault dashboard
 

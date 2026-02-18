@@ -99,6 +99,15 @@ modified: 2026-02-17
 
 ---
 
+## Related Maps of Content
+
+- [[Hardware]] — microphones, preamps, and studio gear
+- [[Mixing]] — post-tracking mix workflows
+- [[Acoustics]] — room treatment and monitoring setup
+- [[Workflow]] — session management and tracking workflows
+
+---
+
 ## Auto-Index
 
 ```dataview

@@ -1,0 +1,24 @@
+// Matt Rad–inspired color theme: warm cream background, black text, red accents
+:root[saved-theme="light"] {
+  --light: #f5f0e8;
+  --lightgray: #ddd5c8;
+  --gray: #b8b0a4;
+  --darkgray: #2a2a2a;
+  --dark: #1a1a1a;
+  --secondary: #d42020;
+  --tertiary: #e04040;
+  --highlight: rgba(212, 32, 32, 0.08);
+  --textHighlight: rgba(212, 32, 32, 0.15);
+}
+
+:root[saved-theme="dark"] {
+  --light: #1a1a1a;
+  --lightgray: #2e2e2e;
+  --gray: #5a5a5a;
+  --darkgray: #d4d4d4;
+  --dark: #f5f0e8;
+  --secondary: #e04040;
+  --tertiary: #f06060;
+  --highlight: rgba(224, 64, 64, 0.12);
+  --textHighlight: rgba(224, 64, 64, 0.2);
+}

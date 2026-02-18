@@ -137,6 +137,7 @@ Full link index: [[External Resources from recording-talk]]
 
 - [[daw-talk Channel Summary]] — DAW software discussions
 - [[gear-talk Channel Summary]] — Hardware gear discussions
+- [[nerd-talk Channel Summary]] — Deep-dive technical discussions
 - [[Processing Log]] — Full processing log for all channels
 - [[Home]] — Vault dashboard
 

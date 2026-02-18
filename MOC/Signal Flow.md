@@ -93,6 +93,15 @@ modified: 2026-02-17
 
 ---
 
+## Related Maps of Content
+
+- [[Hardware]] — physical gear in the signal chain
+- [[DAWs and Software]] — digital routing and DAW signal flow
+- [[Mixing]] — bus processing and summing
+- [[Recording]] — preamp and gain staging for tracking
+
+---
+
 ## Auto-Index
 
 ```dataview

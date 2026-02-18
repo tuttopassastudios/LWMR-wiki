@@ -34,8 +34,7 @@ jobs:
         run: |
           rm -rf /tmp/quartz/content/*
           rsync -av --exclude='.git' --exclude='.github' \
-            --exclude='.obsidian' --exclude='_Meta/Templates' \
-            --exclude='Gear' \
+            --exclude='.obsidian' \
             ./ /tmp/quartz/content/
           cp /tmp/quartz/content/_Meta/Home.md /tmp/quartz/content/index.md
 
@@ -44,7 +43,11 @@ jobs:
           cd /tmp/quartz
           sed -i 's|pageTitle:.*|pageTitle: "LWMR Wiki",|' quartz.config.ts
           sed -i 's|baseUrl:.*|baseUrl: "tuttopassastudios.github.io/LWMR-wiki",|' quartz.config.ts
-          sed -i 's|ignorePatterns:.*|ignorePatterns: ["private", "_Meta/Templates"],|' quartz.config.ts
+          sed -i 's|ignorePatterns:.*|ignorePatterns: ["private"],|' quartz.config.ts
+          sed -i 's|Component\.Explorer()|Component.Explorer({ folderDefaultState: "collapsed" })|g' quartz.layout.ts
+
+      - name: Apply custom theme
+        run: cp /tmp/quartz/content/_Meta/custom.scss /tmp/quartz/quartz/styles/custom.scss
 
       - name: Pre-render Dataview queries
         run: node .github/scripts/render-dataview.mjs /tmp/quartz/content

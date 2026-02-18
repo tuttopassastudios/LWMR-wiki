@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/workflow
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Workflow
@@ -24,6 +24,7 @@ modified: 2026-02-17
 
 - [[Bounce and Export Workflows]] — stem export, rendering, DAW-specific procedures
 - [[Audio File Management]] — formats, sample rates, naming, AAF/OMF exchange
+- [[DAW Comparison]] — which DAW for which workflow
 
 ---
 
@@ -52,7 +53,6 @@ modified: 2026-02-17
 ## Backup & File Management
 
 - [[Backup and Storage for Audio]] — backup strategies, NAS, cloud, archival
-- [[Audio File Management]] — formats, sample rates, naming, AAF/OMF exchange
 
 ---
 
@@ -62,23 +62,15 @@ modified: 2026-02-17
 
 ---
 
-## File Delivery & Formats
-
-- [[Bounce and Export Workflows]] — export formats, naming, delivery
-- [[DAW Comparison]] — which DAW for which workflow
-
----
-
 ## Speed & Efficiency Tips
 
 - [[CPU Optimization for Audio]] — buffer management, threading, benchmarks
-- [[DAW Comparison]] — choosing the right DAW for the task
 
 ---
 
 ## Recording & Tracking Workflow
 
-- [[Recording and Tracking Workflows]] — includes backup strategies and tracking workflow
+- [[Recording and Tracking Workflows]] — includes backup strategies, tracking workflow, and remote collaboration
 - [[Vocal Chain]] — signal chain for vocal recording and processing
 - [[Reamping]] — re-amping techniques and setup
 
@@ -93,9 +85,12 @@ modified: 2026-02-17
 
 ---
 
-## Collaboration & Remote Workflows
+## Related Maps of Content
 
-- [[Recording and Tracking Workflows]] — remote collaboration strategies
+- [[Recording]] — tracking workflows and session setup
+- [[DAWs and Software]] — DAW-specific workflow features
+- [[Hardware]] — hardware setup and system optimization
+- [[Mixing]] — mix prep and organization
 
 ---
 
