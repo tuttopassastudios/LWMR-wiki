@@ -59,3 +59,9 @@ modified: 2026-02-17
 > "I had an Avantone I used to use for a while. I thought it was much more low mid focused than the auratones I've heard." — Chase H
 >
 > "Added mono MixCube but ended up useless to me." — Deleted User
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: ~5
+> Date range: April 2021 – March 2022
+> See also: [[monitoring-talk Channel Summary]]

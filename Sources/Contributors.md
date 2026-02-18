@@ -3,13 +3,13 @@ type: meta
 tags:
   - type/meta
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Contributors
 
 > [!info]
-> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages across **#daw-talk** and **#gear-talk**. A "substantive" message is 40+ characters and not a noise reply (greetings, reactions, link-only posts).
+> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages across **#daw-talk**, **#gear-talk**, **#nerd-talk**, and **#monitoring-talk**. A "substantive" message is 40+ characters and not a noise reply (greetings, reactions, link-only posts).
 
 ---
 
@@ -136,8 +136,85 @@ modified: 2026-02-17
 
 ---
 
+## #nerd-talk — Expert Contributors
+
+The #🧠nerd-talk channel has a notably high substantive message rate (77%) — higher than any other analyzed channel — reflecting its focus on deep technical discussion.
+
+| Rank | Contributor | Total Messages | Substantive | Avg Length | Primary Expertise |
+|------|-------------|---------------|-------------|------------|-------------------|
+| 1 | **Nomograph Mastering** | 749 | 538 | 85 | Broad technical knowledge, mastering perspective |
+| 2 | **Bryan DiMaio** | 252 | 198 | 115 | Interfaces, converters, electronics, practical engineering |
+| 3 | **David Fuller** | 213 | 158 | 123 | Microphone physics, impedance, polar pattern theory, analog electronics primers |
+| 4 | **Rob Domos** | 190 | 156 | 162 | Detailed technical analysis, studio infrastructure, multi-DAW engineering |
+| 5 | **spectrummasters** | 176 | 130 | 139 | Technical audio analysis, mastering perspective |
+| 6 | **SoundsLikeJoe** | 175 | 163 | 211 | Archival tape transfers, historical audio, Charles Ives discovery |
+| 7 | **Gerhard Westphalen** | 159 | 133 | 182 | DSP, digital audio theory, detailed technical explanations |
+| 8 | **hyanrarvey** | 130 | 57 | 56 | Broad audio knowledge, quick-take technical observations |
+| 9 | **tinkerjef** | 127 | 98 | 85 | Practical technical discussion |
+| 10 | **tim adamson 🇦🇺** | 126 | 107 | 159 | Detailed technical contributions, measurement |
+
+### #nerd-talk — Notable Contributors (11–16)
+
+| Rank | Contributor | Total Messages | Substantive | Avg Length | Primary Expertise |
+|------|-------------|---------------|-------------|------------|-------------------|
+| 11 | **Slow Hand** | 85 | 73 | 198 | Channel founder, systematic testing, A/B methodology |
+| 12 | **Rollmottle** | 69 | 52 | 120 | Outboard gear, technical discussion |
+| 13 | **cian riordan** | 58 | 39 | 109 | Backup strategy, balanced technical perspective |
+| 14 | **Tristan** | 54 | 48 | 335 | Extremely detailed long-form posts, deep technical dives |
+| 15 | **Will Pragnell** | 44 | 41 | 147 | Technical audio contributions |
+| 16 | **popthetrunk** | 40 | 39 | 528 | NAS/ZFS storage expert, TrueNAS configuration (both pinned messages) |
+
+### #nerd-talk — Community Overview
+- **116** unique authors posted in #nerd-talk
+- **3,559** total messages (January 2024 – February 2026)
+- **~2,748** substantive messages (77.2% — highest of any channel)
+- The top 10 contributors account for roughly **56%** of all messages
+- **popthetrunk** has the highest average message length (528 chars) — both pinned messages are his NAS/ZFS configuration guides
+- **Tristan** averages 335 chars per message — the most detailed long-form contributor after popthetrunk
+
+---
+
+## #monitoring-talk — Top Contributors
+
+The #🔈monitoring-talk channel (3,028 messages, April 2021 – March 2022) is a dedicated channel for speaker selection, room acoustics, headphone discussion, monitor controllers, and DAC/converter debates.
+
+| Rank | Contributor | Total Messages | Primary Focus |
+|------|-------------|---------------|---------------|
+| 1 | **David Fuller** | 736 | Speaker comparisons, room acoustics, crossover critique |
+| 2 | **Rollmottle** | 219 | PMC 6-2 review, sub selection, burn-in philosophy |
+| 3 | **cian riordan** | 152 | Converter blind tests, NS-10 critique, treatment advice |
+| 4 | **Eric Martin** | 113 | Monitor controller discussion, practical setup |
+| 5 | **peterlabberton** | 113 | Room acoustics, attack wall alternatives |
+| 6 | **Maxim** | 112 | General monitoring discussion |
+| 7 | **Zack Hames** | 109 | Speaker recommendations, monitoring philosophy |
+| 8 | **Rob Domos** | 108 | DAC comparisons, headphone discussion |
+| 9 | **h3x** | 106 | General monitoring discussion |
+| 10 | **Slow Hand** | 104 | Tube trap resources, acoustic treatment planning |
+| 11 | Josh | 84 | Speaker comparisons, Barefoot discussion |
+| 12 | oaklandmatt | 67 | Channel moderation, community philosophy |
+| 13 | absflores | 67 | General monitoring discussion |
+| 14 | ALXCPH | 55 | General monitoring discussion |
+| 15 | kidcutler | 49 | Speaker aesthetics, PMC/ATC advice |
+| 16 | bobby k | 45 | General monitoring discussion |
+| 17 | kylem | 45 | PMC user, speaker setup |
+| 18 | Zakhiggins | 43 | Converter discussion |
+| 19 | sethearnest | 41 | PMC vs ATC detailed A/B comparisons |
+| 20 | Josh Bowman | ~30 | ATC SCM12 vs PMC twotwo6 comparison |
+
+### #monitoring-talk — Community Overview
+- **101** unique authors posted in #monitoring-talk
+- **3,028** total messages (April 2021 – March 2022)
+- **2,275** substantive messages (75.1%)
+- David Fuller alone accounts for **24.3%** of all messages
+- The top 10 contributors account for roughly **62%** of all messages
+- **sethearnest** produced the most detailed A/B comparison posts in the channel despite ranking 19th by volume (41 messages, high substantive rate)
+
+---
+
 ## See Also
 
 - [[Processing Log]] — extraction methodology and coverage stats
 - [[daw-talk Channel Summary]] — #daw-talk channel overview
 - [[gear-talk Channel Summary]] — #gear-talk channel overview
+- [[nerd-talk Channel Summary]] — #nerd-talk channel overview
+- [[monitoring-talk Channel Summary]] — #monitoring-talk channel overview

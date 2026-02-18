@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/acoustics
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Acoustics
@@ -18,6 +18,7 @@ modified: 2026-02-17
 
 - [[Acoustic Treatment Guide]] — comprehensive acoustic treatment planning and implementation
 - [[Monitor Controllers Guide]] — monitor controller selection and room integration
+- [[Speaker Design and Crossover Theory]] — crossover types, driver design, cabinet acoustics and their impact on monitoring
 
 ---
 
@@ -32,6 +33,8 @@ modified: 2026-02-17
 ## Monitor Placement & Listening Environment
 
 - [[ATC Monitors]] — high-end sealed cabinet reference monitors
+- [[PMC Monitors]] — transmission line design, community favorite alongside ATC
+- [[Amphion]] — Finnish sealed-cabinet monitors
 - [[Genelec Monitors]] — SAM auto-calibration, pro studio standard
 - [[Sonarworks SoundID]] — headphone and monitor calibration
 - [[Neumann KH310]] — 3-way midfield reference
@@ -51,6 +54,14 @@ modified: 2026-02-17
 
 - [[Power Conditioning]] — power quality and its impact on studio environment
 - [[Dolby Atmos and Immersive Audio]] — immersive audio and room requirements
+
+---
+
+## Source Channels
+
+- [[gear-talk Channel Summary]] — monitor and treatment gear discussions
+- [[monitoring-talk Channel Summary]] — dedicated monitoring channel (3,028 msgs, Apr 2021–Mar 2022): speaker comparisons, room treatment, sub integration, converter debate
+- [[nerd-talk Channel Summary]] — room measurement theory, SBIR, room modes math
 
 ---
 

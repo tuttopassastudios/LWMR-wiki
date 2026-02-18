@@ -68,3 +68,10 @@ modified: 2026-02-17
 > "If you want bright, Focal would be worth a look." — David Fuller
 >
 > "Focal Alpha 65s (actually quite liked these) > Focal Shape 65s (not as good as the Alphas tbh)." — David Fuller
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 41
+> Date range: April 2021 – March 2022
+> Key contributors: David Fuller, sethearnest, cian riordan
+> See also: [[monitoring-talk Channel Summary]]

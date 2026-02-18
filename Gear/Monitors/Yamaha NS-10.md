@@ -74,3 +74,13 @@ modified: 2026-02-17
 > "The whole monitoring uber uber uber quiet, CLA thing, I think works specifically on NS10's." — Zack Hames
 >
 > "Has anyone compared Auratones to NS10ms? ... I'd stay on the NS10s and just get one auratone if you want both." — hyanrarvey
+
+> [!quote] cian riordan — NS-10 mythology debunk (#monitoring-talk, December 2021, 12 reactions)
+> "I used to use similar justifications for working on NS10s for over a decade. 'If I can make it sound good on these, they'll sound good on anything!' Total bullshit. I probably collapsed half my midrange hearing with those fucking things. Ended up getting grown up speakers a few years ago -- haven't looked back since."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 11
+> Date range: April 2021 – March 2022
+> Key contributors: cian riordan, David Fuller
+> See also: [[monitoring-talk Channel Summary]]

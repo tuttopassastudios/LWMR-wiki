@@ -10,7 +10,7 @@ tags:
   - type/topic
   - domain/recording
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Acoustic Treatment Guide
@@ -148,6 +148,36 @@ The community endorses DIY panels as highly cost-effective:
 - **Placing monitors against the wall without treatment** -- Creates massive bass buildup
 - **Assuming treatment = soundproofing** -- Treatment controls sound within a room; soundproofing prevents sound from entering/leaving
 
+## Room Measurement Theory and Methodology (from #nerd-talk)
+
+The #nerd-talk channel (43 messages) provided deeper theoretical grounding for the measurement section above, covering the math behind room modes, SBIR, and advanced measurement methodology.
+
+### Room Modes — The Math
+Room modes are resonant frequencies determined by the room's dimensions:
+
+- **Axial modes** (strongest): f = c / (2 × L), where c is the speed of sound (~343 m/s) and L is the room dimension. A 4-meter room has its first axial mode at ~43 Hz
+- **Tangential modes** involve two surfaces and are ~3 dB weaker than axial modes
+- **Oblique modes** involve all three pairs of surfaces and are ~6 dB weaker
+- Modes cluster at low frequencies and become increasingly dense as frequency rises — above the **Schroeder frequency** (typically 200-300 Hz in small rooms), modes overlap enough that the room behaves statistically and treatment becomes more predictable
+- **The worst-case scenario** is a room where two or more dimensions share a simple ratio (e.g., 1:2) — modes pile up at the same frequencies, creating severe peaks and nulls
+
+### SBIR (Speaker-Boundary Interference Response)
+SBIR occurs when a speaker's direct sound interferes with its reflection off a nearby boundary (wall, ceiling, floor):
+
+- The first null frequency is f = c / (4 × d), where d is the distance from the speaker to the boundary
+- A speaker 0.86m from the front wall produces a null at ~100 Hz — right in the critical low-mid range
+- **SBIR is often misdiagnosed as a speaker problem** when it is actually a placement/room problem
+- Solutions: Move the speakers (change d), treat the front wall with thick absorption, or use DSP correction as a supplement (not a replacement) for physical treatment
+
+### Advanced Measurement with REW and SMAART
+The nerd-talk community discussed measurement methodology beyond basic frequency sweeps:
+
+- **Waterfall (cumulative spectral decay) plots** reveal how quickly different frequencies decay — room modes show as ridges that persist long after the direct sound
+- **RT60 measurements** at multiple positions verify treatment effectiveness — target is ~0.3-0.4s for mixing rooms
+- **Coherence measurements** (SMAART) show how much of the signal at each frequency is direct vs. reflected — low coherence at a frequency means the room is dominating your speaker
+- **Measurement microphone positioning** matters — take multiple measurements in a grid around the listening position and average them. A single measurement at one point can be misleading due to standing wave nulls
+- **Calibrate your measurement microphone** — The Dayton UMM-6 and miniDSP UMIK-1 ship with individual calibration files. Load them into REW for accurate results, especially above 5 kHz
+
 ## Tracking Rooms vs Mixing Rooms (from #recording-talk)
 
 > [!quote] cian riordan (2025-02-21)
@@ -165,6 +195,7 @@ The #recording-talk community draws a critical distinction:
 - [[Power Conditioning]]
 - [[Computer Hardware for Audio]]
 - [[Room Mics and Ambient Recording]]
+- [[Speaker Design and Crossover Theory]]
 
 ## Source Discussions
 > [!quote] Discord Source
@@ -175,3 +206,24 @@ The #recording-talk community draws a critical distinction:
 > [!quote] Discord Source
 > Channel: #recording-talk
 > Key contributors: cian riordan
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~43 (room measurement methodology, SBIR theory, room modes math)
+> Key contributors: Nomograph Mastering, tim adamson 🇦🇺, David Fuller, Gerhard Westphalen, spectrummasters
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]
+
+> [!quote] Slow Hand — Tube trap resource compilation (#monitoring-talk, May 2021, 13 reactions)
+> "Some people were discussing Tube Traps in the 'Show Your Setup' channel, so I wanted to share some resources that I've collated on the subject. It's a mixture of literature taken directly from the ASC website, the patent filings that I was able to find and some plans for DIY tube traps. I think the single most interesting resource is Art Noxon describing in painstaking detail the acoustic principles behind the traps in 2012 on the *Gearspace* forums." (Attached ZIP file with compiled resources)
+
+> [!quote] cian riordan — Slanted ceiling treatment advice (#monitoring-talk, April 2021)
+> "First of all, love me some slanted ceilings! [...] I'd be worried about the area of the front wall/slanted ceiling above the speakers as that will start to reflect things at your head. [...] Given it's a small space, you really can't have enough bass trapping. It's likely that there's some low end messiness up in the apex of that ceiling but if your ears aren't up there, it shouldn't be a huge problem. Although it would be a great place to make a big dent on bass trapping if you could hang some things up there."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: ~138 (52 treatment + 63 acoustic + 23 bass trap + 77 subwoofer integration)
+> Date range: April 2021 – March 2022
+> Key contributors: cian riordan, Slow Hand, David Fuller, peterlabberton, francoslate, Rollmottle
+> Notable: Slow Hand's tube trap resource ZIP (13 reactions, pinned reference). Extensive subwoofer integration discussion (77 msgs).
+> See also: [[monitoring-talk Channel Summary]]

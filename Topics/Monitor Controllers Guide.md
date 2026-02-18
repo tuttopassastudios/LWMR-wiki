@@ -129,9 +129,21 @@ The functional benefits (speaker switching, mono check) are reason enough -- the
 - [[AD-DA Conversion]]
 - [[Budget Gear Guide]]
 - [[Outboard vs In-The-Box]]
+- [[Impedance and Audio Electronics]]
+- [[Speaker Design and Crossover Theory]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 128
 > Key contributors: Bryan DiMaio, cian riordan, Rollmottle, Zack Hames, Nomograph Mastering, David Fuller, Eric Martin, peterlabberton, Iwan Morgan, Ross Fortune
+
+> [!quote] cian riordan — Monitor controller priority (#monitoring-talk, April 2021, 11 reactions)
+> "Not having a bourgie DAC or monitor controller shouldn't be a reason for you to send these speakers back. These speakers will perform at 99% of their capacity with the tools you have. Now, the room treatment is definitely a consideration. If downsizing these speakers gives you the opportunity to throw a $few-k at treatment, then that's a valid consideration. Just remember the sooner you learn these speakers the sooner you can grow with them."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 22
+> Date range: April 2021 – March 2022
+> Key contributors: cian riordan, David Fuller, Eric Martin
+> See also: [[monitoring-talk Channel Summary]]

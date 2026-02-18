@@ -67,3 +67,10 @@ modified: 2026-02-17
 > "I've tried so many times to get Barefoots to work but no dice... everything just sounds weird to me on them." — cian riordan
 >
 > "I knew I was going to have to learn a new mix room and had been wanting to ween off of NS10s for years... so I said fuck it [and bought ATCs leaving Barefoot]." — cian riordan
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 39
+> Date range: April 2021 – March 2022
+> Key contributors: David Fuller, cian riordan, Josh, analoginthedigital
+> See also: [[monitoring-talk Channel Summary]]

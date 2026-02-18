@@ -76,3 +76,10 @@ modified: 2026-02-17
 
 > [!quote] Bryan DiMaio
 > "The LCD-X and the MM-500 were both good and on my head the mids felt better on the 500."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 7
+> Date range: April 2021 – March 2022
+> Key contributors: Rob Domos, David Fuller
+> See also: [[monitoring-talk Channel Summary]]

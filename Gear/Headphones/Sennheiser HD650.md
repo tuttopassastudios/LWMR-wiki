@@ -72,3 +72,10 @@ modified: 2026-02-17
 
 > [!quote] David Fuller
 > "Nothing better than those... but don't spend full price. HD6XX are the same."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 9
+> Date range: April 2021 – March 2022
+> Key contributors: David Fuller, Rob Domos
+> See also: [[monitoring-talk Channel Summary]]

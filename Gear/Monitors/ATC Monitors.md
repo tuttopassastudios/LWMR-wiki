@@ -77,3 +77,19 @@ ATCs are chosen by engineers who prioritize accuracy and translation above all e
 > Channel: #gear-talk
 > Date: March 2021 - September 2022
 > Key contributors: David Fuller, BatMeckley, Jodonny, cian riordan, Josh Bowman, NoahNeedleman, peterlabberton, h3x, Zack Hames, Maxim, kidcutler, Slow Hand, Rollmottle
+
+> [!quote] sethearnest — ATC vs PMC voicing (#monitoring-talk, April 2021)
+> "The ATCs feel a bit beefier in the bottom and low mids, a little softer-feeling overall and generally more pleasant to just listen to music on. [...] As described by everyone and their grandma: the midrange on the ATCs is *fantastic*, and it creates quite a striking phantom center and quite a clear, nice midrange."
+
+> [!quote] sethearnest — mixing on ATCs vs PMCs (#monitoring-talk, April 2021, 11 reactions)
+> "I noticed I'd stop a little shorter of getting things to hit a certain way on the ATCs, while on the PMCs, I'd work a little more to get things sounding 'good' (to me) and punchy and moving air in certain ways on them, both w/just balancing and/or w/processing, then those mixes would really be popping in the real world. [...] If I were producing a lot (i.e. had people in), I might lean more ATC b/c they feel a little more friendly for all-purpose listening."
+
+> [!quote] Josh Bowman — ATC SCM12 vs PMC twotwo6 (#monitoring-talk, May 2021)
+> "I've been on the smallest ATCs, similar size to the 20, the SCM12pro w subs for a couple years now as my main speakers. [...] The 20s/12s to me are not that great without sub, but with them I preferred it over the twotwo6's and also they sound way more 'ATC' than any non ATC speaker I've worked on... maybe they don't do the exact same ATC thing as the guys w the dedicated mid range driver but they have a similar mid range clarity/presence to me that I'd expect from ATCs."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 124
+> Date range: April 2021 – March 2022
+> Key contributors: sethearnest, David Fuller, Josh Bowman, cian riordan, peterlabberton, Rollmottle, kidcutler
+> See also: [[monitoring-talk Channel Summary]]

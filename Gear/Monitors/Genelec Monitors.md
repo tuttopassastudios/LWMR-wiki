@@ -66,3 +66,10 @@ modified: 2026-02-17
 > "Adam F5 > Focal CMS50 > NS10 > ATC SCM20 > Genelec 8341. Every switch was a big upgrade." — Skyler Young
 >
 > "Without eq correction they've got a lot of low mid gunk and too soft of high end." — Zack Hames (on Genelec 1032)
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 23
+> Date range: April 2021 – March 2022
+> Key contributors: David Fuller, Zack Hames, h3x
+> See also: [[monitoring-talk Channel Summary]]

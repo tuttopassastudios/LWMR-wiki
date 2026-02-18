@@ -61,3 +61,9 @@ modified: 2026-02-17
 > "My home setup: HS80M > KH120 > KH150 (but also KH120 and KH80DSP for Atmos lol). Used all kinds of other stuff at studios all over though but love me some Neumann." — Bryan DiMaio
 >
 > "I use KH120 [at home], but in my studio I have bigger ones cause the room's 4 times the size and we have more acoustic treatment." — Deleted User
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 5
+> Date range: April 2021 – March 2022
+> See also: [[monitoring-talk Channel Summary]]

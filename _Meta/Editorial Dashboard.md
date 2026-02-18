@@ -81,3 +81,6 @@ SORT type ASC
 - [[Contributors]] — Community contributor rankings
 - [[daw-talk Channel Summary]] — #daw-talk source data
 - [[gear-talk Channel Summary]] — #gear-talk source data
+- [[nerd-talk Channel Summary]] — #nerd-talk source data
+- [[recording-talk Channel Summary]] — #recording-talk source data
+- [[monitoring-talk Channel Summary]] — #monitoring-talk source data

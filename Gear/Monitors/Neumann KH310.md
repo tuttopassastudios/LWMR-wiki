@@ -71,3 +71,13 @@ modified: 2026-02-17
 > "I added a sub... not aligned or anything yet but I just have it crossed at about 80hz and it works fine." — David Fuller
 >
 > Monitor journey: "Equator D5 > Dayton BR-1 passives > Focal Alpha 65s > Adam S3As (ew) > Focal Shape 65s > Barefoot FP01s (lol) > Neumann KH310s" — David Fuller
+
+> [!quote] sneaky_circuits — KH310 emotional experience (#monitoring-talk, December 2021, 3 reactions)
+> "After 2 weeks with the KH310 demos, I'm A/B testing against the ol' JBL LSR308s as a sanity check [...] I feel like the KH310 have taught me how to listen better and what to look for in music, like, I can hear the same elements on the JBLs if I TRY now but on the KH310 I notice things right away without trying. [...] I think what's causing the intense feelings is the space they reveal. Things aren't clashing in the high end. [...] I also still feel like producing on flat speakers is a vibe. So glad I tried it."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: 82
+> Date range: April 2021 – March 2022
+> Key contributors: David Fuller, sneaky_circuits, Zack Hames, cian riordan, peterlabberton, h3x
+> See also: [[monitoring-talk Channel Summary]]

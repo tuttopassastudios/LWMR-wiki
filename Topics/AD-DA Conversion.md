@@ -11,7 +11,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # AD-DA Conversion
@@ -163,15 +163,66 @@ The community acknowledges that proper comparison requires level-matched, blind,
 - **Ignoring compatibility and reliability** in favor of specifications -- The best-sounding converter that crashes your DAW is useless
 - **Conflating DAC quality with interface quality** -- They are related but not the same thing
 
+## Clocking, Jitter, and Conversion Theory (from #nerd-talk)
+
+The #nerd-talk channel (53 messages on clocking/jitter theory) provides the deeper engineering "why" behind the converter debate above.
+
+### How Digital Conversion Actually Works
+Modern converters overwhelmingly use **delta-sigma (ΔΣ) modulation** rather than the successive-approximation or flash converters of earlier generations:
+
+- **Delta-sigma ADCs** oversample the input signal at a very high rate (typically 64x–256x the target sample rate), producing a 1-bit stream that is then decimated and filtered down to the target bit depth and sample rate
+- **Oversampling pushes quantization noise** to frequencies far above the audio band, where it can be filtered out — this is why modern converters achieve such low noise floors
+- **The decimation filter** (converting the oversampled stream to the final sample rate) is a critical design element — its implementation affects latency, phase response, and aliasing rejection
+- Delta-sigma DACs work in reverse: interpolating, noise-shaping, and converting a multi-bit digital signal back to analog through a 1-bit output stage and reconstruction filter
+
+### Jitter Theory
+Jitter is timing variation in the digital clock that controls when samples are captured (ADC) or reconstructed (DAC):
+
+- **Clock jitter in ADCs** causes samples to be captured at slightly wrong times, effectively modulating the signal with timing noise — this adds low-level distortion correlated with the signal content
+- **Clock jitter in DACs** causes samples to be reconstructed at wrong times, producing similar artifacts during playback
+- **Modern converters have essentially solved the jitter problem** — Internal clock jitter in current designs is measured in picoseconds, well below audibility thresholds
+- **External clocking** (BNC word clock) was historically promoted as superior but the community's position is that modern converters' internal clocks are typically better than external clock sources, which must travel through cables and connectors that can introduce their own jitter
+
+### Nyquist and Sample Rate Implications
+The Nyquist-Shannon sampling theorem is the mathematical foundation of digital audio:
+
+- A sample rate of *f* can perfectly reconstruct frequencies up to *f/2* (the Nyquist frequency)
+- At 44.1 kHz, frequencies up to 22.05 kHz are captured — covering the full range of human hearing
+- The anti-aliasing filter (before the ADC) and reconstruction filter (after the DAC) must attenuate everything above the Nyquist frequency to prevent aliasing artifacts
+- Higher sample rates (96 kHz, 192 kHz) relax the requirements on these filters and provide more headroom for DSP processing, but do not capture "more audible information" — they capture ultrasonic content that humans cannot hear
+- The practical benefit of higher sample rates is primarily in **DSP headroom** — pitch shifting, time stretching, and plugin processing can benefit from the additional frequency space
+
+> [!note]
+> See [[Sample Rate]] for the community debate on which sample rate to use in practice. The nerd-talk discussion focuses on the theory; the recording-talk discussion focuses on the practical choice.
+
 ## See Also
 - [[Monitor Controllers Guide]]
 - [[Budget Gear Guide]]
 - [[Outboard vs In-The-Box]]
 - [[Cables and Connectivity Guide]]
 - [[Console Philosophy]]
+- [[Impedance and Audio Electronics]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 382
 > Key contributors: Nomograph Mastering, cian riordan, Bryan DiMaio, David Fuller, Rollmottle, Eric Martin, Zack Hames, BatMeckley, samourai, Rob Domos, peterlabberton, Slow Hand, Josh
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~53 (clocking/jitter theory, delta-sigma conversion, Nyquist implications)
+> Key contributors: Nomograph Mastering, Rob Domos, Gerhard Westphalen, Bryan DiMaio, David Fuller
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]
+
+> [!quote] cian riordan — Converter blind test (PINNED in #monitoring-talk, May 2021)
+> "I've done the A/B/X blind test between a Lavry gold and an Mbox 2... nobody in our studio could pick them out blind. Nobody at the AES convention we showcased the test could either. This was 10 years ago, so I bet the current iterations of A/D/A technology will be even more inaudible. Like I've said before, make these decisions on converters & interfaces based on workflow and scalability... because I guarantee you it's the least audible part of your signal chain."
+
+> [!quote] Discord Source
+> Channel: #🔈monitoring-talk
+> Messages: ~78 (36 converter + 42 Topping DAC discussion)
+> Date range: April 2021 – March 2022
+> Key contributors: cian riordan, David Fuller, Rob Domos, Zakhiggins
+> Notable: cian riordan's pinned converter blind test post directly supports this page's core thesis
+> See also: [[monitoring-talk Channel Summary]]
