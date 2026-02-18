@@ -1,4 +1,20 @@
+@use "./base.scss";
+
 // Matt Rad–inspired color theme: warm cream background, black text, red accents
+
+// Default (covers first visit before saved-theme is set)
+:root {
+  --light: #f5f0e8;
+  --lightgray: #ddd5c8;
+  --gray: #b8b0a4;
+  --darkgray: #2a2a2a;
+  --dark: #1a1a1a;
+  --secondary: #d42020;
+  --tertiary: #e04040;
+  --highlight: rgba(212, 32, 32, 0.08);
+  --textHighlight: rgba(212, 32, 32, 0.15);
+}
+
 :root[saved-theme="light"] {
   --light: #f5f0e8;
   --lightgray: #ddd5c8;
