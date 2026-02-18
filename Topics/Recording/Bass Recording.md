@@ -91,13 +91,13 @@ The standard professional approach:
 
 *3 photos shared in #recording-talk. Showing selected highlights.*
 
-![oaklandmatt 2022 12 16 bass vocal](https://cdn.discordapp.com/attachments/916021850683879434/1053388130100719777/IMG_4588.png)
+![[oaklandmatt_2022-12-16_bass-vocal.png]]
 *oaklandmatt (2022-12-16) — Discord brain. Can y'all help me recommend a portable <$10k vocal chain for my buddy Marc E Bassey? @BatMeckley @cian riordan*
 
-![soundslikejoe 2024 03 09 bass](https://cdn.discordapp.com/attachments/916021850683879434/1216130121879130163/20240309_160355.jpg)
+![[soundslikejoe_2024-03-09_bass.jpg]]
 *SoundsLikeJoe (2024-03-09) — Firebird suite...  and that WW section R84 is doing work.  Bassoon solo loves that mic.*
 
-![mike tierney 2025 04 02 bass strings room](https://cdn.discordapp.com/attachments/916021850683879434/1357098598298423327/IMG_4695.jpg)
+![[mike-tierney_2025-04-02_bass-strings-room.jpg]]
 *Mike Tierney (2025-04-02) — After deliberating with a few other engineer friends, here are the options I tried on hurdy gurdy. One of my friends who records a lot of early/mediev*
 
 ## External Resources

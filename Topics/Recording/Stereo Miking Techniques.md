@@ -123,13 +123,13 @@ A cardioid (mid) and figure-8 (side) at the same point, decoded for adjustable w
 
 *3 photos shared in #recording-talk. Showing selected highlights.*
 
-![calvin lauber 2024 07 30 horn di](https://cdn.discordapp.com/attachments/916021850683879434/1267935968653086832/IMG_5996.webp)
+![[calvin-lauber_2024-07-30_horn-di.webp]]
 *Calvin Lauber (2024-07-30) — They way I learned at ardent/royal in Memphis is to choose a corner of the Leslie and mic it so you’re forming a 90 degree angle, makes for a pretty c*
 
-![tim adamson 2025 02 25 session](https://cdn.discordapp.com/attachments/916021850683879434/1343912582347751535/IMG_20250110_013855085_1.jpg)
+![[tim-adamson_2025-02-25_session.jpg]]
 *tim adamson 🇦🇺 (2025-02-25) — @Jonathan Arnold while you're asking about stereo bars,  you're able to put together quite a useful stand by attaching a mic arm with those old school*
 
-![tim adamson 2025 02 25 session](https://cdn.discordapp.com/attachments/916021850683879434/1343912582779768913/Screenshot_20250225-224626.png)
+![[tim-adamson_2025-02-25_session.png]]
 *tim adamson 🇦🇺 (2025-02-25) — @Jonathan Arnold while you're asking about stereo bars,  you're able to put together quite a useful stand by attaching a mic arm with those old school*
 
 ## External Resources

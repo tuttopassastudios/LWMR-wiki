@@ -115,16 +115,16 @@ The community distinguishes between:
 
 *4 photos shared in #recording-talk. Showing selected highlights.*
 
-![bennythetweet 2023 02 01 room](https://cdn.discordapp.com/attachments/916021850683879434/1070437130658131979/IMG_0867.jpg)
+![[bennythetweet_2023-02-01_room.jpg]]
 *bennythetweet (2023-02-01) — Anyone else out there helping musical theater performers with “self-tapes”? Thinking a Senn 416 might be 1mX better than this. The room sounds like tr*
 
-![soundslikejoe 2025 12 28 room](https://cdn.discordapp.com/attachments/916021850683879434/1454930530469679145/4y_yLV7JTsGWTOIKPXIejw.png)
+![[soundslikejoe_2025-12-28_room.png]]
 *SoundsLikeJoe (2025-12-28) — I added a permanent room mic to the ceiling.  It's a mono omni in center and about 2" from the tiles. Has a great crunchy bleed sound. Not hi-fi but f*
 
-![sei046 2026 01 04 room](https://cdn.discordapp.com/attachments/916021850683879434/1457462998770647293/image0.jpg)
+![[sei046_2026-01-04_room.jpg]]
 *Sei046 (2026-01-04) — Cheers! It can be a bit like being in a pool table at times. That’s actually a better pic of the live room and the other one is the control room befor*
 
-![sei046 2026 01 04 room 2](https://cdn.discordapp.com/attachments/916021850683879434/1457462999332815029/image1.jpg)
+![[sei046_2026-01-04_room-2.jpg]]
 *Sei046 (2026-01-04) — Cheers! It can be a bit like being in a pool table at times. That’s actually a better pic of the live room and the other one is the control room befor*
 
 ## External Resources

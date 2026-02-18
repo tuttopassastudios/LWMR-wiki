@@ -92,52 +92,52 @@ chrissorem shared a "piano tape bridge" technique for dampening/modifying the pi
 
 *14 photos shared in #recording-talk. Showing selected highlights.*
 
-![hyanrarvey 2022 12 17 piano brass](https://cdn.discordapp.com/attachments/916021850683879434/1053743197936947261/IMG_2243.jpg)
+![[hyanrarvey_2022-12-17_piano-brass.jpg]]
 *hyanrarvey (2022-12-17) — All jokes aside one of the 414s the single non matched one we have with a brass cap is living on the piano and i am extremely happy with how its sound*
 
-![laphill 2023 03 28 di session](https://cdn.discordapp.com/attachments/916021850683879434/1090308812625432737/image0.jpg)
+![[laphill_2023-03-28_di-session.jpg]]
 *LAPhill (2023-03-28) — Here’s a recent upright miking we did. More of a rounded jazz vibe, I’d put something higher on the neck for more clarity/cut, as @NoahNeedleman said*
 
-![dudeitsmarcus 2023 03 31 piano](https://cdn.discordapp.com/attachments/916021850683879434/1091517707314282546/IMG_7947.jpg)
+![[dudeitsmarcus_2023-03-31_piano.jpg]]
 *dudeitsmarcus (2023-03-31) — decided to throw a Coles under the grand piano for the hell of it. sounds awesome!*
 
-![stefanmacc 2023 05 19 piano organ room](https://cdn.discordapp.com/attachments/916021850683879434/1109022581132116018/image0.png)
+![[stefanmacc_2023-05-19_piano-organ-room.png]]
 *stefanmacc (2023-05-19) — Hey @chrissorem and everyone else who’s experienced with big boy pianos .. how wrong am I doing this ? 😂 
 
 Two spaced pairs of AEA n8 ribbons and two*
 
-![ross fortune 2023 09 02 vocal organ room](https://cdn.discordapp.com/attachments/916021850683879434/1147588847690063922/32350107-b286-4fed-a525-edfb34c9402f.jpg)
+![[ross-fortune_2023-09-02_vocal-organ-room.jpg]]
 *Ross Fortune (2023-09-02) — @Iwan Morgan not sure which thread you asked and I don’t want to sidetrack discussion in #👩🍳mixing-talk right now, but a pal happened to just comment*
 
-![cian riordan 2023 11 23 piano strings setup](https://cdn.discordapp.com/attachments/916021850683879434/1177240891438669895/IMG_6216_Original.jpg)
+![[cian-riordan_2023-11-23_piano-strings-setup.jpg]]
 *cian riordan (2023-11-23) — Welcome! First thing I’d suggest is pulling off the front panel if you haven’t already. It’ll give a much more direct, clear sound and will help you b*
 
-![louisvie 2023 12 13 tom piano placement](https://cdn.discordapp.com/attachments/916021850683879434/1184662737377316894/IMG_0877.jpg)
+![[louisvie_2023-12-13_tom-piano-placement.jpg]]
 *louisvie (2023-12-13) — P’aying and Recording my band’s debut album in there tomorrow, all live instruments
 
 Any placement recs for the Townsend Room Mic ?
 
 Should I keep the*
 
-![alex stinson 2024 01 22 piano](https://cdn.discordapp.com/attachments/916021850683879434/1199166771811319818/IMG_1478.jpg)
+![[alex-stinson_2024-01-22_piano.jpg]]
 *alex stinson (2024-01-22) — i know the royer sf24 has become a meme here- but it worked nicely today on a toy piano 😂*
 
-![jantrit 2024 10 10 organ setup](https://cdn.discordapp.com/attachments/916021850683879434/1293994377995354142/image0.jpg)
+![[jantrit_2024-10-10_organ-setup.jpg]]
 *jantrit (2024-10-10) — Usually positioned something like this, love using m160’s for the top but only have one available here. Also had great luck with the aea88 a little wa*
 
-![alex stinson 2025 01 20 piano](https://cdn.discordapp.com/attachments/916021850683879434/1331164235480170557/IMG_6083.jpg)
+![[alex-stinson_2025-01-20_piano.jpg]]
 *alex stinson (2025-01-20) — day 5 of a solo piano record today.*
 
-![oli j 2025 02 28 piano](https://cdn.discordapp.com/attachments/916021850683879434/1345059573823836201/IMG_3251.png)
+![[oli-j_2025-02-28_piano.png]]
 *Oli J (2025-02-28) — When you close the lid of the piano, there’s another bit that then closes over the hammers that folds over. Tape them on here so they end up over the*
 
-![paris blue butler studios 2025 03 26 piano di](https://cdn.discordapp.com/attachments/916021850683879434/1354633506365640724/IMG_8988.jpg)
+![[paris-blue-butler-studios_2025-03-26_piano-di.jpg]]
 *Paris / Blue Butler Studios (2025-03-26) — Recording jazz piano today, really loving the tone I’m getting from the R44’s & schoeps wide cardioids*
 
-![johnny i 2025 07 22 piano](https://cdn.discordapp.com/attachments/916021850683879434/1397351495174983771/Piano.jpg)
+![[johnny-i_2025-07-22_piano.jpg]]
 *Johnny I (2025-07-22) — If the register being played on the piano is isolated to the lower end (within the red rectangle), would it be good practice to have the 2 mics coveri*
 
-![noahneedleman 2024 02 29 vocal organ session](https://cdn.discordapp.com/attachments/916021850683879434/1212816090774769714/Screen_Shot_2024-02-29_at_11.37.13_AM.png)
+![[noahneedleman_2024-02-29_vocal-organ-session.png]]
 *NoahNeedleman (2024-02-29)*
 
 ## External Resources

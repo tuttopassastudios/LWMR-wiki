@@ -121,66 +121,66 @@ BatMeckley additions:
 
 *246 photos shared in #recording-talk. Showing selected highlights.*
 
-![zack hames 2021 12 04 setup](https://cdn.discordapp.com/attachments/916021850683879434/916746115993436220/5CB5B02C-0C48-427D-94E5-4F31F28414B0.jpg)
+![[zack-hames_2021-12-04_setup.jpg]]
 *Zack Hames (2021-12-04) — This was almost the exact setup.*
 
-![zack hames 2021 12 04 setup 2](https://cdn.discordapp.com/attachments/916021850683879434/916746116433866802/CC917A24-5C1F-4440-BF9F-89A399003447.jpg)
+![[zack-hames_2021-12-04_setup-2.jpg]]
 *Zack Hames (2021-12-04) — This was almost the exact setup.*
 
-![david fuller 2022 01 07 setup](https://cdn.discordapp.com/attachments/916021850683879434/929060481153523742/PXL_20220107_171351557.jpg)
+![[david-fuller_2022-01-07_setup.jpg]]
 *David Fuller (2022-01-07) — Excuse my chicken scratch handwriting... This is my setup sheet for this afternoon. Gonna be fun.*
 
-![jantrit 2022 01 14 di](https://cdn.discordapp.com/attachments/916021850683879434/931613472616243330/image0.jpg)
+![[jantrit_2022-01-14_di.jpg]]
 *jantrit (2022-01-14) — Recording some bloody music innit!*
 
-![deleted user 2022 02 27 vocal di](https://cdn.discordapp.com/attachments/916021850683879434/947516994457051206/IMG_6185.jpg)
+![[deleted-user_2022-02-27_vocal-di.jpg]]
 *Deleted User (2022-02-27) — Finished this vocal comp and immediately thought who the f*ck would want to watch a video of someone doing that then immediately thought probably me 🙃*
 
-![absflores 2022 03 23 vocal tracking](https://cdn.discordapp.com/attachments/916021850683879434/956411893197725726/EF5C8838-C30F-4B09-9BA5-746D21BDE0BE.jpg)
+![[absflores_2022-03-23_vocal-tracking.jpg]]
 *absflores (2022-03-23) — This is the Bieber settings Gudwin uses to track his vocals.*
 
-![ross fortune 2022 12 01 di console](https://cdn.discordapp.com/attachments/916021850683879434/1047903216349745233/Screenshot_2022-12-01_at_15.48.31.png)
+![[ross-fortune_2022-12-01_di-console.png]]
 *Ross Fortune (2022-12-01) — You can save on plugin instances by having a RECORD track with whatever plugs on it, then grabbing these clips as you record them and dropping them in*
 
-![ross fortune 2022 12 19 di setup](https://cdn.discordapp.com/attachments/916021850683879434/1054378779759362118/D586325A-C204-4B77-935E-149BB6E52D76.jpg)
+![[ross-fortune_2022-12-19_di-setup.jpg]]
 *Ross Fortune (2022-12-19) — Posted this here before somewhere but I made this at the start of lockdown.
 
 Wouldn’t necessarily advise sitting in a bay window for sonics, but that’*
 
-![zack hames 2023 02 14 setup](https://cdn.discordapp.com/attachments/916021850683879434/1075032126312960140/IMG_6802.jpg)
+![[zack-hames_2023-02-14_setup.jpg]]
 *Zack Hames (2023-02-14) — Main setups*
 
-![zack hames 2023 02 14 setup 2](https://cdn.discordapp.com/attachments/916021850683879434/1075032126740758628/IMG_6785.jpg)
+![[zack-hames_2023-02-14_setup-2.jpg]]
 *Zack Hames (2023-02-14) — Main setups*
 
-![zack hames 2023 02 14 setup 3](https://cdn.discordapp.com/attachments/916021850683879434/1075032127055339610/IMG_6778.jpg)
+![[zack-hames_2023-02-14_setup-3.jpg]]
 *Zack Hames (2023-02-14) — Main setups*
 
-![esquinalee 2023 04 11 di](https://cdn.discordapp.com/attachments/916021850683879434/1095525056689471598/IMG_9488.png)
+![[esquinalee_2023-04-11_di.png]]
 *esquinalee (2023-04-11) — …the only exercise I did today was try to get these conga parts grooving in the pocket and sitting in the mix. Don’t worry I didn’t sweat on the R92*
 
-![chrissorem 2023 05 10 setup](https://cdn.discordapp.com/attachments/916021850683879434/1105958587454468167/IMG_4464.jpg)
+![[chrissorem_2023-05-10_setup.jpg]]
 *chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
 
-![chrissorem 2023 05 10 setup 2](https://cdn.discordapp.com/attachments/916021850683879434/1105958587878092890/IMG_4465.jpg)
+![[chrissorem_2023-05-10_setup-2.jpg]]
 *chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
 
-![chrissorem 2023 05 10 setup 3](https://cdn.discordapp.com/attachments/916021850683879434/1105958588247179384/IMG_4467.jpg)
+![[chrissorem_2023-05-10_setup-3.jpg]]
 *chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
 
-![chrissorem 2023 05 10 setup 4](https://cdn.discordapp.com/attachments/916021850683879434/1105958588603707463/IMG_4468.jpg)
+![[chrissorem_2023-05-10_setup-4.jpg]]
 *chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
 
-![chrissorem 2023 05 10 setup 5](https://cdn.discordapp.com/attachments/916021850683879434/1105958588909879396/IMG_4463.jpg)
+![[chrissorem_2023-05-10_setup-5.jpg]]
 *chrissorem (2023-05-10) — Live jazz setup they wanted isolation in this instance.*
 
-![chrissorem 2023 07 13 console](https://cdn.discordapp.com/attachments/916021850683879434/1129057743521710220/IMG_4840.png)
+![[chrissorem_2023-07-13_console.png]]
 *chrissorem (2023-07-13) — I think you forgot one thing*
 
-![matthew the cooke 2023 09 24 setup](https://cdn.discordapp.com/attachments/916021850683879434/1155608347647684618/72BC2C39-B1E4-4203-94D1-3678DDB9F10D.jpg)
+![[matthew-the-cooke_2023-09-24_setup.jpg]]
 *Matthew The Cooke🎄🎅🏻 (2023-09-24) — Tried kind of a triangular OH setup today worked quite nice tbh*
 
-![eric martin 2023 09 25 di studio](https://cdn.discordapp.com/attachments/916021850683879434/1155873848223342632/IMG_5176.jpg)
+![[eric-martin_2023-09-25_di-studio.jpg]]
 *Eric Martin (2023-09-25) — morning sun in the studio at 7:30 am*
 
 *See [[_image-index|Image Index]] for all 246 photos.*
