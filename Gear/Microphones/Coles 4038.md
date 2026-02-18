@@ -65,9 +65,21 @@ The Coles 4038 is a versatile instrument microphone that excels on nearly everyt
 - [[AKG C12]]
 - [[Shure SM7B]]
 
+## Recording-Talk Perspectives
+
+- Ross Fortune: Uses Coles as wide far room mics "driven into deranged madness with a pair of Distressors in Nuke"
+- dudeitsmarcus: "decided to throw a Coles under the grand piano for the hell of it. sounds awesome!"
+- oaklandmatt: "cian riordan your old 44 rules" (referencing a Coles used as drum room mic)
+- Heavily used as room mics and overheads in recording sessions
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: 2021-03 through 2024-11
 > Key contributors: Zack Hames, Eric Martin, cian riordan, Zeuswayn3, oaklandmatt, David Fuller, Josh, Johnny I, chrissorem, hyanrarvey, SoundsLikeJoe, Adam Thein, mixingandcats, Slow Hand, chris_donlin
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 143
+> Key contributors: Ross Fortune, cian riordan, dudeitsmarcus, Zack Hames, oaklandmatt

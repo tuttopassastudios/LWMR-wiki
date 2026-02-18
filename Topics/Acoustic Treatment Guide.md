@@ -148,14 +148,30 @@ The community endorses DIY panels as highly cost-effective:
 - **Placing monitors against the wall without treatment** -- Creates massive bass buildup
 - **Assuming treatment = soundproofing** -- Treatment controls sound within a room; soundproofing prevents sound from entering/leaving
 
+## Tracking Rooms vs Mixing Rooms (from #recording-talk)
+
+> [!quote] cian riordan (2025-02-21)
+> "I find all of the best resources for acoustics tend to be geared towards making room monitoring useful for translation (with respect to mixing and mastering). I find very little of the acoustics discourse useful for guidance on how to record real instruments in real spaces. Not to mention that any revered tracking space over the past 100 years would likely never pass a frequency response sniff test."
+
+The #recording-talk community draws a critical distinction:
+- **Mixing room treatment** optimizes for flat response, controlled reflections, and translation accuracy
+- **Tracking room treatment** optimizes for character, musicality, and inspiration -- "interesting" over "correct"
+- Great tracking rooms (Ocean Way, Barefoot, Sound City) are defined by their personality, not their measurement graphs
+- See [[Room Mics and Ambient Recording]] for how room character is captured and used
+
 ## See Also
 - [[Monitor Controllers Guide]]
 - [[Budget Gear Guide]]
 - [[Power Conditioning]]
 - [[Computer Hardware for Audio]]
+- [[Room Mics and Ambient Recording]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 51
 > Key contributors: Slow Hand, Josh, NoahNeedleman, Rollmottle, cian riordan, Zack Hames, KushKadett, Adam Thein, Nomograph Mastering, Iwan Morgan, Ross Fortune, ehutton21
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Key contributors: cian riordan

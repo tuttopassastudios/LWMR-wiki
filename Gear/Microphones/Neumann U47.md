@@ -69,3 +69,8 @@ The U47 is most commonly associated with lead vocals, particularly male vocals w
 > Channel: #gear-talk
 > Date: 2021-03 through 2025-06
 > Key contributors: cian riordan, Eric Martin, NoahNeedleman, popaganda., ehutton21, Bridges, Ross Fortune, LAPhill, shaunobi, Zack Hames, popthetrunk, lystell
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 36
+> Key contributors: cian riordan, Eric Martin, jantrit, oaklandmatt

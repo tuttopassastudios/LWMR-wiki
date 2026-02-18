@@ -67,6 +67,13 @@ The SM57 is used on virtually every session in some capacity:
 - [[Electro-Voice RE20]]
 - [[Coles 4038]]
 
+## Recording-Talk Perspectives
+
+- cian riordan uses 57 on top snare as standard -- part of the "4 mic drum setup" alongside d12 and KM184s
+- thecoleyoung: Troubleshot a lifeless-sounding 4-mic drum setup (57, D12, KM184s) -- turned out to be monitoring issues, not the mics
+- cian riordan on the 57's limitations: "The only thing more underwhelming than an SM57 is one with the transformer taken out. I love the mic, but c'mon, I think there are broader stroke decisions we could be making in mic choice here."
+- Zack Hames conducted a detailed SM57 shootout: 4 vintage Unidyne III SM57s, 4 modern SM57s, and 3 SM58s with grills removed, all tested on electric guitar
+
 ## Source Discussions
 
 > [!quote]
@@ -74,3 +81,8 @@ The SM57 is used on virtually every session in some capacity:
 > **Date Range:** July 2022 -- January 2025
 > **Key Contributors:** Zack Hames, cian riordan, BatMeckley, Eric Martin
 > **Total Mentions:** 22 across 18 threads
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 145
+> Key contributors: cian riordan, Zack Hames, thecoleyoung, jantrit, BatMeckley

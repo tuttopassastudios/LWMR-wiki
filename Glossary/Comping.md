@@ -25,8 +25,13 @@ Comping workflows are a key differentiator between DAWs. [[Pro Tools]]' playlist
 
 - [[DAW Comparison]]
 
+## Recording-Talk Perspective
+
+BatMeckley's philosophy on comping from #recording-talk: "Very rarely is a take ALL bad. 'I especially loved the first three words and the last one. Let's focus on that energy' is helpful." The community emphasizes that comping should serve the performance, not replace it -- chasing technical perfection at the expense of emotion is considered a common mistake. See [[Session Mindset and Engineering Philosophy]].
+
 ## See Also
 
 - [[Pro Tools]]
 - [[Logic Pro]]
 - [[DAW Comparison]]
+- [[Session Mindset and Engineering Philosophy]]

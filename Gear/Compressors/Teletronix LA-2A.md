@@ -88,3 +88,8 @@ Commonly referenced settings from experienced engineers:
 > Channel: #gear-talk
 > Date: September 2021 - May 2025
 > Key contributors: BatMeckley, cian riordan, Edward Rivera, onanisland, hyanrarvey, Bryan DiMaio, Iwan Morgan, briantaylor, Ross Fortune, isaac joel, Maxim, DavidDosi, Zach Hughes
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 23
+> Key contributors: cian riordan, BatMeckley

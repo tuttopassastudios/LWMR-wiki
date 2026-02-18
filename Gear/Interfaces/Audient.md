@@ -80,3 +80,8 @@ modified: 2026-02-17
 > "One thing to note with the SSL and Audient is that the roundtrip latency is a tad higher than stuff with custom drivers like RME." -- Bryan DiMaio
 >
 > "It seems fine enough if your needs line up perfectly with the feature set it offers -- just doesn't really have any bells and whistles, which can be a feature in and of itself." -- Bryan DiMaio
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 16
+> Key contributors: hyanrarvey

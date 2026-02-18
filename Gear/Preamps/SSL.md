@@ -142,3 +142,8 @@ Some studios modify SSLs extensively to address their sonic limitations:
 > Channel: #gear-talk
 > Date: November 2022 - May 2025
 > Key contributors: hyanrarvey, Zack Hames, David Fuller, Nomograph Mastering, Bryan DiMaio, spectrummasters, peterlabberton, cian riordan, chrissorem, sethmanchester, Eric Martin, itaylerner, jantrit
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 29
+> Key contributors: Zack Hames, Ross Fortune

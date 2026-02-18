@@ -91,9 +91,27 @@ cian riordan provided detailed guidance on backup strategies:
 - [[Pro Tools]] — industry standard for tracking
 - [[Session Templates and Organization]] — template setup
 
+## Session Workflow in Practice (from #recording-talk)
+
+### A Full Tracking Day
+> [!quote] Zack Hames (2023-02-14)
+> "Got to studio at 1030am, started loading in some of my personal gear (monitors, preamp rack, little box of mics and such). Set up studio drum kit, set up mics (18 mics on drums, 3 DI boxes, 3 SM58's for scratch/talkback, 2 'synth amp' mics and 2 'bass amp' mics) and set up the bass cab and the guitar amp we were going to use. Was nearly completely setup by the time the band arrived a little after 1pm."
+
+### Session Scheduling
+- NoahNeedleman: "If the artist doesn't care -- then do it without them there. If you wanna focus on guitar tones, have the guitarist come in early -- he/she will love it and the rest of the band will appreciate their time being respected."
+- Instrument-specific focus time (drums first, then overdubs) is the norm for professional sessions
+- See [[Session Mindset and Engineering Philosophy]] for interpersonal session management
+
+### Commitment During Tracking
+The #recording-talk community strongly advocates for committing to sounds during tracking rather than deferring all decisions to mixing. See [[Session Mindset and Engineering Philosophy]] for BatMeckley's "don't be a wuss" philosophy on commitment.
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** oaklandmatt, Ross Fortune, cian riordan, Adam Thein, Slow Hand
 > **Message volume:** 905 categorized messages (258 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #recording-talk — **Date Range:** 2021-12 to 2026-02
+> **Key contributors:** Zack Hames, cian riordan, NoahNeedleman, BatMeckley

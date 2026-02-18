@@ -25,7 +25,12 @@ In analog systems, improper gain staging can introduce noise (too low) or distor
 - [[Summing]]
 - [[VCA]]
 
+## Recording Context
+
+In #recording-talk, gain staging is discussed primarily in the context of tracking through outboard gear. cian riordan notes that "24 bits is an insane amount of headroom" -- the community generally advises leaving 6-12 dB below digital 0 when tracking. The more nuanced discussion involves deliberately driving preamp and compressor inputs for tonal character (e.g., using [[UREI 1176]]s as line distortion by "blowing up the input and trimming the output").
+
 ## See Also
 
 - [[Mixing in the DAW]]
 - [[DAW Comparison]]
+- [[Recording and Tracking Workflows]]

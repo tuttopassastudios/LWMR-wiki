@@ -123,14 +123,40 @@ There is no universal answer. The community's approach:
 - **Not recording a DI/clean take** for safety alongside the processed version
 - **Spending $5,000 on a microphone** before investing in room treatment and monitoring
 
+## Recording Vocal Technique (from #recording-talk)
+
+### Mic Distance and Proximity Effect
+> [!quote] cian riordan (2023-12-28)
+> "Proximity effect on the mic is useful, so get right up on there. Aggressive HPF into heavy compression (1176 style FET is tough to beat). Heavy handed RXing to get out mouth noise and breaths that you've brought into the center of your brain with all the compression."
+
+### Historical Perspective on Distance
+> [!quote] BatMeckley (2023-01-25)
+> "Those mics were meant to be used at a greater distance than we use them at today. Engineers were actual lab coat wearing electrical engineers with exacting standards of doing things and it was Geoff Emerick who kinda started when no one was looking pushing the mics closer to the sources to get a particular vibe, and it caught on."
+
+### Omni Pattern for Vocalists
+BatMeckley: "The biggest bonus of Omni to me is its basic total lack of proximity effect. So if you're in a well treated booth, the singer can really be feeling themselves dancing around (which can really help a take) and the recording will be way more consistent. It's also great for doing BVs."
+
+### Voice Care and Remedies
+See [[Session Mindset and Engineering Philosophy]] for Ross Fortune's pinned voice remedy guide (peppermint tea, salt gargle, steam, ginger) and BatMeckley's unconventional tips (Lays chips, Altoids, ibuprofen).
+
+### Mic Shootouts
+BatMeckley recommends regular mic shootouts on vocalists: "It's a good idea every once in a while to shoot out your mics on things and recalibrate your life. I just had a singer over to sing into the 251, the Josephson 705, the Soyuz 17FET, and the M930."
+
 ## See Also
 - [[Budget Gear Guide]]
 - [[Acoustic Treatment Guide]]
 - [[Outboard vs In-The-Box]]
 - [[Recording and Tracking Workflows]]
+- [[Session Mindset and Engineering Philosophy]]
+- [[Headphone Mixes and Cue Systems]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 62
 > Key contributors: NoahNeedleman, Josh, ehutton21, BatMeckley, Jodonny, cian riordan, chris_donlin, SoundsLikeJoe, oaklandmatt
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Matches: 933
+> Key contributors: BatMeckley, cian riordan, Zakhiggins, NoahNeedleman, Ross Fortune, peterlabberton, LAPhill

@@ -65,9 +65,19 @@ The C12 excels in the same territory as the 251 but with a slightly more hi-fi, 
 - [[Neumann U87]]
 - [[Coles 4038]]
 
+## Recording-Talk Perspectives
+
+- BatMeckley: "The ultimate I've ever had was a C24 (a stereo C12)" for drum overheads
+- chrissorem recommends C12 for mandolin recording: "my choice would be a c12 and a Coles inline 10-12 inches from the instrument"
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: 2021-02 through 2024-08
 > Key contributors: Eric Martin, Zack Hames, Eliot Infuze, hyanrarvey, NoahNeedleman, peterlabberton, brodymyles, Slow Hand, David Fuller, BatMeckley, Marc
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 42
+> Key contributors: BatMeckley, chrissorem

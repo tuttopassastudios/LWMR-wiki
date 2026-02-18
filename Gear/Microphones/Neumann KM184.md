@@ -48,6 +48,12 @@ The KM184 is used on acoustic guitar, piano, drum overheads, strings, and genera
 - [[Schoeps Microphones]]
 - [[AKG C414]]
 
+## Recording-Talk Perspectives
+
+- cian riordan recommends KM84/KM184 as the ideal pair for upright piano: "Those KM84s are going to sound wonderful... would be hard to argue for a better pair of mics on upright"
+- Used as drum overheads in the classic "4 mic drum setup" (57, D12, KM184s)
+- Praised for acoustic guitar and small ensemble recording
+
 ## Source Discussions
 
 > [!quote]
@@ -55,3 +61,8 @@ The KM184 is used on acoustic guitar, piano, drum overheads, strings, and genera
 > **Date Range:** July 2022 -- January 2025
 > **Key Contributors:** Eric Martin, cian riordan, Zack Hames, ehutton21
 > **Total Mentions:** 12 across 10 threads
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 44
+> Key contributors: cian riordan, thecoleyoung, jantrit

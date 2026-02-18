@@ -65,9 +65,21 @@ Engineers reach for the U87 when they need a safe, reliable choice on nearly any
 - [[Shure SM7B]]
 - [[Coles 4038]]
 
+## Recording-Talk Perspectives
+
+- JoshuaEstock (22 reactions): "The most significant difference over years was obviously the move to the U87ai. Essentially, a DC to DC converter was added to the power supply and the capsule polarization changed. This added 10dB of sensitivity to the mic, lowered the noise and made the mic brighter."
+- cian riordan: "My gauge for a good 87 is all in how the mids respond. Favorable versions will have a little more body in the low mids. I find singing through it into serviceable tracking compression (ie 5-7dB GR in an 1176) will unveil how the high mids sound. You want them to be present but not brittle or harsh."
+- NoahNeedleman: "The U87ai is the most frustrating vocal mic I've ever worked with. I'd take an SM7B over that any day of the week"
+- The community clearly distinguishes between vintage U87 (warmer, more forgiving) and U87ai (brighter, potentially harsher)
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: 2021-03 through 2024-08
 > Key contributors: SoundsLikeJoe, cian riordan, Josh, NoahNeedleman, BatMeckley, James Redfern, Adam Thein, David Fuller, Nomograph Mastering, peterlabberton, ehutton21
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 104
+> Key contributors: cian riordan, NoahNeedleman

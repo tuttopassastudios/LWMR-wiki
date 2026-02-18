@@ -83,9 +83,19 @@ Commonly referenced settings from experienced engineers:
 - [[Tube-Tech CL1B]]
 - [[Spectra 1964 C610]]
 
+## Recording-Talk Perspectives
+
+- Ross Fortune: Uses Distressors "in Nuke" on Coles room mics for explosive drum sounds
+- Referenced as tracking compression for drums and room mics
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: February 2022 - April 2026
 > Key contributors: ehutton21, hyanrarvey, Josh, BatMeckley, cian riordan, chris_donlin, Eric Martin, oaklandmatt, David Fuller, Zack Hames, Iwan Morgan, montrose recording, thejadenmejia
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 18
+> Key contributors: Ross Fortune, cian riordan

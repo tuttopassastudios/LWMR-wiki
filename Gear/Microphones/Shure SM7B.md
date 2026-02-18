@@ -66,9 +66,25 @@ The SM7B shines on loud singers and in untreated recording environments. TALLL n
 - [[Coles 4038]]
 - [[AKG-Telefunken 251]]
 
+## Recording-Talk Perspectives
+
+> [!quote] NoahNeedleman (2025-06-02)
+> "Man I've made so many records with an SM7B, I'm always happy when an artist can sing into one. Get an AEA RPQ -- curve bender style eq and a ton of gain, works like gang busters on ribbons and dynamic mics."
+
+- BatMeckley: "I'm convinced the allure of the SM7 is that it's such low output you really need to gun the preamps to compensate, making the character of the pre really shine through"
+- NoahNeedleman: "Learn how to make an SM7B sound expensive. That's a much more useful skill than having an expensive mic"
+- NoahNeedleman: "I'd take an SM7B over [a U87ai] any day of the week and twice on Sunday"
+- Used by Kevin Olusola (Pentatonix) for beatbox recording -- NoahNeedleman split the kick, snare, and hats and "mixed them like separate mics"
+- cian riordan recommends the SM7 as a kick drum mic in smaller setups
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: 2021-02 through 2024-06
 > Key contributors: hyanrarvey, NoahNeedleman, Josh, Eric Martin, oaklandmatt, Zack Hames, peterlabberton, cian riordan, ehutton21, BatMeckley, TALLL, blanco, Will Melones, BoozleBAM, peterhomusic
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 129
+> Key contributors: NoahNeedleman, cian riordan, BatMeckley

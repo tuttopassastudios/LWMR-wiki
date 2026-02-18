@@ -71,3 +71,8 @@ RME interfaces are the top recommendation for engineers who prioritize driver re
 > Channel: #gear-talk
 > Date: 2022-11 through 2025-08
 > Key contributors: David Fuller, Bryan DiMaio, Adam Thein, SoundsLikeJoe, Ed Sokolowski, Josh, Joshua Riley, Tyler Graham, Josh Bowman, mixedbycheda, soundheartcollective, Will Pragnell
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 117
+> Key contributors: Zack Hames, hyanrarvey

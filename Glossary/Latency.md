@@ -26,6 +26,12 @@ Latency is an inherent characteristic of digital audio processing. Round-trip la
 - [[Sample Rate]]
 - [[CPU Optimization for Audio]]
 
+## Recording-Talk Perspective
+
+In #recording-talk, latency is discussed primarily in the context of headphone monitoring for performers. The community emphasizes that delayed own-voice monitoring is disorienting for singers, and that direct monitoring or low-buffer-size operation is essential for comfortable tracking sessions. See [[Headphone Mixes and Cue Systems]] for practical monitoring approaches.
+
 ## See Also
 
 - [[DAW Comparison]]
+- [[Headphone Mixes and Cue Systems]]
+- [[Recording and Tracking Workflows]]

@@ -69,3 +69,8 @@ The Apollo is the go-to for engineers who want an all-in-one solution covering i
 > Channel: #gear-talk
 > Date: 2021-02 through 2025-08
 > Key contributors: NoahNeedleman, BatMeckley, Bryan DiMaio, cian riordan, hyanrarvey, ALXCPH, Eric Martin, Josh, thecoleyoung, Nacho Sotelo, Adam Thein, Zack Hames
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 71
+> Key contributors: Zack Hames, cian riordan, hyanrarvey

@@ -18,11 +18,23 @@ modified: 2026-02-17
 
 - [[Recording and Tracking Workflows]] — DAW ranking for tracking, latency, comping, backup, remote collaboration
 - [[Session Templates and Organization]] — template setup for recording
+- [[Session Mindset and Engineering Philosophy]] — working with artists, professionalism, commitment
 
 ---
 
-## Microphone Selection & Placement
+## Instrument Recording Techniques
 
+- [[Drum Recording Techniques]] — mic placement, overhead techniques, tuning, room mics, phase
+- [[Guitar Recording]] — amp/cab miking, acoustic techniques, polar patterns, DI workflow
+- [[Bass Recording]] — DI vs amp, blend techniques, playing dynamics
+- [[Piano and Keys Recording]] — grand/upright piano, Rhodes, Wurlitzer miking
+
+---
+
+## Microphone Techniques
+
+- [[Stereo Miking Techniques]] — XY, ORTF, spaced pair, Blumlein, mid-side comparisons
+- [[Room Mics and Ambient Recording]] — room mic philosophy, bleed management, compression on rooms
 - [[Neumann U87]] — large diaphragm condenser workhorse
 - [[Shure SM7B]] — dynamic vocal/broadcast standard
 - [[Shure SM57]] — instrument mic workhorse
@@ -35,7 +47,7 @@ modified: 2026-02-17
 ## Preamp & Gain Staging
 
 - [[Neve 1073]] — the most famous preamp circuit
-- [[API Preamps]] — discrete 2520 op-amp design
+- [[API Preamps]] — discrete 2520 op-amp design, GOATed for drums
 - [[Avalon VT-737]] — tube channel strip, pop/R&B vocal standard
 - [[Gain Staging]]
 
@@ -58,6 +70,7 @@ modified: 2026-02-17
 
 ## Headphone Mixes & Monitoring
 
+- [[Headphone Mixes and Cue Systems]] — artist monitoring, cue routing, click management
 - [[Beyerdynamic DT770]] — closed-back tracking standard
 - [[Audio-Technica ATH-M50x]] — popular closed-back studio headphones
 

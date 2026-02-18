@@ -124,9 +124,67 @@ For each channel processed, record:
 
 ---
 
+### #recording-talk
+
+- **Channel:** #recording-talk (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-17
+- **Date range:** December 2021 – February 2026
+- **Messages:** 16,219 raw → ~11,195 substantive (40+ chars) → ~5,800+ keyword-relevant
+- **Unique authors:** 269
+- **Pinned messages:** 4
+
+**Pages created (8):**
+- [[Drum Recording Techniques]], [[Guitar Recording]], [[Bass Recording]]
+- [[Piano and Keys Recording]], [[Stereo Miking Techniques]]
+- [[Room Mics and Ambient Recording]], [[Headphone Mixes and Cue Systems]]
+- [[Session Mindset and Engineering Philosophy]]
+
+**Pages enriched (20+):**
+- [[Vocal Chain]] — added recording technique, voice care, mic shootout advice
+- [[Reamping]] — added creative reamping perspectives
+- [[Recording and Tracking Workflows]] — added practical session workflow
+- [[Acoustic Treatment Guide]] — added tracking room vs mixing room distinction
+- [[Sample Rate]], [[Bit Depth]] — added community debate data, upgraded confidence to medium
+- ~15 gear pages — added recording-talk source blocks and context:
+  - [[Shure SM7B]], [[Shure SM57]], [[Neumann U87]], [[Neumann U47]], [[Neumann KM184]]
+  - [[Coles 4038]], [[Electro-Voice RE20]], [[AKG C12]], [[Royer Ribbon Mics]]
+  - [[Neve 1073]], [[API Preamps]], [[SSL]]
+  - [[UREI 1176]], [[Teletronix LA-2A]], [[Empirical Labs Distressor]]
+  - [[RME]], [[Universal Audio Apollo]], [[Audient]]
+
+**Channel summary:** [[recording-talk Channel Summary]]
+
+**MOC updated:** [[Recording]] — added new sections for Instrument Recording Techniques and Microphone Techniques
+
+**Identified experts:**
+- **hyanrarvey** (2,234 messages) — Broad recording knowledge, session workflow
+- **cian riordan** (1,035 messages) — Drum recording specialist, overhead techniques, mic placement, session philosophy
+- **Zack Hames** (738 messages) — Drum sessions, mic shootouts, practical workflow
+- **Nomograph Mastering** (697 messages) — Mastering perspective on recording
+- **NoahNeedleman** (652 messages) — Vocal recording, mic selection, acoustic guitar
+- **David Fuller** (624 messages) — API preamp advocacy, string recording
+- **chrissorem** (573 messages) — Live jazz recording, creative approaches
+- **Eric Martin** (551 messages) — Guitar recording, session stories
+- **BatMeckley** (442 messages) — Session mindset, vocal coaching, drum philosophy, polar patterns
+- **Ross Fortune** (266 messages) — Voice remedies (pinned), Coles/Distressor room techniques
+- **Edward Rivera** (299 messages) — Albini drum tuning (pinned), bass recording
+- **peterlabberton** (272 messages) — Kick drum techniques, creative recording
+
+**Notes:**
+- Channel is heavily focused on practical recording techniques rather than gear purchasing
+- Session mindset and interpersonal skills are a major thread -- the most-reacted messages are about working with artists, not technical setup
+- Drum recording is by far the dominant topic (~1,863 substantive messages)
+- cian riordan is the acknowledged drum recording expert across the community
+- Noise rate was approximately 31% (many short replies and reactions), higher than #daw-talk (8.8%)
+- Strong overlap with #gear-talk contributors, but with recording-specific context and techniques
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
 |---------|-----------|----------------|---------------------|---------------|---------------|
 | #daw-talk (Phase 3) | Feb 2021 – Feb 2026 | 17,331 | ~16,145 | 16 | ~20 |
 | #daw-talk (Phase 3.5) | Feb 2021 – Feb 2026 | — | +4,053 newly captured | +16 (32 total) | +15 (~35 total) |
+| #recording-talk | Dec 2021 – Feb 2026 | 16,219 | ~11,195 | 8 | 0 |

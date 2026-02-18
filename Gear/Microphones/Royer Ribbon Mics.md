@@ -48,6 +48,13 @@ The R121 is traditionally used on guitar amplifiers, drum overheads, and horns. 
 - [[Mojave Microphones]]
 - [[Shure SM57]]
 
+## Recording-Talk Perspectives
+
+- BatMeckley: Suspects "much of what many people like about ribbons on guitar cabinets has as much to do with the fact that most are figure 8 patterned as it is the ribbon"
+- David Fuller: Used Royers for string recording before switching to Soyuz 013 FETs in ORTF
+- Iwan Morgan: "Went with a Blumlein pair of R84s" for string ensemble recording
+- 235 mentions make ribbons one of the most-discussed mic types in #recording-talk
+
 ## Source Discussions
 
 > [!quote]
@@ -55,3 +62,8 @@ The R121 is traditionally used on guitar amplifiers, drum overheads, and horns. 
 > **Date Range:** July 2022 -- January 2025
 > **Key Contributors:** cian riordan, BatMeckley, Slow Hand, NoahNeedleman
 > **Total Mentions:** 23 across 14 threads
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 235
+> Key contributors: BatMeckley, cian riordan, David Fuller, Iwan Morgan

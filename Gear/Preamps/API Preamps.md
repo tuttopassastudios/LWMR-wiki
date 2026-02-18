@@ -110,9 +110,19 @@ The community values vintage API components highly:
 - [[SSL]]
 - [[Gain Staging]]
 
+## Recording-Talk Perspectives
+
+- David Fuller: "I'm just here to say, *again,* that API preamps are GOATed for drums" (10 reactions)
+- Favored for drum tracking by multiple community members
+
 ## Source Discussions
 
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Date: October 2022 - August 2025
 > Key contributors: hyanrarvey, David Fuller, Zack Hames, cian riordan, BatMeckley, NoahNeedleman, Nomograph Mastering, jantrit, sethmanchester, chrissorem, JoshuaEstock, sarawls
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 69
+> Key contributors: David Fuller, cian riordan

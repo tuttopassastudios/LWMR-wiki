@@ -100,8 +100,20 @@ Germanium fuzzes interact directly with pickup impedance. Placing any buffer or 
 - [[Recording and Tracking Workflows]]
 - [[DIY and Clone Gear]]
 
+## Recording-Talk Perspectives
+
+### Creative Reamping
+A Deleted User shared their approach: "Reamp through the pedals and the Spamp recorded back in with the Peluso 47" -- using reamping for creative vocal reverb effects, not just guitar tones.
+
+### Guitar Recording Context
+The #recording-talk channel reinforces that the DI is essential even when the amp tone is perfect -- it serves as an editing reference where transients are clearly visible. See [[Guitar Recording]] and [[Bass Recording]] for instrument-specific DI workflows.
+
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 173
 > Key contributors: hyanrarvey, Zack Hames, Bryan DiMaio, BatMeckley, Eric Martin, cian riordan, Ross Fortune, NoahNeedleman, David Fuller
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Key contributors: cian riordan, BatMeckley, Zack Hames

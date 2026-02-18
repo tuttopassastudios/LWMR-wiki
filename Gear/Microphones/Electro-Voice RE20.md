@@ -66,6 +66,11 @@ The RE20 is used across a surprisingly wide range of applications:
 - [[Shure SM57]]
 - [[Cloudlifter]]
 
+## Recording-Talk Perspectives
+
+- Used on floor toms in drum recording sessions (jantrit's setup)
+- Referenced for kick drum and bass cabinet applications
+
 ## Source Discussions
 
 > [!quote]
@@ -73,3 +78,8 @@ The RE20 is used across a surprisingly wide range of applications:
 > **Date Range:** July 2022 -- January 2025
 > **Key Contributors:** Zack Hames, BatMeckley, Jonathan Arnold, cian riordan
 > **Total Mentions:** 28 across 20 threads
+
+> [!quote] Discord Source
+> Channel: #recording-talk
+> Mentions: 33
+> Key contributors: jantrit, cian riordan
