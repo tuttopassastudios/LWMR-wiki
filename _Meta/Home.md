@@ -34,6 +34,8 @@ modified: 2026-02-17
 - [[Processing Log]] — Track import progress
 - [[Contributors]] — Community contributor rankings
 - [[Glossary/]] — Term definitions
+- [[daw-talk Channel Summary]] — #daw-talk source data
+- [[gear-talk Channel Summary]] — #gear-talk source data
 
 ---
 

@@ -12,37 +12,45 @@ modified: 2026-02-17
 > [!info] Map of Content
 > Central hub for all acoustics-related knowledge in this vault.
 
-## Room Modes & Standing Waves
+---
 
--
+## Topic Guides
 
-## Absorption & Treatment
+- [[Acoustic Treatment Guide]] — comprehensive acoustic treatment planning and implementation
+- [[Monitor Controllers Guide]] — monitor controller selection and room integration
 
--
+---
 
-## Diffusion
+## Acoustic Treatment Gear
 
--
+- [[Rockwool]] — rigid mineral wool insulation for treatment
+- [[GIK Acoustics]] — pre-made acoustic treatment panels
+- [[Acoustic Absorption]] — absorption principles and materials
 
-## Bass Trapping
+---
 
--
+## Monitor Placement & Listening Environment
 
-## Reflection Points & First Reflections
+- [[ATC Monitors]] — high-end sealed cabinet reference monitors
+- [[Genelec Monitors]] — SAM auto-calibration, pro studio standard
+- [[Sonarworks SoundID]] — headphone and monitor calibration
+- [[Neumann KH310]] — 3-way midfield reference
+- [[Neumann KH120]] — compact near-field reference
 
--
+---
 
-## Monitor Placement & Listening Position
+## Monitor Controllers
 
--
+- [[Grace Design m905]] — high-end monitor controller/DAC
+- [[Audient Nero]] — desktop monitor controller
+- [[SPL Monitor Controller]] — German precision monitoring
 
-## Room Measurement & Analysis
+---
 
--
+## Related Topics
 
-## DIY Treatment
-
--
+- [[Power Conditioning]] — power quality and its impact on studio environment
+- [[Dolby Atmos and Immersive Audio]] — immersive audio and room requirements
 
 ---
 

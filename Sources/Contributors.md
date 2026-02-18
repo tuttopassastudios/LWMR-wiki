@@ -9,11 +9,11 @@ modified: 2026-02-17
 # Contributors
 
 > [!info]
-> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages in #daw-talk. A "substantive" message is 40+ characters and not a noise reply (greetings, reactions, link-only posts).
+> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages across **#daw-talk** and **#gear-talk**. A "substantive" message is 40+ characters and not a noise reply (greetings, reactions, link-only posts).
 
 ---
 
-## Top Contributors
+## #daw-talk — Top Contributors
 
 | Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
 |------|-------------|---------------------|----------------|---------------|------------|
@@ -30,7 +30,46 @@ modified: 2026-02-17
 
 ---
 
-## High-Impact Contributors (11–25)
+## #gear-talk — Top Contributors
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 1 | **Nomograph Mastering** | 2,425 | 3,661 | 66% | 100 |
+| 2 | **hyanrarvey** | 1,783 | 4,847 | 37% | 77 |
+| 3 | **David Fuller** | 1,553 | 2,511 | 62% | 93 |
+| 4 | **cian riordan** | 1,541 | 1,998 | 77% | 155 |
+| 5 | **Bryan DiMaio** | 1,180 | 1,777 | 66% | 105 |
+| 6 | **Zack Hames** | 1,102 | 1,387 | 79% | 179 |
+| 7 | **Josh** | 1,038 | 1,438 | 72% | 120 |
+| 8 | **BatMeckley** | 970 | 1,200 | 81% | 214 |
+| 9 | **Eric Martin** | 940 | 1,159 | 81% | 149 |
+| 10 | **Rollmottle** | 934 | 1,404 | 67% | 143 |
+
+---
+
+## #gear-talk — High-Impact Contributors (11–25)
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 11 | NoahNeedleman | 802 | 1,139 | 70% | 145 |
+| 12 | ehutton21 | 598 | 860 | 70% | 135 |
+| 13 | Slow Hand | 587 | 660 | 89% | 225 |
+| 14 | peterlabberton | 534 | 659 | 81% | 211 |
+| 15 | Adam Thein | 472 | 550 | 86% | 202 |
+| 16 | popaganda. | 395 | 621 | 64% | 116 |
+| 17 | chrissorem | 394 | 591 | 67% | 123 |
+| 18 | Edward Rivera | 375 | 537 | 70% | 126 |
+| 19 | Felix Byrne | 359 | 606 | 59% | 90 |
+| 20 | ALXCPH | 328 | 511 | 64% | 151 |
+| 21 | jantrit | 328 | 399 | 82% | 156 |
+| 22 | Maxim | 298 | 423 | 70% | 135 |
+| 23 | Will Melones | 288 | 352 | 82% | 149 |
+| 24 | Ross Fortune | 267 | 355 | 75% | 211 |
+| 25 | lystell | 253 | 345 | 73% | 153 |
+
+---
+
+## #daw-talk — High-Impact Contributors (11–25)
 
 | Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
 |------|-------------|---------------------|----------------|---------------|------------|
@@ -52,7 +91,7 @@ modified: 2026-02-17
 
 ---
 
-## Notable Contributors (26–40)
+## #daw-talk — Notable Contributors (26–40)
 
 | Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
 |------|-------------|---------------------|----------------|---------------|------------|
@@ -74,23 +113,31 @@ modified: 2026-02-17
 
 ---
 
-## How to Read This Table
+## How to Read These Tables
 
 - **Substantive Messages** — messages 40+ characters that aren't noise (greetings, one-word reactions). Higher = more raw contribution.
-- **Substantive %** — ratio of substantive to total messages. Higher = more signal per post. Contributors like Slow Hand (87%), Iwan Morgan (87%), and sethearnest (87%) almost never post filler.
-- **Avg Length** — average character count of substantive messages. Higher = more detailed, long-form contributions. bobby k (252), Slow Hand (244), and oaklandmatt (213) tend to write the most in-depth posts.
+- **Substantive %** — ratio of substantive to total messages. Higher = more signal per post. Contributors like SoundsLikeJoe (91%), Iwan Morgan (91%), and Slow Hand (89%) almost never post filler.
+- **Avg Length** — average character count of substantive messages. Higher = more detailed, long-form contributions. BatMeckley (214), Slow Hand (225), and peterlabberton (211) tend to write the most in-depth posts.
 
 ## Community Overview
 
+### #daw-talk
 - **294** unique contributors posted in #daw-talk
 - **287** contributed at least one substantive message
 - **115** contributed 10 or more substantive messages
-- **40** contributed 69 or more substantive messages (listed above)
+- **40** contributed 69 or more substantive messages
 - The top 10 contributors account for roughly **35%** of all substantive content
+
+### #gear-talk
+- **469** unique contributors posted in #gear-talk
+- **196** contributed 10 or more substantive messages
+- The top 10 contributors account for roughly **30%** of all substantive content
+- #gear-talk has nearly **3x** the message volume of #daw-talk (44,361 vs 17,331)
 
 ---
 
 ## See Also
 
 - [[Processing Log]] — extraction methodology and coverage stats
-- [[daw-talk Channel Summary]] — channel overview and topic breakdown
+- [[daw-talk Channel Summary]] — #daw-talk channel overview
+- [[gear-talk Channel Summary]] — #gear-talk channel overview

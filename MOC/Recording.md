@@ -12,42 +12,77 @@ modified: 2026-02-17
 > [!info] Map of Content
 > Central hub for all recording-related knowledge in this vault.
 
-## Microphone Selection & Placement
-
--
-
-## Preamp & Gain Staging
-
--
-
-## Room Setup & Isolation
-
--
-
-## Tracking Vocals
-
--
-
-## Tracking Drums
-
--
-
-## Tracking Guitars & Bass
-
--
-
-## DI Recording
-
--
-
-## Headphone Mixes & Cue Systems
-
--
+---
 
 ## Session Preparation & Organization
 
 - [[Recording and Tracking Workflows]] — DAW ranking for tracking, latency, comping, backup, remote collaboration
 - [[Session Templates and Organization]] — template setup for recording
+
+---
+
+## Microphone Selection & Placement
+
+- [[Neumann U87]] — large diaphragm condenser workhorse
+- [[Shure SM7B]] — dynamic vocal/broadcast standard
+- [[Shure SM57]] — instrument mic workhorse
+- [[Coles 4038]] — classic BBC ribbon mic
+- [[Royer Ribbon Mics]] — modern ribbon standard
+- [[Neumann KM184]] — small diaphragm cardioid reference
+
+---
+
+## Preamp & Gain Staging
+
+- [[Neve 1073]] — the most famous preamp circuit
+- [[API Preamps]] — discrete 2520 op-amp design
+- [[Avalon VT-737]] — tube channel strip, pop/R&B vocal standard
+- [[Gain Staging]]
+
+---
+
+## Vocal Recording
+
+- [[Vocal Chain]] — signal chain for vocal recording and processing
+- [[Vocal Editing Across DAWs]] — vocal editing workflows per DAW
+
+---
+
+## DI Recording & Reamping
+
+- [[A Designs REDDI]] — premium tube DI box
+- [[Radial DI]] — industry standard DI boxes
+- [[Reamping]] — re-amping techniques and setup
+
+---
+
+## Headphone Mixes & Monitoring
+
+- [[Beyerdynamic DT770]] — closed-back tracking standard
+- [[Audio-Technica ATH-M50x]] — popular closed-back studio headphones
+
+---
+
+## Room & Acoustic Setup
+
+- [[Acoustic Treatment Guide]] — comprehensive acoustic treatment planning
+- [[Rockwool]] — rigid mineral wool insulation for treatment
+- [[GIK Acoustics]] — pre-made acoustic treatment panels
+
+---
+
+## Tape Recording
+
+- [[Tape Machines in Modern Production]] — using tape in contemporary workflows
+- [[Tape Machines]] — overview of tape in modern production
+
+---
+
+## Related Topics
+
+- [[Budget Gear Guide]] — recommended gear at every price point
+- [[DIY and Clone Gear]] — building and modifying audio equipment
+- [[Gear Maintenance and Repair]] — maintaining and servicing studio equipment
 
 ---
 

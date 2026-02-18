@@ -10,48 +10,48 @@ modified: 2026-02-17
 # Plugins
 
 > [!info] Map of Content
-> Central hub for plugin-specific knowledge — EQs, compressors, reverbs, and more.
+> Central hub for plugin-specific knowledge — brands, categories, and formats.
 
-## EQ Plugins
+---
 
--
+## Plugin Brands & Ecosystems
 
-## Compressor & Dynamics Plugins
+- [[UAD Plugins]] — Universal Audio DSP-powered plugins, hardware emulations
+- [[Waves Plugins]] — massive plugin catalog, industry staple
+- [[FabFilter]] — modern precision plugins (Pro-Q, Pro-C, Pro-L)
+- [[Slate Digital]] — analog modeling, subscription model
+- [[Soundtoys]] — creative effects and saturation
+- [[Plugin Alliance]] — multi-brand plugin marketplace
+- [[Softube]] — Console 1, analog modeling
+- [[Acustica Audio]] — convolution-based analog modeling
+- [[iZotope]] — intelligent audio processing, Ozone, RX
+- [[Eventide]] — effects processing pioneers
+- [[Lexicon]] — legendary reverb algorithms
+- [[Sonarworks SoundID]] — headphone and monitor calibration
 
--
+---
 
-## Reverb & Delay Plugins
+## Plugin Overview & Ecosystem
 
--
+- [[Plugin Ecosystem Overview]] — major plugin developers and community sentiment
 
-## Saturation & Distortion
+---
 
--
+## Plugin Formats & Compatibility
 
-## Metering & Analysis
+- [[Plugin Formats and Compatibility]] — AAX vs. VST vs. AU, Apple Silicon compatibility
 
--
+---
 
 ## Audio Repair & Restoration
 
 - [[Audio Repair and Restoration]] — iZotope RX, spectral editing, noise reduction, ARA integration
 
-## Utility & Workflow Plugins
+---
 
--
+## Topic Guides (Plugin-Related)
 
-## Channel Strips
-
--
-
-## Mastering Plugins
-
--
-
-## Plugin Comparisons
-
-- [[Plugin Formats and Compatibility]] — AAX vs. VST vs. AU, Apple Silicon compatibility
-- [[Plugin Ecosystem Overview]] — major plugin developers and community sentiment
+- [[Outboard vs In-The-Box]] — hardware vs software processing debate
 
 ---
 
@@ -59,6 +59,6 @@ modified: 2026-02-17
 
 ```dataview
 TABLE confidence, manufacturer, tags
-FROM "Software/Plugins"
+FROM "Software"
 SORT file.name ASC
 ```
