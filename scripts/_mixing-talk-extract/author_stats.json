@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Nomograph Mastering",
+    "total": 4179,
+    "substantive": 3592,
+    "substantive_pct": 86.0,
+    "avg_length": 91,
+    "reactions": 5486,
+    "top_topics": {
+      "eq_techniques": 134,
+      "saturation_distortion": 111,
+      "compression_techniques": 91,
+      "low_end_management": 83,
+      "vocal_mixing": 71
+    }
+  },
+  {
+    "name": "hyanrarvey",
+    "total": 4975,
+    "substantive": 3450,
+    "substantive_pct": 69.3,
+    "avg_length": 60,
+    "reactions": 2330,
+    "top_topics": {
+      "drum_mixing": 194,
+      "low_end_management": 102,
+      "plugin_discussion": 95,
+      "compression_techniques": 82,
+      "reverb_delay": 79
+    }
+  },
+  {
+    "name": "cian riordan",
+    "total": 2392,
+    "substantive": 2132,
+    "substantive_pct": 89.1,
+    "avg_length": 141,
+    "reactions": 7409,
+    "top_topics": {
+      "compression_techniques": 170,
+      "eq_techniques": 137,
+      "low_end_management": 136,
+      "drum_mixing": 110,
+      "plugin_discussion": 107
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 1845,
+    "substantive": 1641,
+    "substantive_pct": 88.9,
+    "avg_length": 136,
+    "reactions": 2845,
+    "top_topics": {
+      "vocal_mixing": 131,
+      "eq_techniques": 96,
+      "reverb_delay": 95,
+      "low_end_management": 94,
+      "compression_techniques": 85
+    }
+  },
+  {
+    "name": "chrissorem",
+    "total": 1438,
+    "substantive": 1244,
+    "substantive_pct": 86.5,
+    "avg_length": 165,
+    "reactions": 3102,
+    "top_topics": {
+      "vocal_mixing": 82,
+      "reverb_delay": 71,
+      "compression_techniques": 66,
+      "low_end_management": 59,
+      "eq_techniques": 57
+    }
+  },
+  {
+    "name": "spectrummasters",
+    "total": 1200,
+    "substantive": 1086,
+    "substantive_pct": 90.5,
+    "avg_length": 208,
+    "reactions": 539,
+    "top_topics": {
+      "low_end_management": 93,
+      "vocal_mixing": 89,
+      "eq_techniques": 68,
+      "compression_techniques": 66,
+      "mix_workflow": 52
+    }
+  },
+  {
+    "name": "Edward Rivera",
+    "total": 1163,
+    "substantive": 1013,
+    "substantive_pct": 87.1,
+    "avg_length": 113,
+    "reactions": 791,
+    "top_topics": {
+      "low_end_management": 58,
+      "compression_techniques": 50,
+      "eq_techniques": 45,
+      "vocal_mixing": 37,
+      "drum_mixing": 36
+    }
+  },
+  {
+    "name": "Ross Fortune",
+    "total": 1069,
+    "substantive": 963,
+    "substantive_pct": 90.1,
+    "avg_length": 208,
+    "reactions": 1222,
+    "top_topics": {
+      "vocal_mixing": 88,
+      "drum_mixing": 69,
+      "eq_techniques": 68,
+      "low_end_management": 57,
+      "compression_techniques": 53
+    }
+  },
+  {
+    "name": "Jonathan Jetter",
+    "total": 902,
+    "substantive": 894,
+    "substantive_pct": 99.1,
+    "avg_length": 159,
+    "reactions": 902,
+    "top_topics": {
+      "eq_techniques": 76,
+      "saturation_distortion": 59,
+      "compression_techniques": 58,
+      "vocal_mixing": 53,
+      "plugin_discussion": 47
+    }
+  },
+  {
+    "name": "Deleted User",
+    "total": 915,
+    "substantive": 851,
+    "substantive_pct": 93.0,
+    "avg_length": 188,
+    "reactions": 433,
+    "top_topics": {
+      "vocal_mixing": 84,
+      "compression_techniques": 81,
+      "saturation_distortion": 70,
+      "eq_techniques": 63,
+      "plugin_discussion": 61
+    }
+  },
+  {
+    "name": "Adam Thein",
+    "total": 931,
+    "substantive": 834,
+    "substantive_pct": 89.6,
+    "avg_length": 189,
+    "reactions": 1001,
+    "top_topics": {
+      "plugin_discussion": 86,
+      "vocal_mixing": 70,
+      "low_end_management": 61,
+      "compression_techniques": 57,
+      "saturation_distortion": 55
+    }
+  },
+  {
+    "name": "ehutton21",
+    "total": 929,
+    "substantive": 832,
+    "substantive_pct": 89.6,
+    "avg_length": 140,
+    "reactions": 302,
+    "top_topics": {
+      "vocal_mixing": 102,
+      "eq_techniques": 67,
+      "saturation_distortion": 67,
+      "low_end_management": 64,
+      "compression_techniques": 58
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 869,
+    "substantive": 813,
+    "substantive_pct": 93.6,
+    "avg_length": 207,
+    "reactions": 1762,
+    "top_topics": {
+      "plugin_discussion": 81,
+      "reverb_delay": 76,
+      "saturation_distortion": 73,
+      "compression_techniques": 61,
+      "low_end_management": 55
+    }
+  },
+  {
+    "name": "BatMeckley",
+    "total": 842,
+    "substantive": 746,
+    "substantive_pct": 88.6,
+    "avg_length": 213,
+    "reactions": 2769,
+    "top_topics": {
+      "vocal_mixing": 66,
+      "compression_techniques": 47,
+      "eq_techniques": 46,
+      "reverb_delay": 44,
+      "drum_mixing": 44
+    }
+  },
+  {
+    "name": "peterlabberton",
+    "total": 814,
+    "substantive": 743,
+    "substantive_pct": 91.3,
+    "avg_length": 190,
+    "reactions": 1274,
+    "top_topics": {
+      "low_end_management": 50,
+      "vocal_mixing": 49,
+      "plugin_discussion": 43,
+      "compression_techniques": 42,
+      "eq_techniques": 37
+    }
+  },
+  {
+    "name": "Rollmottle",
+    "total": 925,
+    "substantive": 728,
+    "substantive_pct": 78.7,
+    "avg_length": 112,
+    "reactions": 1606,
+    "top_topics": {
+      "low_end_management": 31,
+      "eq_techniques": 26,
+      "gain_staging_levels": 25,
+      "compression_techniques": 22,
+      "saturation_distortion": 20
+    }
+  },
+  {
+    "name": "David Fuller",
+    "total": 844,
+    "substantive": 696,
+    "substantive_pct": 82.5,
+    "avg_length": 71,
+    "reactions": 564,
+    "top_topics": {
+      "compression_techniques": 34,
+      "drum_mixing": 24,
+      "low_end_management": 23,
+      "saturation_distortion": 23,
+      "eq_techniques": 22
+    }
+  },
+  {
+    "name": "ALXCPH",
+    "total": 800,
+    "substantive": 690,
+    "substantive_pct": 86.2,
+    "avg_length": 160,
+    "reactions": 441,
+    "top_topics": {
+      "plugin_discussion": 64,
+      "compression_techniques": 57,
+      "saturation_distortion": 56,
+      "vocal_mixing": 39,
+      "reverb_delay": 38
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 724,
+    "substantive": 684,
+    "substantive_pct": 94.5,
+    "avg_length": 146,
+    "reactions": 641,
+    "top_topics": {
+      "vocal_mixing": 56,
+      "plugin_discussion": 52,
+      "eq_techniques": 45,
+      "compression_techniques": 40,
+      "low_end_management": 36
+    }
+  },
+  {
+    "name": "Bryan DiMaio",
+    "total": 750,
+    "substantive": 630,
+    "substantive_pct": 84.0,
+    "avg_length": 86,
+    "reactions": 796,
+    "top_topics": {
+      "plugin_discussion": 41,
+      "eq_techniques": 16,
+      "vocal_mixing": 16,
+      "monitoring_listening": 15,
+      "reverb_delay": 15
+    }
+  },
+  {
+    "name": "JustinLeu",
+    "total": 652,
+    "substantive": 615,
+    "substantive_pct": 94.3,
+    "avg_length": 188,
+    "reactions": 470,
+    "top_topics": {
+      "vocal_mixing": 62,
+      "saturation_distortion": 49,
+      "compression_techniques": 42,
+      "drum_mixing": 40,
+      "reverb_delay": 40
+    }
+  },
+  {
+    "name": "Eric Martin",
+    "total": 596,
+    "substantive": 563,
+    "substantive_pct": 94.5,
+    "avg_length": 150,
+    "reactions": 586,
+    "top_topics": {
+      "compression_techniques": 44,
+      "saturation_distortion": 34,
+      "reverb_delay": 34,
+      "low_end_management": 31,
+      "eq_techniques": 30
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 606,
+    "substantive": 562,
+    "substantive_pct": 92.7,
+    "avg_length": 173,
+    "reactions": 496,
+    "top_topics": {
+      "plugin_discussion": 57,
+      "compression_techniques": 55,
+      "drum_mixing": 51,
+      "vocal_mixing": 50,
+      "saturation_distortion": 45
+    }
+  },
+  {
+    "name": "Iwan Morgan",
+    "total": 514,
+    "substantive": 500,
+    "substantive_pct": 97.3,
+    "avg_length": 180,
+    "reactions": 594,
+    "top_topics": {
+      "plugin_discussion": 61,
+      "vocal_mixing": 46,
+      "reverb_delay": 42,
+      "low_end_management": 33,
+      "compression_techniques": 33
+    }
+  },
+  {
+    "name": "Jeremy Klein",
+    "total": 531,
+    "substantive": 499,
+    "substantive_pct": 94.0,
+    "avg_length": 154,
+    "reactions": 504,
+    "top_topics": {
+      "vocal_mixing": 90,
+      "plugin_discussion": 64,
+      "eq_techniques": 47,
+      "saturation_distortion": 32,
+      "low_end_management": 29
+    }
+  },
+  {
+    "name": "Josh",
+    "total": 503,
+    "substantive": 449,
+    "substantive_pct": 89.3,
+    "avg_length": 91,
+    "reactions": 300,
+    "top_topics": {
+      "vocal_mixing": 37,
+      "compression_techniques": 23,
+      "low_end_management": 23,
+      "plugin_discussion": 23,
+      "eq_techniques": 19
+    }
+  },
+  {
+    "name": "CK",
+    "total": 493,
+    "substantive": 449,
+    "substantive_pct": 91.1,
+    "avg_length": 119,
+    "reactions": 174,
+    "top_topics": {
+      "plugin_discussion": 68,
+      "saturation_distortion": 24,
+      "eq_techniques": 23,
+      "compression_techniques": 21,
+      "mix_bus": 16
+    }
+  },
+  {
+    "name": "popaganda.",
+    "total": 508,
+    "substantive": 437,
+    "substantive_pct": 86.0,
+    "avg_length": 109,
+    "reactions": 577,
+    "top_topics": {
+      "plugin_discussion": 33,
+      "compression_techniques": 18,
+      "low_end_management": 16,
+      "vocal_mixing": 15,
+      "eq_techniques": 15
+    }
+  },
+  {
+    "name": "bobby k",
+    "total": 488,
+    "substantive": 427,
+    "substantive_pct": 87.5,
+    "avg_length": 179,
+    "reactions": 667,
+    "top_topics": {
+      "vocal_mixing": 44,
+      "compression_techniques": 34,
+      "eq_techniques": 31,
+      "plugin_discussion": 30,
+      "saturation_distortion": 24
+    }
+  },
+  {
+    "name": "BoozleBAM",
+    "total": 509,
+    "substantive": 413,
+    "substantive_pct": 81.1,
+    "avg_length": 142,
+    "reactions": 54,
+    "top_topics": {
+      "plugin_discussion": 49,
+      "compression_techniques": 35,
+      "drum_mixing": 33,
+      "reverb_delay": 26,
+      "saturation_distortion": 20
+    }
+  }
+]

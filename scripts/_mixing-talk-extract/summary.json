@@ -1,0 +1,88 @@
+{
+  "total_messages": 48084,
+  "date_range": "2021-08-13 to 2026-02-17",
+  "substantive_messages": 41904,
+  "noise_filtered": 6180,
+  "unique_authors": 445,
+  "unique_messages_categorized": 14481,
+  "uncategorized": 27423,
+  "activity_by_year": {
+    "2021": 849,
+    "2022": 9154,
+    "2023": 17518,
+    "2024": 11451,
+    "2025": 8355,
+    "2026": 757
+  },
+  "categories": {
+    "compression_techniques": {
+      "label": "Compression Techniques",
+      "count": 2443
+    },
+    "eq_techniques": {
+      "label": "EQ Techniques",
+      "count": 2247
+    },
+    "reverb_delay": {
+      "label": "Reverb & Delay",
+      "count": 1796
+    },
+    "saturation_distortion": {
+      "label": "Saturation & Distortion",
+      "count": 1930
+    },
+    "vocal_mixing": {
+      "label": "Vocal Mixing",
+      "count": 2741
+    },
+    "drum_mixing": {
+      "label": "Drum Mixing",
+      "count": 1539
+    },
+    "bass_mixing": {
+      "label": "Bass Mixing",
+      "count": 654
+    },
+    "mix_bus": {
+      "label": "Mix Bus / Master Bus",
+      "count": 800
+    },
+    "gain_staging_levels": {
+      "label": "Gain Staging & Levels",
+      "count": 706
+    },
+    "stereo_width": {
+      "label": "Stereo & Width",
+      "count": 447
+    },
+    "reference_translation": {
+      "label": "Reference Mixing & Translation",
+      "count": 387
+    },
+    "automation": {
+      "label": "Automation",
+      "count": 726
+    },
+    "plugin_discussion": {
+      "label": "Plugin Discussion",
+      "count": 2441
+    },
+    "monitoring_listening": {
+      "label": "Monitoring & Listening",
+      "count": 1020
+    },
+    "genre_specific": {
+      "label": "Genre-Specific Mixing",
+      "count": 262
+    },
+    "low_end_management": {
+      "label": "Low End Management",
+      "count": 2203
+    },
+    "mix_workflow": {
+      "label": "Mix Workflow & Philosophy",
+      "count": 958
+    }
+  },
+  "pinned_count": 23
+}

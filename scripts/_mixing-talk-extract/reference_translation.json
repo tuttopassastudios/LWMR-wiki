@@ -1,0 +1,3485 @@
+[
+  {
+    "id": "1012394862651392070",
+    "author": "BatMeckley",
+    "date": "2022-08-25",
+    "content": "Reference tracks are really good as a tool while you\u2019re learning, be it mixing or producing. Trying to match a song you dig as close as you can really works out the \u201cthis is what I want to hear, how do I get there\u201d muscle. But after putting together a few hundred songs that way, I\u2019ve found it better to go with your heart vs constantly referencing Teenage Dream every 10 minutes to figure out where your kick sits. Be an A grade you, not a C grade Serban. (After you\u2019ve put in the work to build up your skill set of course)",
+    "reactions": 19,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151872625296031814",
+    "author": "Adam Thein",
+    "date": "2023-09-14",
+    "content": "Maybe I can try and distill down some suggestions from the conversation for avoiding the pit of despair while referencing:\n\n1) Don't get stuck going back and forth constantly between your mix and your reference - you can get trapped in a loop\n\n2) Think critically about what elements are in the reference track versus what you are working with - is there enough overlap in production and arrangement that makes this a good reference?\n\n3) Focus on the broad strokes - I've seen it described on the server before as \"where the edges are\" - how wide is the mix, where's the top end sitting, where's the low end sitting, and what are the elements dominating those frequency spectrums\n\n4) Careful not to shy away from what the track wants to be to make it conform to the bell curve\n\nI'm probably missing a lot of things but here's a start?",
+    "reactions": 16,
+    "attachments": 0,
+    "is_pinned": true
+  },
+  {
+    "id": "1253789882539835594",
+    "author": "LAPhill",
+    "date": "2024-06-21",
+    "content": "And, frankly, if you have a shitty rough mix and the final version is a lot better, but still mediocre compared to your other work, why are you showing that off? Lead with your best foot forward",
+    "reactions": 10,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222564874219950182",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-27",
+    "content": "Here\u2019s the one other thing about Serban that I think is obvious, but seemingly overlooked a lot\n\nThere\u2019s a trade off between dynamic control/having things locked in place, and allowing things to be wilder. Mixes where things are locked in place sound more similar everywhere, they are in a sense robust. Mixes with braver dynamic or EQ choices can be much more exciting under ideal conditions, but do less well at the edges of the bell curve (mono overhead speaker at the supermarket for example)\n\nSerban\u2019s mixes are very locked in place, dynamically and from a frequency point of view and so he has great translation. I rarely find it to get in the way of the song, but some of my mixer friends will go to the mat about how it could have been so much more \u2026. And maybe they\u2019re right\n\nBut if you win the race, and the song comes through then how much more do you need to win it by? His mixes do the job of getting pop songs into my ears, and give A&R confidence and comfort, a lot to like \u2026",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1012356886181453864",
+    "author": "Brodie Stewart",
+    "date": "2022-08-25",
+    "content": "I\u2019ve found that as my monitoring environment has improved over the years, and the more familiar I become with it, I find myself using references less and less. I just mix music the way my ears want to hear it (which thankfully pairs to the speaker choice well!).\n\nEvery now and then, if I\u2019ve lost perspective or there\u2019s a translation issue I might pull in a reference for a reality check. Otherwise a reference is handy for broad stroke \u201cconcepts\u201d (E.g distorted vocals, or tight dry drums etc.) and I\u2019ve learned not to take them too literally - otherwise you end up going down the rabbit hole and inevitably chasing your tail to a worse mix \ud83d\ude1e",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1053411321741332480",
+    "author": "popaganda.",
+    "date": "2022-12-16",
+    "content": "This is a little philosophical, but I feel like what we do can be compared to archery, in that you see a target, you aim and then you shoot. The journey from the bow to the target isn\u2019t our problem. Worrying about whether they like it or not before we\u2019ve received feedback is like trying to run alongside the arrow.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1221946657378271233",
+    "author": "peterlabberton",
+    "date": "2024-03-25",
+    "content": "Just spent two hours finishing a mix from yesterday, and then compared to where I left it late last night. Markedly *worse* today. Time to gtfo the house! \ud83d\ude35\u200d\ud83d\udcab",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "929912685942947850",
+    "author": "Adam Thein",
+    "date": "2022-01-09",
+    "content": "Alright, think I remembered everything here.  Here's a comparison of the 9 plugins I have that do clipping.  Pretty basic hard clipping settings on everything with oversampling to compare the CPU hit.  \n\nHere's a link on my Drive: https://drive.google.com/drive/folders/18x5qVuM1GMSYpJFn-EGQhzwJK2Mj3TAD?usp=sharing\n\nPlugins I tested: \nKClip3, StandardCLIP, TR5 Classic Clipper, FreeClip, Newfangled Saturate, Event Horizon, Kelvin (clipper section), TDR Limiter 6 GE (clipper section), and good ol' stock Ableton Saturator in hard digital clip mode.\n\nIf any information is missing you think you'd find helpful let me know and I'll try and update it!  Or I can pop open the session again and try another plugin if someone thinks of one they want to throw in the list.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "981785483925401600",
+    "author": "Zack Hames",
+    "date": "2022-06-01",
+    "content": "The technical skills are all more or less the same, but you\u2019ll be doing different tasks. Editing VO quickly, using Frames for your grid / worrying about timecode, importing AAF or OMF files from video editors via Import Session Data in PT. It\u2019s more about understanding the expectations and workflow for Post Production that has a learning curve compared to album production.\n\nOh, and understanding ISDN and Source Connect to connect with other studios, hating when people send you VO files that are in 44.1 and poorly processed when you specifically asked for raw/48k/24 bit, video people thinking they can do audio, replacing shitty sfx they rip from YouTube with decent ones, and being a wizard with Izotope RX suite to remove every little noise, crackle, train, plane, fountain, waterfall, wind, you name it, are some of the things you\u2019ll spend your time doing that maybe you wouldn\u2019t if you were producing music. It keeps me very fresh in pro tools which is nice and I\u2019ve learned a lot about working insanely fast and communicating with clients as well as instilling confidence. It\u2019s a really interesting field and the $$$ is great.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "988470813420302346",
+    "author": "oaklandmatt",
+    "date": "2022-06-20",
+    "content": "first off, if it sounds good, do it. i know that starts to sound like an annoying cliche, but it's ALWAYS good to re-remind yourself. there are no rules with this shit and the more your learn about the technical side the LESS you should rely on it. because your ears are getting better and thus you should be trusting them more.\n\nthe phase shift from a bell curve is much more subtle compared to HP and LP filtering, so it tends to add back in much better when used in parallel. also there are plenty situations where you might actually *like* the phase shift, where you're boosting something like upper mid range and you get just a teeny bit of blur in the low mids. there are good articles online that graph it, but i'd say just be mindful of phase by flipping the parallel channel and seeing what it does. and trust ya ears and just do what sounds good to you!",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1069754630675906637",
+    "author": "Slow Hand",
+    "date": "2023-01-30",
+    "content": "I do a version of this a lot when mixing. If I feel like a key element has gotten way too many layers of paint I duplicate the channel, strip off the plugins, try again and then A/B against my original to verify that I've not lost anything vital. \n\nUsually I'm able to recreate the vibe I need with fewer steps once I can see what's working and it has far better definition because there's less crufty processing happening.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1174054716569833492",
+    "author": "thegreatcarsoni",
+    "date": "2023-11-14",
+    "content": "As someone who just joined this server like 2 seconds ago and read through this whole thing, I really enjoyed the discussion and didn't pick up on one bit of condescension, rudeness, or anything. Ya'll are perfect little angels compared to reddit",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1086388330993815633",
+    "author": "Josh Bowman",
+    "date": "2023-03-17",
+    "content": "Spent an hour this morning listening to mixes and reference tracks on Audeze LCD-5's MM-500s, LCD-X, LCD2, and Focal Clear MGs. After going back and forth and comparing for a while and taking breaks, I liked the LCD-X the least, just sounded weird and unnatural to me in the mid range, LCD-5s were my second least favourite which was surprising. I found Hats and things in that range had a really weird un-natural sound to them.. not sure how else to describe it. Just not for me. The Clear MG and MM-500s both sounded great, altho when i listened to some \"thicker/warmer\" mixes i'd done on the Focals, it felt like I would have scooped my mix too much if i'd been on them, because they were pretty full sounding/a bit boomy in the low mids/bottom, where the mixes sounded how i intended on the MM-500s. If i was buying with the intent to use them for production, or as a secondary reference, i'd probably go with the clears because they sound fun and were really comfy, have a bit more high end and bottom end.. but the mannys seemed flatter/sounded more natural in the bottom and top and more like what i'd want to hear while mixing i think.  Found a pair of demo MM-500s for a slight discount and pulled the trigger on them just now. Can followup in a week to see if after trying to mix on them i have buyers remorse or not \ud83d\ude02",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1168975091590250669",
+    "author": "Adam Thein",
+    "date": "2023-10-31",
+    "content": "translation:\n\nturn up the snare, piano, and bass a bit please, maybe a touch wider on the OHs if possible, killer mix dude",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1321512752233316454",
+    "author": "Zeuswayn3",
+    "date": "2024-12-25",
+    "content": "Lmao who got u up at 4:05 on Christmas thinking about cian and mixing drums.. anyway his guide is a great resource - I\u2019d say a lot of the 2-5k can be potentially be harsh (especially the cymbals when using saturation and compression). You don\u2019t want the upper mids of your drums to dominate the mix when compared to other aspects of the instrumentation",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1330960583180288041",
+    "author": "Josh Bowman",
+    "date": "2025-01-20",
+    "content": "@Matt Huber had a pro tip a while ago which probably would be great to help you decide if it\u2019s the eq curve or the actual saturation/compressing your liking. Use some sort of match eq/plugin doctor/etc to figure out the eq curve of the tape plug with your settings and replicate that with regular eq and then compare. On the buss I often really just wanted the eq and not the actual \u201ctape\u201d stuff when I\u2019ve done this and compared the two or lived with the eq curve and then tried to go back to the tape plug.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1365398222134186034",
+    "author": "Slow Hand",
+    "date": "2025-04-25",
+    "content": "One habit that I've picked up using Ableton that's really handy is doing all of my volume rides and mute automation with a *utility* plugin. This gives me a few advantages:\n\n1. I can place the rides/mutes exactly where I want in the signal path (into a compressor, before a verb, after a verb, etc)\n\n2. I can easily enable/disable the automation if I want to A/B or simplify while solving another problem.\n\n3. My faders are left solely for global level changes and I can easily mute the channel without mute automation turning it back on/off.",
+    "reactions": 6,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "880564293408555018",
+    "author": "Eric Martin",
+    "date": "2021-08-26",
+    "content": "when mixing don\u2019t compare to mastered music",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1011996335886577714",
+    "author": "Will Melones",
+    "date": "2022-08-24",
+    "content": "I had a teacher who suggested listening to the \u201cedges\u201d of the reference track. How much bass extension, air, width\u2026and not getting caught up in the detail of the snare sound or the exact balance. Although when I\u2019ve spent too long getting microscopic with a lead vocal or something like that, l\u2019ll switch to the ref to reset my perspective on that element. \n\nYou know about my SoundFlow trick now, and that convenience has increased my likelihood of flipping to the ref significantly. It\u2019s just a press of a button on my S3.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1128379638071169154",
+    "author": "cian riordan",
+    "date": "2023-07-11",
+    "content": "I bought the Arouser the day it came out and immediately setup a A/B test with the pair I had at Barefoot. Not only could I not tell them apart, but the software has extra features that make it way more useful in a modern context.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1183455781778112553",
+    "author": "Joshua Riley",
+    "date": "2023-12-10",
+    "content": "As someone who\u2019s only 4 years into this I\u2019m still getting a wide range of projects that require various amounts of work needed. Haven\u2019t gotten something that only needed that extra 5% yet. I\u2019ll say that the amount I\u2019ve needed to push a mix is definitely smaller than it used to be as I grow in terms of who\u2019s hiring me and the projects that are coming my way. I\u2019d say at the start I was doing 50-70%. Now it\u2019s around 10-20%. And tbh the thing I\u2019m encountering more these days is that the production sound great but it\u2019s more often or not that it\u2019s the producers/artists monitoring system that isn\u2019t accurate so I\u2019m often just dealing with translation issues and less sound design. Although I finished a label project recently for the first time and that pushed me out my comfort zone as that was already sounding great",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313577245201141760",
+    "author": "JustinLeu",
+    "date": "2024-12-03",
+    "content": "Also as encouragement to anyone that needs to hear a story like this, I followed up with a producer who's work I really loved for over a year (wanting to send me a project etc - then would get busy/forget....) \n\nI would wait months between followups most of the time, and just check back in because they had said they wanted to send something!\n\nEventually we worked on a song together and they THANKED ME for following up so much and we have worked on a ton of projects since then and are friends now \ud83d\ude42 \n\nThe social dynamics of the industry I would say are the most challenging part. Unfortunately that is not talked about nearly as much as \"is this the best limiter\".  (This discord has a TON of perspective on this topic compared to anywhere else I have seen. We are lucky to have it.)",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1415018377763750039",
+    "author": "chrissorem",
+    "date": "2025-09-09",
+    "content": "Good to know, I always  print my mix on the left and their  ref on the right. Way easier to compare in realtime",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1462199344781594850",
+    "author": "Felix Byrne",
+    "date": "2026-01-17",
+    "content": "also - something for u to maybe look into\n\nwhen you\u2019re done w your movements on the volume line - try hit \u201ccoalesce volume automation to clip gain\u201d\n\nand then u can compare pre/post",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "981138472783994910",
+    "author": "Zack Hames",
+    "date": "2022-05-31",
+    "content": "I find it feels way better to duck the music and or SFX for the VO, but not so dramatically that sounds shitty and too obvious. When I send stems, I\u2019ll send two versions, one  \u201cducked\u201d and one \u201cflat\u201d so to speak. I am sending for translation mixes to be made often so the volume automation timing would be different for a different language.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995055797572731027",
+    "author": "peterlabberton",
+    "date": "2022-07-08",
+    "content": "@Will Melones I\u2019d check out the iZotope Tonal Balance Control meter. My room, with no corrective EQ, gets a little squirrelly below 150-ish, but with some EQ and that plug-in, I\u2019m now able to dial in low end quickly and reliably. It\u2019s pretty easy to see if something is really sticking out\u2014has been clutch for both turning things around super quick on deadlines and also working late/quiet.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1355576612401451141",
+    "author": "Adam Thein",
+    "date": "2025-03-29",
+    "content": "You can also right click the width knob on Utility and turn it into straight up mid/side levels if you want to compare.  I wouldn\u2019t overthink it, Ableton utility does what you need.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368676113647276184",
+    "author": "Slow Hand",
+    "date": "2025-05-04",
+    "content": "Maybe I'm alone here, but does anyone else dislike the sound of clippers? Especially on the master buss. I hear it all over contemporary records and just don't care for the aesthetic.\n\nMaybe I'm doing it wrong, but it always results in things sounding mush-y or smeared. The only amount that I like is barely perceptible, at which point I find myself wondering why bother at all(?). Whenever I try put it on a mix I eventually A/B it later and find myself liking the un-clipped version.\n\nThe only reliable usage I've found is on percussion that's very transient and very noise-y. Like a hand clap. It helps me to get the absolute level down, while boosting the apparent loudness.\n\nDon't get me wrong, I love distortion, but I'm not a fan of that particular flavor.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1392083497644068904",
+    "author": "cian riordan",
+    "date": "2025-07-08",
+    "content": "Worth trying any of these before you buy. I won\u2019t die on the hill at that APMs are the best mobile solution for mixing, but the noise cancelling, Apple integration and ease of use make them much more convenient than any Audeze product. Not to mention the fact that I\u2019m always consuming music on them when I\u2019m not working makes the translation factor even easier.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1400540487047188591",
+    "author": "Ingmar Carlson",
+    "date": "2025-07-31",
+    "content": "If productivity = creativity then musicians and record makers are a laughing stock compared to auto (and toilet paper) manufacturers",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1407378587199471718",
+    "author": "chrissorem",
+    "date": "2025-08-19",
+    "content": "He\u2019s the best we\u2019ve talked a lot about visuals and mixing. Having visual influences was huge connection for me in getting across feeling or texture In mixes. If you\u2019ve never tried it, I\u2019d highly recommend it. I never ask bands for reference mixes but for reference images",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "877139117966786611",
+    "author": "mixedbywong_my",
+    "date": "2021-08-17",
+    "content": "Haha getting it to 0 penalty would have songs sounding soft on streaming platforms. I read somewhere that Spotify is now off Replaygain for loudness normalisation (LUFS now). Iirc it\u2019s now at -11 lufs . I have the Loudness Penalty plugin from Meterplugs and I\u2019m not sure how updated is the algorithm in that. In the beginning I was following that for levels then I realised having the loudness penalty to be at 0 penalty meaning I\u2019m outputting a soft master compared to everyone else in the platform . Now I just concentrate more on getting a better sounding mix at any volume . \ud83d\ude00",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "972996764061823016",
+    "author": "alex_epton",
+    "date": "2022-05-08",
+    "content": "Personally I do the same. 8-9 lufs over the loud parts. Usually the Chorus of the song. Then maybe 2-3 db lower than that in the verses or quieter bits. It\u2019s usually pretty easy to make stuff sound good around those levels. Making stuff sound good at 6 lufs is a whole different game. more about damage control and mitigating distortion. Seems like that fad is on the way out \ud83d\ude05finally. What a useless skill to have learned.  I know there\u2019s a bunch of different ways to read and average out LUFS but I get mine from whatever the default is on the ADPTR A/B metering plug in",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995215691730927676",
+    "author": "peterlabberton",
+    "date": "2022-07-08",
+    "content": "Hey!\n\nI have it on my mix print track (I\u2019m old school like that), along with an instance of Pro-Q3 and iZotope Insight. These three are always open on a second screen to my side. I have Tonal Balance set to the Fine mode, with the Modern curve preset, and with 5 second averaging instead of the default 10. I mostly just check it once I have a mix pretty much put together to see if I\u2019m missing anything as a dummy check, but I\u2019ll also look at it when comparing to a ref or playing with kick/bass levels. Sometimes it\u2019s also helpful to find a spot for a final element or two I\u2019m trying to shoehorn into a dense arrangement\u2014but for that I usually just pull up Spectre and push frequencies around until things sound good. (The instance of Pro-Q3 is for seeing more fine detail, and Insjght I\u2019m just using to measure loudness.)",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1012097687421718610",
+    "author": "Jeremy Klein",
+    "date": "2022-08-24",
+    "content": "i started doing this at the beginning of the year and was probably the biggest improvement for the consistency of my mixes:\n\n1) use _one to two_ reference track that i think the tonal balance is perfect (for me 7 rings by ariana grande lol)\n2) have it in Adapter Metric AB looped at the chorus of that song and assign the A/B switch to a key command\n3) hit the key command while your track is playing and reference a short 3 second burst than go back to your track\n\nThe only thing im listening for is stuff that is _completely_ out of whack that jumps out immediately. Like \"WHOA there is _way_ too much 1k in my vocal\" Anything more subtle is going to throw me down a rabbit hole of trying to match 2 completely different songs.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1047887901045829722",
+    "author": "spectrummasters",
+    "date": "2022-12-01",
+    "content": "I do think pop is horrifically homogenous sonically now though, which is a shame because theres so much talent in the artists and the personnel but the sound is always the same across all the records...(loud, loud, loud). In the UK we have a throwback pop/soft rock/blue eyed soul and rnb station, Smooth FM....it plays all the old classics from the 70s and 80s and although the records sound almost \u201cnaive\u201d compared to today\u2019s saturated , crushed earhammers....they sound amazing......i leave it on at home quietly to refresh/nourish my ears on a ear break... the rhodes on billy joel have i told you....or FM dreams......they are like ear medicine those records lol, and it makes me wonder if all of our hearing is changing now , will the fletcher Munson curve adapt so our ears become",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062449946030252172",
+    "author": "BatMeckley",
+    "date": "2023-01-10",
+    "content": "I was gonna say\u2026 \nOne of the big take aways I got from mixing with Luke is that I\u2019d tried to cut around 200hz out of the kick and other things that knock and he showed me that I was wrong and that is where really the translation of the kick and thunk of a record comes from. (Not the 20hz)",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1063601534513979493",
+    "author": "Slow Hand",
+    "date": "2023-01-13",
+    "content": "I think it's important to recognize which \"game\" you're trying to play. Some people are playing the status game. Some people play the money game. Some people play the hit-making game. Some people play the artist/creativity/exploration game. Some people are playing the \"I want to live in the woods and be left alone\" game.\n\nA big factor in stepping outside of these hierarchies is in your mindset. If you can be clear about what your actual values are then you will have a far easier time finding happiness and being satisfied leaving the other pursuits unrealized.\n\nThen you can move laterally and pursue goals that are unique to you and that's probably the best thing that a lot of us have to offer the world: our opinionated, passion-driven, deep-diving life's work.\n\nI mean hell, Spinoza was cast out from his Jewish community for his heretical and unconventional ideas about the nature of God. Now his *Ethics* is a beloved and wholly unique philosophical proof that endures and (to my knowledge) doesn't quite compare to anything else that people are doing in the field, even after several hundred years. He set himself apart by doing exactly what he wanted to. Shame he had to be exiled, though. \ud83d\ude2d",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1065077558535794738",
+    "author": "Adam Thein",
+    "date": "2023-01-17",
+    "content": "I use it in the last 10% of the mix usually - when I'm at the OK my body is moving, the balances are close, I've got some automation to do but let's see where I'm at on Tonal Balance.  If my top end is generally trending too hot it probably means I've been working for too long and it's time for a break.  \n\nI don't really use it while mixing, but more of a problem solver.  One thing I'll do is if I do see a clump of something somewhere I'll start muting tracks that are in that range to see if a single source is causing the lump or it it's a broader number of sources.  In that way it can be helpful to identify a certain instrument that isn't balanced well.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073754126330105897",
+    "author": "Jeremy Klein",
+    "date": "2023-02-10",
+    "content": "Just listened to an episode of Tape Notes with Glass Animals and there was an interesting section where Dave Bayley compares his rough mix side by side to what MixedByAli did. I love hearing Dave's commentary on why MixedByAli nailed the mix.",
+    "reactions": 3,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1083492543225942076",
+    "author": "jordanmcleod_io",
+    "date": "2023-03-09",
+    "content": "Jumping back into the iZotope bundle buying, check out the KVR Audio website forums for buying and selling licenses. I got the Post Production Suite for $190. It came with RX10 Advanced, Neutron 4, Nectar 3 Plus, Insight 2, Dialogue Match, and Tonal Balance 2",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1134290549722058762",
+    "author": "cian riordan",
+    "date": "2023-07-27",
+    "content": "I know you know this\u2026 but before you get booked out busy and have to deal with the translation headaches for every project you mix, it might be worth another thought.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1139276410612088844",
+    "author": "Jonathan Jetter",
+    "date": "2023-08-10",
+    "content": "FWIW they definitely null out over here on a quick test, so long as no gain reduction. Limiter vs no limiter, different styles compared, etc etc.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1178023198382624850",
+    "author": "Jonathan Jetter",
+    "date": "2023-11-25",
+    "content": "It's like.....I *like* good gear. But one of the most well-streamed things I mixed, artist cut the vocals in their living room on an AT4050 and pre-processed it w/ CLA Vocals. I *wish* it was done in a good studio through a Manley Reference, a 1073, a CL1B, whatever. That might well have been one step further forward. But to me that is all small potatoes compared to the fact that the artist went and wrote a compelling song, went and produced a compelling production, and gave the best performance they knew how to give. If I could have it all, then great, but if I have to pick one, I'll take the sense of intention + purpose every time.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1180553974437384324",
+    "author": "Edward Rivera",
+    "date": "2023-12-02",
+    "content": "Spike has made some of my favorite mixes ever, like ever. But a quick a/b has me thinking Tchad is the right person for this. Peter and Tchad are unorthodox and that's not a word I'd use to describe Mark",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1195455868267937872",
+    "author": "peterlabberton",
+    "date": "2024-01-12",
+    "content": "@Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb usual caveats about not mixing with your eyes apply, but this is one of the useful things about iZotope\u2019s Tonal Balance Control. It\u2019s a handy way to visualize how the low end of most mixes really rolls off higher than you\u2019d expect, just as Matt was describing.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359328602113704008",
+    "author": "JustinLeu",
+    "date": "2025-04-08",
+    "content": "if level/EQ are not getting you where you want with the snare try a verb (insert) and take the panning closer to mono...you can quickly decide how far back it lives in the mix. Also for soundstage in general, snare width is crucial to defining \"space\" in the mix. Something that can make samples stand out in a bad way is if they are too wide compared to the rest of the kit.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374748259045740675",
+    "author": "oaklandmatt",
+    "date": "2025-05-21",
+    "content": "The closer I am to the finish line, the more I agree with you. But the earlier I am in the process, the more these kinds of perspective tricks become useful. \n\nIf I were a mastering engineer, I imagine I would phase all of these things out too. \n\nWhen I'm mixing, it's nice to have a couple translation-checking/ perspective tricks to use when something isn't sitting right (taking a walk included of course).\n\nWhen I'm producing, flipping things on their head with radical perspective shifts is a consistent part of my workflow. Super super useful.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1414266256432959638",
+    "author": "Matt Huber",
+    "date": "2025-09-07",
+    "content": "I communicate on the front end that I require that the tracks are printed with everything committed (w/ wet & dry option of lead vocal) along with detailed screenshots of the mix buss. If it sounds significantly different compared to the rough, I will ask for that to be addressed by the client before moving forward. \n\nThis has made a massive difference for me productivity-wise. \n\nLike Chris, I also have things set up in my mix template to be able to build most non-PT sessions in 15 min or less.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456796870415220879",
+    "author": "Jonathan Jetter",
+    "date": "2026-01-02",
+    "content": "I think mono *translation* (i.e. that the listener can follow the song- groove, melody, chord progression) is important-ish. But I also think it usually essentially happens by default, because kick/snare/bass/lead vocal are usually centered to begin with.\n\nI don't spend a single moment worrying about mono *optimization*.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1468795754779770943",
+    "author": "cian riordan",
+    "date": "2026-02-04",
+    "content": "Biggest cheat code I discovered 15 years ago is bringing in a level matched reference track",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "911574384202895391",
+    "author": "oaklandmatt",
+    "date": "2021-11-20",
+    "content": "do a blind A/B and see if you can pick it out. get someone to randomly click between the two and you pick which one is which out of 5 tries or 10 tries or whatever",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "973240261222232065",
+    "author": "Iwan Morgan",
+    "date": "2022-05-09",
+    "content": "I use the TC clarity meter and am usually looking at an integrated level, in conjunction with the radar display which gives a visual representation of the track level. I don\u2019t wait to measure the whole track, usually getting a handle of the overall integrated level across the loudest 30 seconds of the track gives a pretty accurate idea of how loud the track is. I\u2019m also using the Klanghelm VU meter in RMS mode.  One other thing i\u2019ve found really useful lately when mixing albums is using Izotope\u2019s Tonal Balance plug to get a quick visual of the curve of the first few mixes after which I make preset based in those and use it as a quick ref when mixing the rest of the tracks. I\u2019m finding a far more consistent result across a long project using this tool - especially when ears have gone a bit fuzzy",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "981173460132855898",
+    "author": "cy (sigh)",
+    "date": "2022-05-31",
+    "content": "I haven't done much voice over myself but I've helped in a few VO translations and I find it super interesting that the voice levels vary  not just per  langauge but per accent. some regions naturally bring out specific sounds. \n\none example are the S's  in Argentina /Spain's Spanish being waaaay more pronounced than most other places anf I noticed the engineer adjusting those sounds in the session immediately. when I asked they told me that here (Mexico) the production companies wouldn't mind the S's being softer but sending the VO back to one that's in Spain or Argentina they would always get notes about intelligibility - even if it was already plenty clear. \n\nhaven't worked on French stuff yet  but I know for a fact that I have to focus a lot on  a southern  French accent vs a Paris, France accent vs a Haitian/ Congol\u00e8se accent etc. so I would imagine it'd be a similar scenario  too.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1001918692445130882",
+    "author": "ALXCPH",
+    "date": "2022-07-27",
+    "content": "i know, i've just seen a few examples that looked really cool, that makes it all happen with a click of a button. so i'll be trying out some different workflows that are a like. If the service i provide is 1% better or closer to what is asked by the label or artist compared to my peers, i think it is worth the hassel.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1033878589256519680",
+    "author": "Calvin Lauber",
+    "date": "2022-10-23",
+    "content": "Yup small amounts of clipping on a live kit can really help even out transients. I don\u2019t really find it helpful on samples and generally I think it makes them sound worse compared to compression/saturation/limiting",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035998045537570928",
+    "author": "JakeTB",
+    "date": "2022-10-29",
+    "content": "I\u2019m not Ruairi, so I don\u2019t know his answer; but I found that listening to lots of music in the car made my ears accustomed to the car. Then I would mix extra smiley on monitors to match that and end up with something almost unlistenable. Listening to most music in the studio and just doing an occasional car test has helped reduce second-guessing",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1036100313104531466",
+    "author": "ehutton21",
+    "date": "2022-10-29",
+    "content": "For me, referencing on a select few  sources while prioritizing working in the same environments was what started to adjust my ears towards translation more",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1041467008987963452",
+    "author": "spectrummasters",
+    "date": "2022-11-13",
+    "content": "Thanks . I\u2019ve started his masking vid. V cool . Ill be deep diving his vids this week. It\u2019s very timely . He\u2019s already made a point that\u2019s resonating with me , where he mentions that subtle , frequent changes to mix elements help reduce masking . At the moment , I\u2019m trying to use less eq and be super sensitive to phase relationships) . I find that invariably , more I \u201cshape a mix\u201d with eq and compression (even light touches ) the cleaner it sounds and the louder it can go, but the less I like it.  If  there\u2019s a route available to go down , where I can not reach for eq to reduce masking......I\u2019m trying it.. I\u2019ve a few h/w eq s that I don\u2019t mind using but ITB pro q and x eq often seem to throw off the tonal balance of a sound and I\u2019m sure it\u2019s the changing phase relationships it sets off between the mix elements that\u2019s frustrating me . \nI\u2019ve seen a few mixers talking about using harmonics and reverbs instead of eq and intend to go this route, combined with some jj gems perhaps . Thanks again for the share",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1065069940836679761",
+    "author": "popaganda.",
+    "date": "2023-01-17",
+    "content": "Anybody using tonal balance control? Been using it for a few weeks after hearing Jon and Ruairi mention it\u2026.I feel like it\u2019s giving me confidence generally that my balances are pretty good, and also showing me when to reign some stuff in. The band solo feature is also really cool\u2026.kinda encourages more Shawn Everett-style bandpassed listening.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1097060263087312987",
+    "author": "austenballard",
+    "date": "2023-04-16",
+    "content": "That sounds good, except that, to compare to my Trackspacer addiction, I want it on 3 reverb sends and 3 delay sends and also my BV bus and rhythm section bus and for kick/bass sidechain... and maybe a few other places",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098279104521973882",
+    "author": "cy (sigh)",
+    "date": "2023-04-19",
+    "content": "agree with @chrissorem \nI almost exclusively work with indie artists /producers (only had a few major exps) and I def lost gigs at first for going all out blindly but now,  for the most part I communicate that my V1 is going to be me going all out and we can always fall back closer to the original /reference mix if they don't like it \n\nif they love what they have and let me know I'll ask what it is specifically theyre trying to get out of the song that they feel they couldn't do themselves and go from there.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127593494446362624",
+    "author": "Edward Rivera",
+    "date": "2023-07-09",
+    "content": "Wonder how it compares to smartEQ...a tool I bought and never ever used",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1141476693891104859",
+    "author": "Zach Hughes",
+    "date": "2023-08-16",
+    "content": "i could give you a random technique but without knowing the 'why' then I'm not sure that'd be useful. push your imagination to consider what a sound could be rather than waiting on someone to provide that spark for you. could even just drop a reference track in here and ask how do you think they did 'x' in this mix",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1162220737550098492",
+    "author": "cian riordan",
+    "date": "2023-10-12",
+    "content": "It's funny, I recently just swept my mix bus EQ with Q-clone and had a good week of mixing through it. Now when I A/B against the original, I find myself either not being able to tell or preferring the digital...",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1236749315750232154",
+    "author": "Josh Bowman",
+    "date": "2024-05-05",
+    "content": "Try not to get too in the weeds on the a/b too much like chris said, just go with your gut and move on! I do it like im taking an eye exam.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1258068223929352294",
+    "author": "Iwan Morgan",
+    "date": "2024-07-03",
+    "content": "It all depends on taste.  My most listened to records of the past few years are ones by PJ Harvey and Dirty Three and neither of those records (if I had mixed them) would stand up to the Tonal Balance control test and I doubt they give a shit.  Doesn't mean we can't try but ultra detailed referencing - and I've been down this rabbit hole many times, can be severly detrimental to the art.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1258379806681075712",
+    "author": "Marc",
+    "date": "2024-07-04",
+    "content": "For reference tracks \u2014 I was curious to compare two songs I love Bowie\u2019s \u201cYoung Americans\u201d and Springsteen \u201c10th Avenue Freeze Out\u201d. Similar instrumentation but the lesson for me was size and prominence of the different instruments. Bowie\u2019s bass is way more prominent than Bruce. Bruce has the piano and guitar up front. Bowie\u2019s has more delay and reverb. \n\nI think it reminds me I have to make more choices, and I also \u2014(have to write better songs lol) \u2014 have to keep in mind when I use a reference track, that my tonal balance may be different or the vocal will sit differently if, say, my snare is way fatter/thinner than the reference track or my lead vocal is in a different octave register, which means the guitars are competing etc.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274733395154436237",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-08-18",
+    "content": "There\u2019s been so many great reference track answers in this server, makes me wanna make a public notion database people can query",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1311817895902183476",
+    "author": "Brian Reynolds",
+    "date": "2024-11-28",
+    "content": "A month in to reworking my mixing approach. Doing more with less. And group bus processing. Been digging it in the room, earbuds, phone speaker. Get in the car to drive to my sister's today for the first time in forever (Brooklyn life). Turn the volume and windows all the way up. And get that unmistakable mid range overload rumble. Thankful to go back to the drawing board tomorrow. Happy Thanksgiving yall!!!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1348750879716671613",
+    "author": "Mike Tierney",
+    "date": "2025-03-10",
+    "content": "Damn we out here talkin about intonation systems? A lot of my bread and butter is contemporary classical/microtonal/experimental music and I'm in this world as both an engineer and often as a producer keeping track of how folks relate to the score and each other, take maps, etc. I tend to agree with some of the above that trying to chase down inharmonic relationships with EQ can make things worse, but I appreciate @LAPhill posting about bassoon/flute overtone series. @spectrummasters original question was about understanding the low mids and how they relate to EQing depending on the key; I think for me the way that understanding overtone series, tuning systems, and musical interactions in acoustic/orchestral instruments can relate to pop or rock mixing is like... Sometimes when I hear clashes between instruments playing thirds or clashes in the harmonic series and I'm trying to clear space in the mids/low mids, I do think about what instruments want to be occupying that space. So perhaps in the bassoon/flute example, I'd want the flute's fundamental to be stronger than the bassoon's first harmonic at C5, and that might look like EQing down the bassoon in the ranges of the flute's fundamentals, or in a rock mix looking at the bass's harmonics compared to where the lower range of the guitars are living. Obv instruments are moving and changing notes so none of this is surgical so much as the keys of the songs or the instruments' ranges might inform some general decisions about where to make space rather than just \"cut 300 on the bass\" or whatev",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1415000086739685386",
+    "author": "NoahNeedleman",
+    "date": "2025-09-09",
+    "content": "All cause Matt Huber said \u201cI never use a plug-in without rigorous and blind a/b testing\u201d",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1435061742530068490",
+    "author": "bobby k",
+    "date": "2025-11-03",
+    "content": "I can bounce out an A/B for those curious",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1468797564722876538",
+    "author": "DarrenB",
+    "date": "2026-02-04",
+    "content": "Another easy method for gainmatched reference is to use the Letimix Gainmatch plugin.  Load in your ref, mute the track.  Have your send Gainmatch on this and your receive on a listen bus (you'll want to make sure you avoid accidentally printing through it).  Gives a nice realtime feedback on where you're at level wise vs the ref (like Metric A/B), just another option I find handy if the sync or latch aspect of Metric A/B becomes cumbersome when you're not at the beginning of the timeline.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "877244920044355605",
+    "author": "chadwahlbrink",
+    "date": "2021-08-17",
+    "content": "@Zakhiggins https://youtu.be/brXOrmgPCfE\n\nThese loudness videos are helpful for understanding the concept. But also, I don\u2019t take my cue on how loud to make my mixes from any YouTuber/podcaster/plugin company/streaming platform. Cue into what your reference mixes sound like in tidal on hifi with normalization off. Route that into your DAW with a virtual output and you can compare LUFS on your favorite meters. The truth is there are no standards and trying to beat/cheat every loudness algorithm is folly. Make good shit that sounds like your favorite un-normalized records. \n\nSomething else I have done, grab some CDs from a local library of your favorite records and put those wavs into a meter or RX and see what the pros are actually printing out loudness and peak wise.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "945822514402181170",
+    "author": "chadwahlbrink",
+    "date": "2022-02-22",
+    "content": "I typically use iZotope Insight for LUFS, and iZotope Tonal Balance Control for frequency spectrum",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "945824920766677013",
+    "author": "peterlabberton",
+    "date": "2022-02-22",
+    "content": "I\u2019m very similar to @chadwahlbrink: Insight and Tonal Balance (which has been super helpful as I\u2019ve become accustomed to my new room over the last 6 months). Only thing I add is an instance of Pro-Q3 for more detail if needed, but I\u2019m not really looking at it unless I\u2019m really scratching my head trying to tweeze out some weird thing.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "950476731922411590",
+    "author": "BillyC",
+    "date": "2022-03-07",
+    "content": "At the risk of giving the least satisfying answer possible, without knowing or hearing what is intended in the music I think deep down we all know the answer to this is \"when it just feels wrong.\" And personally I find using reference mixes to be a very slippery slope because they tend to make me question the record in front of me too analytically rather than react to its specific needs intuitively. I instead like to flash some references only at the beginning of the day just to remind myself what good records feel like in my chair before I start trying to make them. I find that whenever I'm asking myself the kind of questions like \"do I have enough x, y, or z  frequency range\" it's more of a warning sign that I need a perspective break because these questions hardly ever arise in a true creative flow. That's not to say I don't fall into this rabbit hole regularly, I'm just trying to practice what I suspect is a better way out of it!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "950503458455318598",
+    "author": "arjunrao",
+    "date": "2022-03-07",
+    "content": "My car test is super personal to my car \ud83d\ude02 - over time I learned how certain songs make things rattle differently in there",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995396996078780497",
+    "author": "Iwan Morgan",
+    "date": "2022-07-09",
+    "content": "+1 for Tonal Balance Control. I have it in my chain following Metric AB so I can quickly see the curve of whatever references I have or the band specify. I sometimes tie it to an instance of Ozone EQ but i\u2019d rather go back to individual elements if I notice anything is way out. The dynamics meter on it is quite useful for seeing if the low end is too bouncy/dynamic or too squashed.  I try not to rely on it too much but it is really useful as a checking tool. Especially good for maintaining consistency across an album project.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1001609506305880186",
+    "author": "ehutton21",
+    "date": "2022-07-26",
+    "content": "Not Matt but as someone who works with hyper pop and \u201cmessier\u201d genres, it\u2019s about the fundamental stuff + being very humble as a mixer. \n\nBy fundamentals I mean that a lot of this is about communication with the artist and figuring out what\u2019s essential to them, or else how can you gain stage the good stuff? You gotta A/B the roughs and your refs a lot and make moves that are more decisive than super nitpicky too (be as detailed as necessary but be conscious that you don\u2019t have to make this sound pop pretty). I remember I sent a mix to have @Rollmottle check out a couple months that wasn\u2019t hyper-pop but I needed to go back and add in the grit of the bass actually pumping my final limiter cause it gave the mix life.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009431546006077460",
+    "author": "NoahNeedleman",
+    "date": "2022-08-17",
+    "content": "I\u2019ve been thinking about this a lot lately. Lowering the focus of my brightness from 15k down to 12k or whatever. I don\u2019t have any clear cut answers yet, but I do have some reference mixes that do it well. I keep going back to those to help define where to place the density.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055174387785027614",
+    "author": "spectrummasters",
+    "date": "2022-12-21",
+    "content": "You can generate a reference in tonal balance control from any audio file and so you\u2019re able to quickly profile your overall spectral balance in reference to any song . It begins to work particularly well in conjunction with instances of neutron and ozone eq on your mix inserts because you can adjust them from within tonal balance control without leaving the plug (if I recall correctly ). The neutron eqs are handy again if you want a quick Visual of Where masking is happening , as all the neutron eqs \u201cspeak to each other \u201c and will display masking between channels in any of the eqs. I found the isotope environment really really useful whilst getting my ear training in . I\u2019d never recommend the mix or master assistants but the crosstalk between their mix and master plug ins are really brilliant imo , fwiw",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055528811711692880",
+    "author": "oaklandmatt",
+    "date": "2022-12-22",
+    "content": "Cian, when we hung with Stuart did we actually listen to shit on his setup? It has very minimal low end. He obviously knows what's happening in the low end, but he def mixes on much smaller speakers. I think he's definitely doing what you're saying in that he's mixing for the Alexa and other speaker translation. His shit sounds tremendous @Dusk",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055680392314769448",
+    "author": "Deleted User",
+    "date": "2022-12-22",
+    "content": "Knowing what matters more. sometimes i\u2019d be spending a while doing EQ tweaks only to A/B and realize it didn\u2019t really matter",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060172787429425153",
+    "author": "spectrummasters",
+    "date": "2023-01-04",
+    "content": "Ask them for a reference they like the low end on ? (And then if you have it , to be sure have a look in tonal balance control how your low end compares to the ref ? )",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1065075091970461796",
+    "author": "Iwan Morgan",
+    "date": "2023-01-17",
+    "content": "Really useful tool. I tend to use Modern and then if there\u2019s a specific ref i\u2019ll put it in Metric AB with Tonal Balance Control after it. Helps me see how close the ref is to the Modern target.  Has led me astray a few times though, trusting how something looks more than how it sounds.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1065178780307562596",
+    "author": "Slow Hand",
+    "date": "2023-01-18",
+    "content": "Nothing fancy here. I strongly dislike the PT dual pan sliders, so I do my narrowing with a simple utility plugin so that I can quickly A/B it.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1065827290535178362",
+    "author": "Jeremy Klein",
+    "date": "2023-01-19",
+    "content": "yeah compare track 1 (rehab) with track 3 (me and mr jones) to hear the difference",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1068689713420050483",
+    "author": "Will Melones",
+    "date": "2023-01-27",
+    "content": "I\u2019m just starting to go real deep with spectral repair on crappy vocals and acoustic guitars (especially since my recent iZotope sponsorship, y\u2019know [*JOKES*]), and it\u2019s saved some really desperate tracks. Still a lot of trial and error with the other parameters before I can get what I\u2019m aiming for, but I\u2019m asking it to do some heavy lifting compared to what I imagine you can get away with on a master.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073405150011596871",
+    "author": "Will Melones",
+    "date": "2023-02-09",
+    "content": "This could absolutely be an overall FF glitch. Now that you mention it, I'm realizing that when I flip presets on Pro-Q3, things like the Analyzer settings don't carry over.\n\nI have a PT default preset with RTA off that I typically rely on, but I also have it saved in the FF menu so I can A/B to a cleared out setting. I've noticed that when I call up a preset there, it doesn't respect the analyzer settings. But the analyzer isn't universal, like the zoom or piano keyboard display are.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1096827848511193178",
+    "author": "Maxim",
+    "date": "2023-04-15",
+    "content": "Definitely looking for clarity and translation (something I have never had with any of the typical sub 1k headphones other than Airpods surprisingly) but also headphones that are close to the fun of having monitors. Focals had that for me. Loved listening to music on them. But the translation aspect was a bit lackluster.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1096856860549722223",
+    "author": "cian riordan",
+    "date": "2023-04-15",
+    "content": "I mixed on Sennie 650s out of a closet when shit hit the fan with the pandemic and it was a real struggle to figure out the low end translation, even after a few weeks.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1099182844745625723",
+    "author": "BatMeckley",
+    "date": "2023-04-21",
+    "content": "I\u2019m just saying, the peloton earbuds didn\u2019t give him quite the same results.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105874050187808768",
+    "author": "chrissorem",
+    "date": "2023-05-10",
+    "content": "I\u2019ve never compared but people seem to think the vintage ones in good condition sound better \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108426583145988208",
+    "author": "Iwan Morgan",
+    "date": "2023-05-17",
+    "content": "@shaunobi  Yes TBC is great for mixing, I usually use Modern. A good way for getting consistent Tonal balance on an album project. I have Metric AB before it on the master output so I can quickly see how my ref tracks fit into the curve as well.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1112968539398209568",
+    "author": "Nomograph Mastering",
+    "date": "2023-05-29",
+    "content": "I mean, with a fresh ear compare your fixes to the rough and if you haven\u2019t over egged it then just treat that as the baseline now",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151446456004251718",
+    "author": "peterlabberton",
+    "date": "2023-09-13",
+    "content": "Sometimes I\u2019ve found it helpful to solo, say, all the main pad-y, harmonic elements, and then compare that to the vocal. Or (just making up examples) solo the electric guitars and\u2026 strings or something. See where there\u2019s a pocket I can squeeze the problematic instrument in.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151452569114255400",
+    "author": "Iwan Morgan",
+    "date": "2023-09-13",
+    "content": "Seconding @peterlabberton i find most use for this when i\u2019ve got the mix going and then get to the point where I wonder how it compares to the wider world. Ruairi is right in that the curve is only part of the story. I have made many objectively good looking mixes only to find they don\u2019t stack up to A/Bing with commercial refs. I find it really useful on album projects which have a similar tracking style. I\u2019ll mix the first couple and then make a curve which I can then reference.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151729556005330945",
+    "author": "aemaury",
+    "date": "2023-09-13",
+    "content": "I always find a/b  helpful for dialing in overall brightness and vocal level",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154851915474145411",
+    "author": "Will Melones",
+    "date": "2023-09-22",
+    "content": "I think I understand. It knows the input (digital audio) and can compare what the mic is picking up with that constant. Still seems absolutely bonkers considering every experience I\u2019ve had placing mics and listening in a space of any kind!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1170639738672255158",
+    "author": "spectrummasters",
+    "date": "2023-11-05",
+    "content": "It\u2019s v subtle compared to pushing an inflator , but still , I really like cians \u201cunfairchild \u201c preset for Saturn he has shared here with us . In conjunction with some ozone tape excitement",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1174018569751773255",
+    "author": "Deleted User",
+    "date": "2023-11-14",
+    "content": "Sounds like you\u2019re coping with issues, that better monitoring could solve tbh. If you have the feeling that you have tendencies that don\u2019t produce the outcome you want, I wouldn\u2019t start questioning those (your intuitive feelings) and rather take a look at what causes that translation issue.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1186026096894955591",
+    "author": "Rob Domos",
+    "date": "2023-12-17",
+    "content": "Voices in room do not sound like they are hitting a microphone. Think about the physics of sound for a second. High frequencies move in a laser beam shape and low frequencies move in a spherical shape. Nobody is ever turning with their ear facing 1 foot from a mouth that is laserbeaming high end into their ears. This is why you almost never hear saliva drips and lip smacking when in conversation and hear it constantly in recordings. This is also a big reason why the high end of most captures sounds so rough and edgy compared to real life. A lot of what I\u2019m doing is going in and massaging that high end to take it from \u201cthis sounds like a mic capsule\u201d to \u201cthis sounds like the person is in the room\u201d",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1202110427681525770",
+    "author": "Zach Hughes",
+    "date": "2024-01-30",
+    "content": "I recently revisited a mix I initially did in 2021 for an as of yet unreleased project. A folk / rock / americana track. My OG mix had this really aggressive edge to it that I kinda liked but it also felt way too scooped in the low mids. I checked out my old session and turns out I had cranked a ton of 8khz on the mixbus (a move I haven't felt compelled to do since 2021). Related I've been really enjoying thick / dense / full bodied mixes that still have excitement / edge up top especially for vocals and I had previously struggled to achieve a similar 'heft' in my own mixes compared to what I was hearing. I think in the past I was too quick to zap low mid resonances in my vocals / guitars. So I've been experimenting cutting less down around 200hz-600hz and emphasizing more. But then I felt I was losing some of that edge / excitement by see-sawing too much with the low mids relative to up top. I've found cutting some 170hz clears much of that up for me (like oh hey there's my snare or more room for kick / bass), I achieve the thickness above in that 200-600hz range and balance that with the excitement around ~8khz. Pushing and pulling.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1219074200883695707",
+    "author": "Nick Stetina",
+    "date": "2024-03-17",
+    "content": "Definitely. That\u2019s a really succinct way to put it. \n\nRe: expensive sources x sonic quality not being linear, totally. Something I worked on recently had the most high profile artist I\u2019ve ever worked on it as a collaborator - strings, piano and their vocals recorded in a multi-million dollar facility with a Vintage King wet dream of gear at their disposal. I didn\u2019t know any of this until I was done with the mix and the whole time I thought it was a 50/50 if the vocals were recorded on the wired Apple earbuds mic (think TikTok singer-y), and the piano and strings were pretty unremarkable \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1231127919439384606",
+    "author": "Deleted User",
+    "date": "2024-04-19",
+    "content": "Hey everyone, so a couple months ago I went to a workshop with one of the guys who worked on the loudness standard team for the european broadcast union and it was really interesting how he thinks about all that and how it translates to his mixing workflow in particular. So for those of you who don\u2019t know in broadcast you have to hit a loudness of -23 LUFS +-1dBTP throughout the program. This is especially tricky with live program as you can imagine. But having this fixed loudness target also has a major advantage, it\u2019s that you can have a fixed volume setting on your monitoring and with time you kinda know how loud you\u2019re mixing compared to if you\u2019re mixing for peak loudness, where you\u2019ll always land on different loudness depending on the program. This was the first time I really understood the advantage of that way of working, because with time you\u2019ll be so tuned to the loudness target you\u2019ll be able to really intuit every move. And since -23 gives you boatloads of headroom you can really push things during mixing and then still get the density through clipping/limiting after that. It kinda ties in with what @Nomograph Mastering  was saying about fixed monitoring level. What do you guys think about that?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1240153573006901340",
+    "author": "Will Melones",
+    "date": "2024-05-14",
+    "content": "Still waiting for Softube to fix a bug in their Weiss maximizer that makes it so the output gain affects the signal while the plugin is bypassed. Try a gain-matched A/B with that.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1253789188566814740",
+    "author": "Slow Hand",
+    "date": "2024-06-21",
+    "content": "That said I *do* like to A/B my own mixes against the rough. Sometimes I'll just toggle a plugin on/off and think to myself \"Oooh, that was a good move.\" \ud83d\ude04",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1258002044220870657",
+    "author": "iampedrorafael",
+    "date": "2024-07-03",
+    "content": "Same situation here, I used to avoid the \"reality check\" at the beginning of the mix so I could move primarily by feel. But then I was consistently making macro EQ moves on the mix bus in order to match the references a bit more at the end of the mix (typical 2db presence boost, maybe some 200-300hz scoop). This was a real pain in the ass, cause naturally things change a bit at that point and it's not an effective way to handle the problem. So now I have a preset for MetricAB with 8 reference tracks ready to go that I listen for short periods of time, sometimes 5 seconds or so, just to keep my years calibrated to what \"normal\" feels like in a macro-level. The fact that I don't need to leave the DAW environment (changing the visuals as well) to open a streaming app with different stimulus makes it really convenient to just do the right thing and compare apples to apples. The band-isolation mode really helps me to compare how different frequency ranges are moving also",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1258037282481508503",
+    "author": "BoozleBAM",
+    "date": "2024-07-03",
+    "content": "Very good method, I'd say! - And I can see the 8 reference tracks keeping you in a more \"neutral\" perspective (than just becoming myopic with one) Heck yeah...",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1268302142654119956",
+    "author": "Felix Byrne",
+    "date": "2024-07-31",
+    "content": "PT's ones are kinda old and mediocre ime compared to some of the ones out now (but 1000% functional and sound good most times if you need to get on w/ finishing the damn record)\n\nmaybe check out the trial of serato pitch n time - cleanest one i've used\n\nor RX11 has new a new pitch and time module",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270370534219321427",
+    "author": "Josh Bowman",
+    "date": "2024-08-06",
+    "content": "Seventh heaven rooms- Studio a/b are great for adding size/depth and not adding too much obvious \"verb\" or valhalla room with the size way down to under 1s, and filtering out some top or mid till its invisible can sometimes do it\n\nMy go-to is really really subtle filtered stereo slap but sounds like you did slap already. \n\nWhats the issue with the dry vocal? Is it feeling too disconnected/on top?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270916197071847525",
+    "author": "bobby k",
+    "date": "2024-08-07",
+    "content": "This is in essence how I\u2019ve been working the past year or two, thanks to this discord actually. The 2-3 essential tools on my MB (like clipping) are also on each food group for more targeted purposes. I love working this way. I think what this conversation has highlighted in theory is where I can improve the translation to mastering by minimizing any backtracking in the records sonics when I pop off that final limiter",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1271521065381920879",
+    "author": "chris_donlin",
+    "date": "2024-08-09",
+    "content": "I have a new script that doesn't involve Metric A/B if you're interested! it just toggles between the rough mix and submaster",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273767019011112980",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-15",
+    "content": "You ever see someone tweaking the snare EQ on their laptop speakers because \u201cconsumers\u201d? Open their screen up 15 degrees more and everything changes",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1279598605862305925",
+    "author": "David Fuller",
+    "date": "2024-08-31",
+    "content": "it takes _forever_ compared to EQ or a de-esser or something and it's hard to judge in context",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1291536525313572928",
+    "author": "Julia Borelli",
+    "date": "2024-10-03",
+    "content": "That\u2019s exactly what\u2019s been happening over the past few years. I\u2019m taking on fewer Berlin projects and focusing more on international work, which has allowed us to raise rates significantly. However, the electronic music scene still has much lower budgets compared to pop and other larger markets. I\u2019ll discuss this with my team tomorrow\u2014this has been really insightful. Thanks again!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1294054322153328711",
+    "author": "Josh Bowman",
+    "date": "2024-10-10",
+    "content": "Hadn\u2019t seen the Ross tip, that\u2019s awesome!!\n\nYa I guess as always, it also really depends on the project. If I\u2019m hired to get something the last 5-10% I\u2019m not gonna start muting shit or changing productions, but, in those cases \u201csomething radical\u201d might be me adding a vocal delay in a section. I\u2019m usually coming at it from mixer brain so when I feel like im being heavy handed, it\u2019s probably stilll a small change compared to actual production decisions.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1297059386853822465",
+    "author": "h3x",
+    "date": "2024-10-18",
+    "content": "U could be right. I think one thing thats been bothering me is that i signed what was/is to me a great distribution deal. Its for 8 songs total and this is song 4. Song 2 exploded and did very very very well and then when song 3 came out, the label slowed down my promo and the numbers for it dropped significantly compared to the one before. Now its been 7 months since then and its been tough to hop back into that song without overthinking what would give it the best success. That absolutely plays at least a small role in me second guessing it all",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1309556911028310026",
+    "author": "Joshua Riley",
+    "date": "2024-11-22",
+    "content": "Tonal Balance 2 on sale for \u00a327. Worth it? Or leave it?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1329139783162658816",
+    "author": "Lee Rouse",
+    "date": "2025-01-15",
+    "content": "I don\u2019t care for spectral but I do really like the expanded settings for the dynamic eq section. Stock analyzer is also set differently by default and kinda messed with me until I realized it compared to 3",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1330563679976161394",
+    "author": "cleanplatesound",
+    "date": "2025-01-19",
+    "content": "This is for everyone who uses headphones in the studio! Thank me later \nFor better translation\nhttps://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/?rdt=59536",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337100163386314772",
+    "author": "NoahNeedleman",
+    "date": "2025-02-06",
+    "content": "We def do this periodically, so it is worth a search for some good ideas. Currently \n\nEQP1a with a brought smile at either 30 or 60 and 12k\nTDR Kotelnikov or SSL G\nGem Dopamine gain matched on default \nPro Q 3 with some gentle basic shit to clean things up\nVarious creative plugs go here:\nPrecision K if I need width, ATR 102 if I need tape, Clarity for sheen, etc. usually not more than one. \nOzone Maximizer, usually IRC IV modern\nThen my metering plugs: LEVELS for LUFS reading and Tonal Balance Control for gut check",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1350796451504062494",
+    "author": "sinaigimenez",
+    "date": "2025-03-16",
+    "content": "Dumb question here. I've been hearing for years about keeping a consistent reference for listening volume while mixing. I know all the reasons behind it\u2014Fletcher-Munson curves, etc. Yesterday, I saw a short video of Dale Becker emphasizing how important it is\u2026 so okay, I get it, but I don\u2019t know how to actually implement it in my day-to-day workflow.\n\nCan someone explain how to do it properly? Also, Dale mentioned some routine of listening to reference tracks at a predetermined volume before starting a session, but I\u2019m going off memory, so I\u2019m not sure.\n\nMy setup is ATC 25s and a Lynx Hilo. Would I need anything else to calibrate the system, like an SPL meter?\n\nI\u2019m almost embarrassed to ask this after 10 years of mixing, but while I\u2019ve always tried to be consistent with my listening levels, I never learned the proper way to do it.\n\nThanks!!!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359252315756036097",
+    "author": "getyoursnackon",
+    "date": "2025-04-08",
+    "content": "im fairly certain they ignored it and then just compared to the bounce they had",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360771257506992360",
+    "author": "Tristan",
+    "date": "2025-04-12",
+    "content": "I mix a lot of electronic and EDM. Generally speaking EDM isn't super subby, usually quite the opposite and most reference tracks EDM artists obsess over are hyped, bright mixes. Tendenancy for aggressive sidechaining, VPS Multiband Sidechain is my favorite. Oxford Inflator and Ozone limiters are seen frequently on the mix bus in sessions I pick up, going pretty ham and they color the mix A LOT. Don't really touch the kick itself too much. Obviously context matters, can be different trk-2-trk etc",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1363558615369388224",
+    "author": "LAPhill",
+    "date": "2025-04-20",
+    "content": "Headphones would be my move here. I\u2019d also be inclined to pull up an analyzer and make sure I\u2019m not way off base. Might compare it to a couple references I know are in the ballpark of what I\u2019m aiming for.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1364360279022108773",
+    "author": "Bryan DiMaio",
+    "date": "2025-04-22",
+    "content": "Audio interface loopback/virtual IO is going to be your lowest latency and most stable (compared to Aux IO) option but I\u2019m not sure exactly how the symphony implements this. I know something like RME or Metric Halo would allow this pretty easily, though (without testing this yet) you may still be subject to the latency that results from your sample rate/buffer size roundtrip in the DAW. Since Loopback (the program) acts as its own audio program it adds an additional round of latency which is why routing this with an interface will be a lower latency configuration",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368543232224530594",
+    "author": "Sei046",
+    "date": "2025-05-04",
+    "content": "I use adaptr reference plugin. So there\u2019s a bunch of tracks loaded in and I have it switching between my mix and the reference with a button on a midi controller, and another bunch of midi buttons switches between four frequency bands. I have another button than scrolls through the reference tracks. It\u2019s saved with a couple of other monitoring plugins like can opener as an fx template that I load on the master of each mix",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1375451166489579662",
+    "author": "tim adamson \ud83c\udde6\ud83c\uddfa",
+    "date": "2025-05-23",
+    "content": "Are you using the comp on channelstrip? If so, warm and smooth modes can be a good way to get there compared to mio",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1379110239328145408",
+    "author": "hyanrarvey",
+    "date": "2025-06-02",
+    "content": "But all the cool sidechaining and multing tracks like doing the de-easer off the ssl sounds so fucking good compared to most plugin de-easers that just me tho",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1410349574916145213",
+    "author": "Iwan Morgan",
+    "date": "2025-08-27",
+    "content": "@diamndsdancin if you are using pro tools you can switch the meters to show compression on each track. You could also use meterplugs\u2019 Dynameter or even Izotopes Tonal Balance Control to monitor the dynamic range.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "880602684166635571",
+    "author": "Eric Martin",
+    "date": "2021-08-26",
+    "content": "@peterlabberton @David Fuller @Josh @Deleted User \n\nI\u2019m mixing through a limiter also, it\u2019s pulling my up 4db and tickling the GR occasionally. I guess it\u2019s aggressive comparing that\u2019s what I\u2019m getting at, \u201cit\u2019s not loud enough\u201d softer than these mixes that I love, there\u2019s more that goes into it than just loudness right?\n\n\u201cdon\u2019t compare to mastered music when mixing\u201d isn\u2019t the right phrase and isn\u2019t helpful\n\nI\u2019m looking to make my shit sound finished also, but it\u2019s not fast and it is IMO incredibly difficult to get great sounding -10 records",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "916100861237817414",
+    "author": "Eric Martin",
+    "date": "2021-12-02",
+    "content": "haven\u2019t used it on any individual tracks, I did end up using it on an already loud master that the client wanted another db \u201cor two\u201d of level, standard clip helped me juice another db while still retaining clarity and not changing the tonal balance too much",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "916734329101615104",
+    "author": "Zack Hames",
+    "date": "2021-12-04",
+    "content": "Anyone else find they leave a lot of low mids (200-300hz area) when mixing on PMC\u2019s? \n\nThe second I put on apple earbuds I can hear that congested, foggy build up but the PMC\u2019s twotwo8\u2019s seem to accept anywhere from bulky to lean without making it obvious there may be an issue. \n\nMy room is far from perfect, but it\u2019s the best it\u2019s been and it\u2019s an issue I\u2019ve had the entire time. Maybe ATC\u2019s would be more revealing for getting more answers in the midrange so to speak.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "916751156603150346",
+    "author": "GTS",
+    "date": "2021-12-04",
+    "content": "I have a question regarding loudness and I know Matt and Jon have talked about this quite a lot before...so i just finished mixing a project for this artist recently signed to a Canadian label which Joe Laporta mastered. When playing back the tracks on spotify/apple with normalization on my mixes sound a lot quieter compared to other songs on a playlist.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "918968323079819314",
+    "author": "hendrick",
+    "date": "2021-12-10",
+    "content": "the tape emulator is great too, i use it when i want super subtle saturation because it changes the sound much less compared to other tape plugins, slate, uad, acustica, etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "926147999351050300",
+    "author": "bobby k",
+    "date": "2021-12-30",
+    "content": "haha u  good. but yea you basically answered your own question, the mid/center channel stuff spreads out a bit because each side has minute differences in electronics compared to working digitally. i ran mono white noise through the massive passive and A/B into izotope insight, kind of looked like adding 10-20% widening from ozone or vitalizer",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "938135998968250390",
+    "author": "bobby k",
+    "date": "2022-02-01",
+    "content": "man I need some advice here. got paid up front to mix an album and it's taken over a year to complete, just feeling not worth it anymore. The issue we keep running in to is really terrible engineering and production caked into the vocals by this very large/random span of producer (14 total songs), then the artist says that every vocal feels over compressed (I can assure you that none of it is coming from me). I've told her time and time again that perhaps these notes would have been more effective during production or recording, but it still feels like it's my fault. (also, fun tidbit: her verbage is \"the eq on the vocal feels too compressed\"). she references the mixes on very old Apple earbuds and has the most ludacris notes about the bass n stuff. I'm mixing on PMC IB1s and Airpods, FWIW. just feels like this endless uphill battle where I'm worried I'm running thin on patience.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "938181827506602024",
+    "author": "oaklandmatt",
+    "date": "2022-02-01",
+    "content": "@bobby k other options I think about when I get into this situation: have the artist over and A/B things so you can show/explain the limitations presented to you. A stream with audiomovers and a facetime/zoom is often equally useful. You can also try and get an intermediary like management, label, or producer and team up with them (NOT to complain to them, but say \"hey here are the challenges, can we collectively figure out how to get this over the finish line?\").\n\nOften times if you connect the artist (or whoever is giving notes) directly into your process as you're doing it, just feeling listened to and getting to make some decisions will help everything. If you've already done this and now you're going around in circles of indecision, maybe there's no fixing it. But if you're getting notes that don't make any sense, just find a way to let them make decisions in real time with you.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "938549139413827684",
+    "author": "Maxim",
+    "date": "2022-02-02",
+    "content": "Yeah it ain\u2019t formulated well but I guess compared to YouTube which normalizes based on LUFs TikTok is doing some compression/limiting based on peaks giving you an extreme pumping effect in many cases",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "940447621699502150",
+    "author": "swarga",
+    "date": "2022-02-07",
+    "content": "I\u2019m working on a track and I finished producing and recording it. I bounced the stems to mix and I realize that the song is nowhere near as competitive with my reference tracks. High end density, low end impact, clarity and arrangement balance were missing. Is this normal before mixing or did I mess something up in the production phase? I really liked how it sounded up until I got to the mix. How do you make sure your tracks are competitive when producing without losing the vibe Or is the track supposed to sound like that before mix? TLDR: How do I mix as I go?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "940469057910636554",
+    "author": "swarga",
+    "date": "2022-02-07",
+    "content": "My inner perfectionist is tingling \ud83d\ude02 do you think templates will help with this? I had an idea to create a template that tells me what db a reference tracks individual buses are (bass, drums,vocals) is that practical if I can find a multitrack?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "950501424196886569",
+    "author": "Zakhiggins",
+    "date": "2022-03-07",
+    "content": "But for me, my car has stupid loud bass so I just test it in that compared to other songs. It can make an awful rattle when the bass is too loud, but most pro songs won't. So I guess find something like that is what id reccomend",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "953446663878500353",
+    "author": "1ggy",
+    "date": "2022-03-15",
+    "content": "I heard this only works in 44.1k but would have to A/B to really know \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "980257894358458399",
+    "author": "ehutton21",
+    "date": "2022-05-28",
+    "content": "the inflator is real nice, but i find it messy at times if used improperly. \n\ni\u2019d say look at lift 3 if you\u2019re looking for some tone, it\u2019s underrated for just that little bit of grit i like on a mix (some of my fave hip hop tracks have this punch on low end where it crunches things a little bit, i love it). Ozone exciter in multiband format across the 2bus is still a favorite of mine, although be careful about being too heavy handed. \n\ncian\u2019s fab filter setting for saturn 2 is fantastic at what it does. i compared it to my work through some manley outboard at the studio and was blown away.\n\nPA has black box which is nice but i also find it easy to over do.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "984524304668581908",
+    "author": "ehutton21",
+    "date": "2022-06-09",
+    "content": "i believe, and i could be mistaken, that matt and jon talked about OTT a bit and it was noted that there was a difference? i have never bothered to a/b them but the methods of interaction were always different to me, even just based on the GUI. i preferred the xfer layout to be honest, but \ud83e\udd37",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "984549908143034408",
+    "author": "ALXCPH",
+    "date": "2022-06-09",
+    "content": "Anybody who got both plugins wanna do a null or A/B test? \u270c\ufe0f\ud83d\ude0e",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "989948175890673684",
+    "author": "mixedbywong_my",
+    "date": "2022-06-24",
+    "content": "His previous song , Light Switch , I actually used it as a reference for a mix I was working on . Few hours later I realised that Light Switch was such a dark mix compared to what\u2019s usually out there in the pop world. Kinda glad to hear something that not slicing my ears off for a change \ud83e\udd32\ud83c\udffb",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "989963546232258590",
+    "author": "Calvin Lauber",
+    "date": "2022-06-24",
+    "content": "That\u2019s interesting because I perceived the mixes on Kendricks new album as pretty dark compared to his other records and most modern hip hop, and the vocals sound dark and pretty uncompressed to me. Maybe I need to do some more A/Bing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "990776140547375146",
+    "author": "Jeremy Klein",
+    "date": "2022-06-26",
+    "content": "Ok can someone help me understand this?\n\nTake any random audio, throw a gain plugin on it and increase the volume by 40db. It's going to distort like crazy. As i understand it, it's not your DAW clipping it, its the audio leaving the daw and clipping your convertors. \n\nMy guess is this is Hard/Digital Clipping. But when I export the audio in the above scenario and compare it with the same thing but with a hard clipper plugin on the master, they do not null out.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "990867987760312330",
+    "author": "ALXCPH",
+    "date": "2022-06-26",
+    "content": "I think there\u2019s a video on YouTube, that pretty much proves what you said. It compares some free clippers. And some of the most expensive ones and they all null. \ud83d\udc40 let me see if I can find it later",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994307572192509964",
+    "author": "Adam Thein",
+    "date": "2022-07-06",
+    "content": "Just wanted to follow up I ended up getting the EL Arousor LT plugin and loving it.  I have never used the hardware so I have nothing to compare against but really dead easy to use.  Thanks for the recs!  Queue me overusing a new plugin for the next 10 mixes.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995210976683106309",
+    "author": "YianniAP",
+    "date": "2022-07-08",
+    "content": "hey peter! i\u2019m curious how specifically are you using tonal balance? that\u2019s one of those plugins i\u2019ve had forever but never tried.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995216099798954034",
+    "author": "peterlabberton",
+    "date": "2022-07-08",
+    "content": "I know there\u2019s some features built into Tonal Balance where you can adjust Neutron EQs throughout your project or whatever but I\u2019ve never used it that way.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "995505752288534598",
+    "author": "Dre Malone",
+    "date": "2022-07-09",
+    "content": "Heya, I\u2019ve lately noticed that when I bounce a Wav file + an MP3 attached to it, both sound different in quality even at 32bits. The wav file stands out more compared to the mp3. Is this something common and is there a way I could get by it?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "998799054207209592",
+    "author": "cian riordan",
+    "date": "2022-07-18",
+    "content": "always curious because I dont have UAD -- how would you compare the Puig EQP vs that one?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "999308755873308742",
+    "author": "Josh Bowman",
+    "date": "2022-07-20",
+    "content": "Have you messed with all the algorithms? Lately I\u2019ve been on punchy and really like it compared to modern for most of the styles I work on.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1003445273974018088",
+    "author": "ehutton21",
+    "date": "2022-07-31",
+    "content": "@Gazing Wrmth | Mixes & Masters I\u2019m pretty much exclusively in cans and i second all of what Noah said. Additionally, sonarworks for your headphones is definitely worth it esp. for only 70 USD. It will smear transients a bit, but you can get over that if you reference well. Mix quiet and you won\u2019t be disappointed. \n\nForgot to mention, because DT 770s are closed back, making sure you have a good seal and taking breaks are critical. You need a 15 minute break for every hour you put in on cans, bare minimum IMO. Without that, attention loss and fatigue kick in. \n\nTools like tonal balance control 2 are important. I recommend setting up a Pro-MB with 3-5 bands across the entire frequency range but make them all neutral with no compression. Sub, low, mid, high mid, top end. You can monitor specific ranges now. And for sub/low end, you can turn the gain up on your headphone mix a bit, isolate the low end, and you can hear it a bit better. Make sure you turn your headphones down a bit before you un-solo the low or the sub, but this has helped me massively",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009444991631900703",
+    "author": "Will Melones",
+    "date": "2022-08-17",
+    "content": "I had a mix that sounded really dark to me in earbuds, but when I got back to my studio it was excessively bright. Turned out it was lacking more in 2-8k and had plenty of the 12k+.\n\nI\u2019ve been looking more to get excitement and immediacy from those areas that I tend to cut because they\u2019re \u2018harsh\u2019.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009744408842883173",
+    "author": "Gazing Wrmth | Mixes & Masters",
+    "date": "2022-08-18",
+    "content": "Did anybody tried Bricasti M7 IRLS?\nIf yes then how do they compare with the hardware?\nAnd what are some of you'll fav presets ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1012098617223430224",
+    "author": "Jeremy Klein",
+    "date": "2022-08-24",
+    "content": "the big changes here for me were only using 1 reference track no matter the genre that can be used as an anchor that I know extremely well and how my mix will translate if i go brighter/darker than that ref etc.\n\nand doing such a short burst with no gap in playback so that im _not_ focused on \"hmmm my kick drum is slightly woofier\" and more on \"OH MY GOD my kick is WAY  too loud\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1014213443001266297",
+    "author": "Will Melones",
+    "date": "2022-08-30",
+    "content": "Cool experiment. How does it compare to forward clipping? Can you do a null test with the same clipper settings?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1020666367243984917",
+    "author": "louisvie",
+    "date": "2022-09-17",
+    "content": "funny thing just happened to me : i made like 16 tracks of the same vocal with every uad preamp, to compare them and pick the best for the song. i did a blind test using hofa's blindtest plugin (which i recommend 1000% and is free for use on up to 3 tracks, otherwise 40$) and my favorite preamp was the neve 1073 and for compressor is either the la-2A silver or the fairchild 660. \n\nI find it interesting that, even with a lot of choice, my ear is naturally drawn to that chain. Probably because it's the sound of pop music today. Btw, i never used the 1073 before on recording/producing/mixing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1027653992727183410",
+    "author": "ALXCPH",
+    "date": "2022-10-06",
+    "content": "You can\u2019t tell on most systems, so it\u2019s mostly fine. But once you listen on a good full range system and compare, that\u2019s when you can hear the low end smearing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1034126160273084417",
+    "author": "David Fuller",
+    "date": "2022-10-24",
+    "content": "@hyanrarvey if you wanna have some fun compare Orbit Culture mixes to Formation of Damnation",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1034127470401695786",
+    "author": "Adam Thein",
+    "date": "2022-10-24",
+    "content": "Just compared Vultures of North to Formation of Damnation, pretty stark difference, but just wanted to point out it looks like the OC track is mastered at -4.5 LUFS and the FoD is at -7.1 LUFS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1034157404255944737",
+    "author": "ALXCPH",
+    "date": "2022-10-24",
+    "content": "Could be confirmation bias. Have you ever done a proper blind A/B test?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1034158301736349788",
+    "author": "hyanrarvey",
+    "date": "2022-10-24",
+    "content": "And then pull it down and compare",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035002339028910151",
+    "author": "ehutton21",
+    "date": "2022-10-26",
+    "content": "So I\u2019m looking to \u2018compare notes\u2019 on vocal processing. I\u2019ve gotten into RX and it\u2019s quite lovely. Shoulda used it sooner.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035429553109213226",
+    "author": "peterlabberton",
+    "date": "2022-10-27",
+    "content": "Yeah, I\u2019d agree with that. I think when I verrrry first started, I never referenced, because I would get soooo discouraged when I heard how far off I was. And then I spent a solid half decade never referencing. Curious to hear @cian riordan\u2019s thoughts, because it was him that got me to get back in ref mode 3 or so years ago. By that time, I think I had just progressed enough that I wasn\u2019t massively bummed out, and it just became a great way to make sure I was roughly in the right world compared to shit I love and know well.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1036100801703202877",
+    "author": "ehutton21",
+    "date": "2022-10-29",
+    "content": "Before I got to start to call the B room at the studio home, it was just my headphones with sonarworks (-preemptively ducks-) but even then I found reliability in translation. I had a general idea of where things sat.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042505363687223416",
+    "author": "delwin",
+    "date": "2022-11-16",
+    "content": "Sooo many soft synths that take a whole plug-in chain to give it a feeling, compared to just recording a Juno and it\u2019s just a quick EQ & done.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1046530634715238541",
+    "author": "Deleted User",
+    "date": "2022-11-27",
+    "content": "I have studio because I\u2019m not a fan of vocalign and editor doesn\u2019t have quantization to a reference track",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1047548993229565973",
+    "author": "spectrummasters",
+    "date": "2022-11-30",
+    "content": "@Clara Ara\u00fajo thanks for your reply, i appreciate it. Ok so ill try foregoing the mouth de-click and see where it leaves the vocal after that. It\u2019s a curious thing , its a bit like soothe sometimes, its a bit like ...I\u2019m making v light touches that are really delicate...but when you a/b it back in the context of the mix...in some meta way it feels so different. It made me wonder if theres some phasing issues to watch out for in certain frequencies , or some tools to really keep away from. If i can best describe it, I\u2019d say it sounds a little boxy after RX ...but no frequency moves have been made, apart from sub 80hz. Ill do a reprint with no mouth de-click. Thanks again",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1048614837405622313",
+    "author": "hyanrarvey",
+    "date": "2022-12-03",
+    "content": "Well its hard because you can\u2019t compare it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050486220645486673",
+    "author": "hyanrarvey",
+    "date": "2022-12-08",
+    "content": "Well you can boost 1200 hz on both and compare it, i am baised cause i love how mbeq sounds",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1052023117859524740",
+    "author": "JakeTB",
+    "date": "2022-12-12",
+    "content": "Man, loved hearing Jon say \u201cI only care about the vocal\u201d regarding SZA mixes on today\u2019s episode. He did a great job on that front compared to some of the other mixes imo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054084329359286313",
+    "author": "hyanrarvey",
+    "date": "2022-12-18",
+    "content": "Because of how limited on controlls you are no room to really over think it or go crazy compared to mixing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055165859120816169",
+    "author": "Yago Ibars",
+    "date": "2022-12-21",
+    "content": "Has anyone had any experience with Ozone's Tonal Balance Control and knows how is different to Audiolens?  Jon got me interested and when I started digging a bit deeper I found those two that seem very similar.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055166484323762216",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-21",
+    "content": "Tonal Balance is the only meter I\u2019ll glance at occasionally",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055166543270518846",
+    "author": "ALXCPH",
+    "date": "2022-12-21",
+    "content": "You can capture a curve with audio lense and import it into TBC  to see how your mix compares",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055221117926785135",
+    "author": "ALXCPH",
+    "date": "2022-12-21",
+    "content": "Yet the percentage of people who Care what the Music Sounds like at those places i would Bet is very small, compared to the people who listen to Music on headphones who\u2019m id imagine are much more dedicated fans of Music, since they actively choose to listen to Music, by wearing headphones. Not to say the other places dont matter, because they certainly do. But i Think you are Selling headphone listeners short here. Imo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055228804899012669",
+    "author": "ALXCPH",
+    "date": "2022-12-21",
+    "content": "By translation is mean translating their intent/emotion. The engineer will figure out the how",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055235410047008808",
+    "author": "cian riordan",
+    "date": "2022-12-21",
+    "content": "No, I hate everything. But if it\u2019s such a tiny slice of the consuming population, why focus on that? I get that if it\u2019s your reference, and your used to making decisions based on that translation\u2026 but like, why should I care?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055242755997175830",
+    "author": "ALXCPH",
+    "date": "2022-12-21",
+    "content": "Even the new MacBook Pro laptop speakers. I hate them. Have you hear them?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055243452620750969",
+    "author": "Adam Thein",
+    "date": "2022-12-21",
+    "content": "As someone who spends a lot of time in the no-crossfeed zone hearing a little shitty bandpassed speaker move a small amount of air helps me hear balance issues immediately.\n\nThe most major downside of headphones is translation to speakers.  You can make some crazy fun mixes that just don't translate.  I've tried the Canopener, Sonarworks, manual EQ, etc, and my best stuff is always a result of spending a lot of time referencing other mixes I know and love combined with a ton of car checks, speaker tests.\n\nI can't wait for the day I have a space where I'm able to make noise, get some 310s and some treatment and stop chasing my tail and spend 3-4x the amount of time getting to where I want to go.  That's the hope anyway.\n\nI'm not trying to deter anyone from getting started getting practice mixing in headphones, but it's definitely a stopgap for me and one I'm getting more and more fatigued by personally as the years go on.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055253786173636720",
+    "author": "ALXCPH",
+    "date": "2022-12-21",
+    "content": "I think this would interfere with the audio interface. It would be nice to just have a button to quickly switch back and forth. Like having a second pair of monitors and an A/B switch",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1056304543060742175",
+    "author": "Calvin Lauber",
+    "date": "2022-12-24",
+    "content": "But there\u2019s some music I love that has a complete disregard for mono translation, things spread so wide that they cancel in mono.. but sounds mega cool on speakers and headphones",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059644466497069076",
+    "author": "Deleted User",
+    "date": "2023-01-02",
+    "content": "I A/B it every time. I\u2019m not sure how productive that is though \ud83d\ude05 I could never pick out which one works better for what so I end up just ABing every single time",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059661039903449169",
+    "author": "Deleted User",
+    "date": "2023-01-02",
+    "content": "Reporting back after doing this test. \n\nI loaded up 13 duplicates of a 12 string guitar loop (and one track of drum loop with nothing on it for context of relational comparison) and scrambled them, and then went through each one to see if I can accurately tell if there was a change. I only compared to the previous one, so I wrote down if I heard changes than the track above. I got 7 out of 11 right, 4 was wrong",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1059670791245013102",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-02",
+    "content": "and got it wrong 9 times out of 10, and remeber I can compare with a known Natural phase or zero phase channel",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059674985091829770",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-02",
+    "content": "Make one known Nat, one known Zero and then you can A/B between known and unknown as much as you want. If there\u2019s a discernible difference you can call it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1061490343054422126",
+    "author": "CK",
+    "date": "2023-01-07",
+    "content": "Well, if you ever enjoy clipping, ASH is something quite remarkable to my ears, compared  to standard, boz, or even fire the clip.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062556388141838398",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-10",
+    "content": "It\u2019s an essential part of translation in 2023",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1063677444021813359",
+    "author": "ehutton21",
+    "date": "2023-01-13",
+    "content": "But yeah, API definitely has a tone and I don\u2019t know how to compare it to pushing a Neve",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1063702965833175080",
+    "author": "Eric Martin",
+    "date": "2023-01-13",
+    "content": "I love a basic Radial DI, I did a crazy session where I put like 6 DI\u2019s and 4 mics on an amp to find what I really liked and surprisingly the Radial was a solid DI compared to REDDI and the Spectra 1964 BBDI",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1068899723026632745",
+    "author": "Maxim",
+    "date": "2023-01-28",
+    "content": "I know exactly what you\u2019re talking about. Sometimes a combination of those things you\u2019ve listed can help (taking a break or showing someone else being the most helpful) but I haven\u2019t found a quick fix beyond that. \n\nFor me, in most cases it\u2019s always a mixture of \u201csong/production isn\u2019t that good\u201d and \u201cI\u2019m not that good/not the right fit\u201d. To some degree I have control over both of those and they inform each other. So really the only way is to get better. \n\nBecause a few years back I had a huge learning experience when delivering an album (which got the artist signed) but then the label got someone much better to do the singles again. When I compared, it was clear to me he wasn\u2019t doing what I did 1000x better, he was just doing different stuff.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1069445081054064760",
+    "author": "ehutton21",
+    "date": "2023-01-29",
+    "content": "We fundamentally imitate, recreate, and compare to a standard in order to develop an understanding",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1069979146446454815",
+    "author": "Ross Fortune",
+    "date": "2023-01-31",
+    "content": "**Gear    Misc    Software    Listening    Travel    Services    Rent    Bills    Phone**\n\n\nThat's what it looks like. Misc is things like client parking. Listening includes streaming subs and iTunes reference track purchases. Services = repairs etc.\n\nThink I'll subdivide Software into plugins and other software next year",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1076223222313386044",
+    "author": "Adam Thein",
+    "date": "2023-02-17",
+    "content": "I'm a big fan of Arturia's software both their synths and their plugins.  They may not be the absolute best in terms of sound quality but the UI consistency is amazing, they are constantly updated, and their ecosystem/upgrade paths are really reasonable compared to say Izotope.  Their licensing is really nice too, you can install on 5 machines and it's easy to move the licenses around.\n\nThey've got some unique plugs too usually with some creative features hidden under the \"Advanced\" tab.\n\nI've been reaching a lot for their Fragments plugin, their Sansamp copy, their Spring verb, their Filter plugs, and their compressors on the regular lately.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1081618385617559583",
+    "author": "Maxim",
+    "date": "2023-03-04",
+    "content": "Just did a car test for the first time ever and holy moly do some of my tracks have sub bloat that I hadn\u2019t ever noticed before (even on systems with subs). I checked against the recent Kendrick album and it sounded much more controlled. Am I not cutting enough sub? Is my room totally a mess? I should do some measurements.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1081688202265509901",
+    "author": "spectrummasters",
+    "date": "2023-03-04",
+    "content": "Along with others suggestions , I would advise some easy quick  tools to help you diagnose  . Izotope insight has a very good spectrograph that clearly reveals what\u2019s happening down at 20-30 hz and how much energy is there . We ve also discussed izotope tonal balance here as well , but it\u2019s really a very handy diagnostic when used to investigate where your low end energy is against a referenced track you like . Izotope Match eq is another tool that again allows you to compare and contrast what\u2019s happening in your low end . I\u2019ve also found the Shawn Everett trick mentioned here , useful for investigating low end (put a brick wall low pass filter on your mixbus and sweep it down to the 20-30hz with your subs on and see what that actually sounds and feels like . The other thing I find helpful is my gain staging and buses are set up so that I know how much gr and level should be arriving at each bus , so you soon know if you\u2019re too hot just by looking at the comp / limiter . The last thing I\u2019d say is know your speakers . I apply all this to myself because translation is my main point of focus right now . I forget where I heard it said , but I heard it said that the listener hears the inverse of what we the mixers hear .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1081718494204280923",
+    "author": "Deleted User",
+    "date": "2023-03-04",
+    "content": "This too, but the amount of space each instruments occupy is pretty small in those genres compared to traditional band setup. But that also comes with its own challenges",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1084876624849285221",
+    "author": "Zack Hames",
+    "date": "2023-03-13",
+    "content": "and most are pretty awful. Point in case, compare the LWMR or Eric Valentine videos to say a colt capperune video (not even the worst offender by a landslide). The differences are impossible to miss. but one is pretty and easy to watch and the other is simply meant to share real information.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1084918797560971514",
+    "author": "popaganda.",
+    "date": "2023-03-13",
+    "content": "I would do a few and compare",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1085972041380921344",
+    "author": "Maxim",
+    "date": "2023-03-16",
+    "content": "Compare it to something like Silent Hill (mixed by Manny). That thing hits you like a truck.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1086003931227901962",
+    "author": "spectrummasters",
+    "date": "2023-03-16",
+    "content": "I do think I\u2019ve not heard a record recently that the vocal actually sounds like the vocal on that one  I linked . I mean it\u2019s exquisite imo . Compare that to the last Adele record (ie . Top level project with access to everything you might choose ) . Is it not partly our approach to the sonics ? Our intent to contain dynamics etc etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1088310574892449872",
+    "author": "andrewrs",
+    "date": "2023-03-22",
+    "content": "Right now, hitting -9 lufs in chorus with drums fully in. Limiting ranges from -2 to -6db mainly, occasional jump to -8db. Using Pro-L2. I think the track sounds good - and when I compare to a couple manny mixes I really dig, I def have more sub in general (but not overbearing) and a really punchy sub low end. I just sometimes feel I need to figure out another way to get louder without so much limiting (even though I dig how this mix sounds.. )",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1088338627479732234",
+    "author": "CK",
+    "date": "2023-03-22",
+    "content": "I also think the limiter has tons of vibe compared to something like Pro-L2.  pro-l is much cleaner sounding, but GP limiter is saucy.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1088355689186996324",
+    "author": "lystell",
+    "date": "2023-03-22",
+    "content": "Yes, mixing. The thing is that I've always been going on how it feels. Just having a rough idea of what numbers mean and trying to have a dialogue with the girl or guy who's mastering.\nNumbers and meters coming up a lot here lately and I'm thinking like - should I know how this works for real?\nI guess I want to be able to get a kind of objective view of the mix I've been working on. - how's the dynamic range compared to this and that, how loud am I etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1093235020585500703",
+    "author": "Ross Fortune",
+    "date": "2023-04-05",
+    "content": "Depends how you\u2019ve set up your reference track for playback. In my case the refs all live in the Metric AB plugin on my monitor bus. I have a window config saved to bring that plug up so I don\u2019t have to scroll to find the insert. It\u2019s muscle memory now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1096869212493983817",
+    "author": "Adam Thein",
+    "date": "2023-04-15",
+    "content": "Tried this for a while - I'd spent several years mixing without Canopener before adding it to the toolchest - for me it messed with my translation more than it was worth.  Would probably be infinitely more helpful to someone like you who is working on speakers most of the time for imaging/low end.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1096874143447793834",
+    "author": "Jeremy Klein",
+    "date": "2023-04-15",
+    "content": "i spent a very long time mixing on headphones with no crossfeed and the translation to speakers was always something that took a lot of back and forth revisions. since putting canopener on the master i\u2019ve noticed much less back and forth. but YMMV",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098364712737067160",
+    "author": "Jeremy Klein",
+    "date": "2023-04-19",
+    "content": "On this topic of what is the job of a mixer, i recorded the output of Malay's rough mix of Zayn - It's You, from MWTM, and compared it to Manny's mix on spotify. \n\nReally interesting to see what Manny did and did not touch. In the rough, the shaker is the main instrument in the chorus, and in manny's he has it almost barely audible. \n\nHere is the ableton session where i lined them up https://www.dropbox.com/sh/82noj6ilwc196p9/AACkptoQ_07hFfh23tn9aI2Va?dl=0",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1099079340232282133",
+    "author": "oaklandmatt",
+    "date": "2023-04-21",
+    "content": "I dug into this and soothe in the same week. I tried them both on everything for a while. I now use soothe all the time and I rarely use Gullfoss \ud83e\udd37. The high end boost has been the most usable but I can't say it's particularly magical compared to other abnormal eq options (spectre, Puigtec, tupe)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101194736074756127",
+    "author": "BatMeckley",
+    "date": "2023-04-27",
+    "content": "Peloton earbuds not included",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103796279890411571",
+    "author": "Nomograph Mastering",
+    "date": "2023-05-04",
+    "content": "You can hear and compare",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103796704500797521",
+    "author": "Nomograph Mastering",
+    "date": "2023-05-04",
+    "content": "Compare a 12 with a 24",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1104080048736182322",
+    "author": "Edward Rivera",
+    "date": "2023-05-05",
+    "content": "Not a fan of metric A/B or Listenhub ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105883889089650689",
+    "author": "spectrummasters",
+    "date": "2023-05-10",
+    "content": "Have you tried good dither ? I was thinking about having a play about with it and  wondering how it compares to other \u201cbit crushers \u201c,",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1106644876726124564",
+    "author": "CK",
+    "date": "2023-05-12",
+    "content": "I used it on a drum kit this morning with 7 mics and compared it to v1, and it is just night and day better.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1106992784453402745",
+    "author": "Maxim",
+    "date": "2023-05-13",
+    "content": "Compared to 99% of people I am.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108408709081739320",
+    "author": "chrissorem",
+    "date": "2023-05-17",
+    "content": "Nothing in particular I\u2019ve just been seeing some interesting ways of using it and it got me pondering. I saw someone using it for capturing eq curves of tape machines they have used. I\u2019ve also seen someone use it for saving an eq of an original source and running the source through tape which changed the eq curve they then compared the two eqs and saw what high freq information that was lost and compensated for it on the original source and reprinted it to tape so the eq basically never changed but they had tape compression..",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108420330449547325",
+    "author": "shaunobi",
+    "date": "2023-05-17",
+    "content": "I have used Tonal Balance Control for years. At the end of a mix, I load up one of their curves (usually bass heavy), throw Weiss EQ on right before it, \u201cdo what it says\u201d, flip it in and out, see if I like it better.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108458797007122482",
+    "author": "spectrummasters",
+    "date": "2023-05-17",
+    "content": "Thank you for sharing your perspective cian. Much appreciated .I\u2019ve had a few dilemmas about how hard I should push something compared to the ref (only -6 so far , I\u2019d defo tap out at -4 lol ) . It\u2019s handy to know what the vets do in these scenarios . Thank you",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1110298102432280737",
+    "author": "hank01564",
+    "date": "2023-05-22",
+    "content": "Absolutely agree, my MetricAB presets have genres of reference tracks so it\u2019s fast for me to switch through what I\u2019m looking for!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1111797441776332810",
+    "author": "Slow Hand",
+    "date": "2023-05-26",
+    "content": "I read that Apple ARM chips are actually optimized in such a way that they perform best at 32, 64, and 128 buffer sizes and then take something of a hit over a particular threshold, compared to the way that Intel chips operate. I\u2019ll have to dig up the article.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1111951437799362610",
+    "author": "spectrummasters",
+    "date": "2023-05-27",
+    "content": "....aw, found the old explanation of why....re: vu meter before the limiter and lufs after. \nThis of course will be elementary stuff for everyone in here ...but might as well leave it here for a reminder/refresher. \n\n1. The VU meter to highlight how the mix is behaving pre-limiter :\nVU (Volume Unit) Meters essentially display an average of what we hear, rather than the very fast peaks that we don\u2019t. they will show you the energy in the low end, and if there is radical movement, then you probably have an issue with frequencies that you aren\u2019t hearing.VU meters should \u201cdance\u201d smoothly and in a gentle manner, usually in time with the music, rather than in big jumps and erratic, out of time movement.\u00a0 This erratic movement implies that there are drastic level changes, which will be hard to control in mastering and need addressing in the mix.  \n\n2. The LUFS meter post limiter to set your loudness levels\n\nPersonally, i dont use this MO ...i like izotope tonal balance to monitor the mix but....just wanted to share what i rememmbered about people using vu ITB",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1114373710166630530",
+    "author": "tomtom",
+    "date": "2023-06-02",
+    "content": "I went from the infamous crack cd to going legit in 04. I think I spent $1200 on that API bundle.. that\u2019s the most they ever got out of me at one time. I definitely got off easy compared to many.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1128872835641786458",
+    "author": "Adam Thein",
+    "date": "2023-07-12",
+    "content": "The versioning is so handy for mix revisions - especially great for moves that are drastic and then it's easy to flip back and forth at least on non-mobile to compare quickly how things changed overall.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1132710686657613896",
+    "author": "KushKadett",
+    "date": "2023-07-23",
+    "content": "So i saw a very famous mixing and mastering engineer mastering stems with his full mastering chain. What reason does this have? Or is it just to provide the mastered stems for live performances? He had access to the multitracks so he didn\u2019t need to \u201eremix\u201c the tonal balance",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1134112110259998862",
+    "author": "Bryan DiMaio",
+    "date": "2023-07-27",
+    "content": "Yeah tons of people compare dac specs and think \"oh wow this 130dB dynamic range dac is so much better than this 127dB dynamic range dac\"\npotentially thinking one is louder or something silly",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1134260676521631865",
+    "author": "LAPhill",
+    "date": "2023-07-27",
+    "content": "That sounds like you'd potentially be putting a lot of additional work on yourself, let alone the expense of having all their plug-ins, you'd need a reference mix and to carefully a/b and make sure your starting point is actually what they were hearing.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1147597324764332032",
+    "author": "popaganda.",
+    "date": "2023-09-02",
+    "content": "I sorta do this type of thing with tonal balance control on occasion",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1148375395431878756",
+    "author": "Nomograph Mastering",
+    "date": "2023-09-04",
+    "content": "absolutely, there\u2019s no tonal balance control for feels good (yet)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151496684929564732",
+    "author": "Adam Thein",
+    "date": "2023-09-13",
+    "content": "+1 Tonal balance great for headphone mixing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151740596604641321",
+    "author": "peterlabberton",
+    "date": "2023-09-13",
+    "content": "I will say I\u2019m a big fan of it in large part because I feel like the quality of my mixes really really took off after hanging with cian once and him asking me how I reference tracks.. and I went, \u201cI don\u2019t\u2026\u201d but then I started and after the huge ego hit of \u201cmy shit sounds like ass\u201d it opened things up a lot for me",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151938809970315385",
+    "author": "Jeremy Klein",
+    "date": "2023-09-14",
+    "content": "Absolutely pin worthy. So good.\n\nAnother thing for me i found when first starting out was i used a ton of different reference tracks all the time. Nowadays I pretty much just have 1 per genre / style of song that i know really really well.\n\nThat way its easier for me to make informed decisions like \"this reference is a little shy in the 200-400hz area but, i want my mix to be a little more raw sounding so im going to do more\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151984680518823996",
+    "author": "Jeremy Klein",
+    "date": "2023-09-14",
+    "content": "i record the output of spotify using the Piezo app \ud83e\udee2 \n\nthen i drag it into metric a/b and level match it through there",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1151995573155676242",
+    "author": "Rollmottle",
+    "date": "2023-09-14",
+    "content": "digital aggregators middle man this shit and since they have different requirements for sample rates, it's a crapshoot. i guess you could compare a known file you or you knew was submitted to an aggregator at a known sample rate and see if that came through unscathed.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152004034509680790",
+    "author": "masteredbyjack",
+    "date": "2023-09-14",
+    "content": "To @BatMeckley point, for the mixing reference our discussion of this is irrelevant \n\nBUT\n\nOn Qobuz the wav downloads are at different sample rates and bit depths (some 48k, some 44k, some 96k)\u2026which makes me think that they aren\u2019t doing something standard on their end on the download (at least not moving all files to a certain sample rate)\n\nHonestly nothing I\u2019ve mastered has ended up there yet (that I know of, seems mostly like major label stuff) but if it does I\u2019ll definitely buy and compare",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152026781575037022",
+    "author": "Zakhiggins",
+    "date": "2023-09-14",
+    "content": "Honestly I just compare wav files on my computer of mixes I\u2019ve done to how loud the same song is is on tidal, and then adjust the volume knob on tidal to match by ear. Doesn\u2019t need to be crazy accurate, when I\u2019m referencing I\u2019m only really looking for a ballpark figure of how loud bass is compared to vocal etc etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152694592488083506",
+    "author": "georget113",
+    "date": "2023-09-16",
+    "content": "Best thing about using ssl inserts is you can directly compare before and after analog summing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154851825590214758",
+    "author": "Rollmottle",
+    "date": "2023-09-22",
+    "content": "\"Apple placed four microphones in its top-of-the-line AirPods Pro wireless earbuds. Two are used in the same way as those in the standard AirPods, for listening to the wearer's voice commands, allowing interaction with Siri, and for answering phone calls. The other two microphones are actually situated in the portion of the earbuds that fit inside the ear. Apple isn't trying to listen in on your internal conversation with this placement. Instead, these microphones hear the sound as it is formed by your ears and picks up on any leak-through from a less than ideal fit. This means the AirPods Pro don't adjust the sound to some theoretical model, but rather tune it specifically for each individual, and even to each ear.\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1168975976089272350",
+    "author": "Josh Bowman",
+    "date": "2023-10-31",
+    "content": "Needs a second round of Ai to end up at this translation. Possible engineer plug-in idea?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1168982718734925874",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2023-10-31",
+    "content": "I often feel like my notes are too blunt or even negative,  I\u2019ve considered AI but usually just slap a compliment at the start and end. These notes seem frustratingly imprecise compared to what they probably were originally",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173326964904448043",
+    "author": "f.ern___",
+    "date": "2023-11-12",
+    "content": "I mean to me this idea isn't wery different from using iZotope Tonal Balance as a refernce",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173327612874080327",
+    "author": "Ingmar Carlson",
+    "date": "2023-11-12",
+    "content": "I second @noahc. I think Ozone and Tonal Balance are actually way better for this than trying to mimic Jaycen Joshua's weird calibration flex",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173337208875405322",
+    "author": "f.ern___",
+    "date": "2023-11-12",
+    "content": "Ok so I think some might misunderstand me here. I'm not trying to create a foolproof template that will make all my mixes sound like billboard top 10s without any work from my end. \n\nI'm trying to create a template that will help me, with reference points, to get my production rough mixes sit in the ballpark at least. Just in the same way using izotope tonal balance can do",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173715788742533191",
+    "author": "f.ern___",
+    "date": "2023-11-13",
+    "content": "As mentioned I would use this setup exactly the same way I use izotope tonal balance. I make my mix, have a look to see if I\u2019m hitting things roughly in the ballpark and if I do I\u2019m done",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173928449610629160",
+    "author": "Iwan Morgan",
+    "date": "2023-11-14",
+    "content": "Need to think about frequency balance as well as level to \u201cfit in\u201d Tonal Balance control can be useful for this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1173928763474595881",
+    "author": "f.ern___",
+    "date": "2023-11-14",
+    "content": "Yeah! I already have done Tonal Balance taget curves based on bus groups of like 20 modern pop songs. Again, I just use these to check if I'm in the ballpark. I tend to mix my bass to high (cause it sounds fat) and hats ans snares too bright.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1175730662137938051",
+    "author": "spectrummasters",
+    "date": "2023-11-19",
+    "content": "PSAI was playing around with the chandler curve bender (I really like the high shelf ) and thought I\u2019d compare it to the waves TG12345 version (or whatever it is lol ) and the mid range presence on the waves one is really really good . Can really boost around the 3k area and it doesn\u2019t get harsh",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176605571126939830",
+    "author": "Will Melones",
+    "date": "2023-11-21",
+    "content": "Thaank you! I got the impression that Faraday was much softer than a limiter, although that's how I remember Jon talking about it. What would you say it does for you compared to an all-rounder like RComp?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1182033040772444160",
+    "author": "JustinLeu",
+    "date": "2023-12-06",
+    "content": "Time getting used to the new space/monitors will do it! But to get stuff to translate quickly I would reference with metric A/B quite a bit more than usual. The headphones you already know will be a great tool as well...If I had nothing but the new room to listen to, referencing while I mix would be the best tool.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1182063271189168149",
+    "author": "river",
+    "date": "2023-12-06",
+    "content": "Hearing your own voice is a reference track",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1187834422448361505",
+    "author": "LAPhill",
+    "date": "2023-12-22",
+    "content": "Would be interesting to compare approaches and where you landed. My always-in-progress template currently has 103 surround mix stems (each with dedicated reverb/effects) that then get summed to 20 \"dub delivery\" stems, which only get processing if I'm not sending to a mixer. Nothing on the master bus, unless I'm 100% sure they studio doesn't need stems (I'm never 100% sure)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1190253972745879683",
+    "author": "GaspardMurph",
+    "date": "2023-12-29",
+    "content": "Curious to get people\u2019s opinion here: I was listening to Dua Lipa\u2019s \u201cDance The Night\u201d yesterday (from the Barbie movie), which I think is a great song and production (and I\u2019m a secret Dua fan). I started paying attention to the mix and thought it didn\u2019t sound great. Mainly focusing on the vocals (ss\u2019s seem kinda loud, something doesn\u2019t feel full bodied etc\u2026) and just to compare, thinking that\u2019s probably the sound of modern pop and I just forget to pay attention, I went to listen to \u201cDon\u2019t Start Now\u201d which is a fair contender in terms of style and production and was blown away by how much better it sounds to my ears\u2026 Would love to get everyone\u2019s opinion on it, is this just my taste or the Barbie mix is objectively worse (maybe because of movie deadlines etc\u2026)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1194394419470811176",
+    "author": "Rob Domos",
+    "date": "2024-01-09",
+    "content": "I like this idea of chatting about it before diving in. \n\nIn this instance we had the chat last night after my first pass which they unsurprisingly heard as thin. They are adamant that it should sound like a deep round warm hug that surrounds you *when played on tinny laptop speakers* so it has to have that crazy curve for them to love it. I chatted with them about the drawbacks of this and they understand and still want what they want, so I\u2019m framing it in my head as an artistic choice and plowing forward.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1194400481661943819",
+    "author": "Bryan DiMaio",
+    "date": "2024-01-09",
+    "content": "Have they compared it to other released songs on their laptop?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1194401673200816258",
+    "author": "Edward Rivera",
+    "date": "2024-01-09",
+    "content": "It sounds like they know what they want. That's sacrosanct to me. There's lots of records that sound like a warm hug on laptop speakers, and also don't sound like shit. There has to be some middle ground",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1195731742322069634",
+    "author": "tomtom",
+    "date": "2024-01-13",
+    "content": "Has anyone compared the original Plugin Alliance B15/SVT with the UAD? Just curious if UA made any improvements..",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1197216551821131866",
+    "author": "Jonathan Jetter",
+    "date": "2024-01-17",
+    "content": "Client once specifically asked me to use it on a revision to \"phase match the harmonies and doubles\". I'm open to the idea that it can theoretically be useful somewhere but on my situation it was an utter disaster. Spent a bit of time with the demo and then told the producer we needed to talk with the client about how we were going to use other tools.\n\nI would be curious to hear it in action when it's working well. Any chance you could share an A/B snippet of something?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1198601776916602911",
+    "author": "Iwan Morgan",
+    "date": "2024-01-21",
+    "content": "I like checking mono. I usually find a solid mono balance can be widened really easily in a few moves compared to making an \u201coutside the speakers\u201d mix work in the opposite way. As long as it sounds cool both ways i\u2019m happy, even if some things don\u2019t always translate to mono.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1198669470894395472",
+    "author": "popaganda.",
+    "date": "2024-01-21",
+    "content": "It entirely depends on the song and where it will be heard. If it\u2019s indie I think you\u2019re aiming for headphones, Bluetooth, laptop speakers, tvs, theaters. You can get away with wide, cool panning, etc. but anything made for the dance floor has to slap when summed, and also needs the important information coming through both sides.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1208904313208836106",
+    "author": "louisvie",
+    "date": "2024-02-18",
+    "content": "I struggled with this at first, couldn't manage to get the Kick Batter Mic to be set as Key Time, but I ended up with one single group for all. Felt scary compared to using AA 1,  giving all that responsability to the plugin, but it sounded good.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1219018301154398410",
+    "author": "chrissorem",
+    "date": "2024-03-17",
+    "content": "I\u2019m into this! It\u2019s easy to get it to the 90% zone, in particular if you are already killing it compared to the rough. It\u2019s  hard  to get in the mind set of feeling like you are finished and then thinking, can  I beat my mix ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220883504598876300",
+    "author": "Soundswithsammy",
+    "date": "2024-03-22",
+    "content": "Do we find separation in containing the individual elements dynamically or more frequency wise? I know some people who just compress everything, just to transient shape it after? How much consideration in dynamics compared to volume do you all think about a mix",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222744389718380586",
+    "author": "NoahNeedleman",
+    "date": "2024-03-27",
+    "content": "Can talk a little more about soloing bands? \n\nWhat plug are we using to do this and what are we listening for? Tried again with Tonal Balance today (post limiter) and EVERTHING sounded distorted, despite it being a relatively clean mix. \n\nWhat am I missing?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222872555359047801",
+    "author": "Josh Bowman",
+    "date": "2024-03-28",
+    "content": "Metric ab has this built in to solo bands and compare to references easily. I don\u2019t do the band solo thing much but when I saw that Everett vid I tried it for a bit.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222894830259146892",
+    "author": "Edward Rivera",
+    "date": "2024-03-28",
+    "content": "I'll throw in a diff option. I'm using a plugin called ListenTo by Sonnox which basically acts as a virtual monitor controller \n\nI prefer this over metric a/b because it lets me switch between monitoring pro tools and system audio...want to ref your track against one on Spotify / YouTube / Apple Music ? Done. Want to hear those refs with just the subs or just the midrange ? Done",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222912873462763571",
+    "author": "Calvin Lauber",
+    "date": "2024-03-28",
+    "content": "And then I have my reference tracks (if I\u2019m using them) recorded as playlists on my print track so when I have a band solo\u2019d I can just switch between reference and the live mix really quickly with the input button",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222929883638927443",
+    "author": "spectrummasters",
+    "date": "2024-03-28",
+    "content": "\u2026.re referencing a/b softwares etc \u2026.dont many folks here  have a hardware mixer ?  My media players off the mac leave out of one output and all my PT/Logic channel/bus  come out other outs . It\u2019s as easy as unmute/mute .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1225236241667330168",
+    "author": "Nick Stetina",
+    "date": "2024-04-03",
+    "content": "I like having Auratones available to flip to for that kind of mid range check. Your room acoustics are always important, but I find they\u2019re also a little more forgiving in that respect. If you have a handful of refs on hands that you like the balance of, I bet an A/B flip between those and what you\u2019re working on  could be insightful. Not to *match* of course, but just getting a sense of general presentation.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1229524922678775828",
+    "author": "spectrummasters",
+    "date": "2024-04-15",
+    "content": "I\u2019ve been doing less and less inserts across the board on band mixes than I was doing on rnb / trap / club stuff and using my hybrid stages for a little \u201cvibe \u201c and just focusing on balancing more than anything \u2026.finding the tonal balance of the mix from the sounds themselves rather than massacring them on the inserts then stitching it all together",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1230703297560838165",
+    "author": "Matt Huber",
+    "date": "2024-04-18",
+    "content": "I think it\u2019s hardest to get Atmos to sound \u201cgreat\u201d on headphones compared to the stereo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1230703389873147914",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-18",
+    "content": "Not if you forget about translation to speakers",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1230705075752534036",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-18",
+    "content": "When that is solved, and Apple get their shit together mixing on headphones with good translation  will not only become possible it will become the only way people work",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1233801771474878614",
+    "author": "Matt Huber",
+    "date": "2024-04-27",
+    "content": "Yeah it becomes brutally obvious how much clipping / distortion is happening when you compare a -3 to a -5. It\u2019s robbing you of SO much depth, punch and low end",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1233802315589226517",
+    "author": "Matt Huber",
+    "date": "2024-04-27",
+    "content": "Fast forward to Monday: \u201cWe went another direction. Sorry, yours was just quiet compared to the others\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234568878042906716",
+    "author": "Deleted User",
+    "date": "2024-04-29",
+    "content": "Yes! Getting things to dance with each other is majorly performance and arrangement while balance/fader work can enhance it - I agree what compression does would be subtle compared to these things. I think it works best when you do it on groups and busses more than anything. \n\nMichael Brauer talks about this a lot (in MWTM video I think?). you can hear some of that effect working on his mixes, of course he does it with faders too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234738165265334342",
+    "author": "lystell",
+    "date": "2024-04-29",
+    "content": "I'm realizing that I'm in lack of context, and using of some terms is getting myself lost in translation \ud83d\ude42\nBut lots of great info there! I very much agree on that its easier to start from a shorter kick to make it sit nice.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1236748047493496925",
+    "author": "Josh Bowman",
+    "date": "2024-05-05",
+    "content": "If it sounds good, it is good. duplicate the track, try it all three ways and compare them. See what ya like!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1236748864657293333",
+    "author": "louisvie",
+    "date": "2024-05-05",
+    "content": "yeah, currently picking a favorite mic sim in the amp, and then I'll compare different gain options if needed.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241441897323696220",
+    "author": "chris_donlin",
+    "date": "2024-05-18",
+    "content": "For those of y\u2019all who are mixing full time, or close to it, what percentage would you say is remote work compared to local work? Can move this to #\ud83d\udcdfbiz-talk if needed!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241961382140969071",
+    "author": "h3x",
+    "date": "2024-05-19",
+    "content": "Hey yall. Another dip in the dunning kruger effect happening unfortunately and im starting to compare my mixes again to the goats. \n\nIve been down the serban rabbit hole the last week and i think the one thing that i want to improve upon that is inspired by him is more midrange clarity. The feeling that almost nothing is being masked. Like everything has a home. Has anyone had that \u201caha!\u201d moment and could share some tips on carving space for vocal/overall mix clarity. I love my mixes overall, but nitpicking on what i could improve, so any tips are super appreciated!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1242443742032433223",
+    "author": "NoahNeedleman",
+    "date": "2024-05-21",
+    "content": "With Tonal Balance Control & LEVELS as my metering plugs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1247739098983170189",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-04",
+    "content": "You\u2019re the one with the actual M7 to compare! Most people haven\u2019t",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1247758001742544971",
+    "author": "sethmanchester",
+    "date": "2024-06-04",
+    "content": "SuperPlate has a 250 setting but I\u2019ve never used an original so I can\u2019t really say if it compares\u2026",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1248688316971487272",
+    "author": "iampedrorafael",
+    "date": "2024-06-07",
+    "content": "@hyanrarvey you guys may have been the only people to see them working! Of course there's only so much you can share about that experience \ud83d\ude42 but did it surprise you compared to your previous expectations of what it could be? (maybe based on John posts on Gearspace). What are some of your key takeaways?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1249978501608636466",
+    "author": "Deleted User",
+    "date": "2024-06-10",
+    "content": "I don\u2019t measure, but the way I do it is to have a fixed reference at -23LUFS. I\u2019m taking -23 reference tracks, turning my monitor controller to where it feels good (not too loud, not too quiet) and start mixing from there. Doing it this way means I have to take down my stems quite a lot at the beginning, but in return I can push things very drastically without clipping unintentionally. But you can take any reference you want, I just like to have loads of headroom at the start of a mix",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1253780607935189113",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-21",
+    "content": "I\u2019m not much of a believer in the A/B wow factor thing, it sends the alerting message IMO",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1257015616104304660",
+    "author": "BatMeckley",
+    "date": "2024-06-30",
+    "content": "We all go through this\u2026 phase.\nLost about a month at Conway being just absolutely obsessed with phase, and am now back to caring a little less. But it\u2019s easy enough to check, esp if you\u2019re on a console. I love elements that can be compared in binary, one click \u201cbetter/worse\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1257324050099867749",
+    "author": "Marc",
+    "date": "2024-07-01",
+    "content": "Great Question \u2014 do people reach for a reference track in these cases? But if so, can that actually create confusion if you start trying to \u201cmatch it\u201d \u2014 asking for a friend lol.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1257900895350427649",
+    "author": "BoozleBAM",
+    "date": "2024-07-02",
+    "content": "I am much, much less experienced than most of the people here, but I'll say something: I used to be totally against reference tracks because I didn't wan't to be \"influenced\" - poppy cock. That mentality is nonsense. I now have two reference tracks and that's all - Boulevard of Broken Dreams and my new one Spin Doctors \"Two Princes.\" I actually don't like the mix of Two Princes, really, but something about it is so stable - And there has to be something to be said for the fact that it's been on the radio for eons... So, to answer your question more directly - That is actually precisely when I reach for a reference track- When I go \"There's nothing really more that I can do here...\" The reference tracks point those things out, and I find they don't violate any of my creative sovereignty or what have you. I usually only make sliiight, slight tweaks after the reference tracks - mostly just levels... Thanks.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1258377785907478628",
+    "author": "Marc",
+    "date": "2024-07-04",
+    "content": "I love that idea of 8 reference tracks to find the \u201caverage\u201d as well as the outer boundaries of not too dark/bright/muddy/thin/etc. \n\nI also love the idea above of listening 5 seconds to keep cleansing the palette. That would really improve my listening. I definitely get the \u201clost at sea\u201d \u201cmore salt\u201d \u201cchoose your metaphor for losing bearings\u201d.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1260726791442796625",
+    "author": "louisvie",
+    "date": "2024-07-10",
+    "content": "Guessing it's the same if I only have one recording and it's a DI, and I duplicate or send that to Amp sims, Saturn or Sansamp.\nAlso the amp plugin is likely not \"late\" in timing as a live bass reamp recording would be, right ? Late compared to the DI.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1265441062621679708",
+    "author": "river",
+    "date": "2024-07-23",
+    "content": "anyone mixing on macbook m1 pro 14\"'s speakers notice this thing with the low end\nif i solo a track that has lots of bass energy, i can hear the upper octave/harmonics well enough. but when i unsolo the track, all that low-mid energy is lost. it kinda fades back in when i solo it again? i don't think it's any of my plugins doing it. have a/b on and off so many plugins on the master/chains/buses/channels and it behaves the same.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1265452889925750846",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-23",
+    "content": "I think there is very little useful info to be gleaned from mixing or checking mixes on modern mac laptop speakers. They are heavily eq\u2019d, multi and limited and physically designed for maximum impact - not accuracy",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1265631986983374993",
+    "author": "Iwan Morgan",
+    "date": "2024-07-24",
+    "content": "I\u2019ve never tried the original but apparently the native/spark version has features removed compared to the UAD2 version. Not sure whether that matters as I\u2019ve been away from studio for a few days, but it\u2019s a shame they do this.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1268154810151075860",
+    "author": "louisvie",
+    "date": "2024-07-31",
+    "content": "Dunno if anyone's seen this.\n8 pro mixers mixing the same metal song.\nYou can download the 8 masters and 8 stem packs and A/B yourself.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1268986294474772622",
+    "author": "Will Pragnell",
+    "date": "2024-08-02",
+    "content": "There are some plugins that can help with this: MCompare or Metric AB. You can map them using MIDI. What DAW are you using?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1268987697276387388",
+    "author": "Ed Sokolowski",
+    "date": "2024-08-02",
+    "content": "soundflow script here, toggles in metric A/B and I can have any window open",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1269346750250881165",
+    "author": "Josh Bowman",
+    "date": "2024-08-03",
+    "content": "Have you tried oxford drum gate? its got way too many settings, but, i have been using it for a while and i demoed silencer, and i couldnt get silencer to do a better job than the oxford on the song i was working on so i gave up. The instagram demo videos of silencer sound like literal magic tho so now im wondering if I missed something in how i was using it? You ever compare the two plugs?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1272888217062080582",
+    "author": "BoozleBAM",
+    "date": "2024-08-13",
+    "content": "@cian riordan Tchad Blake is VERY good. Yes, halfway through the arctic monkeys album and the Interpol album would be considered very \"harsh\" compared to this...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273759980193058846",
+    "author": "DarrenB",
+    "date": "2024-08-15",
+    "content": "I love this trick.  I've also sent an Audiomovers link to myself to check on phone, car, laptop etc if I felt unsure and/or lost perspective.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1278021052596752434",
+    "author": "Jonathan Arnold",
+    "date": "2024-08-27",
+    "content": "How would you compare it with Saturn?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1278133132297769001",
+    "author": "Robin.Z.V",
+    "date": "2024-08-27",
+    "content": "how would you describe the difference between the CLA-3A compared to the Apogee? asking because I've never really understood the appeal of a 3A until i got the Apogee.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1278430935356018722",
+    "author": "James Cronier",
+    "date": "2024-08-28",
+    "content": "For real, I rarely choose it when I A/B stuff. Aliasing is really cool.\n\nOfc a certain contingent of \u201cexperts\u201d sell oversampling as the \u201csecret to pro mixes\u201d\n\nI feel similar about linear phase anything. And it similarly gets touted as being important.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1281021075228196905",
+    "author": "Nomograph Mastering",
+    "date": "2024-09-04",
+    "content": "All good, I wouldn't sweat this stuff but it's so easy to do a print each way on a big project and compare - being honest with oneself about differences",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1287092601496928339",
+    "author": "bobby k",
+    "date": "2024-09-21",
+    "content": "Been wanting to demo it but I\u2019m afraid of loving it lol. Did you compare to UAD\u2019s 670?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1287094374215319602",
+    "author": "Eric Martin",
+    "date": "2024-09-21",
+    "content": "have not straight compared yet, but I don\u2019t reach for those that often \ud83d\ude2c",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1287108291515650109",
+    "author": "nachomaquieira",
+    "date": "2024-09-21",
+    "content": "It's just too different. Unfairchild fucks it;  sounds objectively better in many ways, although there's no accounting for taste \ud83d\ude05 . In terms of color, response to compression, how the music flows, the pump, punch, and lows\u2014the UAD doesn\u2019t even compare to the Unfairchild.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1294132827914240102",
+    "author": "James Cronier",
+    "date": "2024-10-10",
+    "content": "Oh totally I sneak the lil momentary mutes in often. But it always feels so, so bold compared to most of what I\u2019m doing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1295900761003135006",
+    "author": "Nate",
+    "date": "2024-10-15",
+    "content": "i'm attending school for engineering, so i do some work for classmates but thats all. 90 percent of the time im mixing stems from puremix or cambridge or wherever i can find them. and thats been great since i can a/b against others mixes and better myself that way. but no, i dont have any paying clients or collaborators. i guess that should be my next move, but am a little confused how to get there. i applied to enginears several months ago and haven't heard anything, so waiting on that as of now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1297283587225423913",
+    "author": "esquinalee",
+    "date": "2024-10-19",
+    "content": "I am also wondering the same thing honestly. I don\u2019t think she could hear the difference compared to her mic when we were at my place but she and I selected the sound of the UMT over the others I had in the lineup. But her only response about the recording when I sent it to her was about how she didn\u2019t like how she was congested when we recorded it and wanted to keep the original vocals. Nothing about how much more open and smooth it was or anything regarding \u201cquality\u201d if that makes sense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1303107418053541949",
+    "author": "James Cronier",
+    "date": "2024-11-04",
+    "content": "I\u2019ve encountered some rattling noise in a drum recording that came my way. EQ doesn\u2019t grab it, RX spectral attenuate can\u2019t do much. It\u2019s a very narrow spectrum noise compared to the cymbals in the overheads etc. \n\nAny other tools I should be trying here?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1305387595714396201",
+    "author": "vostral",
+    "date": "2024-11-10",
+    "content": "What section do you like most of the NFuse?? Or do you ever hear the Fusion sound somewhere and compare it with Nfuse? I demoed it but turned out to not really into what it delivered \ud83d\ude10",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1306363866137104414",
+    "author": "James Cronier",
+    "date": "2024-11-13",
+    "content": "Yeah I took this as JC landing on a 3 plugin mixbus *instead* of the 9 that were there. \n\nI do this all the time. Dupe the mix bus aux, use what I would want, then A/B between them using by toggling the mute buttons.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1309271390771478638",
+    "author": "getyoursnackon",
+    "date": "2024-11-21",
+    "content": "how does the UAD 480 compare to relabs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1309562712400855213",
+    "author": "hendrick",
+    "date": "2024-11-22",
+    "content": "if you already have ozone you can use mastering assist to see what eq curve it will recommend (?). since they released audiolens i stopped using tonal balance tbh so i wouldn\u2019t recommend in 2024. maybe a few years back yes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1309582045667655793",
+    "author": "Ross Fortune",
+    "date": "2024-11-22",
+    "content": "I use it similarly to Noah, but I\u2019ll tend to make profiles from reference tracks with similar arrangements to check against. Sometimes highlights holes I\u2019ve missed",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319017923637153852",
+    "author": "Zach Hughes",
+    "date": "2024-12-18",
+    "content": "It\u2019s a pretty fresh artist project with no real comp or previous body of work to compare to. I got a Spotify list of some ref tracks that were somewhat helpful for genre painting a lane though",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1321667177488715856",
+    "author": "Nate",
+    "date": "2024-12-25",
+    "content": "are dynamic equalizers technically more 'phase friendly' compared to multiband compressors since they don't rely on filters to break up the frequency spectrum?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324946024497807523",
+    "author": "chrissorem",
+    "date": "2025-01-03",
+    "content": "Nice one! I\u2019d be curious to compare these two trick A Roonies",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1325246377155891232",
+    "author": "Brian Reynolds",
+    "date": "2025-01-04",
+    "content": "Can anyone help out a lost man. So I got Tonal Balance Control 2 a few weeks ago and really getting dirty with reductive eq. Especially between 100-200 hertz. The problem I can't figure is. I mix the chorus and get a good balance. Let it play thru the verses. Which have less tracks. But same big low end elements. Drums, Bass, Pad. And there is this several db swell in the 100-200 range. I don't have any compressors on the mix bus of this song. And just adding one doubled guitar part for the chorus gets it to dip back into the \"modern\" groove lines. A guitar that has nearly all that 100-200 removed",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1325247093073248350",
+    "author": "Nomograph Mastering",
+    "date": "2025-01-04",
+    "content": "I use the tonal balance control meter sometimes, it\u2019s the only frequency meter that I use. I like the way it works",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1331604477425356904",
+    "author": "Jonathan Arnold",
+    "date": "2025-01-22",
+    "content": "Curious how it compares to Mixhead",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1335061964602474580",
+    "author": "James Cronier",
+    "date": "2025-01-31",
+    "content": "Maybe something similar with spectral attenuation in RX. Might be worth leaning in this direction considering the EQ hasn\u2019t been working \n\nIf the song isn\u2019t some 12 minute prog epic you could probably have something that feels great compared to the spectral dynamics in ~10 mins.\n\nYou said there\u2019s two layers that make up the piano. The resonances could be due to the phase relationship between the notes/samples. maybe in a good place on some of em and a bad place on others. Might be worth playing with time adjuster or low HPFs on a \u201cbad\u201d spot to see if that\u2019s it, then audiosuite that around as needed",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337218321266905138",
+    "author": "vostral",
+    "date": "2025-02-06",
+    "content": "Hey, you should try the VSM4 from Vertigo. I think it's got better & smoother saturation compared to VSM3. I gave it a shot a couple weeks ago and it was astonishingly good",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1338951159746134086",
+    "author": "Brian Reynolds",
+    "date": "2025-02-11",
+    "content": "I didn't know Rich Costey by name or face until this thread today. But the sound and feel of this Bass is the one I've compared all basses to in my head since I first heard it junior year of high school.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1338983995492401262",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-11",
+    "content": "This might be the best defence of a Reference track I've seen",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1342604160989663407",
+    "author": "Spencer Broschard",
+    "date": "2025-02-21",
+    "content": "So this is cool. Been playing with this all day and really impressed so far. If you\u2019re familiar with neural amp modeler, this company is using their open source capture tech to capture analog outboard gear including things like eq, tape, compressors. Since the profiles are just snapshots, you can\u2019t dial in settings in the traditional sense but it forces you to just use your ear which is cool and I must say compared to a lot of my favorite plugins this really has that analog feel that is often missing in the digital world  \n\nhttps://analogxai.company.site/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1342615327577477193",
+    "author": "bobby k",
+    "date": "2025-02-21",
+    "content": "ran that album into the ground on the 2008 apple earbuds",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1342627564744872069",
+    "author": "Rollmottle",
+    "date": "2025-02-21",
+    "content": "Just compared the OG master to the remaster on The Unforgiven...the remaster doesn't feel as bright as the OG and thus sounds \"better\" to me. still not reading harsh. \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1347797392220753932",
+    "author": "sethmanchester",
+    "date": "2025-03-07",
+    "content": "ha set myself up for that one... did sit with it a bit more, printed both and did a blind A/B and could always pick... didn't bother to null tho.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1347989585266737235",
+    "author": "montrose recording",
+    "date": "2025-03-08",
+    "content": "whats yalls favorite translation of the mix note \u2018want it to sound more expensive\u2019?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1348138997658161315",
+    "author": "Jonathan Jetter",
+    "date": "2025-03-08",
+    "content": "I also think there's a risk of taking the D'Angelo reference track too literally.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1351286150249058355",
+    "author": "cian riordan",
+    "date": "2025-03-17",
+    "content": "Oooh... daddy likey. Not going to A/B it to my hardware units because *who cares*, I love that it has HPF & LPF and unity gain adjustments. Very cool.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1352028638228385853",
+    "author": "cy (sigh)",
+    "date": "2025-03-19",
+    "content": "might be worth trying Ultimate Vocal Remover to compare next time  - it also does stems, and is free. a bunch of algos to choose from too depending on your needs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1357310685108900022",
+    "author": "Val \u1da0\u02b3",
+    "date": "2025-04-03",
+    "content": "Basically, yes. I like too see IRs as an audio \"mold\" of a space. \ud83d\ude42\nYears ago, IRs reverb was often considered more \"realistic\" than algorithmic ones, because of the amount of details they reproduce, but I'm not sure it's still the case, compared to recent VSTs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359250002752442600",
+    "author": "getyoursnackon",
+    "date": "2025-04-08",
+    "content": "ok just tried sending mixes back at a quieter volume and they definitely did not A/B compare at the right volume",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359322910774267954",
+    "author": "Sei046",
+    "date": "2025-04-08",
+    "content": "Cool, I\u2019ve never actually tried just recording through a line, I\u2019ve just always used a DI so never had a chance to compare",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359323546366513153",
+    "author": "Sei046",
+    "date": "2025-04-08",
+    "content": "It did wonders for my translation and imaging I have to say \ud83e\udd37\ud83e\udd37",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1363559329365753976",
+    "author": "Ross Fortune",
+    "date": "2025-04-20",
+    "content": "Closest I\u2019ve got for now is Tonal Balance Control, but I\u2019m not finding it so useful beyond broad strokes.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1363596771896328404",
+    "author": "onanisland",
+    "date": "2025-04-20",
+    "content": "Headphones / earbuds that you're familiar with can help with the overall (forrest view)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1363968921098784768",
+    "author": "getyoursnackon",
+    "date": "2025-04-21",
+    "content": "i get so caught up by the inevitable client A/B and the ensuing \"yeah its great but it feels less exciting overall\" comment",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1366585021418176584",
+    "author": "Felix Byrne",
+    "date": "2025-04-28",
+    "content": "if you already have RX, there are tons of tools in there that can basically work like magic - de-reverb, dialogue isolate, denoise spectral de noise - but this will *always* have side effects compared to a great recording",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1367198185587478590",
+    "author": "corporalconsequently",
+    "date": "2025-04-30",
+    "content": "I've been using Dropbox to house all my sessions. Looking for an alternative for the same. I've read a couple messages on this sub and I'm definitely going to get into Backblaze as well but I really would also like to have a pair of SSDs I can use for current sessions etc.\n\nHope that makes it clear, English is not my first language so some things get lost while translation",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368538236057554985",
+    "author": "tim adamson \ud83c\udde6\ud83c\uddfa",
+    "date": "2025-05-04",
+    "content": "I had a bit of a look at the reference plugin an changing Monitor source seems like the cleanest way to AB, you can routing anything you want,  you can do it while printing/tracking, you can have seperate monitor source level and graphs et . It's comparing the mixbus output vs what ever you want. For some reason an addition A/B plugins seem to introduce something unnecessary (that might have its own effect idk) and seems to be a limiting factor in workflow having it on the mixbus",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368539384231497799",
+    "author": "Sei046",
+    "date": "2025-05-04",
+    "content": "No my peaks are significantly higher than -14! And I\u2019m not even trying match exactly, I will do when I\u2019m mastering or really trying to compare with a microscope but thought out my working day it\u2019s just hovering at -14 lufs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368733118122557501",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-04",
+    "content": "Hard clip of drum transients is an essential tool here when going for max stun. I definitely dislike the overuse of the soft clip paradigm in mixing though, it ends up giving impressive but brawny/dumb vibes. Hard to describe but I find it unmusical vs tasteful compression/limiting/subtle wave shaping to get similar impact. It might win in a quick A/B but to my ear doesn\u2019t have the long term listenability",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1369533130280538193",
+    "author": "Slow Hand",
+    "date": "2025-05-06",
+    "content": "Ooooh. Hard to say without first knowing the overall vibe and feel. Is there anything you could compare it to? That might be challenging, I know.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1373726081840054293",
+    "author": "DarrenB",
+    "date": "2025-05-18",
+    "content": "I always enjoyed listening on my phone via Listento back when I was mixing more.  I had a client that liked to go out to the studio garden and listen via phone speaker or earbuds to while mixing and it rubbed off on me.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374457352430026803",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-20",
+    "content": "I had many of these \u201cmaladaptive\u201d techniques too over the years, listen on this one speaker in mono at this level and compare to this \u2026 but they all fell by the wayside",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374768928156549245",
+    "author": "hyanrarvey",
+    "date": "2025-05-21",
+    "content": "Oh dude the trash can is not it compared to the arm series",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374779835540439153",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-21",
+    "content": "Yep, in the creative part of the journey anything goes, and radical context flips can be vital in getting to the next place with a project\n\nI was not coming at it from a Mastering point of view, but from the decade of PMC life and acoustics work. I have met every shape of frustrated human, and I have listened to detailed explanations of their wild ass techniques to get translation and then I have the text that says \u201cyeah, now that i can hear right I just make it sound good to me and it works in the world\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1376216434220466309",
+    "author": "Josh Bowman",
+    "date": "2025-05-25",
+    "content": "Totally get that, still not confidence inspiring as an end user. Hope they work out the bugs and it saves me money compared to bounce factory tho sooner than later",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1376970212913451142",
+    "author": "Tristan",
+    "date": "2025-05-27",
+    "content": "This has risk of leading to even more confusion, but have you considered asking for a commercially released reference track or two with a similar DNA structure that illustrates what they\u2019d like to see from their mix? That can help reconcile the gap",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1376983012276834426",
+    "author": "Chase H",
+    "date": "2025-05-27",
+    "content": "I\u2019m with you haha. Lots of details I won\u2019t get into here but there is quite a few things that aren\u2019t ideal compared to how  I normally work",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1382166482716327966",
+    "author": "thegreatcarsoni",
+    "date": "2025-06-10",
+    "content": "I\u2019m far from an expert compared to the legends up in here- but I know enough to feel kinda !!! About this mentality. The special sauce is in you. I\u2019ve been to a couple MWTM seminars and the common thread is that for as much plug-in talk and fun toys discussion, the careers of the greats were made on all the times they DIDNT use that fancy plug-in. When they knew NOT to do that crazy side chain trick. I feel like, to a certain extent, if you (the royal you) can\u2019t get it done with the basics, you shouldn\u2019t worry about the shiny fancy shit",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1382486172181200958",
+    "author": "louisvie",
+    "date": "2025-06-11",
+    "content": "Had this EQ deep-dive when mixing on Airpods Max and the M1 Macbook Pro speakers.\nThe back and forth between those felt revealing, but I definitely found myself biting my own tail at times\n\nI was also surprised by how much cleaning up the recording needed. Third time I'm recording a band live in a room and not worrying about bleed and resonances. Learned my lesson lol \n\nIt's a difficult live recording, live drums with the wrong snare sound, the drummer hitting the cymbals hard, in an appartment living room, and 3 meters away, the singer.\nThe vocal mic having 50% drums and 50% vocals in it, both instruments in full range... lots of head scratching and starting from scratch again. lol\n\nI was sometimes comparing to some mastered songs, not to match them in any way necessarily, but more to get a reminder of how clear, dense, forward and big, most mixes are compared to my WIP gar(b)age mix.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1382492582612963328",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-11",
+    "content": "Laptop speakers on Macs typically have a multiband limiter in line",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1389041127553761322",
+    "author": "Josh Bowman",
+    "date": "2025-06-29",
+    "content": "Wild didn\u2019t realize he did diamond eyes. I love how koi no yokan feels and never thought to compare the two albums listening specifically for mix vibes with the different mixers. I like diamond eyes less in terms of songs and production but gonna go back and give it another listen with the mix in mind now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1399180433249276088",
+    "author": "James Cronier",
+    "date": "2025-07-27",
+    "content": "It\u2019s also possible that my measurement could be flawed. \n\nI just use the integrated number that pro L gives me on my mix and an instance of pro L doing nothing but measuring integrated on the rough. \n\nZero em both out, start playback at a loud section and compare.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1399187351082635319",
+    "author": "Josh Bowman",
+    "date": "2025-07-27",
+    "content": "Are people comparing loudness by numbers regularly on the rough vs mix? I\u2019ve never thought to do it, I just usually compare by ear.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1399192182295892041",
+    "author": "aliberger",
+    "date": "2025-07-27",
+    "content": "i was gonna mention this too, when i a/b things i find it instructive to volume match by ear sometimes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1399475355118604348",
+    "author": "sarawls",
+    "date": "2025-07-28",
+    "content": "It's heavily bandpassed and has plosives like crazy and distorted - it gets lost in the mix as-is because the guitars are big and loud.  I'm panning them hard left and right to try and make room for the tiny frequency range of the vocal.  That Oh Sees vocal Edward posted sounds very hi-fi compared to this!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1400318636836782110",
+    "author": "Nomograph Mastering",
+    "date": "2025-07-30",
+    "content": "As long as we\u2019re on the topic of finishing it\u2019s worth saying that there are massive variations in people\u2019s idea of what *done* is\n\nFor some mixers it\u2019s \u201cdoes this feel great?\u201d, for some it\u2019s a kind of polish/perfection, for someone like Alnini it was \u201cdoes this represent what the band did in the live room?\u201d, someone else might be chasing translation \u2026\n\nSomeone mentioned that one upside of clients is they\u2019ll (mostly) tell you when it\u2019s done. But when you are on a solo project it\u2019s worth giving some thought to what your definition of done is for the given mix",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1411556415834951771",
+    "author": "georget113",
+    "date": "2025-08-30",
+    "content": "Yes they don\u2019t compare really",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1415761866793156609",
+    "author": "Slow Hand",
+    "date": "2025-09-11",
+    "content": "Speaking of which, is anybody using the gentle/warm character modes on Pro-Q4? What has your experience been?\n\nI haven't done the due diligence to test them out because it's so tedious to A/B an entire mix with the modes disabled/enabled. Part of me wonders if I'm even going to notice a difference. Whenever I have doubts or can't tell I just disable everything and move on with my life.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1416749869695107173",
+    "author": "tim adamson \ud83c\udde6\ud83c\uddfa",
+    "date": "2025-09-14",
+    "content": "I use it for some pretty basic things but find it to be very valuable. Being able to flip between monitor sources & outputs in MH world is complete \ud83d\udd25, it could be the best way to reference tracks imo. I've also got some presets going with routing to outboard so things can happen quick, also just jumping around sessions markers in PT makes things feel very nice and consistent (along with dropping in plugins, switching between apps etc)... I have more plans for it but have only set up the basics for now and still I've found it 100% worth it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1420240837647794208",
+    "author": "cian riordan",
+    "date": "2025-09-23",
+    "content": "Anyone here have both a hardware AMS RMX16 & the UAD Plugin? How do they compare? I have a hardware unit but I have a mix project coming in with the UAD on a few tracks and wondering if its worth the price tag.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1420261548894720142",
+    "author": "hyanrarvey",
+    "date": "2025-09-23",
+    "content": "This post is saying the plugin, and 500 series are pretty damn far apart compared to the original",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1420808350924410962",
+    "author": "diamndsdancin",
+    "date": "2025-09-25",
+    "content": "u use both can opener / sound id at same time? or is it just a A/B testing between em?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1427718215101841469",
+    "author": "chris_donlin",
+    "date": "2025-10-14",
+    "content": "How does it compare to sketch cassette",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1441955296007290902",
+    "author": "JustinLeu",
+    "date": "2025-11-22",
+    "content": "Is it a mix balance thing? Maybe he is cranking his system and your lowend is too much compared to other tracks? \n\nAlso are you not mixing in to or using some limiter to send a ref?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1442975934046273637",
+    "author": "Val \u1da0\u02b3",
+    "date": "2025-11-25",
+    "content": "I like to mention that Voxengo soniformer has been around for more than 20 years \ud83d\ude42 (not the same tool obviously, but I really don\u2019t understand why it didn\u2019t become a standard, compared to what it offered at the time)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1442996870413680703",
+    "author": "Sei046",
+    "date": "2025-11-25",
+    "content": "Ive always found Reso just did the thing I wanted. It\u2019s very easy to be heavy handed with it but once you get to know it it\u2019s very surgical compared to sooth and just removes the problem",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1454969051213336680",
+    "author": "junothemix",
+    "date": "2025-12-28",
+    "content": "What's y'alls favorite mix reference tracks for pop/rnb/rap? I'd love to listen to your standards \ud83c\udf84",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1457056648563785899",
+    "author": "hyanrarvey",
+    "date": "2026-01-03",
+    "content": "if you want to think about what the overheads add compared to close mic. think of gospel records. they are usually all heavy on close mics because of how much crazy shit is going on the mix. but the drums sound very tight and not roomy.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1459633288984531089",
+    "author": "Juliette",
+    "date": "2026-01-10",
+    "content": "Thank you for this. I\u2019m in the market for some new mixing headphone at the moment and I didn\u2019t know where to compare and contrast",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1461936547220820081",
+    "author": "N",
+    "date": "2026-01-16",
+    "content": "I understand the perspective of (lufs don\u2019t matter) however I want some consistency amongst my songs AND to be sufficiently loud compared to others.\n\nI am competent of achieving very loud mixes however the introduction of artifacts bothers me. Usually I\u2019m low passing with ISOL8 to listen for limiting/clipping clicks. These artifacts are unable to be heard unless I have a low pass filter active but I theorize that they, along with the extreme compression subconsciously degrade the listening experience by discretely assaulting your ears to the point of needing to take a break from listening. \n\nMy music can be related sonically to clara la sans \u201canother night\u201d give or take more or less busy. (Keep in mind her stuff is cranked to the point of audible artifacts sitting around -7ish lufs integrated across the chorus).\n\nI arrange the mix well and leave 1db of headroom for summing on individual instruments whilst they are loud enough for my target of -10 LUFi across the chorus, meaning my mix is actually 1db louder than -10 with space to sum on the pre master bus. Leaving headroom means I can introduce less artifacts at the cost of having to squeeze the dynamic range of individual instruments more than otherwise.\n\nMy issue is that If I want to aim for let\u2019s say -8LUFSi across the chorus in a relatively clean way with minimal artifacts, I\u2019m forced to squeeze the mix to -7.\n\nI\u2019d love to hear y\u2019all thoughts on whether or not technically inaudible artifacts/distortion matter and whether or not it\u2019s really worth for me to squeeze my mix 2db more in the name of competitive loudness?\n\nPs. Please bear with me as I am trying to figure this all out solo. Feel free to criticize my approach.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1468534954974777475",
+    "author": "Jonathan Arnold",
+    "date": "2026-02-04",
+    "content": "did you compare it with Ozone Spectral shaper?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1470525776637067377",
+    "author": "bobby k",
+    "date": "2026-02-09",
+    "content": "maybe ask them for reference songs that sound good on heapdhones and the jesus christ speaker and try to A/B against a few refs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]
