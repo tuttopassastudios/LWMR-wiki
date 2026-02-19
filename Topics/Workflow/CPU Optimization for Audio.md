@@ -10,7 +10,7 @@ tags:
   - domain/workflow
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # CPU Optimization for Audio
@@ -64,6 +64,21 @@ Ableton's CPU threading is tied to its group/track structure:
 > [!quote] Source
 > **Author:** Slow Hand — **Date:** 2025-07-28 — **Channel:** #daw-talk
 > "Increase my buffer from 64 samples to 1024 samples. This stops the dropouts and lowers the Ableton CPU meter to 25%. But I'd like to stay at a small buffer size so that I can play parts into the DAW without latency."
+
+### Live 12 CPU Improvements
+Live 12 brought substantial CPU performance gains. Community benchmarks from #ableton-live report roughly "twice as efficient" CPU usage compared to Live 11:
+- Baseline idle CPU dropped from ~25% to ~5% in comparable sessions (Adam Thein)
+- Plugin-heavy sessions that were borderline in Live 11 run comfortably in Live 12
+- The improvements appear to come from better multi-threading and audio engine optimizations
+
+### Latency & Monitoring Strategies
+Managing latency is critical when recording through plugin-heavy sessions in Ableton:
+
+- **Reduced Latency When Monitoring** — Live 12 feature that bypasses delay compensation on the monitored track, enabling low-latency recording even with high-latency plugins on other tracks
+- **Zero-latency plugin selection** — when recording, use plugins with zero or minimal latency on the monitored track; move latent plugins (linear phase EQ, lookahead limiters) to post-recording processing
+- **Sends for latent FX** — route latent effects (reverb, heavy processing) to return tracks via sends rather than inserts, so they don't add to the monitored track's latency
+- **Mixbus routing trick** — jonmatteson's approach: route all tracks to a submix bus, then route the submix to the master. This allows you to bypass the submix (and all its latency) when recording, while keeping your mix chain intact for playback (#ableton-live)
+- **Bypassed plugins still add delay compensation** — even bypassed plugins contribute to Ableton's delay compensation calculation. Remove (not just bypass) unused plugins from tracks to reduce overall latency (#ableton-live)
 
 ## Practical Application
 - **Freeze/commit tracks** to free CPU from plugin processing
@@ -139,3 +154,8 @@ I only wa...*
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Adam Thein, Slow Hand, ALXCPH, oaklandmatt, austenballard
 > **Message volume:** 1,354 categorized messages (421 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Adam Thein, jonmatteson, Slow Hand, Josh
+> **Message volume:** ~80 categorized messages on CPU optimization, latency management, and Live 12 improvements

@@ -9,7 +9,7 @@ tags:
   - domain/workflow
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Session Templates and Organization
@@ -57,6 +57,16 @@ Nacho Sotelo uses SoundFlow scripts to automate mix prep:
 > [!quote] Source
 > **Author:** Slow Hand — **Date:** 2022-06-29 — **Channel:** #daw-talk
 > "I'm very particular about how my stuff gets rendered and go to great lengths to ensure that when I hand someone stems that they're going to be as easy as possible to plug-and-play."
+
+### Ableton Template & Session Management (from #ableton-live)
+Additional Ableton-specific template strategies from the dedicated channel:
+
+- **Dragging channels between sessions** — open two Ableton sessions side by side and drag tracks/channels from one to the other. This transfers the audio, all plugins, and routing — useful for building up sessions from a library of saved instrument sessions (Jeremy Klein, #ableton-live)
+- **Saving instrument sessions** — instead of saving individual presets, save entire Ableton sessions with fully configured instrument tracks (routing, effects, sends). Open these as a library to drag channels into new projects (#ableton-live)
+- **Key mapping defaults** — map frequently used controls (metronome, loop on/off, locators) to keyboard shortcuts at the session level. These persist within the .als file (#ableton-live)
+- **SoundFlow for Ableton** — SoundFlow (originally Pro Tools-focused) now supports Ableton Live, enabling custom keyboard shortcuts, macros, and automation scripts beyond Ableton's native capabilities (#ableton-live)
+- **Loadr (Max for Live)** — M4L device that batch-loads plugins and devices into a session, streamlining template building and session prep (#ableton-live)
+- **Stream Deck integration** — several community members use Elgato Stream Deck with Ableton for one-touch access to common actions, transport controls, and macro triggers (#ableton-live)
 
 ## Practical Application
 - Invest time building templates — it pays off exponentially
@@ -115,3 +125,8 @@ If you're breaking a single sampled instrument out ac...*
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Nacho Sotelo, Slow Hand, oaklandmatt, Adam Thein, Rob Domos
 > **Message volume:** 881 categorized messages (197 directly categorized, 68 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Jeremy Klein, Slow Hand, Josh, oaklandmatt
+> **Message volume:** ~40 categorized messages on template workflow, SoundFlow, Loadr, and Stream Deck integration

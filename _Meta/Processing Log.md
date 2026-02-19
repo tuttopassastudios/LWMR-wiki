@@ -3,7 +3,7 @@ type: meta
 tags:
   - type/meta
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Processing Log
@@ -233,6 +233,46 @@ For each channel processed, record:
 
 ---
 
+### #ableton-live
+
+- **Channel:** #ableton-live (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-17
+- **Date range:** February 2024 – February 2026
+- **Messages:** 1,982 raw → ~1,495 substantive (40+ chars)
+- **Unique authors:** 90
+
+**Pages created (3):**
+- [[Audio Effect Rack]], [[Session View]], [[Max for Live]]
+
+**Pages enriched (5):**
+- [[Ableton Live]] — Added Live 12 section, master bus clipping, latency strategies, expanded known issues/community tips
+- [[Warp Mode]] — Upgraded confidence to medium, added community debate, fidelity findings
+- [[Bounce and Export Workflows]] — Added group bounce workarounds, stem handoff, archiving tips
+- [[CPU Optimization for Audio]] — Added Live 12 CPU improvements, latency monitoring strategies
+- [[Session Templates and Organization]] — Added Ableton template tips, SoundFlow/Loadr/Stream Deck
+
+**Channel summary:** [[ableton-live Channel Summary]]
+
+**Identified experts:**
+- **Slow Hand** (265 messages) — Admin/mod, systematic testing, Audio Effect Racks, Live 12 evaluation
+- **Adam Thein** (192 messages) — CPU benchmarks, master bus clipping investigation, stem export
+- **Josh** (108 messages) — Workflow questions, Live 12 transition, community debugging
+- **oaklandmatt** (95 messages) — Server owner, browser workflow, feature requests
+- **Ross Fortune** (94 messages) — Group bounce workarounds, stem handoff, multi-decade perspective
+- **Jeremy Klein** (74 messages) — Template organization, freeze workflow, session management
+- **Rollmottle** (61 messages) — Outboard integration, effect rack techniques
+- **jonmatteson** (50 messages) — Latency workarounds, mixbus routing tricks
+
+**Notes:**
+- Channel was created alongside the Live 12 release, so Live 12 transition content dominates (~400+ messages)
+- Significant overlap with #daw-talk contributors but with Ableton-focused depth
+- Master bus clipping investigation is unique content not found in other channels
+- BPM drift bug investigation (BatMeckley) represents original community research confirmed by Ableton support
+- High substantive rate (75.4%) reflecting focused, technical discussion
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -241,3 +281,4 @@ For each channel processed, record:
 | #daw-talk (Phase 3.5) | Feb 2021 – Feb 2026 | — | +4,053 newly captured | +16 (32 total) | +15 (~35 total) |
 | #recording-talk | Dec 2021 – Feb 2026 | 16,219 | ~11,195 | 8 | 0 |
 | #recording-talk (Media) | Dec 2021 – Feb 2026 | — | 413 images, 279 links | +1 (External Resources) | 0 |
+| #ableton-live | Feb 2024 – Feb 2026 | 1,982 | ~1,495 | 3 | 0 |

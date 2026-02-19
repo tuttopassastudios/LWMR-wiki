@@ -10,7 +10,7 @@ tags:
   - domain/workflow
   - type/technique
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Bounce and Export Workflows
@@ -64,6 +64,43 @@ Sample accuracy issues are more common during playback than rendering, and less 
 | Format | WAV preferred | AIFF also acceptable |
 | Mono handling | Left Out Only (not mono sum) | Avoids phase issues in Ableton |
 | Naming | Consistent conventions | Critical for session transfers |
+
+## Ableton Group Bounce Workarounds
+
+Ableton Live does not natively support bouncing/freezing group tracks (as of Live 12). The community has developed several workarounds documented extensively in #ableton-live:
+
+### Sidechain Listen Trick (markmaclure / Ross Fortune)
+1. Set the group track output to a return track or unused bus
+2. Click the "sidechain listen" button (headphone icon) on the group track to solo its output
+3. Freeze the group — Ableton renders the soloed output
+4. Flatten to commit the bounced audio
+5. Re-route the flattened track back to the master
+
+> [!quote] Discord Source
+> **Author:** Ross Fortune — **Date:** 2024-05-18 — **Channel:** #ableton-live
+> "The sidechain listen trick actually works for group bouncing. Solo the group via the headphone icon, freeze, flatten. It's a hack but it gets you there."
+
+### Resampling Method (Slow Hand)
+1. Create a new audio track set to "Resampling" as its input
+2. Solo the group you want to bounce
+3. Record-arm the resampling track and record in real-time
+4. The resampling track captures the group output including all processing
+
+### Live 12.3 — Paste Bounced Audio
+Live 12.3 introduced "Paste Bounced Audio" which partially addresses this pain point — select a time range, bounce it, and paste the rendered audio in place. While not a full group freeze, it provides a faster inline bounce workflow.
+
+## Stem Handoff Across DAWs
+
+When delivering stems from Ableton to other DAWs (particularly [[Pro Tools]]):
+
+- **Stereo vs mono export** — when exporting stems destined for Pro Tools, render mono sources as mono files (not stereo). PT handles mono/stereo differently than Ableton, and sending stereo files of mono content wastes disk space and can cause panning confusion (Adam Thein, #ableton-live)
+- **ReadMe.txt practice** — Jacob (community member) includes a ReadMe.txt with every stem delivery package documenting BPM, session start time, sample rate, bit depth, and any processing notes. Recommended as best practice for multi-DAW handoffs (#ableton-live)
+- **Organize-and-freeze workflow** — Jeremy Klein's approach: organize all tracks into properly named groups, freeze everything, flatten, then export. This ensures all processing is committed and naming is consistent before delivery (Jeremy Klein, #ableton-live)
+
+## Archiving Tips
+
+- **One-shot drum sample archiving** — Slow Hand's practice of bouncing all drum samples used in a session as one-shots into a dedicated folder before archiving, ensuring the session can be reconstructed even if sample libraries change or are uninstalled (#ableton-live)
+- **Collect All and Save habit** — always run Collect All and Save before archiving an Ableton session. This copies all referenced audio files, samples, and presets into the project folder, making the session self-contained (#ableton-live)
 
 ## Variations
 - **Offline bounce** — faster than real-time but may miss real-time-dependent effects
@@ -136,3 +173,8 @@ With one issue, but it's workable. Sending to a return from a nested track ("dru
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** austenballard, Slow Hand, Adam Thein, oaklandmatt
 > **Message volume:** 1,186 categorized messages (356 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Slow Hand, Ross Fortune, Adam Thein, Jeremy Klein, markmaclure
+> **Message volume:** ~130 categorized messages on stem export, group bounce workarounds, and archiving

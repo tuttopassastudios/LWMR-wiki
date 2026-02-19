@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/software
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # DAWs and Software
@@ -62,6 +62,14 @@ modified: 2026-02-17
 - [[Audio File Management]] — formats, sample rates, naming, AAF/OMF exchange
 - [[Backup and Storage for Audio]] — backup strategies, NAS, cloud, archival
 - [[Keyboard Shortcuts and Macros]] — shortcuts, SoundFlow, Stream Deck, scripting
+
+---
+
+## Ableton-Specific Concepts
+
+- [[Audio Effect Rack]] — parallel processing, A/B comparison, rack techniques
+- [[Session View]] — clip-based workflow, live performance, arrangement recording
+- [[Max for Live]] — custom devices, M4L stability, extended functionality
 
 ---
 
