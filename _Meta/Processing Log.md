@@ -114,8 +114,7 @@ For each channel processed, record:
 **New glossary stubs created (15):**
 - [[SoundFlow]], [[Melodyne]], [[VocAlign]], [[Control Surface]], [[MIDI Controller]], [[Dolby Atmos]], [[Binaural]], [[LUFS]], [[iZotope RX]], [[De-esser]], [[Clip Gain]], [[Elastic Audio]], [[Audio Unit Extension]], [[ARA]], [[Time Stretch]]
 
-**New folder created:**
-- `Hardware/` — for control surfaces and peripherals (and future hardware content)
+**Note:** Control Surfaces and Peripherals was moved from `Hardware/` to `Gear/` to consolidate all gear under one folder.
 
 **Coverage improvement:**
 - Phase 3: ~7,943 messages categorized (~49% of substantive)
