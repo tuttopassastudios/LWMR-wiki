@@ -19,7 +19,7 @@ from pathlib import Path
 
 VAULT = Path("/Users/tylerchase/Documents/Discord Wikipedia")
 JSON_PATH = Path("/Users/tylerchase/Downloads/Live with Matt Rad - Community - 💬general-talk [800115582531928067].json")
-OUTPUT_DIR = VAULT / "scripts" / "_general-talk-extract"
+OUTPUT_DIR = VAULT / "Extracts" / "general-talk"
 
 # Combined from all previous scripts — cross-referenced from Contributors.md and Processing Log
 VERIFIED_EXPERTS = {

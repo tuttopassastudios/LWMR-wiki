@@ -12,7 +12,7 @@ from pathlib import Path
 
 VAULT = Path("/Users/tylerchase/Documents/Discord Wikipedia")
 JSON_PATH = Path("/Users/tylerchase/Downloads/Live with Matt Rad - MUSIC - 👼newbie-questions [809922920947646494].json")
-OUTPUT_DIR = VAULT / "scripts" / "_newbie-questions-extract"
+OUTPUT_DIR = VAULT / "Extracts" / "newbie-questions"
 
 # Only these users' answers are flagged as authoritative.
 # Cross-referenced from Contributors.md and Processing Log across all channels.

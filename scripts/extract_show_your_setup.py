@@ -8,7 +8,7 @@ from pathlib import Path
 
 VAULT = Path("/Users/tylerchase/Documents/Discord Wikipedia")
 JSON_PATH = Path("/Users/tylerchase/Downloads/Live with Matt Rad - Studio - 📸show-your-setup [808407474944213003].json")
-OUTPUT_DIR = VAULT / "scripts" / "_show-your-setup-extract"
+OUTPUT_DIR = VAULT / "Extracts" / "show-your-setup"
 IMAGE_EXTS = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'}
 
 CATEGORIES = {

@@ -8,7 +8,7 @@ from pathlib import Path
 
 VAULT = Path("/Users/tylerchase/Documents/Discord Wikipedia")
 JSON_PATH = Path("/Users/tylerchase/Downloads/Live with Matt Rad - MUSIC - 🎹production-talk [937549855524544532].json")
-OUTPUT_DIR = VAULT / "scripts" / "_production-talk-extract"
+OUTPUT_DIR = VAULT / "Extracts" / "production-talk"
 
 CATEGORIES = {
     "songwriting_arrangement": {

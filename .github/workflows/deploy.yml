@@ -34,7 +34,8 @@ jobs:
         run: |
           rm -rf /tmp/quartz/content/*
           rsync -av --exclude='.git' --exclude='.github' \
-            --exclude='.obsidian' \
+            --exclude='.obsidian' --exclude='scripts' \
+            --exclude='Extracts' \
             ./ /tmp/quartz/content/
           cp /tmp/quartz/content/_Meta/Home.md /tmp/quartz/content/index.md
 
