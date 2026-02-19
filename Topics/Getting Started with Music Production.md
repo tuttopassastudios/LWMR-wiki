@@ -220,3 +220,12 @@ The message for beginners: technical knowledge matters, but creative instinct an
 - [[Recording]] MOC — recording knowledge hub
 - [[Production]] MOC — production knowledge hub
 - [[Workflow]] MOC — workflow and career hub
+- [[Community]] MOC — community, career, and mental health hub
+
+## Source Discussions
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Career & learning context:** oaklandmatt (37 reactions): "People who really want to hunt to be great find us. And casual people won't ever recognize me as a 'podcaster.'" Slow Hand (91 reactions): "It's no overstatement to say that you *are* this server and the reason for its success."
+> **Message volume:** 486 learning/education messages, 1,652 career advice messages
+> See also: [[Career Development for Audio Professionals]], [[Learning Resources and Education]], [[general-talk Channel Summary]]

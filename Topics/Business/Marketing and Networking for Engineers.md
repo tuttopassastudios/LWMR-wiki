@@ -114,3 +114,8 @@ mixedbywong_my provides valuable non-US context:
 > **Channel:** #biz-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** cypress, ehutton21, mixedbywong_my, oaklandmatt
 > **Message volume:** ~350+ messages on marketing and networking
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Networking context:** 260 networking & relationships messages (182 from verified experts). bobby k (10 reactions, pinned): "We generally aim to make friends, not fans." oaklandmatt (56 reactions): "Two very strict rules we have here are 'no self-promotion' and 'no politics.' It keeps this place focused on helping each other make better records."
+> See also: [[Career Development for Audio Professionals]], [[general-talk Channel Summary]]

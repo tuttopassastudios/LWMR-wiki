@@ -102,3 +102,8 @@ Slow Hand's discovery of the de-emphasis feature in the Tupe saturation plugin (
 > **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
 > **Key contributors:** Nomograph Mastering, cian riordan, Slow Hand, chrissorem, BatMeckley, NoahNeedleman, Ross Fortune
 > **Message volume:** 14,481 unique messages categorized across 17 topics (largest channel processed)
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> bobby k (24 reactions): "I've been reflecting a lot on how precious it is to maintain a listener's perspective on a work in progress, and what things we can be doing as the producer/mixer/etc to grant that privilege to the artist first and foremost."
+> **Message volume:** 638 mixing-categorized messages (360 from verified experts)

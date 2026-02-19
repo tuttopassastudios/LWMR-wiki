@@ -111,3 +111,8 @@ The community's nuanced take on discounted work:
 > **Channel:** #biz-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** oaklandmatt, ehutton21, cypress, mixedbywong_my
 > **Message volume:** ~400+ messages on client relations and project management
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Client management context:** David Fuller (37 reactions): "The notes thing pissed me off pretty good. Like 'we want it to sound more Hollywood' — I literally don't understand how to translate that into engineering."
+> See also: [[Remote Collaboration Tools and Workflows]], [[general-talk Channel Summary]]

@@ -155,3 +155,8 @@ Key production-talk vocal insights:
 > **Key contributors:** BatMeckley (47 vocal production msgs), austenballard (56 msgs), oaklandmatt (28 msgs), NoahNeedleman (42 msgs), popaganda. (vocal performance philosophy)
 > **Message volume:** 812 vocal production categorized messages
 > See also: [[production-talk Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Message volume:** 638 mixing-categorized messages including vocal discussion (360 from verified experts)
+> See also: [[general-talk Channel Summary]]

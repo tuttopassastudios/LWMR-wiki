@@ -1,0 +1,249 @@
+{
+  "total_messages": 52236,
+  "date_range": "2021-02-02 to 2026-02-18",
+  "substantive_messages": 43882,
+  "noise_filtered": 8354,
+  "unique_authors": 500,
+  "unique_messages_categorized": 15836,
+  "categorization_rate": 36.1,
+  "uncategorized": 28046,
+  "expert_substantive_messages": 30385,
+  "qa_pairs_count": 5191,
+  "expert_advice_count": 30385,
+  "resources_count": 2159,
+  "resource_types": {
+    "link": 670,
+    "image": 723,
+    "social": 182,
+    "youtube": 450,
+    "attachment": 25,
+    "spotify": 92,
+    "document": 6,
+    "audio": 10,
+    "soundcloud": 1
+  },
+  "activity_by_year": {
+    "2021": 3730,
+    "2022": 4975,
+    "2023": 20477,
+    "2024": 13351,
+    "2025": 8489,
+    "2026": 1214
+  },
+  "categories": {
+    "mixing_general": {
+      "label": "Mixing (General)",
+      "tier": 1,
+      "count": 638,
+      "expert_count": 360
+    },
+    "mastering_general": {
+      "label": "Mastering (General)",
+      "tier": 1,
+      "count": 1022,
+      "expert_count": 715
+    },
+    "recording_general": {
+      "label": "Recording (General)",
+      "tier": 1,
+      "count": 1892,
+      "expert_count": 1226
+    },
+    "production_general": {
+      "label": "Production (General)",
+      "tier": 1,
+      "count": 1341,
+      "expert_count": 870
+    },
+    "songwriting": {
+      "label": "Songwriting",
+      "tier": 1,
+      "count": 669,
+      "expert_count": 431
+    },
+    "daw_software": {
+      "label": "DAW & Software",
+      "tier": 1,
+      "count": 942,
+      "expert_count": 543
+    },
+    "gear_hardware": {
+      "label": "Gear & Hardware",
+      "tier": 1,
+      "count": 1652,
+      "expert_count": 1110
+    },
+    "acoustics_studio": {
+      "label": "Acoustics & Studio",
+      "tier": 1,
+      "count": 126,
+      "expert_count": 78
+    },
+    "atmos_immersive": {
+      "label": "Atmos & Immersive",
+      "tier": 1,
+      "count": 184,
+      "expert_count": 125
+    },
+    "monitoring_listening": {
+      "label": "Monitoring & Listening",
+      "tier": 1,
+      "count": 245,
+      "expert_count": 162
+    },
+    "signal_flow": {
+      "label": "Signal Flow",
+      "tier": 1,
+      "count": 236,
+      "expert_count": 150
+    },
+    "troubleshooting": {
+      "label": "Troubleshooting",
+      "tier": 1,
+      "count": 873,
+      "expert_count": 599
+    },
+    "plugin_discussion": {
+      "label": "Plugin Discussion",
+      "tier": 1,
+      "count": 836,
+      "expert_count": 475
+    },
+    "music_theory": {
+      "label": "Music Theory",
+      "tier": 1,
+      "count": 666,
+      "expert_count": 464
+    },
+    "file_delivery": {
+      "label": "File & Delivery",
+      "tier": 1,
+      "count": 1054,
+      "expert_count": 675
+    },
+    "career_advice": {
+      "label": "Career Advice",
+      "tier": 2,
+      "count": 1652,
+      "expert_count": 1070
+    },
+    "mental_health": {
+      "label": "Mental Health",
+      "tier": 2,
+      "count": 458,
+      "expert_count": 302
+    },
+    "learning_education": {
+      "label": "Learning & Education",
+      "tier": 2,
+      "count": 486,
+      "expert_count": 316
+    },
+    "community_events": {
+      "label": "Community Events",
+      "tier": 2,
+      "count": 697,
+      "expert_count": 446
+    },
+    "artist_development": {
+      "label": "Artist Development",
+      "tier": 2,
+      "count": 758,
+      "expert_count": 478
+    },
+    "remote_collaboration": {
+      "label": "Remote Collaboration",
+      "tier": 2,
+      "count": 94,
+      "expert_count": 43
+    },
+    "studio_building": {
+      "label": "Studio Building",
+      "tier": 2,
+      "count": 203,
+      "expert_count": 133
+    },
+    "industry_insights": {
+      "label": "Industry Insights",
+      "tier": 2,
+      "count": 796,
+      "expert_count": 512
+    },
+    "networking_relationships": {
+      "label": "Networking & Relationships",
+      "tier": 2,
+      "count": 260,
+      "expert_count": 182
+    },
+    "off_topic_fun": {
+      "label": "Off-Topic & Fun",
+      "tier": 2,
+      "count": 3446,
+      "expert_count": 2242
+    },
+    "specific_gear_mentions": {
+      "label": "Specific Gear Mentions",
+      "tier": 3,
+      "count": 252,
+      "expert_count": 190
+    },
+    "streaming_platforms": {
+      "label": "Streaming & Platforms",
+      "tier": 3,
+      "count": 583,
+      "expert_count": 343
+    },
+    "creative_philosophy": {
+      "label": "Creative Philosophy",
+      "tier": 3,
+      "count": 925,
+      "expert_count": 601
+    },
+    "matt_rad_references": {
+      "label": "Matt Rad References",
+      "tier": 3,
+      "count": 210,
+      "expert_count": 117
+    },
+    "health_hearing": {
+      "label": "Health & Hearing",
+      "tier": 3,
+      "count": 837,
+      "expert_count": 541
+    }
+  },
+  "pinned_count": 19,
+  "qa_pairs_by_category": {
+    "off_topic_fun": 403,
+    "uncategorized": 3051,
+    "troubleshooting": 123,
+    "career_advice": 236,
+    "creative_philosophy": 126,
+    "mixing_general": 110,
+    "recording_general": 272,
+    "gear_hardware": 198,
+    "monitoring_listening": 40,
+    "music_theory": 97,
+    "production_general": 210,
+    "songwriting": 106,
+    "health_hearing": 131,
+    "acoustics_studio": 18,
+    "daw_software": 146,
+    "plugin_discussion": 127,
+    "artist_development": 154,
+    "community_events": 88,
+    "mental_health": 61,
+    "mastering_general": 150,
+    "file_delivery": 188,
+    "networking_relationships": 35,
+    "industry_insights": 174,
+    "streaming_platforms": 150,
+    "specific_gear_mentions": 33,
+    "matt_rad_references": 27,
+    "studio_building": 34,
+    "learning_education": 72,
+    "atmos_immersive": 23,
+    "signal_flow": 32,
+    "remote_collaboration": 15
+  }
+}

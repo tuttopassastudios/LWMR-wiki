@@ -232,3 +232,9 @@ The #biz-talk channel extends the session mindset discussion into business susta
 > **Key contributors:** oaklandmatt, ehutton21
 > **Message volume:** Context on the business mindset that supports engineering excellence
 > See also: [[biz-talk Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Philosophy context:** cian riordan (39 reactions, on Steve Albini's passing): "Surreal to be recording rock music at this level, in this caliber room today... I had two real guiding lights in my engineering journey, Eric V was one of them, and it was life changing to work under him. Steve was the other. Unfuckwithable engineering prowess paired with the sharpest, most principled mind."
+> **Message volume:** 925 creative philosophy messages, 1,892 recording messages (combined 69% from verified experts)
+> See also: [[general-talk Channel Summary]]

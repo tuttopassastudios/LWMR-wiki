@@ -128,3 +128,9 @@ BatMeckley's two approaches:
 > **Channel:** #songwriting-talk — **Date Range:** 2021-04 to 2026-02
 > **Key contributors:** oaklandmatt, Slow Hand, BatMeckley, EliHeathMusic, LAPhill, Zack Hames, cy (sigh)
 > **Message volume:** 165 categorized messages (Creative Process & Workflow)
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Creative philosophy context:** NoahNeedleman (26 reactions) shared the Ira Glass quote on taste and the creative gap: "All of us who do creative work, we get into it because we have good taste. But there is this gap... your taste is still killer. And your taste is why your work disappoints you."
+> **Message volume:** 925 creative philosophy messages, 669 songwriting messages (combined from verified experts)
+> See also: [[general-talk Channel Summary]]

@@ -115,3 +115,8 @@ Community-shared starting points:
 > **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
 > **Beginner compression context:** BatMeckley (13 reactions): "Honestly, that line [gain staging on the way in] is a bit over blown. It's more 'oh the chorus is louder, let's knock it back a click or two on the input so it doesn't distort.' We were fairly conservative on the 1176 on the way in, largely cause you can't un-crunch a vocal that's been over compressed." Nomograph Mastering (12 reactions): "Most of your perceived loudness comes from the arrangement and mid range focus (2k to 8k)."
 > See also: [[Beginner FAQ#Mixing Basics]]
+
+> [!quote] Discord Source
+> **Channel:** #general-talk — **Date Range:** 2021-02 to 2026-02
+> **Message volume:** 638 mixing-categorized messages (360 from verified experts)
+> See also: [[general-talk Channel Summary]]

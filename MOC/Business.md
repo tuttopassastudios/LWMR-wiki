@@ -41,6 +41,7 @@ modified: 2026-02-18
 ## Industry & Streaming
 
 - [[Streaming Economics]] — platform economics, distributor issues, industry consolidation
+- [[Industry Trends and Insights]] — AI in music, streaming dynamics, Grammy culture, evolving roles
 - [[Sync Licensing]] — licensing music for visual media
 - [[Mechanical Royalties]] — composition reproduction royalties
 - [[PRO]] — performing rights organizations
@@ -51,6 +52,7 @@ modified: 2026-02-18
 
 - [[Marketing and Networking for Engineers]] — venue networking, relationship building, career frameworks
 - [[Client Relations and Project Management]] — working with clients, revisions, remote collaboration
+- [[Remote Collaboration Tools and Workflows]] — Audiomovers, Source-Connect, file sharing, revision workflows
 - [[Session Mindset and Engineering Philosophy]] — the intersection of craft and business sustainability
 
 ---

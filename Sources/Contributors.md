@@ -314,6 +314,45 @@ The #newbie-questions channel (9,859 messages, February 2021 – February 2026) 
 
 ---
 
+## #general-talk Contributors
+
+### #general-talk — Top 20 by Substantive Messages
+
+| # | Contributor | Substantive | Total | Subst % | Avg Len | Focus Areas |
+|---|------------|------------|-------|---------|---------|-------------|
+| 1 | Nomograph Mastering | 5,484 | 6,567 | 84% | 85 | Career advice, gear, creative philosophy, mastering |
+| 2 | hyanrarvey | 2,511 | 4,109 | 61% | 57 | Social, plugin discussion, DAW software |
+| 3 | spectrummasters | 1,837 | 2,066 | 89% | 190 | Recording, production, creative philosophy |
+| 4 | Josh | 1,794 | 2,069 | 87% | 102 | Production, gear, industry insights |
+| 5 | cian riordan | 1,594 | 1,899 | 84% | 130 | Recording, career advice, creative philosophy |
+| 6 | Rollmottle | 1,559 | 1,909 | 82% | 115 | Recording, gear, career advice |
+| 7 | Slow Hand | 1,453 | 1,579 | 92% | 215 | Recording, gear, creative philosophy |
+| 8 | David Fuller | 1,394 | 1,671 | 83% | 74 | Gear, recording, community |
+| 9 | NoahNeedleman | 1,124 | 1,287 | 87% | 141 | Production, recording, creative philosophy |
+| 10 | BatMeckley | 1,004 | 1,119 | 90% | 200 | Recording, career advice, creative philosophy |
+| 11 | bobby k | 876 | 999 | 88% | 179 | Career advice, production, creative philosophy |
+| 12 | ehutton21 | 811 | 921 | 88% | 91 | Career advice, recording, production |
+| 13 | Adam Thein | 794 | 871 | 91% | 142 | Recording, gear, production |
+| 14 | austenballard | 717 | 822 | 87% | 116 | Career advice, production, community profiles |
+| 15 | Ross Fortune | 683 | 745 | 92% | 165 | Recording, gear, production |
+| 16 | Bryan DiMaio | 650 | 744 | 87% | 123 | Career advice, industry insights, production |
+| 17 | peterlabberton | 614 | 700 | 88% | 132 | Recording, gear, production |
+| 18 | oaklandmatt | 520 | 571 | 91% | 211 | Career advice, community events, industry |
+| 19 | ALXCPH | 502 | 614 | 82% | 124 | Recording, production, troubleshooting |
+| 20 | LAPhill | 491 | 530 | 93% | 147 | Career advice, learning, industry insights |
+
+### #general-talk — Community Overview
+- **500** unique contributors posted in #general-talk
+- **52,236** total messages (February 2021 – February 2026)
+- **~43,882** substantive messages (84.0%)
+- **69%** of substantive messages come from verified experts — highest expert dominance of any channel
+- **Nomograph Mastering** is the most active contributor (5,484 substantive), consistent with their dominance across all channels
+- **cian riordan** has the highest total reactions (7,096) — most valued contributor by community response
+- **Slow Hand** has the highest average message length (215 chars) among top contributors
+- **oaklandmatt** has the highest per-message reaction rate, reflecting his role as server founder
+
+---
+
 ## See Also
 
 - [[Processing Log]] — extraction methodology and coverage stats
@@ -323,3 +362,4 @@ The #newbie-questions channel (9,859 messages, February 2021 – February 2026) 
 - [[monitoring-talk Channel Summary]] — #monitoring-talk channel overview
 - [[mixing-talk Channel Summary]] — #mixing-talk channel overview
 - [[newbie-questions Channel Summary]] — #newbie-questions channel overview
+- [[general-talk Channel Summary]] — #general-talk channel overview

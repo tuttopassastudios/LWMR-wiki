@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Nomograph Mastering",
+    "total": 6567,
+    "substantive": 5484,
+    "substantive_pct": 83.5,
+    "avg_length": 85,
+    "reactions": 11088,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 250,
+      "career_advice": 167,
+      "gear_hardware": 148,
+      "mastering_general": 144,
+      "recording_general": 142
+    }
+  },
+  {
+    "name": "hyanrarvey",
+    "total": 4109,
+    "substantive": 2511,
+    "substantive_pct": 61.1,
+    "avg_length": 57,
+    "reactions": 2984,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 186,
+      "plugin_discussion": 56,
+      "daw_software": 54,
+      "recording_general": 52,
+      "gear_hardware": 47
+    }
+  },
+  {
+    "name": "spectrummasters",
+    "total": 2066,
+    "substantive": 1837,
+    "substantive_pct": 88.9,
+    "avg_length": 190,
+    "reactions": 1348,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 243,
+      "recording_general": 111,
+      "production_general": 86,
+      "gear_hardware": 82,
+      "creative_philosophy": 62
+    }
+  },
+  {
+    "name": "Josh",
+    "total": 2069,
+    "substantive": 1794,
+    "substantive_pct": 86.7,
+    "avg_length": 102,
+    "reactions": 2365,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 151,
+      "production_general": 62,
+      "gear_hardware": 59,
+      "career_advice": 54,
+      "recording_general": 46
+    }
+  },
+  {
+    "name": "cian riordan",
+    "total": 1899,
+    "substantive": 1594,
+    "substantive_pct": 83.9,
+    "avg_length": 130,
+    "reactions": 7096,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 143,
+      "recording_general": 83,
+      "career_advice": 69,
+      "production_general": 63,
+      "file_delivery": 61
+    }
+  },
+  {
+    "name": "Rollmottle",
+    "total": 1909,
+    "substantive": 1559,
+    "substantive_pct": 81.7,
+    "avg_length": 115,
+    "reactions": 3221,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 129,
+      "recording_general": 54,
+      "gear_hardware": 49,
+      "mastering_general": 42,
+      "career_advice": 38
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 1579,
+    "substantive": 1453,
+    "substantive_pct": 92.0,
+    "avg_length": 215,
+    "reactions": 3099,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 134,
+      "recording_general": 80,
+      "gear_hardware": 73,
+      "production_general": 57,
+      "music_theory": 53
+    }
+  },
+  {
+    "name": "David Fuller",
+    "total": 1671,
+    "substantive": 1394,
+    "substantive_pct": 83.4,
+    "avg_length": 74,
+    "reactions": 1178,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 68,
+      "gear_hardware": 42,
+      "recording_general": 39,
+      "mastering_general": 31,
+      "career_advice": 25
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 1287,
+    "substantive": 1124,
+    "substantive_pct": 87.3,
+    "avg_length": 141,
+    "reactions": 3527,
+    "is_expert": true,
+    "top_topics": {
+      "production_general": 68,
+      "off_topic_fun": 66,
+      "recording_general": 62,
+      "artist_development": 52,
+      "career_advice": 47
+    }
+  },
+  {
+    "name": "Deleted User",
+    "total": 1229,
+    "substantive": 1109,
+    "substantive_pct": 90.2,
+    "avg_length": 180,
+    "reactions": 483,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 82,
+      "career_advice": 76,
+      "recording_general": 66,
+      "production_general": 60,
+      "gear_hardware": 49
+    }
+  },
+  {
+    "name": "BatMeckley",
+    "total": 1119,
+    "substantive": 1004,
+    "substantive_pct": 89.7,
+    "avg_length": 200,
+    "reactions": 4424,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 96,
+      "recording_general": 79,
+      "career_advice": 65,
+      "gear_hardware": 61,
+      "production_general": 56
+    }
+  },
+  {
+    "name": "Bryan DiMaio",
+    "total": 1190,
+    "substantive": 990,
+    "substantive_pct": 83.2,
+    "avg_length": 91,
+    "reactions": 1255,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 90,
+      "file_delivery": 38,
+      "career_advice": 35,
+      "plugin_discussion": 32,
+      "gear_hardware": 31
+    }
+  },
+  {
+    "name": "Edward Rivera",
+    "total": 1104,
+    "substantive": 946,
+    "substantive_pct": 85.7,
+    "avg_length": 100,
+    "reactions": 915,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 56,
+      "gear_hardware": 29,
+      "recording_general": 27,
+      "streaming_platforms": 24,
+      "industry_insights": 24
+    }
+  },
+  {
+    "name": "oaklandmatt",
+    "total": 912,
+    "substantive": 761,
+    "substantive_pct": 83.4,
+    "avg_length": 170,
+    "reactions": 3652,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 54,
+      "community_events": 45,
+      "production_general": 43,
+      "career_advice": 39,
+      "industry_insights": 29
+    }
+  },
+  {
+    "name": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "total": 794,
+    "substantive": 672,
+    "substantive_pct": 84.6,
+    "avg_length": 108,
+    "reactions": 537,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 69,
+      "songwriting": 28,
+      "recording_general": 27,
+      "industry_insights": 26,
+      "gear_hardware": 25
+    }
+  },
+  {
+    "name": "peterlabberton",
+    "total": 760,
+    "substantive": 671,
+    "substantive_pct": 88.3,
+    "avg_length": 194,
+    "reactions": 799,
+    "is_expert": true,
+    "top_topics": {
+      "career_advice": 54,
+      "gear_hardware": 47,
+      "off_topic_fun": 45,
+      "recording_general": 40,
+      "file_delivery": 24
+    }
+  },
+  {
+    "name": "ALXCPH",
+    "total": 768,
+    "substantive": 642,
+    "substantive_pct": 83.6,
+    "avg_length": 151,
+    "reactions": 548,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 49,
+      "daw_software": 42,
+      "plugin_discussion": 33,
+      "gear_hardware": 30,
+      "recording_general": 30
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 682,
+    "substantive": 641,
+    "substantive_pct": 94.0,
+    "avg_length": 172,
+    "reactions": 655,
+    "is_expert": true,
+    "top_topics": {
+      "recording_general": 67,
+      "off_topic_fun": 52,
+      "career_advice": 50,
+      "gear_hardware": 38,
+      "production_general": 32
+    }
+  },
+  {
+    "name": "Joel \"Roomie\" Berghult",
+    "total": 699,
+    "substantive": 636,
+    "substantive_pct": 91.0,
+    "avg_length": 160,
+    "reactions": 569,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 57,
+      "artist_development": 37,
+      "career_advice": 36,
+      "recording_general": 32,
+      "gear_hardware": 25
+    }
+  },
+  {
+    "name": "LAPhill",
+    "total": 697,
+    "substantive": 621,
+    "substantive_pct": 89.1,
+    "avg_length": 187,
+    "reactions": 1344,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 56,
+      "career_advice": 46,
+      "recording_general": 33,
+      "production_general": 29,
+      "gear_hardware": 28
+    }
+  },
+  {
+    "name": "chrissorem",
+    "total": 753,
+    "substantive": 579,
+    "substantive_pct": 76.9,
+    "avg_length": 104,
+    "reactions": 1889,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 40,
+      "recording_general": 30,
+      "gear_hardware": 24,
+      "career_advice": 21,
+      "troubleshooting": 15
+    }
+  },
+  {
+    "name": "Rob Domos",
+    "total": 627,
+    "substantive": 578,
+    "substantive_pct": 92.2,
+    "avg_length": 147,
+    "reactions": 1110,
+    "is_expert": true,
+    "top_topics": {
+      "gear_hardware": 28,
+      "off_topic_fun": 27,
+      "career_advice": 20,
+      "recording_general": 20,
+      "production_general": 19
+    }
+  },
+  {
+    "name": "bobby k",
+    "total": 663,
+    "substantive": 561,
+    "substantive_pct": 84.6,
+    "avg_length": 140,
+    "reactions": 2094,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 69,
+      "career_advice": 25,
+      "recording_general": 21,
+      "file_delivery": 19,
+      "production_general": 19
+    }
+  },
+  {
+    "name": "austenballard",
+    "total": 560,
+    "substantive": 498,
+    "substantive_pct": 88.9,
+    "avg_length": 149,
+    "reactions": 542,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 39,
+      "career_advice": 28,
+      "recording_general": 18,
+      "health_hearing": 18,
+      "community_events": 16
+    }
+  },
+  {
+    "name": "ehutton21",
+    "total": 554,
+    "substantive": 489,
+    "substantive_pct": 88.3,
+    "avg_length": 139,
+    "reactions": 302,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 32,
+      "gear_hardware": 27,
+      "plugin_discussion": 25,
+      "recording_general": 23,
+      "daw_software": 20
+    }
+  },
+  {
+    "name": "Ross Fortune",
+    "total": 549,
+    "substantive": 488,
+    "substantive_pct": 88.9,
+    "avg_length": 165,
+    "reactions": 1055,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 35,
+      "recording_general": 31,
+      "production_general": 28,
+      "career_advice": 24,
+      "troubleshooting": 20
+    }
+  },
+  {
+    "name": "Eric Martin",
+    "total": 509,
+    "substantive": 470,
+    "substantive_pct": 92.3,
+    "avg_length": 142,
+    "reactions": 469,
+    "is_expert": true,
+    "top_topics": {
+      "gear_hardware": 34,
+      "mastering_general": 27,
+      "recording_general": 25,
+      "off_topic_fun": 22,
+      "mixing_general": 15
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 446,
+    "substantive": 426,
+    "substantive_pct": 95.5,
+    "avg_length": 128,
+    "reactions": 491,
+    "is_expert": true,
+    "top_topics": {
+      "career_advice": 19,
+      "file_delivery": 18,
+      "creative_philosophy": 16,
+      "industry_insights": 16,
+      "gear_hardware": 14
+    }
+  },
+  {
+    "name": "popaganda.",
+    "total": 487,
+    "substantive": 408,
+    "substantive_pct": 83.8,
+    "avg_length": 113,
+    "reactions": 810,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 23,
+      "recording_general": 16,
+      "songwriting": 15,
+      "production_general": 15,
+      "gear_hardware": 13
+    }
+  },
+  {
+    "name": "Adam Thein",
+    "total": 434,
+    "substantive": 378,
+    "substantive_pct": 87.1,
+    "avg_length": 157,
+    "reactions": 582,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 32,
+      "daw_software": 19,
+      "file_delivery": 18,
+      "recording_general": 18,
+      "production_general": 17
+    }
+  },
+  {
+    "name": "Zakhiggins",
+    "total": 385,
+    "substantive": 352,
+    "substantive_pct": 91.4,
+    "avg_length": 170,
+    "reactions": 533,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 46,
+      "career_advice": 26,
+      "production_general": 13,
+      "creative_philosophy": 13,
+      "gear_hardware": 12
+    }
+  },
+  {
+    "name": "Maxim",
+    "total": 374,
+    "substantive": 329,
+    "substantive_pct": 88.0,
+    "avg_length": 94,
+    "reactions": 188,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 22,
+      "daw_software": 16,
+      "plugin_discussion": 15,
+      "file_delivery": 13,
+      "mixing_general": 7
+    }
+  },
+  {
+    "name": "Jeremy Klein",
+    "total": 342,
+    "substantive": 319,
+    "substantive_pct": 93.3,
+    "avg_length": 152,
+    "reactions": 213,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 33,
+      "daw_software": 28,
+      "plugin_discussion": 25,
+      "file_delivery": 21,
+      "gear_hardware": 18
+    }
+  },
+  {
+    "name": "Zach Hughes",
+    "total": 330,
+    "substantive": 304,
+    "substantive_pct": 92.1,
+    "avg_length": 233,
+    "reactions": 313,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 38,
+      "industry_insights": 23,
+      "career_advice": 19,
+      "production_general": 18,
+      "artist_development": 17
+    }
+  },
+  {
+    "name": "masteredbyjack",
+    "total": 280,
+    "substantive": 258,
+    "substantive_pct": 92.1,
+    "avg_length": 216,
+    "reactions": 337,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_general": 27,
+      "off_topic_fun": 23,
+      "file_delivery": 18,
+      "creative_philosophy": 17,
+      "learning_education": 15
+    }
+  },
+  {
+    "name": "jantrit",
+    "total": 296,
+    "substantive": 251,
+    "substantive_pct": 84.8,
+    "avg_length": 123,
+    "reactions": 225,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 28,
+      "recording_general": 9,
+      "gear_hardware": 7,
+      "career_advice": 5,
+      "acoustics_studio": 4
+    }
+  },
+  {
+    "name": "1ggy",
+    "total": 276,
+    "substantive": 217,
+    "substantive_pct": 78.6,
+    "avg_length": 68,
+    "reactions": 260,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 21,
+      "community_events": 5,
+      "production_general": 5,
+      "career_advice": 5,
+      "daw_software": 5
+    }
+  },
+  {
+    "name": "Josh Bowman",
+    "total": 236,
+    "substantive": 217,
+    "substantive_pct": 91.9,
+    "avg_length": 176,
+    "reactions": 198,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 37,
+      "career_advice": 19,
+      "recording_general": 17,
+      "gear_hardware": 13,
+      "plugin_discussion": 10
+    }
+  },
+  {
+    "name": "hendrick",
+    "total": 274,
+    "substantive": 213,
+    "substantive_pct": 77.7,
+    "avg_length": 81,
+    "reactions": 180,
+    "is_expert": false,
+    "top_topics": {
+      "recording_general": 13,
+      "off_topic_fun": 12,
+      "career_advice": 7,
+      "mixing_general": 4,
+      "daw_software": 4
+    }
+  },
+  {
+    "name": "SoundsLikeJoe",
+    "total": 238,
+    "substantive": 211,
+    "substantive_pct": 88.7,
+    "avg_length": 234,
+    "reactions": 225,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 29,
+      "troubleshooting": 19,
+      "recording_general": 17,
+      "career_advice": 16,
+      "production_general": 15
+    }
+  },
+  {
+    "name": "Felix Byrne",
+    "total": 278,
+    "substantive": 200,
+    "substantive_pct": 71.9,
+    "avg_length": 60,
+    "reactions": 319,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 18,
+      "file_delivery": 11,
+      "recording_general": 6,
+      "daw_software": 5,
+      "production_general": 5
+    }
+  },
+  {
+    "name": "Berlin",
+    "total": 291,
+    "substantive": 196,
+    "substantive_pct": 67.4,
+    "avg_length": 91,
+    "reactions": 401,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_general": 10,
+      "file_delivery": 9,
+      "off_topic_fun": 8,
+      "career_advice": 8,
+      "production_general": 6
+    }
+  },
+  {
+    "name": "itaylerner",
+    "total": 194,
+    "substantive": 183,
+    "substantive_pct": 94.3,
+    "avg_length": 180,
+    "reactions": 250,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 29,
+      "recording_general": 10,
+      "career_advice": 10,
+      "community_events": 10,
+      "creative_philosophy": 8
+    }
+  },
+  {
+    "name": "shaunobi",
+    "total": 190,
+    "substantive": 178,
+    "substantive_pct": 93.7,
+    "avg_length": 223,
+    "reactions": 126,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 21,
+      "plugin_discussion": 18,
+      "recording_general": 17,
+      "daw_software": 16,
+      "gear_hardware": 13
+    }
+  },
+  {
+    "name": "Edsel Holden",
+    "total": 206,
+    "substantive": 174,
+    "substantive_pct": 84.5,
+    "avg_length": 114,
+    "reactions": 103,
+    "is_expert": true,
+    "top_topics": {
+      "off_topic_fun": 17,
+      "file_delivery": 14,
+      "recording_general": 8,
+      "mastering_general": 7,
+      "gear_hardware": 5
+    }
+  },
+  {
+    "name": "OJ",
+    "total": 234,
+    "substantive": 172,
+    "substantive_pct": 73.5,
+    "avg_length": 93,
+    "reactions": 11,
+    "is_expert": false,
+    "top_topics": {
+      "career_advice": 18,
+      "off_topic_fun": 14,
+      "mastering_general": 14,
+      "production_general": 9,
+      "artist_development": 8
+    }
+  },
+  {
+    "name": "Iwan Morgan",
+    "total": 181,
+    "substantive": 169,
+    "substantive_pct": 93.4,
+    "avg_length": 162,
+    "reactions": 197,
+    "is_expert": false,
+    "top_topics": {
+      "recording_general": 14,
+      "plugin_discussion": 10,
+      "gear_hardware": 10,
+      "mixing_general": 10,
+      "mastering_general": 9
+    }
+  },
+  {
+    "name": "youngteam",
+    "total": 192,
+    "substantive": 166,
+    "substantive_pct": 86.5,
+    "avg_length": 104,
+    "reactions": 250,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 12,
+      "creative_philosophy": 9,
+      "gear_hardware": 4,
+      "file_delivery": 4,
+      "production_general": 4
+    }
+  },
+  {
+    "name": "cy (sigh)",
+    "total": 178,
+    "substantive": 165,
+    "substantive_pct": 92.7,
+    "avg_length": 217,
+    "reactions": 130,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 22,
+      "production_general": 12,
+      "career_advice": 11,
+      "community_events": 8,
+      "recording_general": 6
+    }
+  },
+  {
+    "name": "gatewoodsensei",
+    "total": 182,
+    "substantive": 165,
+    "substantive_pct": 90.7,
+    "avg_length": 138,
+    "reactions": 285,
+    "is_expert": false,
+    "top_topics": {
+      "off_topic_fun": 27,
+      "recording_general": 5,
+      "artist_development": 5,
+      "songwriting": 4,
+      "career_advice": 4
+    }
+  }
+]

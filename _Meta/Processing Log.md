@@ -951,6 +951,118 @@ For each channel processed, record:
 
 ---
 
+### #general-talk
+
+- **Channel:** #general-talk (Community category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-19
+- **Date range:** February 2021 – February 2026
+- **Messages:** 52,236 raw → ~43,882 substantive (>20 chars, non-bot, non-GIF/emoji-only) → ~15,836 keyword-categorized (36.1% rate)
+- **Unique authors:** 500
+- **Pinned messages:** 19
+- **Q&A pairs extracted:** 5,191 (questions paired with verified expert answers)
+- **Expert substantive messages:** 30,385 (69% of substantive — highest expert dominance of any channel)
+- **Resources extracted:** 2,159 (450 YouTube, 670 links, 723 images, 92 Spotify, 182 social)
+- **Peak activity:** 2023 (20,477 messages)
+
+**Category Message Counts (Tier 1 — Existing Vault Domains):**
+| Category | Messages | Expert |
+|----------|----------|--------|
+| Recording (General) | 1,892 | 1,226 |
+| Gear & Hardware | 1,652 | 1,110 |
+| Production (General) | 1,341 | 870 |
+| File & Delivery | 1,054 | 675 |
+| Mastering (General) | 1,022 | 715 |
+| DAW & Software | 942 | 543 |
+| Troubleshooting | 873 | 599 |
+| Plugin Discussion | 836 | 475 |
+| Songwriting | 669 | 431 |
+| Music Theory | 666 | 464 |
+| Mixing (General) | 638 | 360 |
+| Monitoring & Listening | 245 | 162 |
+| Signal Flow | 236 | 150 |
+| Atmos & Immersive | 184 | 125 |
+| Acoustics & Studio | 126 | 78 |
+
+**Category Message Counts (Tier 2 — New Domains):**
+| Category | Messages | Expert |
+|----------|----------|--------|
+| Off-Topic & Fun | 3,446 | 2,242 |
+| Career Advice | 1,652 | 1,070 |
+| Industry Insights | 796 | 512 |
+| Artist Development | 758 | 478 |
+| Community Events | 697 | 446 |
+| Learning & Education | 486 | 316 |
+| Mental Health | 458 | 302 |
+| Networking & Relationships | 260 | 182 |
+| Studio Building | 203 | 133 |
+| Remote Collaboration | 94 | 43 |
+
+**Category Message Counts (Tier 3 — Enrichment Catch-alls):**
+| Category | Messages | Expert |
+|----------|----------|--------|
+| Creative Philosophy | 925 | 601 |
+| Health & Hearing | 837 | 541 |
+| Streaming & Platforms | 583 | 343 |
+| Specific Gear Mentions | 252 | 190 |
+| Matt Rad References | 210 | 117 |
+
+**Pages created (6 community + 2 business):**
+- [[Mental Health in Music Production]] — burnout, imposter syndrome, perfectionism, emotional resilience
+- [[Career Development for Audio Professionals]] — going full-time, freelancing, internships, education
+- [[Learning Resources and Education]] — courses, YouTube, mentorship, community learning
+- [[Community Events and Initiatives]] — server milestones, mastering competitions, community profiles
+- [[Hearing Health and Studio Ergonomics]] — hearing protection, tinnitus, posture, physical wellness
+- [[Artist Development and Growth]] — finding your sound, social media, creative identity
+- [[Industry Trends and Insights]] — AI in music, streaming dynamics, Grammy culture
+- [[Remote Collaboration Tools and Workflows]] — Audiomovers, Source-Connect, file sharing
+
+**Pages enriched (10):**
+- [[Advanced Mixing Techniques]] — general-talk mixing philosophy source block
+- [[Compression Techniques]] — general-talk source block
+- [[Vocal Mixing]] — general-talk source block
+- [[Music Business Pricing and Rates]] — career & pricing context from general-talk
+- [[Marketing and Networking for Engineers]] — networking strategies from general-talk
+- [[Client Relations and Project Management]] — client management context
+- [[Session Mindset and Engineering Philosophy]] — philosophy and engineering perspective
+- [[Creative Process and Songwriting Practice]] — creative philosophy context
+- [[Getting Started with Music Production]] — career & learning advice
+- [[Contributors]] — #general-talk contributor tables (top 20, community overview)
+
+**MOC created:** [[Community]] — new Map of Content for all community, career, and mental health pages
+
+**MOCs updated:** [[Business]] — added Industry Trends and Remote Collaboration links
+
+**Source pages created:**
+- [[general-talk Channel Summary]] — full channel statistics, expert table, category breakdown
+- [[External Resources from general-talk]] — 2,159 resources organized by type (YouTube, articles, Spotify, images)
+
+**Channel summary:** [[general-talk Channel Summary]]
+
+**Identified experts:**
+- **Nomograph Mastering** (5,484 substantive, 84%) — Career advice, gear, creative philosophy, mastering, industry — most active in channel
+- **hyanrarvey** (2,511 substantive, 61%) — Social engagement, plugin discussion, DAW software
+- **spectrummasters** (1,837 substantive, 89%) — Recording, production, creative philosophy — highest average message length
+- **cian riordan** (1,594 substantive, 84%) — Recording, career advice, creative philosophy — highest reactions (7,096)
+- **Slow Hand** (1,453 substantive, 92%) — Recording, gear, creative philosophy — longest messages (215 avg chars)
+- **NoahNeedleman** (1,124 substantive, 87%) — Production, recording, creative philosophy
+- **BatMeckley** (1,004 substantive, 90%) — Recording, career advice, creative philosophy — highest reactions per message
+- **bobby k** (876 substantive, 88%) — Career advice, production, creative philosophy
+- **oaklandmatt** (520 substantive, 91%) — Career advice, community events, industry — server founder, highest-reacted posts
+
+**Notes:**
+- This is the **largest channel processed** (52,236 messages) and the broadest in topic coverage
+- #general-talk has the highest expert message ratio (69%) — the experts are the most active community members
+- The 36.1% categorization rate reflects the conversational nature — many messages are contextual replies, greetings, and social bonding that don't contain topic keywords
+- Created a new **Community domain** with its own MOC and 6 topic pages — the first non-technical domain in the vault
+- 2,159 resources extracted — the richest resource channel processed (450 YouTube, 670 links, 723 images)
+- 5,191 Q&A pairs extracted — the highest of any channel, though many are conversational rather than technical
+- oaklandmatt's gratitude posts consistently receive the highest reactions (171, 143, 131, 93, 92) — reflecting community cohesion
+- The channel's 2023 spike (20,477 messages — 4x the 2022 volume) coincides with the server reaching critical mass
+- Activity by year: 2021: 3,730 | 2022: 4,975 | 2023: 20,477 | 2024: 13,351 | 2025: 8,489 | 2026: 1,214
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -971,3 +1083,4 @@ For each channel processed, record:
 | #mastering-talk | Apr 2022 – Feb 2026 | 22,909 | ~19,806 (~6,466 categorized) | 4 (+2 glossary) | 0 |
 | #production-talk | Jan 2022 – Feb 2026 | 12,074 | ~10,823 (~4,578 categorized) | 5 | 0 |
 | #songwriting-talk | Apr 2021 – Feb 2026 | 1,933 | ~1,781 (~879 categorized) | 3 | 0 |
+| #general-talk | Feb 2021 – Feb 2026 | 52,236 | ~43,882 (~15,836 categorized, 5,191 Q&A pairs, 2,159 resources) | 8 (+1 MOC) | 0 |

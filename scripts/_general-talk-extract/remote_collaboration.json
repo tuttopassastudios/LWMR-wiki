@@ -1,0 +1,942 @@
+[
+  {
+    "id": "1229504605126131884",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-15",
+    "content": "Ah! The tape splice is why I don\u2019t like The Beach Boys",
+    "reactions": 10,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1229806076707213333",
+    "author": "Rob Domos",
+    "date": "2024-04-16",
+    "content": "Also think about turnaround times. You work on 15+ songs a day as an ME, you hear aberrant clicks and pops in *nearly every single one of them* \n\nWith asking the person who sent you the files to do it, you spend your whole day emailing and managing files. It takes longer to open gmail than it does to zap the click. \n\nAnd think of the logical conclusion of asking the mixing engineer to fix the edit. They don\u2019t have the edit, they have the comp. So then if you extend the logic they have to hit up the producer, and MAYBE the producer has to hit up the recording engineer if you really wanna \u201cget to the source\u201d. It\u2019s like the meme of the producer who didn\u2019t want to use splice because it was cheating and ended up farming sheep to get skin to make his own drumheads. Just do the fucking work. There\u2019s no time to email back and forth about things that can be fixed immediately",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1081028618764955690",
+    "author": "youngteam",
+    "date": "2023-03-02",
+    "content": "\"If you want to reenact the dynamics processing effect formerly found on Splice previews... Set the compressor\u2019s threshold to -24 dB and set the ratio to 12:1.\"",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1309168325103976479",
+    "author": "Iwan Morgan",
+    "date": "2024-11-21",
+    "content": "I\u2019ve just finished a 5 hour mix revision session using Muse. I much prefer it to Audiomovers +Zoom. Nice to have it all in one app and was solid, so thanks so much for the tip.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1027290312835596298",
+    "author": "kylem",
+    "date": "2022-10-05",
+    "content": "I usually really try to push people to zoom. Screen share / audiomovers. I had a kid recently, and our house is...kiddy",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1078069732760105040",
+    "author": "LAPhill",
+    "date": "2023-02-22",
+    "content": "What about teaching them about sampling? They'd learn a lot about tech without being dependent on sources like Splice, they'd learn about recording, editing audio, what makes something musically compelling",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1171857838210027550",
+    "author": "stefanmacc",
+    "date": "2023-11-08",
+    "content": "Anyone else get super annoyed when a program you use consistently just decides to update its UI randomly\u2026 and now you feel like you\u2019ve been tricked. Aka splice \u2026or Dropbox yesterday lol",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1428812327112933446",
+    "author": "cian riordan",
+    "date": "2025-10-17",
+    "content": "The sanest way I\u2019ve found is have audiomovers and everyone listening on headphones. Then have zoom or FaceTime in addition. I\u2019ll have the conversation audio come out of my displays speakers and use open backed headphones so I can hear the mix and the clients and nobody is getting the feed from my speakers.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1052679928451186829",
+    "author": "Deleted User",
+    "date": "2022-12-14",
+    "content": "Splice kind of sucks for this reason. All the samples are clipped or limited to death. So many samples are just unusable for that reason. There's loudness war on the samples too",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1071239826491326474",
+    "author": "Josh",
+    "date": "2023-02-03",
+    "content": "So I got a note saying \u201cjust make these sound like the first song\u201d. And I ended up spending four hours chasing drum sounds. When I finally reached my wits end I opened the first song\u2019s session and remembered that when he said \u201cI want the drums to sounds like travis barker produced them\u201d I immediately opened splice and just layered in his sample pack for shits and giggles (and because I really don\u2019t like super squashed drums) and they cleared the song immediately. \n\nTLDR: I chased sounds for four hours because I forgot I did some dumb shit that ended up sounding great lmao.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1125153659714551921",
+    "author": "LAPhill",
+    "date": "2023-07-02",
+    "content": "Jumping in way late to this conversation, but some thoughts:\n\nI'm broadly on board with @Rollmottle 's sentiments that no one is owed anything, especially in this line of work. That said, all music industry professionals, from mastering engineers to songwriters to musicians, increasingly are in a place where they need to prove why they're worth a premium cost. Premium is no longer newbie engineer vs. Serban, it's free plugins (or the artist's friend with a laptop full of cracked software) vs someone with reps at all. Maybe right now, the \"premium\" cost of engineering is minimum wage, but that is sadly still much more expensive than slapping CLA vocal and Ozone on your track with well-produced Splice loops. So why is your service worth more than that? It's an honest question that we all face.\n\nI believe in the value of educating a client in why what we do costs what it does, but I'm not going to lose sleep over someone that can't see it. I see a ton of up-and-comers over valuing their worth and losing out on gigs because they don't understand how far they have to go. Engineers are often just as guilty at overvaluing themselves as artists are at undervaluing them. \n\nThe one thing that does seem to still hold true in 2023 is that people that are doing consistently good work keep getting hired. And track records of reliability, decent (not even great!) work, and some credits that someone's heard of are all things to point to when talking about price. @Deleted User made a point of someone wanting him, but not seeing his value, and that's a particularly tough spot. Sometimes, you've just got to walk away from those people, as good as it feels to be in demand by someone.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1237054636083646495",
+    "author": "satishkumar.26c",
+    "date": "2024-05-06",
+    "content": "Oliver and Mixready dropped a new splice pack..",
+    "reactions": 3,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274416677269934243",
+    "author": "Chad Rodgers",
+    "date": "2024-08-17",
+    "content": "I just wrapped up a remote mix session via Muse (https://www.musesessions.co/) rather than Audiomovers, and I found it much more intuitive and simple to use for real-time stuff. I also liked its inbuilt video call + screenshare functionality, negating the need for Zoom. Not totally dug into it yet, but my client loved it. Free on the basic plan too.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1300220877593509970",
+    "author": "oaklandmatt",
+    "date": "2024-10-27",
+    "content": "I have no opinion on what would increase her salary, but UCLA has a Masters and PhD in ethnomusicology. I know a number of people there when I was an undergrad and I took some classes (as a non major). It's one of the most fascinating and engaging music programs I know about. \n\nThat plus a splice account and ableton and she'll have all the experience and education she needs",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "821330840784601118",
+    "author": "antoniohannamusic",
+    "date": "2021-03-16",
+    "content": "Session templates are here: https://www.dropbox.com/s/w01vr6qfy6k2krq/AudioMovers%20-%20Session%20Templates.zip?dl=0",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052388962855030835",
+    "author": "frankieharper",
+    "date": "2022-12-13",
+    "content": "I\u2019ve noticed Splice is 1000db louder than anything I\u2019ve ever heard in my entire life, maybe it\u2019s something to do with that? \n\nFor real though, Ive not noticed what your speaking about \ud83e\udd14",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052674249753632890",
+    "author": "Jodonny",
+    "date": "2022-12-14",
+    "content": "I don't usually use Splice for drums, but I'm definitely going to be extra hesitant to browse for one shots there in the future because I don't want that influencing my choice of sounds.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1077916038362038322",
+    "author": "OJ",
+    "date": "2023-02-22",
+    "content": "got invited to my first zoom session today, should be interesting",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1081030612669956207",
+    "author": "Slow Hand",
+    "date": "2023-03-02",
+    "content": "Is it possible that we've got Splice to partly blame for a generation of blown-out EDM records?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1081682053524901988",
+    "author": "hyanrarvey",
+    "date": "2023-03-04",
+    "content": "Nah just use audiomovers",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153752968798142535",
+    "author": "Adam Thein",
+    "date": "2023-09-19",
+    "content": "If you name the listento session, the link stays steady between files",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1428819109814206646",
+    "author": "Bryan DiMaio",
+    "date": "2025-10-17",
+    "content": "I haven't had any cpu issues with audiomovers",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1465859119226421278",
+    "author": "Skyler Young",
+    "date": "2026-01-27",
+    "content": "My bet is on a larger hardware company scooping them up. InMusic, Gibson, fender, mayyyybe ua, splice or Ableton could. But no smaller plug-in companies have the infrastructure to absorb ni or izotope.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "816173161414393916",
+    "author": "Josh",
+    "date": "2021-03-01",
+    "content": "Just wanted to let everyone know that since we're still stuck inside, Landr sessions completely destroys zoom and audiomovers for remote co-writes.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "821317131966218240",
+    "author": "antoniohannamusic",
+    "date": "2021-03-16",
+    "content": "Hey all, for anyone using #Audiomovers are you using it only one way or to receive and send audio too? I have a workflow that allows an artist to simply play along / sing with my session and I'm recording it directly into pro-tools, in realtime. Happy to elaborate if anyones interested? @oaklandmatt you mentioned doing writing over zoom, I think this could be something you'd be interested in!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "942443942945906778",
+    "author": "Maxim",
+    "date": "2022-02-13",
+    "content": "Things like Splice have made it easier for me in that regard though",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052455886704095304",
+    "author": "Deleted User",
+    "date": "2022-12-13",
+    "content": "I audition splice samples with volume at 60%",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052665602499682405",
+    "author": "Jodonny",
+    "date": "2022-12-14",
+    "content": "So here's the issue with samples from Splice. I'm not crazy. The downloaded sample's transient sounds completely different than the Splice browser. No fades, no plugins whatsoever. It's not an Ableton thing because it sounds the same in Quicktime.",
+    "reactions": 1,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052673263609847848",
+    "author": "Jodonny",
+    "date": "2022-12-14",
+    "content": "I figured it out. Splice uses a MP3 conversion in their browser previews (which creates an artifact before the sample) and then uses a limiter and normalization to keep sample volumes consistent when browsing (which brings up the volume of the artifact).",
+    "reactions": 1,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1062165057405980722",
+    "author": "Jeremy Klein",
+    "date": "2023-01-09",
+    "content": "yeah. i was showing a client a mix over zoom + audiomovers and a ton of my plugins got disabled right before i hit play",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1081028323251077272",
+    "author": "youngteam",
+    "date": "2023-03-02",
+    "content": "not sure if people have seen this yet but I'm rolling at how bad this is https://twitter.com/splice/status/1631349927488937985",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1081030683956363304",
+    "author": "youngteam",
+    "date": "2023-03-02",
+    "content": "nahh that was pre splice",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1144404097605312643",
+    "author": "Josh",
+    "date": "2023-08-24",
+    "content": "I just think that when people force shit it\u2019s painfully obvious and people won\u2019t relate or become fans ya know? So it\u2019s cool we\u2019re making progress. Still a bit of a battle with what other people want out of him but we\u2019ll figure it out.\n\nAlso thank you for the kind words! I\u2019m trying my best. We\u2019re also working remotely so it often feels more like DAW lessons at times but he\u2019s gonna be a great engineer one day!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1229504828133347499",
+    "author": "David Fuller",
+    "date": "2024-04-15",
+    "content": "Good Vibrations? More like Bad Splicebrations.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1354549970304237678",
+    "author": "Jeremy Klein",
+    "date": "2025-03-26",
+    "content": "in the early days of Splice, it seemed like kshmr vol 1, and this pack was all that was on the site https://splice.com/sounds/packs/blastwave-fx/bw-daycare/samples",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "816365098376495144",
+    "author": "cian riordan",
+    "date": "2021-03-02",
+    "content": "Damn, just checked this out. Looks amazing. I've been using audiomovers for mix revision sessions but this looks like it could take it up a step. Thanks for the tip!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "827276261378097172",
+    "author": "Josh",
+    "date": "2021-04-01",
+    "content": "Just keep in mind that suggestions are suggestions. Especially with gear and plugins. I use the stock Cubase dynamic eq more than the fabfilter. I also use the slate Infiniti EQ more than anything else because it\u2019s fantastic. I use Ozone for most of processing because it\u2019s just simple and I learned it really well. Just figure out what you like and what works for you. You can demo all of these things, splice doesn\u2019t rent to own. Just don\u2019t blindly buy $300 plugins because there\u2019s a good choice you won\u2019t use them. (This is also being said to my younger self haha)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "831194339660267551",
+    "author": "Zakhiggins",
+    "date": "2021-04-12",
+    "content": "Any good places to find live drum samples other than splice?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "852143302438420530",
+    "author": "dylannash",
+    "date": "2021-06-09",
+    "content": "Yo! Where's everyone getting their drum samples these days? @oaklandmatt what was the result of your instagram poll about splice vs reddit vs private packs?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "877667828705136641",
+    "author": "Slow Hand",
+    "date": "2021-08-18",
+    "content": "The Fiery Furnaces did a really neat live album a decade ago where they spliced together all of their live performances into a full album. Now many bands do that already, but they combined multiple takes for each *song.*  They'd take the chorus from Night 1 and splice it onto the second verse of night 4 and then do the outro from Night 7. The cool part was that the recordings, rooms, and audience are drastically different, so you end up with lots of cool sonic shifts on the downbeats of each section in the songs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "881903610521341993",
+    "author": "Josh",
+    "date": "2021-08-30",
+    "content": "Also in your splice settings you can switch it over to your external, aaaaand you can do the same with your Dropbox client.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1027293830891978872",
+    "author": "peterlabberton",
+    "date": "2022-10-05",
+    "content": "Totally\u2014yeah I guess I was curious if y\u2019all have a line (or a \u201cpolicy\u201d) or something. \u201cI do remote sessions with first time clients\u201d to make it not personal or something.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1052377411196571748",
+    "author": "Jodonny",
+    "date": "2022-12-13",
+    "content": "Has anyone noticed that samples sound different in the Splice app/web browser vs when downloaded? I mainly use Splice for one-off sounds like congas right now, and the transient is wildly different than when downloaded. Tested it out in Quicktime and Ableton w/ no plugins or fades. No Splice Bridge affecting it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052680776510095380",
+    "author": "Jodonny",
+    "date": "2022-12-14",
+    "content": "Splice isn't putting limiting and normalization on the downloaded files, you're hearing what the producer intended there. The browser is crazy loud because they've normalized all the samples up to near 0db to be as loud as possible. Try using the \"normalization\" feature in Logic's output and it'll make sense.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052682274149253192",
+    "author": "Jodonny",
+    "date": "2022-12-14",
+    "content": "But my point is every pack/producer's samples are different, it's not just a Splice thing (and I'm here talking about how I don't want to use Splice...). Some people like that clipped sound. If you don't like it you can find other packs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1052682373600399462",
+    "author": "hyanrarvey",
+    "date": "2022-12-14",
+    "content": "Splice does have you normalize though",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1052682713561301053",
+    "author": "Deleted User",
+    "date": "2022-12-14",
+    "content": "I still use splice, almost exclusively for sample searching. But it just takes an extra step of vetting samples that are open with transient intact. OR I really like the sound of the sample itself but it's too crushed that I can't use it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1081032826234867752",
+    "author": "youngteam",
+    "date": "2023-03-02",
+    "content": "-24 at 12:1 tells us there was a metric fuck load of gain reduction on the vast majority of samples you could listen to on splice",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1084874912835051591",
+    "author": "mixedbywong_my",
+    "date": "2023-03-13",
+    "content": "Also sidenote ... the headphone out/dac out of the m1 pro laptop.... wow . pretty tight for a laptop. there's actually quite good soundstaging and headroom when used with my sennheiser HD650 cans. working remotely as my wife is at a postpartum care centre for 28days .",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1086777827686367312",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-18",
+    "content": "Or as I said on another day \u201cIf you can use splice to make my ass move then respect\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1089955880272920627",
+    "author": "Jeremy Klein",
+    "date": "2023-03-27",
+    "content": "my absolute DREAM would be to have basically a version of Splice completely AI powered. \"Give me a melancholic mandolin loop in Am that sounds like it was recorded in 1930\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1089970168433741875",
+    "author": "LAPhill",
+    "date": "2023-03-27",
+    "content": "Not exactly my point. AI is going to take awhile to replace various aspects of what we do. So creators can drive where THEY see value, in hopes of steering the tech. If everyone here hates timing drums, and an AI can come along to do it while maintaining groove and feel, perfect transients, etc., that saves time and is worth something.\n\nWhether or not that's more valuable to the tech company than offering 50,000 bedroom producers the tools to make \"pro-sounding\" beats easier than with Splice.... probably not.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1105991673202348233",
+    "author": "Rob Domos",
+    "date": "2023-05-10",
+    "content": "It gets better. He said he stopped turning it off when clients were telling him the export didn\u2019t sound the same as the audiomovers/listento session",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1109302531810664508",
+    "author": "OJ",
+    "date": "2023-05-19",
+    "content": "Anyone know some good marketers who work for companies like splice or cymatics?\n\nsay im launching a sample pack / music production company and i want to hire some people to create targeted ads on instagram, facebook etc etc.... we have visuals sorted just need someone whos good at making targeted ads with experience in this world",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1125094596347691038",
+    "author": "austenballard",
+    "date": "2023-07-02",
+    "content": "The only person with any leverage in the music pipeline is the one who\u2019s got something undeniable to offer to the audience. Usually an artist. They can literally make a hit song in BandLab for free and get it on streaming for free. Much of the studio and record label infrastructure that has evolved to support that is increasingly anachronistic",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1125162406679683132",
+    "author": "Maxim",
+    "date": "2023-07-02",
+    "content": "Splice and similar companies",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1125163006439985234",
+    "author": "LAPhill",
+    "date": "2023-07-02",
+    "content": "Anyone have metrics on what people that create Splice packs are making?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1127657844855029801",
+    "author": "Deleted User",
+    "date": "2023-07-09",
+    "content": "Unfortunately no, even though good portion of what I do is vocal production. One of my favorite part of the process is making them sound their best they can. It\u2019s often not an option working remotely",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1141425923674095828",
+    "author": "Adam Thein",
+    "date": "2023-08-16",
+    "content": "Is anyone else having issues with Audiomovers right now?\n\nEdit: cancel that, seems to have connected",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1141447064228732959",
+    "author": "Adam Thein",
+    "date": "2023-08-16",
+    "content": "my bad!  was trying to set up a remote session and it wouldn't connect, Elon Musk's X doesnt' allow me to check the Audiomovers twitter quickly to see if there's a status update",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1146107956040044544",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2023-08-29",
+    "content": "just tried the splice AI thing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1146108010721185955",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2023-08-29",
+    "content": "save to say we don't have to worry about splice taking our jobs (yet)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1153752721711693904",
+    "author": "peterlabberton",
+    "date": "2023-09-19",
+    "content": "Two part question: 1) what do peeps use other than audiomovers to stream DAW audio? I think @Zack Hames has mentioned it in the past. 2) would that (or any other service) allow you to just stream the main outputs or otherwise prevent me from having to send a link for each individual song (PT session)?\n\nMainly just trying to find a way that if I\u2019m going over stuff remotely for a large batch of songs I don\u2019t have to switch between a thousand links/client doesn\u2019t need to fuss with all that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153755411648884847",
+    "author": "cian riordan",
+    "date": "2023-09-19",
+    "content": "I had been using Landr for a long time but it just shit the bed on a high stakes session recently and had to quickly resort back to audiomovers\u2026 and I\u2019m glad. It handles the audio part much better and has more functionality for listening on my phone speaker or AirPods mid-session.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153757303942688768",
+    "author": "Edward Rivera",
+    "date": "2023-09-19",
+    "content": "I alternate between this and audiomovers",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153759270853161021",
+    "author": "Zack Hames",
+    "date": "2023-09-19",
+    "content": "Just read what @cianriordan said - I haven\u2019t used it lately so if audiomovers has improved then that\u2019s the move",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153771455440498828",
+    "author": "kylem",
+    "date": "2023-09-19",
+    "content": "When audiomovers isn\u2019t working I use Loopback and route it straight to zoom. Not perfect, but works in a pinch",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1204172936836153455",
+    "author": "Edsel Holden",
+    "date": "2024-02-05",
+    "content": "What are folks using for remote collaboration lately? I used to use audiomovers and it *used* to be simple... wow they ruined it with their update - is there another good way to stream a session to someone ? Yes, I live in the dark ages",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1204191600067092550",
+    "author": "Edsel Holden",
+    "date": "2024-02-05",
+    "content": "I used to be up and running within 3 minutes but now it requires quite a bit of logging in and authorizing. In addition, they no longer let you pay month to month. Year only. I am not going to pay $99 to stream one session, but I would pay $10 to stream for a few days. A great example of really missing what their customers needs actually are haha.. \n\nI did end up using audiomovers today, and it sounded great - but dang they really try to get you with the year payment only options.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1204193940266557500",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-02-05",
+    "content": "I just use new emails to get another trial when jsing audiomovers \nI need it for a couple sessions a month max \nI\u2019ve also had quite my share of the audio bugging out on the other side as well",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1209140120847130636",
+    "author": "Adam Thein",
+    "date": "2024-02-19",
+    "content": "Waves Stream on the horizon - listento competitor it seems",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1229498264034869258",
+    "author": "David Fuller",
+    "date": "2024-04-15",
+    "content": "Like the squeaky kick pedal on Since I've Been Lovin You or the really unsubtle tape splice in Good Vibrations",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1229856558335397918",
+    "author": "Deleted User",
+    "date": "2024-04-16",
+    "content": "Never use swipe comps. That\u2019s also my pet peeve. They are terrible. I use track alternatives instead, which is more like Protools Playlist\n\nIt\u2019s easy to fix though, there is an option to convert the swipe comp into spliced audio clips instead",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1230860990913187951",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-04-19",
+    "content": "it sounds like she's singing over splice loops",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1231033172267896832",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-04-19",
+    "content": "I'm doing the \"real vocals\" with Splice vocal clips and man oh man everything is processed so hard in the splice stuff, the AI vocals sound better pretty much always",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1232044191035424849",
+    "author": "oaklandmatt",
+    "date": "2024-04-22",
+    "content": "Just bumping this again since I'm not sure where else to ask it:\n\nLooking to help a producer rent gear in Belfast for a remote recording gig. Any of the great Irish discord contingent have any leads?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263192496251338955",
+    "author": "Gazing Wrmth | Mixes & Masters",
+    "date": "2024-07-17",
+    "content": "Found this Open Source Alternative for Audiomovers!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263198133882716264",
+    "author": "cian riordan",
+    "date": "2024-07-17",
+    "content": "Wow! This is very slick. Just did a quick test and way snappier than Audiomovers -- makes sense given it requires you to download an app instead of using a browser. Excited to dig into this...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263864806386040973",
+    "author": "Robin.Z.V",
+    "date": "2024-07-19",
+    "content": "We discussed audiomovers alternatives and I saw this come up\n\nhttps://www.jacktrip.com/?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274425486730199092",
+    "author": "Nick Stetina",
+    "date": "2024-08-17",
+    "content": "Definitely gonna check this out as I\u2019m in the ListenTo+FaceTime/Zoom camp. \n\nHave you tried Sessionwire?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274426878543003700",
+    "author": "Nick Stetina",
+    "date": "2024-08-17",
+    "content": "It seems every time I think \u201cI should check out Sessionwire as an all in one solution\u201d my Audiomovers annual sub payment posts again, haha. Just asked since the functionality seems comparable.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1284949508802875413",
+    "author": "spectrummasters",
+    "date": "2024-09-15",
+    "content": "a few weeks back someone posted a free alternative to audiomovers on here ....i cant remember the name of it to search the channel....can anyone remember its name please?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1284949578608807948",
+    "author": "spectrummasters",
+    "date": "2024-09-15",
+    "content": "want to check something quickly on my phone (and google search returns a sea of shady looking alternatives after the audiomovers top hit)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1305673455772893207",
+    "author": "jordanmcleod_io",
+    "date": "2024-11-11",
+    "content": "Anyone aware of a fix for iMessage screen share on Mac to **not **reduce the audio level for all other apps? Couldn't find anything online but the question has been around for years. I've got Audiomovers streaming in Chrome but it is turned down like 70% because of screen sharing. I almost blew my ears off once I exited screen share because my monitors were up so much to compensate.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1308845332049694732",
+    "author": "Chad Rodgers",
+    "date": "2024-11-20",
+    "content": "I\u2019ve only used it once or twice since then mate but it\u2019s been great. Nothing bad to say about it really. Will definitely be using it again the next time a remote session comes along as the setup is nice and straightforward \ud83d\udc4c",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1309275370721382442",
+    "author": "sethearnest",
+    "date": "2024-11-21",
+    "content": "For anyone working with higher-profile artists and/or games/TV/movies with high-security concerns, are screen/mix-sharing services a no-go? (e.g. Audiomovers, Muse, etc)? \n\nIf they are used, what sort of precaution is everyone using?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1309275978039820378",
+    "author": "Karim",
+    "date": "2024-11-21",
+    "content": "I can\u2019t speak to all of \u2018em but know some of the highest-profile artists have used Audiomovers. \n\nThey\u2019re also owned by UMG (through Abbey Road) for whatever that is worth.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1394740331487952988",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2025-07-15",
+    "content": "From my understanding, this is more aggressive than even most social media ToS - and this is in the context of a simple file sharing tool. I'm with you that people often underestimate what rights they're giving up, but this is definitely quite out there.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1406800982179840120",
+    "author": "hyanrarvey",
+    "date": "2025-08-17",
+    "content": "Imagine a file sharing service",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1425935809412071464",
+    "author": "Edsel Holden",
+    "date": "2025-10-09",
+    "content": "closing tab - im clsoing tabs mid donwload on the regular - most file sharing systmes dont mind at all",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1428553393793667103",
+    "author": "masteredbyjack",
+    "date": "2025-10-16",
+    "content": "Feels like this is where it's going, somewhat similar to what Splice et. al are now but more robust",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1428811722042638346",
+    "author": "Chase H",
+    "date": "2025-10-17",
+    "content": "What are people\u2019s favorite remote collaboration solutions for live mix notes with clients?\n\nI\u2019m moving and have some albums in the works that these clients want to finish remotely after my move and I\u2019ve never used Audio Movers or anything like that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1428834770737168486",
+    "author": "Ross Fortune",
+    "date": "2025-10-17",
+    "content": "It takes a minor bit of setting up, but if you\u2019d rather work on speakers, you can set up a channel in your daw to handle your talkback and send it down to them along with everything on audiomovers, with muteomatic to cut your mic on playback.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1463795493019582564",
+    "author": "markmaclure",
+    "date": "2026-01-21",
+    "content": "It\u2019s strange. I\u2019ve tried Ableton Analog, Serum, and white noise samples from splice and they all slightly differ in frequency response. For IRs, it\u2019s my understanding that they need white noise (same level at all frequencies), but I don\u2019t know which one is correct. I might be doing something wrong, would love to know more about this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  }
+]
