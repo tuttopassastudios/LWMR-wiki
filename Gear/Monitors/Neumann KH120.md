@@ -33,7 +33,7 @@ modified: 2026-02-17
 
 - Small room monitoring
 - Home studio primary monitors
-- Atmos/immersive audio surround channels
+- Atmos/immersive audio surround and height channels — Bryan DiMaio uses KH120s alongside KH80DSPs in his Atmos monitoring setup
 - Secondary nearfield monitors in larger studios
 
 ## Comparable Alternatives
@@ -54,6 +54,7 @@ modified: 2026-02-17
 
 - [[Neumann KH310]]
 - [[Yamaha HS Monitors]]
+- [[Atmos Monitoring and Speaker Setup]]
 
 ## Source Discussions
 
@@ -67,3 +68,8 @@ modified: 2026-02-17
 > Messages: 5
 > Date range: April 2021 – March 2022
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #🔊atmos-talk
+> Date range: July 2021 – January 2026
+> Context: KH120s appear frequently in community Atmos setups as ear-level monitors, paired with KH80DSPs or smaller Neumann models for height channels. Gerhard Westphalen emphasized the importance of matching crossover designs across speaker planes in immersive systems — using the same manufacturer/series helps avoid phase issues during spatial panning. See also: [[Atmos Monitoring and Speaker Setup]]

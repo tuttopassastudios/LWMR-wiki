@@ -84,6 +84,14 @@ modified: 2026-02-17
 
 ---
 
+## Immersive Mixing
+
+- [[Dolby Atmos and Immersive Audio]] — Atmos mixing workflow, Apple vs Dolby rendering, beds vs objects, business debate
+- [[Spatial Audio and Dolby Atmos]] — Atmos fundamentals, DAW support, delivery specs
+- [[Atmos Monitoring and Speaker Setup]] — speaker configurations for immersive mixing
+
+---
+
 ## Monitoring
 
 - [[Sonarworks SoundID]] — headphone and monitor calibration

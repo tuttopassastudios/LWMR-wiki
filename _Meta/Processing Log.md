@@ -472,6 +472,69 @@ For each channel processed, record:
 
 ---
 
+### #atmos-talk
+
+- **Channel:** #atmos-talk (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** July 2021 – January 2026
+- **Messages:** 4,539 raw → ~3,950 substantive (>20 chars, non-bot)
+- **Unique authors:** ~150+
+- **Peak activity:** 2023 (1,555 messages)
+
+**Topic page created (1):**
+- [[Atmos Monitoring and Speaker Setup]] — speaker configurations, calibration, room setup for immersive audio
+
+**Glossary entries created (4):**
+- [[ADM]], [[Dolby Atmos Renderer]], [[HRTF]], [[LFE]]
+
+**Pages enriched (14):**
+- [[Dolby Atmos and Immersive Audio]] — major expansion: Apple Spatial vs Dolby Binaural, beds vs objects (Matt Huber's 4.5 dB testing), panning volume/EQ effects, LFE philosophy, headphone-first workflow, UMG QC workarounds, Atmos mastering, business/ROI debate, Dolby undercutting freelancers; confidence upgraded to high
+- [[Spatial Audio and Dolby Atmos]] — expanded DAW support, stem delivery, binaural monitoring, calibration standards, production workflow; confidence upgraded to high
+- [[Dolby Atmos]] — glossary expansion with beds/objects, renderer role, delivery specs; confidence upgraded to medium
+- [[Binaural]] — glossary expansion with HRTF, Apple vs Dolby differences, personalized HRTF; confidence upgraded to medium
+- [[LUFS]] — added Atmos delivery spec (-18 LUFS-I, -1 dBTP); confidence upgraded to medium
+- [[Pro Tools]] — added Dolby Atmos Workflow section
+- [[Logic Pro]] — added Dolby Atmos Workflow section
+- [[Genelec Monitors]] — added Atmos monitoring context
+- [[Neumann KH120]] — added Atmos height/surround speaker context
+- [[RME]] — added UFX III / Digiface USB for Atmos I/O context
+- [[Sonarworks SoundID]] — added SoundID Multichannel for Atmos B-chain monitoring
+
+**MOCs updated:**
+- [[Signal Flow]] — expanded Spatial & Immersive Audio section with new pages
+- [[Mixing]] — added Immersive Mixing section
+- [[Acoustics]] — added Immersive Audio Monitoring section, added atmos-talk to source channels
+- [[DAWs and Software]] — added Immersive Audio / Dolby Atmos section
+
+**Channel summary:** [[atmos-talk Channel Summary]]
+
+**Identified experts:**
+- **Joe Chudyk** (joechudyk / 🗽🍕😼, ~542 messages) — Active Atmos mixer, headphone-first workflow, Apple Spatial Audio deep knowledge, Dolby AC4 codec internals
+- **Nomograph Mastering** (~672 messages) — Industry analysis, business skepticism, mastering perspective, HRTF expertise
+- **Bryan DiMaio** (~313 messages) — Hardware/interfaces, Neumann speaker setups, LFE expertise (Bob Katz quote), delivery specs
+- **Gerhard Westphalen** (~188 messages) — LFE masterclass, calibration standards, Nuendo workflow, speaker matching science
+- **Matt Huber** (~161 messages) — Bed vs object testing (4.5 dB finding), panning volume/EQ research, UMG QC navigation
+- **Josh Bowman** (~142 messages) — Budget Atmos setup documentation, Kali speakers, RME interfaces
+- **kylem** (~140 messages) — Room vs headphone debate, headphones-first rationale
+- **mjcerritos** (~104 messages) — Pro Tools Atmos workflow, LFE usage, Cardinal Points template critique
+- **Eric Martin** (~142 messages) — Room calibration, monitoring setup documentation
+- **Tristan** (~67 messages) — Codec testing, bed vs object rendering, Logic Pro workflow, positive business perspective
+- **sethearnest** (~30 messages) — Calibration standards (dB targets), early Apple metadata report
+- **aaron short** (~30 messages) — Panning "no go zones," compromise strategies for Apple/Dolby translation
+- **sethmanchester** (~20 messages) — Dolby undercutting freelancers report, channel-as-masterclass testimonial
+
+**Notes:**
+- This is the most technically specialized channel processed — focused entirely on immersive audio
+- The channel evolved from basic setup questions (2021) to sophisticated workflow optimization and industry criticism (2024–2025)
+- Matt Huber's bed vs object testing and panning research represents original community research not available in official Dolby documentation
+- Apple Spatial Audio ignoring Dolby binaural metadata was independently confirmed by multiple practitioners — this is the channel's most impactful finding
+- Late 2025 saw Dolby offering free Atmos mixes, undercutting freelance engineers — a significant moment that shifted community sentiment on the format's viability
+- sethmanchester called this channel "100% the most helpful corner of the internet" for learning Atmos deliverables
+- Joe Chudyk's emoji nickname (🗽🍕😼) in the export made contributor identification challenging
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -485,3 +548,4 @@ For each channel processed, record:
 | #logic-pro | Feb 2024 – Feb 2026 | 621 | ~480 | 0 | 2 (glossary) |
 | #pro-tools | Feb 2024 – Feb 2026 | 4,104 | ~3,062 | 0 | 6 (glossary) |
 | #show-your-setup | Feb 2021 – Feb 2026 | 12,791 | ~7,761 | 1 (+3 glossary) | 3 (glossary) |
+| #atmos-talk | Jul 2021 – Jan 2026 | 4,539 | ~3,950 | 1 (+4 glossary) | 0 |

@@ -166,6 +166,18 @@ Opening very old Logic sessions requires a version chain: Logic 4 → 5.3 → Ex
 > **Author:** Slow Hand — **Date:** 2024-01-04 — **Channel:** #daw-talk
 > "If you're interested in mixing or engineering then prioritize Pro Tools, but if you're leaning towards production work, then Logic is likely to show up too."
 
+## Dolby Atmos Workflow
+
+Logic Pro offers the most accessible entry point for Dolby Atmos mixing, with built-in spatial audio authoring tools, a native Atmos renderer, and direct [[Binaural|binaural]] monitoring through AirPods. Jeff Ellis notably recommended Logic over [[Pro Tools]] for Atmos work due to its integrated workflow — a significant endorsement given Pro Tools' dominance in professional Atmos production.
+
+Logic's Atmos advantages:
+- **Built-in renderer** — no need for the separate Dolby Atmos Production Suite
+- **Direct AirPods monitoring** — spatial audio preview directly in the DAW
+- **Lower barrier to entry** — no Pro Tools Ultimate license required
+- **Integrated workflow** — bed/object assignment and spatial panning built into the mixer
+
+Joe Chudyk uses a hybrid workflow: mixing in Pro Tools with the Dolby Renderer, then using loopback into Logic Pro for Apple Spatial Audio monitoring on AirPods Max. kylem and Tristan also discussed Logic-based Atmos workflows in the community.
+
 ## See Also
 - [[Pro Tools]] — industry standard alternative for mixing
 - [[Ableton Live]] — alternative for production workflow
@@ -177,6 +189,8 @@ Opening very old Logic sessions requires a version chain: Logic 4 → 5.3 → Ex
 - [[Bounce and Export Workflows]] — Logic-specific export workarounds
 - [[Troubleshooting DAW Issues]] — Logic-specific issues
 - [[Editing Techniques Across DAWs]] — Logic editing workflow details
+- [[Dolby Atmos and Immersive Audio]] — Atmos mixing workflow and community insights
+- [[Spatial Audio and Dolby Atmos]] — Atmos fundamentals and DAW support
 
 ## Source Discussions
 
@@ -190,3 +204,8 @@ Opening very old Logic sessions requires a version chain: Logic 4 → 5.3 → Ex
 > **Key contributors:** hyanrarvey, spectrummasters, Brian Reynolds, Bryan DiMaio, Iwan Morgan, austenballard, Sam Segarra, Adam Thein
 > **Message volume:** 621 messages (621 raw, ~480 substantive)
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #atmos-talk — **Date Range:** 2021-07 to 2026-01
+> **Key contributors:** Joe Chudyk, kylem, Tristan, Bryan DiMaio
+> **Context:** Logic Pro praised as the most accessible Atmos entry point. Jeff Ellis recommended Logic over Pro Tools for Atmos. Joe Chudyk uses Logic for AirPods Spatial Audio monitoring alongside his Pro Tools mixing workflow. See also: [[atmos-talk Channel Summary]]

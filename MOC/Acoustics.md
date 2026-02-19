@@ -50,10 +50,16 @@ modified: 2026-02-18
 
 ---
 
+## Immersive Audio Monitoring
+
+- [[Atmos Monitoring and Speaker Setup]] — speaker configurations, height placement, calibration for immersive
+- [[Dolby Atmos and Immersive Audio]] — immersive audio mixing workflow and room requirements
+
+---
+
 ## Related Topics
 
 - [[Power Conditioning]] — power quality and its impact on studio environment
-- [[Dolby Atmos and Immersive Audio]] — immersive audio and room requirements
 
 ---
 
@@ -61,6 +67,7 @@ modified: 2026-02-18
 
 - [[gear-talk Channel Summary]] — monitor and treatment gear discussions
 - [[monitoring-talk Channel Summary]] — dedicated monitoring channel (3,028 msgs, Apr 2021–Mar 2022): speaker comparisons, room treatment, sub integration, converter debate
+- [[atmos-talk Channel Summary]] — Dolby Atmos discussion (4,539 msgs, Jul 2021–Jan 2026): immersive monitoring, speaker setup, room calibration
 - [[nerd-talk Channel Summary]] — room measurement theory, SBIR, room modes math
 
 ---

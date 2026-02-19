@@ -155,6 +155,16 @@ Josh Bowman made an important discovery about Pro Tools' internal gain staging:
 > **Author:** Nacho Sotelo — **Date:** 2024-03-23 — **Channel:** #daw-talk
 > "I have a lot of scripts for various tasks that would take multiple clicks. My mix prep script searches for specific keywords in track comments and moves tracks to the appropriate folder in my template."
 
+## Dolby Atmos Workflow
+
+Pro Tools remains the primary professional DAW for Dolby Atmos mixing. The workflow involves native integration with the [[Dolby Atmos Renderer]], support for object-based panning, and 7.1.4 bed + objects session structure. **Pro Tools Ultimate is required** for the full Atmos workflow.
+
+The Atmos I/O setup in Pro Tools is more complex than any other DAW, requiring careful bus configuration for bed channels, object tracks, and renderer sends. However, the established pipeline — Pro Tools → Dolby Renderer → Dolby Album Assembler → [[ADM]] BWF delivery — is the standard for major label Atmos work.
+
+Bryan DiMaio's Atmos toolchain: Pro Tools, Dolby Renderer, Dolby Album Assembler, Reaper/SoundID Multichannel for B-chain monitoring, plus various multichannel plugins. Josh Bowman documented his Atmos I/O setup journey extensively in #atmos-talk, including Atmos I/O configuration and version-specific issues.
+
+Jeff Ellis notably recommended [[Logic Pro]] over Pro Tools for Atmos work due to Logic's more integrated workflow — a significant endorsement that the community discussed at length.
+
 ## See Also
 - [[Ableton Live]] — commonly paired for production-to-mix workflow
 - [[Logic Pro]] — alternative for Apple-ecosystem users
@@ -168,6 +178,8 @@ Josh Bowman made an important discovery about Pro Tools' internal gain staging:
 - [[HEAT]] — built-in analog saturation modeling
 - [[Routing Folder]] — folder tracks with audio summing
 - [[Memory Location]] — marker and navigation system
+- [[Dolby Atmos and Immersive Audio]] — Atmos mixing workflow and community insights
+- [[Spatial Audio and Dolby Atmos]] — Atmos fundamentals and DAW support
 
 ## Source Discussions
 
@@ -181,3 +193,8 @@ Josh Bowman made an important discovery about Pro Tools' internal gain staging:
 > **Key contributors:** Bryan DiMaio, cian riordan, hyanrarvey, Josh Bowman, Ross Fortune, Tristan, Matthew The Cooke, samvalentine, bobby k, Will Melones
 > **Message volume:** 4,104 raw → ~3,062 substantive messages on SoundFlow scripting, Beat Detective, playlists/comping, folders/routing, version issues, MIDI, HEAT, session workflow, and internal clipping behavior
 > See also: [[pro-tools Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #atmos-talk — **Date Range:** 2021-07 to 2026-01
+> **Key contributors:** Bryan DiMaio, Joe Chudyk, Josh Bowman, mjcerritos, Tristan
+> **Context:** Pro Tools is the primary professional DAW discussed for Atmos mixing, with extensive discussion of I/O setup, renderer integration, and workflow. See also: [[atmos-talk Channel Summary]]

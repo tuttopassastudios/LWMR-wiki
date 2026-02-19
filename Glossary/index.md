@@ -70,7 +70,11 @@ modified: 2026-02-18
 ## Spatial Audio
 
 - [[Dolby Atmos]] — immersive object-based audio format
+- [[Dolby Atmos Renderer]] — software for monitoring and rendering Atmos content
 - [[Binaural]] — 3D audio for headphone listening
+- [[HRTF]] — Head-Related Transfer Function, basis of binaural rendering
+- [[LFE]] — Low Frequency Effects channel in surround/immersive formats
+- [[ADM]] — Audio Definition Model, Atmos project interchange format
 
 ---
 

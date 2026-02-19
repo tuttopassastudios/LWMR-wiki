@@ -109,7 +109,14 @@ modified: 2026-02-18
 ## Hardware Integration
 
 - [[Control Surfaces and Peripherals]] — interfaces, controllers, monitor controllers
-- [[Spatial Audio and Dolby Atmos]] — Dolby Atmos, binaural, surround, object-based audio
+
+---
+
+## Immersive Audio / Dolby Atmos
+
+- [[Spatial Audio and Dolby Atmos]] — Dolby Atmos fundamentals, DAW support, delivery specs
+- [[Dolby Atmos and Immersive Audio]] — in-depth Atmos mixing workflow, Apple vs Dolby rendering, business debate
+- [[Atmos Monitoring and Speaker Setup]] — speaker configurations and calibration for immersive
 
 ---
 

@@ -36,6 +36,7 @@ modified: 2026-02-18
 - Headphone calibration for consistent mixing on headphones
 - Reference monitoring for critical listening
 - Improving translation of mixes across playback systems
+- **Atmos B-chain monitoring** — SoundID Multichannel used via [[Reaper]] as a B-chain alongside the primary DAW, providing calibrated room correction for immersive speaker arrays without affecting the DAW session
 
 ## Settings & Sweet Spots
 
@@ -62,6 +63,7 @@ modified: 2026-02-18
 
 - [[FabFilter]]
 - [[iZotope]]
+- [[Atmos Monitoring and Speaker Setup]]
 
 ## Source Discussions
 

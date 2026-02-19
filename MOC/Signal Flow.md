@@ -75,8 +75,12 @@ modified: 2026-02-18
 
 ## Spatial & Immersive Audio
 
-- [[Spatial Audio and Dolby Atmos]] — Dolby Atmos, binaural, surround, object-based audio
-- [[Dolby Atmos and Immersive Audio]] — immersive audio formats and workflows
+- [[Spatial Audio and Dolby Atmos]] — Dolby Atmos fundamentals, DAW support, delivery specs, production workflow
+- [[Dolby Atmos and Immersive Audio]] — in-depth mixing workflow, Apple vs Dolby rendering, business debate
+- [[Atmos Monitoring and Speaker Setup]] — speaker configurations, calibration, room setup for immersive
+- [[LFE]] — Low Frequency Effects channel usage and misuse
+- [[HRTF]] — Head-Related Transfer Function, basis of binaural rendering
+- [[ADM]] — Audio Definition Model, Atmos project interchange format
 
 ---
 

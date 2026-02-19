@@ -34,7 +34,7 @@ modified: 2026-02-18
 ## Use Cases
 
 - Studio monitoring (especially newer SAM models)
-- Immersive/Atmos monitoring (various sizes available)
+- Immersive/Atmos monitoring — popular across all tiers, from 8010/8020 for height channels to 8341/8351 "The Ones" for mains in 7.1.4 setups. Consistent voicing across models makes them well-suited for matching across speaker planes in immersive systems.
 - Studios that benefit from built-in room correction
 
 ## Comparable Alternatives
@@ -78,3 +78,8 @@ modified: 2026-02-18
 > Channel: #📸show-your-setup
 > Date range: February 2021 – February 2026
 > Context: Genelec 8020s appear in Eric Martin's mobile checked-bag studio (Mac Studio + Apollo x4 + Genelec 8020s in a Pelican Air 1615). Genelec's wood-finish models generate aesthetic discussion alongside acoustic performance. The community values Genelecs for small-room and portable setups where SAM room correction compensates for compromised placement.
+
+> [!quote] Discord Source
+> Channel: #🔊atmos-talk
+> Date range: July 2021 – January 2026
+> Context: Genelec monitors are a popular choice for Atmos monitoring setups in the community. Their consistent voicing across models (from small 8010/8020 height speakers to larger 8341/8351 mains) makes them well-suited for immersive systems where matching across speaker planes is important. See also: [[Atmos Monitoring and Speaker Setup]]
