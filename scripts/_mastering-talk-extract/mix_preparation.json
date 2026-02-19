@@ -1,0 +1,740 @@
+[
+  {
+    "id": "1050644226565750854",
+    "author": "hyanrarvey",
+    "date": "2022-12-08",
+    "content": "My vernacular has about 2db of headroom",
+    "reactions": 14,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360648572923678992",
+    "author": "Paris Lee",
+    "date": "2025-04-12",
+    "content": "I\u2019m not really qualified to speak from any technical standpoint of anything discussed here, especially among the giants and don\u2019t want to look stupid \u2026but as someone who DJ\u2019d House, Techno, Drum and Bass etc back in the late 90\u2019s as a teenager in LA on Vinyl (I\u2019m 45 now), watched the transfer to CD\u2019js\u2026(no idol of mine has touched a vinyl in 20 years) and masters for modern EDM artists, I feel like I can speak with some authority about, I dunno, *something*\u2026Back in those days, I guess Ill just say there were a lot of factors that influenced what sounded so good about that era, and what producers did then. The dynamics, combined with the *type of low frequency* content of those genres at that time, along with DJ\u2019s who knew what the fuck they were doing, along with sound crews who worked the rave circuit and were continually hired and worked with the same DJ\u2019s, all contributed so much to this magic rave Vinyl era.\nThere\u2019s nothing that touched those deep kickass lows back then, But That was the style! \nSo much has changed. Producers back then got their loudness from pushing analog desks into the red, Simple Mackie desks, stuff like that. But We moved to an all digital world. I remember when the first pioneer digital DJ mixers came out, I\u2019d put a vinyl on and just be like\u2026this is shit! where\u2019s my headroom?!?! the frequency distribution of the music has also changed, DJ\u2019s also got more concerned with jumping up and down and clapping rather than mixing and gain staging. Clubs started putting limiters on the systems \nMost of these kids doing EDM at high levels-really don\u2019t even need ME\u2019s at all! Their mix busses are so super complex. If they took that stuff off, I\u2019d be totally lost. But they like a little analog processing in a lot of cases. Loudness, they *don\u2019t need*\nClipping, limiting, whatever, it\u2019s the modern thing- If i can help I can- and I tell them not to change a thing- just back off the limiter until the exact moment where the track loses the vibe. Then I go.",
+    "reactions": 10,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1244352479055970354",
+    "author": "Slow Hand",
+    "date": "2024-05-26",
+    "content": "Haha yup. Sometimes I'll be partway through a mix and slap a broad 1k boost on the master buss to see how it sounds and quite often I'll go \"Ah shit, that sounds better\" \ud83d\ude04. Which means that I then have to find and add that back in somewhere on the instruments.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1441834367092527124",
+    "author": "Rollmottle",
+    "date": "2025-11-22",
+    "content": "I don't think what you're describing in the first song is a techincal issue. It's what the team was happy with. If they are happy with whatever they deliver to mastering, the role as mastering engineer is not to transform it into something it's not, but to honor what it is and make it the best version of itself. \n\nThe second example, it's likely how the mix was delivered. Gehringer is no slouch.\n\nIn either scenario, you play the hand you are dealt and do the best to honor what's there.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1144060262022922270",
+    "author": "cian riordan",
+    "date": "2023-08-23",
+    "content": "\"I only have the headroom to make it 3.5x louder than everything else\"",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1085356142399594576",
+    "author": "Jeremy Klein",
+    "date": "2023-03-14",
+    "content": "Love to hear you stepping up your career like that @Edsel Holden ! Awesome work!\n\nA thing i've noticed from getting a lot of sessions (not stems) to mix: _if the producer has a great ear_ and they have been building out the track into that crazy chain they have on the master bus, that chain is probably the best chain for the track and its easier to build off it then to just rip it all out and do it your way.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1100665812546760715",
+    "author": "Nomograph Mastering",
+    "date": "2023-04-25",
+    "content": "My job is to inspire confidence and closure at the end of what can be a very long process. A step down in perceived level can alarm people and the small gains of say a dB or a dB and half of headroom  are just not worth the friction, and potential doubt they can introduce",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1144075858307457135",
+    "author": "Bryan DiMaio",
+    "date": "2023-08-23",
+    "content": "\"yeah they always say leave 50dB of headroom for mastering\"",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313154747322073241",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "Not sure of Tayla\u2019s context, but just last month I was mastering a song and I noticed right off the bat that the snare was off-center in the mix for master but not in the heated ref. When I messaged the mixer about it he said \u201coh weird!\u201d And didn\u2019t care to get to the bottom of it. I assume he had an EQ on his master bus he\u2019d been mixing into and he didn\u2019t realize the snare had quite literally moved. He also didn\u2019t really care though",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324383118601490483",
+    "author": "masteredbyjack",
+    "date": "2025-01-02",
+    "content": "My guess (and it\u2019s a guess I don\u2019t use sequoia) is that Em is \u201cclipping\u201d by using 32 or 64 bit in the DAW (what they all run at) \u2014 when you print at 24 or 16bit it will quantize away the overs (so any sample over 0 goes to 0).\n\nShockingly you can actually clip off a lot of level this way (I dislike the sound and would always choose to use a limiter but from what I\u2019ve seen it doesn\u2019t sound like awful digital clipping)\n\nAn issue I\u2019ve run into often enough to care \u2014 when people take off a limiter but print at 24 bit and there are samples at 0 \u2014 they are going over since the plugins on the mix bus have internal headroom \u2014 I once had a bud taking off 6db this way (unintentionally) on the non-lim prints and it actually sounded okay (not good or recommended, but okay)\n\nOf course on our end we cannot tell if the non-lim with samples at 0 is actually this (it could be a clipper, whatever) without knowing the mixer and asking.\n\nThe solve is to print non-lim at 32bit float but that\u2019s not always possible (and if the mix is not hot going into the final limiter with over 0s it doesn\u2019t really matter)\n\nIf I\u2019m wrong on any of this someone please correct",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1396921692688879780",
+    "author": "Berlin",
+    "date": "2025-07-21",
+    "content": "But also! I have had artists over the years ask me to listen to their album and give them feedback on their productions and mixes before mastering.. I usually tell them that that is not something that I typically do as a mastering engineer, but to also trust their gut, the stuff they have previously sent me has been great and I don\u2019t see them working backwards. Give some encouragement.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1445526599800721478",
+    "author": "Slow Hand",
+    "date": "2025-12-02",
+    "content": "Hey. There\u2019s nothing wrong with putting EQs and limiters on your master buss as you mix. A little bit of EQ or a lot of limiter is alright.\n\nThe answer here is to mix *into* your limiter. You don\u2019t want to mix the entire song and then slap a limiter on at the end for loudness. As you\u2019ve discovered that will mess up the balances that you\u2019ve spent so much time getting right. You want to ease the final limiting in as you\u2019re building the mix.\n\nI usually start a mix by pulling my limiter down a few dB. Enough to get everything starting to touch the limiter. To get the loudness in the ballpark.\n\nThen I\u2019ll push into it a little more so that I\u2019m starting to get some gain reduction. Certain instruments may begin to get pushed down or distorted in a way I don\u2019t like. Maybe the kick is hitting the limiter too hard, so I bring it\u2019s level down and then lower my limiter some more.\n\nContinue this process of adjusting balances into your limiter as you mix until you\u2019ve got the loudness where you want it. Usually I\u2019m checking in on my limiter a few times throughout the mix to see if I can push it harder without penalty. When I hear it distort in a way that I don\u2019t like I back off.\n\nHope that helps some.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994317994543030392",
+    "author": "ALXCPH",
+    "date": "2022-07-06",
+    "content": "I Saw a dude that would manually gain down individual inter sample peaks in RX. He gained like 2.5 db of headroom with no sonic change. Very cool concept for sure. Only took him like 15-20 minutes.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1027372993392951366",
+    "author": "cian riordan",
+    "date": "2022-10-05",
+    "content": "If we\u2019re going to have a human being take it over the end zone, they\u2019re gonna have all the tools necessary to make it sound great. Lack of headroom/dynamic range doesn\u2019t help anyone.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1100610846897483878",
+    "author": "masteredbyjack",
+    "date": "2023-04-25",
+    "content": "I\u2019ve been shocked at how many people still think there needs to be a certain amount of headroom/\u201crules\u201d etc when sending files and I largely think that the YT thing is to blame.\n\nA lot of maybe younger/less experienced music makers are shocked when I tell them I want a version with the limiter if they had been using it the whole process and it\u2019s integral to the sound, etc!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1122935927677931651",
+    "author": "Will Melones",
+    "date": "2023-06-26",
+    "content": "Having found myself in similar situations, the scary thing here isn\u2019t the weird headroom ask. It\u2019s that this ME sounds likely to have the wrong priorities, and what do you do when you believe there\u2019s a better person for the job but you don\u2019t get to weigh in on the personnel?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1237059548234125342",
+    "author": "Rollmottle",
+    "date": "2024-05-06",
+    "content": "Yeah, I pushed back. There's some adherence to some outdated ideas but I'm trying to roll with it and not be that guy who pulls rank. It's not my label or my project after all. I didn't get back a version at the native sample rate so I requested at least a 24 bit file that doesn't have its headroom artificially limited. Same version across all platforms is my jam if the version is optimal, but not if we're giving up headroom to fit one platform's spec. If we were making piano ballads, sure...but this is dance-adjacent DJ music with big kicks and grooves...c'mon.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1275162771285213194",
+    "author": "Berlin",
+    "date": "2024-08-19",
+    "content": "Also saw another recently with about 12 plugins on their master bus with the caption \"i use many many plugins, each doing very little processing to achieve the clarity and depth that I do on my masters\"",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1361376767738249217",
+    "author": "Grover",
+    "date": "2025-04-14",
+    "content": "Surely there's something to learn from the history though yes? Cutting is what the profession of mastering used to be and digital is not wholly removed. We can certainly take learnings from our history while embracing modern methods. Cutting good vinyl is also respect for the folks who work on it and the artists who want their music conveyed appropriately across mediums. \n\nI have no problem making stuff massively loud with zero limiting and small amounts of soft clipping, and still retaining tons of transient peaks. I prefer this sound to heavy limiting at the master stage where the program material audibly hits the limiter and the soundstage and sense of headroom collapses. To me, the limiter is optional, but I do understand many use it before they acquire the skills to work without it. \n\nThat said, I also was taught that in genres where its appropriate (Imagine Dragons, Hip hop, EDM, etc.) that those sounds should go in at the production or mixing stage. At the mastering stage I was taught to do no harm, and only to enhance what was present. In my work pushing more than a few dB into a limiter to affect the groove of a piece does not track with my understanding of doing as little to change the sound as possible. But of course, it all depends on the project. My clients who make very mainstream pop/youtube music don't particularly care if I radically editorialize as long as it sounds good and serves the tune. \n\nThere's also something to be said for music which needs to be quiet. Not all music should be loudenated to within an inch of its life. Not all music needs quiet and intimacy. I think of we hold the pursuit of \"the program material's individual requirements to be king\" we cannot then also dismiss vinyl as unimportant or say that one MUST always do things a particular way.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1369382369202798684",
+    "author": "Berlin",
+    "date": "2025-05-06",
+    "content": "Someone may have an entire logic session open, then talk about how to master the track, proceed to discuss their master bus chain, and then say that\u2019s how you master!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378377489621192735",
+    "author": "Jonathan Jetter",
+    "date": "2025-05-31",
+    "content": "The medium has tons of headroom and range compared to most music. Can do a ton of shaping just with the faders.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1380306986637332540",
+    "author": "Berlin",
+    "date": "2025-06-05",
+    "content": "Can always tell when someone uses Soothe on the master bus.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "974852775307534436",
+    "author": "David Fuller",
+    "date": "2022-05-13",
+    "content": "AKM has +2.5dB of headroom *above* full-scale before anything clips",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975119679196655656",
+    "author": "Eric Martin",
+    "date": "2022-05-14",
+    "content": "there isn\u2019t \u201cheadroom\u201d that\u2019s hitting the ceiling, like a person is 6\u2019 tall and the ceiling is at 6\u2019 and they can\u2019t stand all the way up without hitting their head but they\u2019re also wearing shoes and have hair, so technically they fit, but its not working properly",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "980534533264928788",
+    "author": "cian riordan",
+    "date": "2022-05-29",
+    "content": "My setup is some combination of various buss compressors, Pro-L2, ozone limiter, and maximizer. Not particularly fond of clippers on the master buss, but will use them on subgroups if it makes sense.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1022703584489508894",
+    "author": "Will Melones",
+    "date": "2022-09-22",
+    "content": "It seems like it. Of course bass takes up the most headroom but maybe you can get more smooth midrange by not pumping the compressor with super loud hi hats? Maybe it\u2019s just a placebo and the hi-pass is what\u2019s actually working?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064313078746976257",
+    "author": "Slow Hand",
+    "date": "2023-01-15",
+    "content": "I think there's may be an unspoken assumption here that the punch in your record is going to come from your master buss processing, when in fact you'll get more punch by balancing your mix and your arrangement.\n\nCorrect me if I'm wrong, but you're not a mastering engineer right? I gather that you're more of a producer/mixer who is trying to learn about 2-buss processing because you think that's how to make a record punchy.\n\nWhile 2-buss compression can give you a little punch and impact, you're going to get 90% of your mix's punch through good balance, arrangement, and sound selection. You've got way more control over the impact of your mix by addressing these things. Not your master buss.\n\nIf you're new to this, poor or overcooked setting on your stereo buss will work against you and can turn your mix to mush.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079107200229842974",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "For our chain the sweetspot was leaking around -6dB FS on the converter. Our EQs and line amps are all low noise/high headroom so it was governed solely by the analog color piece - modded SSL, MDE, Fearn, Gyraf or whatever. What I like about ghat level is that I can go up or down easily and find that perfect amount of color",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1164045841582002276",
+    "author": "cy (sigh)",
+    "date": "2023-10-17",
+    "content": "hey yall. need a lil advice. recently mixed a pop track and sent my suggestions for mastering engineers. producer /artist ended up using someone else for budget reasons and the mastering guy's first comment is that the unlimited mix was hitting -2  and he doesn't have enough headroom.  this is also a 32 bit file.\n\nsomeone correct me if I'm wrong but this shouldn't be an issue right? they should be able to just bring the input level/clip gain down on their end if they want more headroom or am I bugging?\n\n(a bit burned out and doubt has taken over my mind rn)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1301984491610308689",
+    "author": "masteredbyjack",
+    "date": "2024-11-01",
+    "content": "Take it for what it is, but I chatted with a ME we all know here a while ago, was saying that he prints at -.5db and more dynamic specifically to get better Tik Tok and IG translation, from what he was saying (I can't vet it), the extra headroom and dynamics makes it translate better",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313189226812149873",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "I\u2019ll definitely add that most of the time if I\u2019m getting a mix with phase issues, like a stereo widened or doubled vocal, it usually requires a mix tweak if I only have the stereo wav to work with. It\u2019s rarely coming from an issue on the mixer\u2019s master bus",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368297454520504591",
+    "author": "Paris Lee",
+    "date": "2025-05-03",
+    "content": "Mastering the mix has a good plugin- Reference 2 \n\nMy main use for reference 2 is auto sample alignment of the unprocessed mix and master on the master bus and to be able to listen to that live. \n\nThe time alignment of ab\u2019ing -at least to me- is as just as big a problem as volume descrepancies\u2026\n\nIt can also let you manually by ear tune volume up and down, it will also lufs match to either the quieter or the louder, it will also take everything and auto it down to streaming LUFS (good for evaluating maybe a change in dynamics) \n\nI also have a tidal playlist running on another cue which just goes and is in whatever genre i might be in and you never know what will come up at any time. This can be quite fun! Conscious\u2019i must compare this to that\u2019 is already a bias!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1369403291565424684",
+    "author": "Berlin",
+    "date": "2025-05-06",
+    "content": "summed \u201cmastered\u201d them all together on the master bus.. no individual stem processing, exported, QCed and delivered.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405209774332575744",
+    "author": "Nomograph Mastering",
+    "date": "2025-08-13",
+    "content": "Going from fixed to float is a little more complicated but think of float as something like a fixed number that can slide up and down to give it huge headroom",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975114327822565416",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "Yeah so basically the converter has extra headroom before it runs into the supply rails",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975117330013106196",
+    "author": "BillyC",
+    "date": "2022-05-14",
+    "content": "@Eric Martin @David Fuller I understand how digital clipping can occur, but I'm still not sure I understand how it's theoretically possible to have true headroom above 0dBfs. In my mind the converter either has a nifty way of limiting intersample peaks, or the converter is simply scaling the signal down by -2.5dBfs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975134426239467571",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "tl;dr: AKM chips have extra headroom above the voltage level that AKM decides is full scale, so the converter itself cannot clip with lower ISPs. Given good analog side engineering around that, it won't clip until it hits about +2dBFS - and the clipping behavior is pretty benign compared to the utter tomfuckery that is ESS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "980536586854871071",
+    "author": "samvalentine",
+    "date": "2022-05-29",
+    "content": "That's interesting Cian. You are doing some master bus processing though, no? Even if it's not a clipper... Aren't you unfairchild gang?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "991152768704315454",
+    "author": "jordanmcleod_io",
+    "date": "2022-06-27",
+    "content": "apologies if this has been talked about. i tried searching but couldn\u2019t get a phrase of keywords to reveal anything\u2026 i also think it was talked about on an episode. but is it now pretty common for mastering engineers to received limited mixes with no headroom. and they create headroom just by pulling the mix down however many dBs?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "997277202662039572",
+    "author": "ALXCPH",
+    "date": "2022-07-14",
+    "content": "Just found a super interesting video. apparently, just redlining your master buss sounds better than limiting or clipping with a plugin. https://www.youtube.com/watch?v=Ggz8CqzwNmw\n what do yall think of this technique?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009182802350190622",
+    "author": "Eric Martin",
+    "date": "2022-08-16",
+    "content": "Do you mention tuning issues on a mastering project before mastering or just do the project?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1019512936944893992",
+    "author": "ALXCPH",
+    "date": "2022-09-14",
+    "content": "Mix bus is only a clipper doing 2db of the biggest peaks and a limiter set to 0 gain just to catch any overs with 1db headroom",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029907694213156907",
+    "author": "peterlabberton",
+    "date": "2022-10-12",
+    "content": "Yeah\u2026 I was also just realizing I was delivering only music to a production company. Then they\u2019d do the final sound to picture. But for the music itself I\u2019d be delivering stuff as loud as like -6 to -8 LUFS, 0.5 db headroom in the loudest sections. But again I wasn\u2019t the final stage! So if you\u2019re delivering the final product and not just the music\u2026 I dunno! I\u2019d ask around to whoever you\u2019re delivering to.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038247024954458202",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-04",
+    "content": "Smart dude, but in my tests most everything I've seen clips. Very few are leaving the headroom necessary, on the pro side it has an impact on specs and the consumer can't tell anyhow",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1052991284043845652",
+    "author": "Zach Hughes",
+    "date": "2022-12-15",
+    "content": "I started mastering my first 12 song album yesterday. I've mastered other albums but 12 is the highest track count I've worked with on a project. I'm curious about other's approaches and work flows for mastering albums specifically.\n\nI also have a more targeted question. I am wondering, in a world where most modern records take up all available headroom are relative track balance decisions (i.e. *I want the final chorus of track 3 to be the loudest perceived part of the entire album*) made at the input stage of the final limiter? Choosing less gain reduction via limiting or compression as well as distortion / saturation rather than turning a track down. Seems like a ratchet towards clipping, distortion, and lack of dynamic range and transient detail. Sure that's a whole can of worms but would be interested to discuss it. \ud83e\udd18",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054990719305121792",
+    "author": "Deleted User",
+    "date": "2022-12-20",
+    "content": "It may be a longer process but it gives me a peace of mind that I turned in the best I could. I also started putting this aside as a mix prep process (or if my rough mix ends up being a final mix - this becomes an actual mixing process) so it doesn't really get in the way of creative momentum. Most of the creative aspects of mixing is dialed in from production stage. When I mix my own stuff, it is mostly fitting everything together and doing rides. \n\nBut I think I also have to do this because I'm still a rookie, with time and experience - I'd probably get better at making more sound decisions early on. Therefore, this process may no longer be necessary.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073086068062167040",
+    "author": "masteredbyjack",
+    "date": "2023-02-08",
+    "content": "In my experiments yes! It has some in depth options too that were pretty useful\u2026honestly we could barely hear the artifacts. It was a pretty open ballad type song, but with lots of vocals and stacks. Sounded fine! Fairly transparent.\n\nAudiophiles would probably grumble about it or something, but anyone in any average type of listening situation couldn\u2019t tell the difference.\n\nBefore mastering I\u2019ve used ableton, logic, pro tools\u2026all the stuff (including speeding up a turntable to sample stuff in from vinyl)\u2026.RX best to me. But it of course matters what vibe you want",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079114067416973403",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "So in actionable terms you want the infrastructural parts of your chain to be designed to be as low noise and ugh headroom as possible and then just forget about them",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079115386617868408",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-25",
+    "content": "So then I don\u2019t really have a need for the line amps (assuming I\u2019m controlling level in the DAW). The only need I can see would be if I want to have something with limited headroom (say something I don\u2019t build myself) followed by what I want to drive since in that case I wouldn\u2019t be able to bring up the output level in the DAW",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079868436085219389",
+    "author": "ALXCPH",
+    "date": "2023-02-27",
+    "content": "The only things I can advise on is based on personal experience. And many people have lots of different takes on this. \n\nBut my advice is to not even worry about the concept of mastering at this point in their musical journey and just make the best music they can, and put as much effort into it as humanly possible to make it sound to the best of their ability. And then slap a limiter on it to get it as loud as they can get it before it starts sounding worse. Make mix changes based on what they don\u2019t like when testing it on different systems. \n\nAnd while it might not sounds like a the weeknd record mastered by sing, it should still be able to be somewhat competitive to other people at the same level. \n\nReps will teach them something new every time. And finding a mentor will also do the same. If they can an attended mastering session with someone who does great work, it could give some great insight about the possibilities and function of what mastering actually does. \n\nThis might be a bit of a hot take, but if a track sounds very far from release ready before mastering, it\u2019s probably not ready to be mastered yet.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1086748456879665182",
+    "author": "cian riordan",
+    "date": "2023-03-18",
+    "content": "And no, I\u2019m not peeling back the whole master buss, just the input into limiter at the end.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098925152223379486",
+    "author": "noahc",
+    "date": "2023-04-21",
+    "content": "Foh engineer here - find it best to leave track same as record versions, so a live vocal can fit in the mix. PA always has more headroom to push if need to hit. Depends on where the rest of a sets songs are at, mainly just want it to be consistent peaks between songs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1100611572398825532",
+    "author": "Nomograph Mastering",
+    "date": "2023-04-25",
+    "content": "\u201cLeave 6dB headroom\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1104359176668455024",
+    "author": "louisvie",
+    "date": "2023-05-06",
+    "content": "I haven't had that deep of a gut reaction to a song in a long time (which I'm sure is mostly due to the songwriting,production,mixing before mastering enters, but I'm also pretty sure that a bad master would have killed the whole point of the song)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1156337083628130464",
+    "author": "Will Melones",
+    "date": "2023-09-26",
+    "content": "Then wouldn\u2019t that version be better?\n\nWhy didn\u2019t the mixer LP all the tracks at 20k? Coulda had more headroom",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176411459073343570",
+    "author": "Rollmottle",
+    "date": "2023-11-20",
+    "content": "had to do this a couple weeks ago and it sounded the same post-rotation so i got the headroom back for the limiter. feels a little bit like voodoo.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176735825480925276",
+    "author": "Nomograph Mastering",
+    "date": "2023-11-21",
+    "content": "Working in a floating point DAW we have well over a thousand dB of internal headroom becuase of the way floating point can scale",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1196912800002474154",
+    "author": "itMIGHTbeNICK",
+    "date": "2024-01-16",
+    "content": "What do you guys do in situations where you're being asked for a mastering revision when the notes are mix notes and not mastering notes.\n\nContext: I mastered this track where the vocal was clipping by the main hook of the song, gave myself some headroom and got to work and was able to lighlty fix it with some EQ and some RX. Got a call... Hey man it feels like the kick isn't sitting right in the mix, the vocals sound a little peaky overall, and it sounds like the song as a whole just isnt as dynamic as the mix. I let him know exactly what i did and he proceeds to talk with the artists and then tell me they will give me a new mix. \nMix two, the vocals weren't loud enough throughout the track and yet again was asked what I did in the master to make this happen and why the vocals sounded compressed.\nWas then told yet again that this was a mix issue.\n\nWe are now on \"Final mix 4\" and i'm hesitant to even send off another master at this point.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220519552094306344",
+    "author": "Berlin",
+    "date": "2024-03-21",
+    "content": "that's their master bus out",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1224117562460340435",
+    "author": "Berlin",
+    "date": "2024-03-31",
+    "content": "Yes for me too. New Session. Leave myself a little headroom. Balance first then go from there. \ud83d\udcbf\ud83d\udcbf\ud83d\udcbf",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1224915457472069684",
+    "author": "Jeremy Klein",
+    "date": "2024-04-02",
+    "content": "its funny becuase the song im carefully observing whether it has any intersample peaks had a clipper on the production master bus doing like 15db of reduction",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1256346919693979709",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-28",
+    "content": "It\u2019s an album that really benefited from a few more dB of headroom",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1287455162431967324",
+    "author": "Rollmottle",
+    "date": "2024-09-22",
+    "content": "There\u2019s a couple of really dumb threads on GS Mastering right now where the idea of \u201cspreading the load\u201d is the key to mastering glory. I\u2019m sure at some point in early digital and lower headroom analog, it maybe may have had some validity\u2026? In 2024 it makes no intellectual and logical sense to me.\n\nAll things being equal, isn\u2019t compressing a signal with two separate processors both set to 1.5:1 not the same as just compressing with one of them at 3:1? \u201cSpreading the load\u201d makes no sense and I don\u2019t get it. Seems like a justification for over-processing and gear wankery. Am I missing something?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1287469081590501406",
+    "author": "Berlin",
+    "date": "2024-09-22",
+    "content": "There are some MEs that i follow that do quite a bit of spreading the load and post often about how that is the best way to achieve a transparent result.. while they flip through 10 plug ins on the master bus.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1290428514029539372",
+    "author": "cian riordan",
+    "date": "2024-09-30",
+    "content": "5dB of more headroom gives you a much bigger canvas for low end.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1305971357808459888",
+    "author": "Berlin",
+    "date": "2024-11-12",
+    "content": "Welcome! I think it's OK to send with some notes and screen shots of your masterbus settings that you disable. Make sure to check the oversampling settings on standard clip in the preferences as they can some times be set differently (i.e. offline bounce settings). \n\nJust overcommunicate your master bus settings so that the ME can get it back to a good starting place.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1305985524573540432",
+    "author": "flyboystudio",
+    "date": "2024-11-12",
+    "content": "Awesome, thanks for the feedback. This was the comms via A&R:\n\n\u201cJust taken a look and could you send over non-limited versions?\nHeadroom is good but looks like they've just turned the output down on the limiter instead of removing it and turning down the master channel level.\u201d\n\nI like to leave a bit of headroom (3db ish) as very occasionally I\u2019ll a/b without the clipper and decide i prefer the mix with it off. I clip individual channels and buses before they hit the mix bus too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313917194911875085",
+    "author": "Berlin",
+    "date": "2024-12-04",
+    "content": "Regarding loud songs at the front of the side vs the end of the side, this is kind of true.. essentially, the closer you get to the center of the disc, the more loss in resolution there is. The outside of the disc plays/cuts nearly 20x the times faster under the needle than the inner grooves do. And so with that loss of resolution comes some distortion. \"Inner Groove Distortion\" - Cutters try to counteract that distortion by having ballads at the inner grooves and bangers at the outergrooves where there is more resolution headroom.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324827145037418657",
+    "author": "Ted Whitten Media",
+    "date": "2025-01-03",
+    "content": "So I went into Wavelab on an existing project's output bus, pulled the input of that bus down 8 dB so Limitless can't do anything, then drove the output to +10 dB. Showing +3 dB at the master bus and it sounds like garbage. Probably needs soemthing less compressed than what I'm working on.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1330701958490619924",
+    "author": "onanisland",
+    "date": "2025-01-19",
+    "content": "Part of something I wrote a few years ago.. \n\n\"Essentially, using certain tools to improve mono compatibility does not actually improve it.  Similarly, using complex M/S  filtering techniques can also change the left-right \npositioning of the audio signal. \nBy making the signal mono, it can result in a loss of quality. However this loss would have  occurred anyway when playing the signal back in mono. So what's to gain? \nHeadroom maybe?  NO \ud83e\udee0\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1334300914965676114",
+    "author": "Berlin",
+    "date": "2025-01-29",
+    "content": "Curious if they will SRC before mastering and work from 96k on the Main.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374486583209627808",
+    "author": "masteredbyjack",
+    "date": "2025-05-20",
+    "content": "it almost certainly would not be a problem on release -- Spotify and everything will play back with a lower peak value than the digital file and thus break ups solved (usually). I know you so I know you would leave enough headroom for good codec conversion",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1396968637595914521",
+    "author": "Paris Lee",
+    "date": "2025-07-21",
+    "content": "I just mastered a song with a slammed mix and slammed to hell ref, mixed by one of the main assistants of a mixer who is a household name. \n\nI said nothing. Had doubts that the level was right for the track, but the mix i got had all what i felt was not my \u2018taste\u2019 baked in anyway\u2026\n\nSo time to flip the burger\u2026\nDelivered it a half db lower than the ref -6.7 LUFS integrated, but eliminated the rumble they missed, slightly widened (like 2 percent) above 100-200hz somewhere,  narrowed below 14 percent for a more focused feel of the slam drum impact while the width was allowed to breathe\u2026and some eq\u2026\nReferenced the ref. Felt it felt better sent it back. \n\nProducer liked it and then comes the classic \u2018well what did you think it was too slammed?\u2019 Then we kinda fall into the conversation\u2026\u201di mean\u2026i dunno\u2026the loudness of the ref was a lot\u2026i might not have gone that much\u2026\u201d \n\nwhich sparks the \u201cno man you do you! Master to where you feel is right! Forget the ref! Should we call the mixer to change it for you and give you more headroom??\u201d \nThis is where you really have to be careful and really explain it out. Because I don\u2019t know how the mix was constructed. I also know that clients will tell you we want it dynamic till you\u2019re blue in the face, but usually that\u2019s bullshit (not like intentional bullshit\u2026but 8/10 you\u2019ll do it and they\u2019ll want you to make it louder again\u2026)\n\nWhere am i going with the this\u2026it\u2019s always important to stress to the client when they ask you \u2018can we do better. What do you think. What should i tell the mixer to do\u2026etc\u2026*never* make any guarantees about *anything*. Always preface your statement with \u2018unless we actually go through the process of doing it again, we won\u2019t really know! It may, it may not.  That\u2019s really the truth. And lay out the state of play as it is. \u201cIf we were to do it again\u2026lay out all the variables that need to be considered- how the mixbus was constructed for one\u2026and stay out of The business of giving the mixer edicts.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405009512514981898",
+    "author": "masteredbyjack",
+    "date": "2025-08-12",
+    "content": "So the true peaks will be the same in a 32bit file or 24 or 16, you can just look in RX or whatever, 32bit just allows headroom for dbfs over zero",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405705991877693540",
+    "author": "cartierdad",
+    "date": "2025-08-14",
+    "content": "Yea I do use the meta normalizer to turn everything down relative to each other before processing. Not working with a lot of headroom most of the time lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1412873953839419497",
+    "author": "itaylerner",
+    "date": "2025-09-03",
+    "content": "I\u2019m not a mastering engineer but I am working on a mixtape for a rapper and They\u2019re going straight from me to CD duplication. Anything particular I need to know about printing for CDs? 16/44.1 of course but anything CD-specific about headroom, metadata, track spacing? Anything I\u2019m not thinking of?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1434237827650158778",
+    "author": "Juliette",
+    "date": "2025-11-01",
+    "content": "Learning a little bit more about the use of limiters these last couple of weeks in order to get your mix louder (not going down the rabbit hole of loudness today though.) I\u2019m curious as to how you all approach limiting on your masterbus, and how much headroom you\u2019re generally leaving before master processing starts, if any at all.\n\nAlso, is all clipping inherently *bad*, depending on how much you\u2019re clipping?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1434246940781973719",
+    "author": "Slow Hand",
+    "date": "2025-11-01",
+    "content": "I'm not doing much limiting on my master buss. As I'm working I might be catching 6 dB of peaks, but by the time things are mixed I'm getting the loudness at the source instruments or instrument group. My master buss might be averaging 3 dB of gain reduction at the end. If I have heavy transients from the drums hitting my limiter I'll limit the drum group so it's not ducking the entire mix when they hit.\n\nI don't use clippers at all. To my ears they reliably make things sound like mush, but other people seem to get good results with them.\n\nWhen it comes time to master, I'll turn down my limiter and pass it to the ME. Confident that my balance isn't dependent on everything being smushed into a limiter.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1434387147825217698",
+    "author": "Nomograph Mastering",
+    "date": "2025-11-01",
+    "content": "But simplifying even more \u2026 low end eats headroom in mixing, and making sure it\u2019s not too wild will help get some overall level without a limiter pancaking",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1440101509294592133",
+    "author": "Val \u1da0\u02b3",
+    "date": "2025-11-17",
+    "content": "I'm not sure if that's your mindset at the moment, but when I started, I had this idea that mastering = processing the master bus. So I also thought that mixing had to stop before the master bus.\nMixing should be considered as shaping 100% of the sound, whatever it needs to achieve what you want.\nI think it's better to see mastering as a final quality check plus taking care of files, metadata, etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1445877113591824498",
+    "author": "Zakhiggins",
+    "date": "2025-12-03",
+    "content": "When you say that do you mean do it to each track in the mix session? Or bounce the mix and varispeed it before master?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1454151142240944231",
+    "author": "James Cronier",
+    "date": "2025-12-26",
+    "content": "It can be hard to A/B these ~within~ the plugin. The audio stops and takes a while to back kick in. I\u2019d recommend duplicating your master bus/track and shuffle the mutes over a short loop of material. That should allow you to hone in on the differences.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]

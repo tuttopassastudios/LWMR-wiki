@@ -67,11 +67,29 @@ modified: 2026-02-17
 - Using Stabilizer too aggressively — it can "smear the sound"
 - Buying at full price — significant discounts available during sales and crossgrade options
 
+## Mastering Context (from #mastering-talk)
+
+iZotope Ozone is the most frequently mentioned mastering tool in #mastering-talk (206+ mentions across 22,909 messages). The community has a nuanced view:
+
+- **Ozone as a learning tool:** Widely recommended for developing mastering engineers as a way to learn signal flow and hear what different processing does
+- **IRC modes:** The IRC (Intelligent Release Control) limiter modes are actively discussed, with different modes suited to different material — IRC IV in transient mode is considered the most transparent
+- **"Ozone preset jockeys" critique:** Professional mastering engineers criticize over-reliance on presets and the AI mastering assistant; Nomograph Mastering uses this term to describe engineers who apply presets without developing critical listening
+- **Specific modules praised:** Soft Clipper, tape emulator, and Stabilizer are highlighted as strong individual modules that rival dedicated plugins
+- **AI mastering assistant:** Generates mixed reactions — impressively accurate for ballpark settings, but philosophically debated for client work
+
+> [!quote] Nomograph Mastering (2025-06-06) — #mastering-talk — 22 reactions
+> "Honestly I've just been using a match EQ from 'Livin' La Vida Loca' this whole time"
+
+> [!quote] Nomograph Mastering (2024-04-10) — #mastering-talk — 19 reactions
+> "Oek's Law — Tools that appear to level you up fast often come with a hidden ceiling on your future growth."
+
 ## See Also
 
 - [[FabFilter]]
 - [[Waves Plugins]]
 - [[Sonarworks SoundID]]
+- [[Mastering Signal Chain]]
+- [[Mastering Workflows]]
 
 ## Source Discussions
 
@@ -83,3 +101,8 @@ modified: 2026-02-17
 > "The Soft Clipper might be my favorite clipper I've ever used. It has Light, Medium, and Hard modes and it pretty much does exactly what you want it to do." — Jeremy Klein
 >
 > "For mix-bus stuff, I've recently been enjoying the Ozone 9 tape emulator with great results." — cian riordan
+
+> [!quote] Discord Source
+> **Channel:** #mastering-talk — **Date Range:** 2022-04 to 2026-02
+> **Key contributors:** Nomograph Mastering, Rollmottle, masteredbyjack, spectrummasters
+> **Message volume:** 206+ Ozone mentions across 1,346 mastering tools messages

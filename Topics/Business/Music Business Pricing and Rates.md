@@ -93,10 +93,22 @@ Several community members use sliding scale approaches:
 - **Discounting without strategy** — random discounts devalue your services without building relationships
 - **Charging hourly for mixing** — incentivizes slowness and creates billing anxiety for clients
 
+### Mastering Rates and Business (from #mastering-talk)
+
+The #mastering-talk channel (1,575 business/pricing messages) provides mastering-specific pricing and business insights:
+
+- **Referral culture:** hebakadry (26 reactions) recommends at least 3 other mastering engineers when a client can't afford her rate, explicitly pushing for female engineers "because it's the only way to give these names a push"
+- **Rate negotiation resistance:** Berlin (30 reactions) shared a client asking for a discount because they didn't use the previous master — the community unanimously advised against discounting
+- **Deadlines are often fake:** Bonati12461 (12 reactions): "The pandemic made it even more obvious to me that most people's deadlines are fake... I will go the extra mile for your deadline, but I won't kill myself for your deadline"
+- **The mastering confidence product:** Nomograph Mastering: mastering engineers sell the feeling that the music is done, not just processing — this is harder to quantify but is the core value proposition
+
+See [[Client Communication in Mastering]] for detailed guidance on managing mastering client relationships.
+
 ## See Also
 
 - [[Royalties and Backend Revenue]] — the other side of the revenue equation
 - [[Client Relations and Project Management]] — managing expectations around pricing
+- [[Client Communication in Mastering]] — mastering-specific client management
 - [[DAW Pricing and Licensing]] — managing your own software costs
 - [[Marketing and Networking for Engineers]] — finding clients who pay your rates
 

@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "1175838686366154772",
+    "author": "Rollmottle",
+    "date": "2023-11-19",
+    "content": "Been trying to think of a way in to the question about what I did without being completely frustrating or giving a list of moves that don't mean anything outside of the context of being in my chair, hearing what and how I hear.\n\nThis process for this song is like any other...listen for what the song needs and act accordingly. That's the frustrating answer but it's also true. What did you do? \"I mastered it.\" lol\n\nBut I know that's not what you're asking. For a track like this, I'm primarily focused on the vocal and how it's sitting and feeling. The vocal performance is incredibly dynamic and intimate. This one had some ringy stuff through 2.5k and in the upper mid range that I felt was detracting from the \"fireside\" intimacy. The goal was to take off some of the edge without stepping on the presence. That was a combo of RX and EQ. \n\nOn this song, I did an analog pass because I am usually able to manage to get the balance of presence and de-edge I'm looking for very quickly. Since time was of the essence here, that was the move. Couple of moves on Equilibrium digitally before the Gyraf and Porter Grinder in the analog chain. The \"trickiest\" thing I did here was flip the Porter Grinder into M/S to bring the vocal closer into the center (by cutting!) and to push the mellotron and atmospherics to the sides (by boosting). All very subtle stuff.\n\nSo, there were some moves here, but the moves were all in service of the feeling the song was telling me it needed. We talk a lot about monitoring here. When you can connect to the song and walk around inside of it, it's much easier to know what you need to do (or not to do) to bring it to life.",
+    "reactions": 16,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273872208388689980",
+    "author": "Deleted User",
+    "date": "2024-08-15",
+    "content": "I too am one of those younger cats haha\n\nJay has written extensively about the characteristics of tapes, as well as the machines used to make calibration tape. Links to AES papers are on the MRL site\n\nIn the coming months, I'd like to provide an explanation of one application of tape saturation distortion, to increase perceived fidelity by exploiting a psychoacoustic process",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1387172518984679506",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-24",
+    "content": "The more I try to communicate this stuff the more I realize it's like asking someone to believe in God with no objective proof. it requires a kind of faith in music and artistry that most people just don't have, so they fall back on rules and emails and meters and refs",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "974850501634060358",
+    "author": "Rollmottle",
+    "date": "2022-05-13",
+    "content": "nah, fuck -1 or -2. theoretically the lower the ceiling, the less risk there is of intersample peaks happening upon conversion to MP3 or some other lossless format streamers use to stream audio to your device. even if there are ISP's, they usually light up a meter but are inaudible. i live at -0.5db for most everything. sometimes i'll go to -0.3db if it's something that is pop oriented (this is where i landed for @thejadenmejia's single for example). i think a lot of the panic about it is overblown. in the real world, clients like their shit loud.\n\nas far as distro goes, i know some are starting to accept higher res files or even accepting multiple files. my deliverables have always been 96/24 and 44/16. I've recently started including 44/24's. i've always discouraged submitting anything other than 44/16 because who knows what some of these services are doing with SRC and dither, but i think with the advent of high res and lossless delivery, you are well-advised to submit the higher bit-rate files nowadays. all that said, with something like 44/24 you are probably pretty safe from getting your shit munched down-funnel.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308502996333756467",
+    "author": "cian riordan",
+    "date": "2024-11-19",
+    "content": "Howie is amazing. A total nut. But a total gem. The first record I worked on with EV almost 15 years ago was a Taking Back Sunday album. We finished the record and had it mastered by Brian Gardener and Eric wasn't super happy -- we had just found out that Howie moved to town and was up at Steven Slate's place so we paid a visit. Eric asked if he'd take a swing a song and he just absolutely crushed it. So we gave him the album and what we got back was hilarious: totally mismatched levels from song to song, some L&R balances totally off whack. Eric ended up going to his studio to figure out what the hell was going on and found all of his shit just wildly out of calibration (he was mastering from 1/2\"). Ended up getting it across the line... the album sounded great, but the experience was... an experience. That being said, super fond memories and he's a lovely guy.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138282341563891752",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Ruairi's gonna come on here and shellac me in a few, but I'm of reasonably stable mind and don't believe that people are setting up proper tests when matching converters (level calibration, having the ability to actually go back and forth between them instantly, etc). The idea that there's a dramatic sonic difference between any reasonably spec'd modern converter is just insane to me. I've gone down the rabbit hole for years with comparative listening with converters, clocks, etc and I've built my own conclusions --  I hope everyone here has a chance to do that as well instead of just taking people's word on the internet for how many thousands of dollars people should spend on boutique A/D/A.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1175843092306337902",
+    "author": "spectrummasters",
+    "date": "2023-11-19",
+    "content": "Thank you for taking the time bro , it\u2019s just a pleasure of mine to rap on musical  topics with friends who share the passion for it . What came over to me was indeed that you \u201cmastered \u201c it \ud83d\udcaf. I have to say though , the technical move of the m/s boost / cut to tweak the Mellotrons position amongst all the elements \u2026..certainly imho  a master stroke . From a tekkers POV hearing how you achieved that is a real lesson for me . Thank u . I love your expression of a good monitoring  environment allowing you to walk around inside the music . In the spirit of that sentiment , having moved into a larger home space with a free , large garage space in 2024 I will be building out my first custom and permanent studio space as opposed to moving between spaces . I\u2019m excited to do my best work yet , as I\u2019ve listened closely to ruairi , his untu@k crew and folks like yourself over the last two years expressing again And again \u2026.the listening environment cannot be ignored",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273068616522268736",
+    "author": "manyonline",
+    "date": "2024-08-13",
+    "content": "I do a trick using Pro Tools Audiosuite where I send the main mix, instrumental, TV, voc up, etc all at once.  RX sees this as a surround file and I can do the edits to all files at once. I'm usually just monitoring the main mix. And I can apply my edits to the main mix ONLY, if it's a vocal-specific thing, the same way you would apply edits to the left or right channel only in a typical RX session. The routing in the RX monitor track back in pro tools is a little tricky, but it works!",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1341577371848802314",
+    "author": "masteredbyjack",
+    "date": "2025-02-18",
+    "content": "As a follow up to this (most of us here know it, but I see it is a common misconception out in the Wild Wild West):\n\n32bit will allow any over 0s to be represented in the file \u2014 if you print at 24bit and there are overs, those overs go to 0, it\u2019s not exactly clipping like we might think of it but like it.\n\nThe tricky part is people can monitor above 0 in their DAW since it is at 64bit usually, then if they print at 24bit the overs are sent to 0",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1439350806464823307",
+    "author": "Berlin",
+    "date": "2025-11-15",
+    "content": "metering should tell you about the work you have done, not be the work itself.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1458480622329794744",
+    "author": "Edsel Holden",
+    "date": "2026-01-07",
+    "content": "Speaking for me personally the choice to label myself as a ME was a labored and serious moment in my musical journey. I'll be brief but after a near decade of being a jack of all trades one serious mastering project was all it took for me to realize it is where my greatest strengths lie and where I have the most value to my peers. It was like a moment of me realizing that it is what people would like me to do, and that made it feel all the more right in the moment. 6 odd years later and I really couldn't imagine trying to do all the roles or even two well. Niching down was a requirement to leveling up, for me at the time. \n\nI'd wager the fact that you're even thinking about this is a good sign that your give-a-fuck meter is at a high enough level to warrant niching down. Also I know for a fact you crush !!\n\nbig hell ya for being clear about your strenghts and role ! I think niching down is a path to leveling up if done at the right time in ones personal journey.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055202757092581458",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-21",
+    "content": "And in mastering that\u2019s trusted monitoring, lots of reps, EQ and client relationships",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1087680905407107195",
+    "author": "Ross Fortune",
+    "date": "2023-03-21",
+    "content": "On that note, can't remember where I found this but a related piano recipe from Michael Brauer. Hoping he hasn't trademarked this one so the Discord doesn't get shut down.\n\n\n\n\"Remember the early Elton John records? Remember how his piano shimmered? At mediasound we loved that sound so a lot of us were always playing around with getting different versions of it. No lacquered hammers, no Dolby A off, just a combination of compression and EQ.\n\n\nI only recorded Luther's voice, may he rest in peace, on that song along with \"searching\" and then mixed both. Luther was on a whole other level of singers. He walked into that session and listened to the song in the control room once, then he walked out into the studio with the lyric sheet in his hand. What you hear on\"Glow of Love\" and \"searching\" is his first fun down reading the lyrics from a yellow pad. No punches.\n\n\nThe piano sound you\u2019re referring to is probably the same one that I did for Vandross on the \u201cNever too much\u201d song.\n\n\nOk, this is how you do it.\n\n1. First insert an LA3A or LA2A (depending on the version of sound you\u2019re going after) across the stereo piano tracks. The LA2A is good if the song is slow and the chords are quarter notes. The LA3A is good if the chords are faster with a harder attack like in \u201cnever too much\u201d. Bang those meters and \n2. out of the compressor go into a couple of pultecs and push up..way up the 3 or 5 k on the low end and the 8 or 10 k on the high end. Don\u2019t be safe. \n3. Now go to the desk EQ and start clearing out some of the muddiness and EQ up the remaining mids so that it just shimmers like a baby. \n4. When it\u2019s done right, you can hear the harmonics riding up during each sustain.  \n5. I remember hearing that song on the radio and man that piano was making me feel good all over. Sounds pretty simple when you know how to do it right?\u201d",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234611071650893985",
+    "author": "Rollmottle",
+    "date": "2024-04-29",
+    "content": "As somebody who also has many multiples of thousands of dollars of hardware sitting mostly unused, you definitely don't need hardware. Invest in your room and monitoring.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1256040244999094272",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-27",
+    "content": "Luckily perceived loudness comes easily on these kinds of tracks, as long as you have the discipline to ignore the LUFS meter",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274415170860355606",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-17",
+    "content": "This is important. The reality is it probably wasn\u2019t intended. And maybe it\u2019s caused by bad monitoring, or strange bus processing or whatever. Once you pull those threads the chances of a solution are low and then chances of introducing doubt at the key late stage of the record are high. They were aiming for a destination, identify it and get them there",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324849707587211284",
+    "author": "Berlin",
+    "date": "2025-01-03",
+    "content": "same here. \n\ni had an album that i worked on mastered by Em a few years ago.. manny mixed it.. his rec to use Em.. got the masters back at they were all at 0.0db.. definitely made me scratch my head, but then later learning that clipping the output bus was a part of their process made more sense regarding the 0.0db.. Manny also mixes loud more often than not so.. i legit think Em just gained tracks up in sequoia 1db or 2 and shipped them.. no limiter. just a hunch.. i didn\u2019t work directly with Em on that one. Masters sounded nearly identical to the mixes, just a touch louder. Manny approved, i approved, sounded great.. we live to see another day regardless of the meters.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368310808282533899",
+    "author": "Rollmottle",
+    "date": "2025-05-03",
+    "content": "I\u2019ve found it easier to separate the tonal decisions from loudness decisions. I take the limiter out of the equation when I am making tonal decisions. So in my case, it's a simple bypass of with processing vs. without to make the decisions against the mix. This is inherently level matched. This gets trickier with dynamics processing but that\u2019s a simple offset of the processed mix. That\u2019s all happening on the object in my DAW without need for additional plugins or routing. Since I am rarely compressing anyways, this is a low friction way of judging the moves against the mix. \n\nWhen I\u2019m happy with that, I\u2019ll print the pre-lim and then load it up on another track to do the limiting. When I\u2019m happy with the limiting, I have a quick action to create an A/B track where I can load the hot mix or mix to see if I\u2019m as loud or louder than it. \n\nNone of this is by number or meter. It\u2019s all by ear.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1408232317712863235",
+    "author": "Rob Domos",
+    "date": "2025-08-21",
+    "content": "Keep rambling in monitor talk. I\u2019m on the edge of my seat",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1441881351480672327",
+    "author": "Jonathan Jetter",
+    "date": "2025-11-22",
+    "content": "I would also add- many things I thought were \u201cbad\u201d on records were actually my monitoring being bad in prior iterations.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "983491077300420689",
+    "author": "hebakadry",
+    "date": "2022-06-06",
+    "content": "Not so much.  I don't crush it too hard in general.  You have to mess with the lookahead and the dynamics/release section a bit...I found that Oxford Limiter transients ends up sounding too choked with full range material when I'm comparing between them because you don't have anywhere near as many dynamics parameters.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031972013545369620",
+    "author": "Will Melones",
+    "date": "2022-10-18",
+    "content": "Your brain and body know what feels right, and the meters are telling you that\u2019s a repeatable feeling you can trust \ud83d\udc4d",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042931092866482196",
+    "author": "Zack Hames",
+    "date": "2022-11-17",
+    "content": "What monitoring system does homie have that he can tell you to filter 18hz? lmao",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1043044821784346684",
+    "author": "mixedbywong_my",
+    "date": "2022-11-17",
+    "content": "Nope. We need u here in #mastering-talk & #monitoring-talk \ud83e\udd72",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054818840082665563",
+    "author": "Rollmottle",
+    "date": "2022-12-20",
+    "content": "In other words, ignore whatever numbers a meter is telling you. If it feels good, it's good.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054821939006418984",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "Not sure I agree. If you had me master a record in a bedroom I don\u2019t even know what meters would give any kind of useful info",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064412751230947339",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-15",
+    "content": "In mastering pretty much everything is about room acoustics and monitoring to start. As @David Fuller says if that\u2019s off your subtle moves will all be lost. If I had a half decent room, Neumann 310s (subs a bonus), 1 x EQ and Pro L2 I could do high level work",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079951104017715260",
+    "author": "masteredbyjack",
+    "date": "2023-02-27",
+    "content": "On the more general topic of what @macca should do (or anyone else in their situation)...I'd say just forget about mastering at all. The approaches and mindset I'm using, if you have access to the mix...makes them irrelevant IMO. I'm also sorta opinionated on this though. Like...why worry about making a tiny .3 db cut with .7 Q to clear up the vocal range....when you could just cut the actual elements that are the problem...or just raise the vocal?\n\nAnd almost certainly your monitoring won't let you hear these tiny moves enough to even learn probably. But I suppose there is some value is understanding the subtle balance shifts.\n\nFor me, many people can \"master\" their own track just fine for where they are at. It's not helpful at all for them to learn what a pro mastering engineer is doing day-to-day if they ever are only going to be \"mastering\" their mix. Why? It's like saying it's useful to learn the trumpet if you're ever only going to play piano IMO. Sure, it's still music but almost no skills will actually translate across. \n\nYou can always fix it better on an individual track than on the stereo file.\n\nI also sorta bristle at the what is \"mastering\" convo...we just finish records. That's it. Whatever it takes. Of course there are some broad approaches that will be applicable to everyone, but most of them would be better forgotten by mixers so they can make bolder and more creative moves.\n\nAgain, this is all just in my opinion, perhaps Ruairi is rubbing off on me lol? (notice strategic placing of lol @Nomograph Mastering )",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127265886059896852",
+    "author": "Rollmottle",
+    "date": "2023-07-08",
+    "content": "Same. Given the monitoring, treatment and general purpose nature of the room, I wouldn\u2019t expect much in the way of results though. Everyone starts somewhere and more power to the guy, but if you\u2019re looking for actual mastering, I wouldn\u2019t be looking there.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1199451725287936212",
+    "author": "Slow Hand",
+    "date": "2024-01-23",
+    "content": "As in mastering a track in a hotel room? Unless it\u2019s your own music I would wait until you can do it in a proper monitoring envrionment. \n\nNone of those options inspire confidence that they\u2019d be sufficient for mastering a track. If someone\u2019s paying you to do this they deserve better.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222188580516925502",
+    "author": "Rollmottle",
+    "date": "2024-03-26",
+    "content": "This workflow is the same whether I stay digital or go analog: I roughly adjust all the levels of the songs against a calibrated VU meter so louds are loud and the quiets make sense relative to the louds. Then an instance of Equilibrium gets added to every song as the first move. Other than that it all depends on the song. Loudness gets handled separately in another step.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1442086677744193536",
+    "author": "spectrummasters",
+    "date": "2025-11-23",
+    "content": "I do like that first record a lot , so my response is defo biased by simply really loving the song and the artist \n\nThe second one is totally not my wheelhouse \n\nI just wanted to note/counterpoint  where it seems you\u2019ve caught a little heat for asking : \n\nI think there\u2019s real value in being able to discuss what we\u2019re hearing without feeling pressured to adopt a particular emotional stance or to measure our impressions against social circles or market outcomes. Honest listener reactions, offered respectfully, are part of how we learn as engineers. We can appreciate the creators\u2019 dedication and still talk openly about the sonic choices we notice \u2014 those things aren\u2019t in conflict. \n\nPeople like Jeff Ellis casually state that the shaker is way too loud on \u2018Beat It,\u2019 and no one sees that as disrespecting Bruce Swedien \u2014 it\u2019s just part of how engineers talk about records. An honest  critique isn\u2019t an ad hominem attack; it\u2019s how we train our ears and learn from greats \n\nTechnically , I\u2019m \ud83d\udcaf with Johnathan\u2019s point about monitoring and Anthony\u2019s  about leaning in . \n\nThe enemy of art is indifference . I love that you care enough to ask .",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1454262915296264274",
+    "author": "Berlin",
+    "date": "2025-12-26",
+    "content": "I keep it simple. No oversampling. Flip between modes (Hard clip, soft clip, etc) to see what gets you a better result for the program material. Like with anything, there is not a simply quantifiable reason for why some modes work and others don't, changing from song to song. Listen carefully and use your ears. \n\nI like to use Standard Clip for highly transient material, clipping off those really high peaks to take some of the work off of the proceeding limiter. But it is very easy to get audible clipping and distortions if you go too far (if that not is not your desired result), so keep an ear out! The meter doesn't help you with that, even if it doesn't *look* like you're clipping very much.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "976543814095368235",
+    "author": "Zack Hames",
+    "date": "2022-05-18",
+    "content": "Nailed it - also their monitoring system! It's *shocking* how many musicians / music lovers don't even have a decent pair of headphones!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1047252846946549872",
+    "author": "Iwan Morgan",
+    "date": "2022-11-29",
+    "content": "Cleaning up noise, removing clicks. Occasionally softening a bad ess. Conversion, also the metering tab is quite useful for checking for overs after printing a master",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062446311988805693",
+    "author": "hebakadry",
+    "date": "2023-01-10",
+    "content": "Yes imagine real life...you could blow a cutterhead!...a $10k mistake if your breakers are not calibrated properly...",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064773238003085342",
+    "author": "Gerhard Westphalen",
+    "date": "2023-01-16",
+    "content": "As we were chatting about up above, IMO taste is #1 and monitoring is #2. Once you get those sorted out you\u2019re good to go. Focus on developing your business which is what I\u2019m terrible with. Everything else is really just for your own satisfaction. You don\u2019t NEED any of it.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079591351265546240",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-26",
+    "content": "As you probably heard me talk about on the video I don\u2019t really think it\u2019s possible to master your own mixes - the main missing ingredient being objectivity. The second missing ingredient is different/hopefully better monitoring",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127644877564424233",
+    "author": "LAPhill",
+    "date": "2023-07-09",
+    "content": "The most popular thing I ever did was when I had to write a 5 minute cue the day I moved into an untreated closet-sized room, with gear half setup, Sonarworks, and flipping between speakers too big for the room and crappy headphones. \n\nIs it my best mix? No. But I was dialed in and found the limits thrilling. It forced me to really listen (as best as I could) to every decision I was making.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138284250857209926",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Absolutely. I try to be as agnostic as possible between audio brands of various cache (I think my switch from ATC to PMC is solid proof of this). I'd be happy to spend money on a better DAC if it made a reasonable impact in my monitoring environment or even more importantly, the quality of my work. I had every intention of using the better spec'ing Topping instead of the Grace but when I A/B'd them, they sounded near identical and I would go on to say that the Topping sounded slightly worse. The Hilo and Orion were just identical. Different story when replaced my Dangerous Monitor ST with the Grace m905... that was a big difference. Same with the ATCs vs PMCs... instant. Huge. But DACs? I'm firmly in the 'solved problem' camp. Insanity to me that people working out of bedrooms with wall panels claiming they can hear massive differences between these boxes... I genuinely want to call shenanigans.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1142607478480183406",
+    "author": "peterlabberton",
+    "date": "2023-08-19",
+    "content": "Yep, have also been using it exactly like this in the final moments of a mix. Only complaint is, it\u2019s hard to know how far to go in attenuating a problem spot without hearing it in the context of the mix\u2014even with everything going through the processing after the Monitor plugin. Would love a way to somehow lock PT and RX to hear the RX changes live with the mix, before bouncing back into PT to see how it sits\u2014and then maybe having to go back in if I didn\u2019t nail it.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217668561733156864",
+    "author": "Berlin",
+    "date": "2024-03-13",
+    "content": "speaking of raising rates and not listening. a few years back I raised my rates and lost an artist, they then went else where for their master, got it mastered, and got v1 back - set up in their studio, jamming it loud, and then when the bridge of track 1 hit, there was an iphone ring tone BLASTING, distorted, and it scared them to death and almost blew up their studio... Needless to say they came back quickly, paid my rate. \n\nStill have always wondering what happened with those masters - all I can figure is their phone was synced to their computer, they were mastering out of the box, and their computer chose the DAC for their mastering chain, got a call while running masters without monitoring, didn't QC and just hit send.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222174595646226432",
+    "author": "masteredbyjack",
+    "date": "2024-03-26",
+    "content": "@Berlin is who you're asking I know (and I love his work as well)...but in my experience there is no one way. Absolutely dependent on the track. I know @Nomograph Mastering has posted on his preferences (EQ first, then limit, etc) but I'm sure even that is totally dependent on what's going on. \n\nI do different things on different tracks in the same day for instance, and different things within sections within those tracks sometimes. Wish that was more helpful...just trust your intuition is the best thing I can say (to both you and myself)\n\nThat said, my approach is to sorta keep as much of the essence of the mix, \"do the least harm\", so I try to not make any moves I don't feel pulled to. Very much...listen and wait until I feel the pull to do something. And if not, I just don't. But even then, I do wild stuff because my heart likes it. Probably where the monitoring is most important so we can just trust what we are hearing and what we are called to do",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234614404251652158",
+    "author": "Rollmottle",
+    "date": "2024-04-29",
+    "content": "I'd focus on getting your room as right as you can so you can get Sound ID out of your monitoring path.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1242888229607313519",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-22",
+    "content": "@Berlin has way more to offer here but I have friends who did contract cutting for big vinyl pressing houses for years. The rates of pay mean that the cut is as fast and trouble free as possible, no do overs no fussing. If you want to optimize the cut, you need a dedicated engineer to set the various parameters",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1251005833018347570",
+    "author": "Nick Stetina",
+    "date": "2024-06-13",
+    "content": "I think this and file naming conventions is why I don\u2019t actually use the external editor feature in WL, and instead just open a dupe of the original mix titled \u2018Song Name_RX1\u2019, instantiate the RX Monitor connection and just work in the RX window while it plays through the chain in WaveLab. Save in RX and the file is automatically overwritten, replace the mix file in WL with a few clicks.\n\nThis might be overkill but I have even left myself breadcrumbs along the way, RX1 pass focusing on the instrumentals, and then a second pass on vocals. That way if there is any undoing later, I have a checkpoint.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1251007077342515280",
+    "author": "Edsel Holden",
+    "date": "2024-06-13",
+    "content": "I love hearing about our little workflows internally. Thanks for sharing. When I use external editor in WL it automatically bumps up versions of each save in the \"data\" folder, which works for me. They just get automatically named with a number at the end ascending. Sometimes it's nice to go back one. You can do the same with an undo in your RX window if I correctly understand your workflow. I always keep a safety of OG file copied somewhere.\n\nThe whole RX Monitor sounds neat if it worked very well, i'll investigate sometime.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1252339871733776384",
+    "author": "Berlin",
+    "date": "2024-06-17",
+    "content": "One of my mentors early on in my mastering journey told me to forget about the meters and just use my ears, give the track what it needs and leave it at that.. Of course hard for me at that time because I was hard in the paint about how loud the pros were getting stuff, but hadn't wrapped my head completely around the idea that there's so much more to loudness and perceived loudness than just a limiter (and the pros are working on pro tracks, whereas at that time, I was not.. not even close). But fast forward to now I literally think about that conversation everyday and how right he was, even with the tracks that I receive being better than ever.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1272343211746263081",
+    "author": "Slow Hand",
+    "date": "2024-08-11",
+    "content": "I\u2019m still saving up for a pair of these for my monitors:",
+    "reactions": 2,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1273363959877075046",
+    "author": "Nick Stetina",
+    "date": "2024-08-14",
+    "content": "The dudes have spoken, but just to add on to this, everything I have is stepped except the Gyraf Audio G23\u2013S. Its markings are fairly course, but I have found as long as I stick with my own visual calibration of eyeballing it and being like \u201cthat\u2019s +.3 on channel 3\u201d  it\u2019ll be pretty much dead on every time. And if not, your ears referencing the previous version is all you need.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1290430335670161449",
+    "author": "peterlabberton",
+    "date": "2024-09-30",
+    "content": "Doing this, AND holding fast to a consistent monitor level have been huge",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324814675782926378",
+    "author": "Moses Mastering",
+    "date": "2025-01-03",
+    "content": "yes i agree with you.. you should hear it if its really going over that in a 24bit fixed export.... so that is the head scratcher.. whats interesting as well is the song that is played that is already \"mastered\" in that video shows it going over 0 by a couple db as well. MAYBE HERES An idea haha....the meters are set up different in the settings etc.. that is possible. So that going \"over\" isnt actually going over. I know a handful of people who use different systems, K system, VU +or - etc.. and if your meters are set up that way.. and even on the dorrough hardware it can look like its going over 0 but its not... I HAVE a feeling this actually might be the answer to what we are seeing haha.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324816324894920818",
+    "author": "Moses Mastering",
+    "date": "2025-01-03",
+    "content": "ya i don't think its true peak that high over... when i measured it on spotify, normilazation off.. it does not really seem smashed to death and its barely true peaking over 0. I think its a meter thing haha... just opened up ozone 11... switch meters. This song is not going over 0 but on the k system it looks like it is.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368305297130655915",
+    "author": "DarrenB",
+    "date": "2025-05-03",
+    "content": "I use Gainmatch for referencing like this. Drag mix or whatever you want to reference to a new track and set your send plug there, then the receive wherever you want to monitor from.  Easier when doing full albums compared to Metric AB.  Easy too to match levels.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372222175825760257",
+    "author": "mcsnare",
+    "date": "2025-05-14",
+    "content": "On the converter topic, I\u2019m rockin a Prism DA-2 for monitors, an OG db tech DA 924 for pitch and a Prism AD-2 for catch. The new Millennia Immersiv DAC is on the way for trial.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014837092454486",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "I\u2019m doing all my monitor control via wavelab and an RME adi2pro. I locked the level so I don\u2019t ever adjust it an dI just level match with a ref track \u201cloudness matching\u201d feature in wavelab and use a key stroke to flip a/b",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031969494236668004",
+    "author": "Will Melones",
+    "date": "2022-10-18",
+    "content": "Are you consistently monitoring at the same level(s)?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1033027230219116607",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-21",
+    "content": "I hear that same old tired story about \u201cspreading the load\u201d across plug ins, and it seems to me like people with bad monitoring or lacking decisiveness",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1039779785813000242",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-08",
+    "content": "And for the most part the more accessible we make it visually, with meters, with Splice, with editing the worse it gets",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042572558240858224",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-16",
+    "content": "No meters and no referencing for me, I\u2019ll notice the LUFS when I QC but there\u2019s almost nothing I could see that would have me change the master",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054829949590188142",
+    "author": "cian riordan",
+    "date": "2022-12-20",
+    "content": "Interesting about the metering, @Nomograph Mastering. This makes a lot of sense to me in a room you know, but I do find visual metering tools (VU, spectral analyzer, LUFS, L/R balance) very useful in helping me get acclimated in a room I don't know very well. Obviously more of a tracking engineer problem than a mastering engineer problem.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1058240971093061704",
+    "author": "masteredbyjack",
+    "date": "2022-12-29",
+    "content": "Gotta run but would love to circle back after new year on here to discuss something I\u2019ve been thinking about recently\u2026\n\nThe tension between having ambition for success in mastering vs the reality that we are best when we serve what the music is telling us needs to be done. \n\nBeing very new I\u2019m in many situations where I\u2019m in sorta \u201cprove your worth\u201d territory, first time clients, etc. Often have to check my mindset to recalibrate and just wondering your journey (if any) on this topic",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064638183750504559",
+    "author": "hebakadry",
+    "date": "2023-01-16",
+    "content": "Got the MBP\u2026I hate the limiter\u2026don\u2019t use the compressor much, but the imaging section and saturation is great.  The metering is way too coarse for mastering too.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078719562951954542",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-24",
+    "content": "Standard clip just has great metering for the transients, makes it really easy to see what\u2019s going on. Hard clip only",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082212689478168647",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-06",
+    "content": "And if I can find the right EQ (basically the inverse of their often poor monitoring - speakers, room, position, sonarworks, listening too loud)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089957591498641628",
+    "author": "masteredbyjack",
+    "date": "2023-03-27",
+    "content": "I should also add that having a great monitoring environment really was hugely, hugely key here. It's so clear to me what I like and what I don't, it's really supercharged my ability to understand my perspective (which of course is always changing). And I think it's just a necessity to do high-level mastering with any consistency (though I'm sure there's someone out there that is a counter-example)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1099177900781096980",
+    "author": "masteredbyjack",
+    "date": "2023-04-21",
+    "content": "That is actually pretty funny on principle alone\u2026but maybe they just mean like \u201cfeel\u201d more dynamics? There are definitely mixes that are both louder and I feel more dynamics in you know?\n\nEven if the meters say differently\n\nAlso \u2014 who is this \u201cthey\u201d? Some group? Or cult? Or just like a generalization",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1100523768604008589",
+    "author": "Nomograph Mastering",
+    "date": "2023-04-25",
+    "content": "But he\u2019s got a phase correlation meter taking up half the screen so he\u2019s about to go into a death spiral",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127745675849904157",
+    "author": "Nomograph Mastering",
+    "date": "2023-07-09",
+    "content": "To be clear - made hits in a shit situation is not a justification for maintaining a shit situation. Better monitoring and better acoustics matters and helps a lot, I have hundreds of real world emails and texts from clients across a decade and every genre proving so. But conversely becoming the acoustics police is counter productive",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1142563728676638800",
+    "author": "Adam Thein",
+    "date": "2023-08-19",
+    "content": "Sorry to chime in - I've always had a hard time making use of this feature - if the waveform is always the same every time and you mess with the sensitivity for a while you can get ok results - with de-essing and vocal cleanup I prefer to just have it open and have my keyboard shortcuts setup and crank it.  Manually QC.  Also definitely recommend using the RX Monitor feature to pipe in the audio back through the daw chain for De-essing so you can hear your moves in context!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1143674711788765184",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-22",
+    "content": "No, it\u2019s these nerds that think you can judge music with a dynamic range meter",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1180994723310227496",
+    "author": "Rob Domos",
+    "date": "2023-12-03",
+    "content": "A thought on this: while I think we should all hit a point in our career where we are referencing very little so that we can connect to what\u2019s going on and reference just to get our bearing on things, I think most people early on in their skill development would benefit a lot from very meticulously referencing and copying at least a couple mixes in their life and then grow out of that. Yes, earnest connection to what is happening in the song is lost and that sucks, but most people I see who are in the first couple of years of mixing have glaring technical issues (that are mostly monitoring related IMO) and the insight gained from obsessive referencing largely solves these issues in my experience",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1204881017203064865",
+    "author": "Edsel Holden",
+    "date": "2024-02-07",
+    "content": "Pretty much anytime I use an automation envelope to automate a plugin parameter in Wavelab I get a click or pop in the render wherever I had a point placed. This does not happen when automating volume only.\n\nIs there some trick I don't know to actually use Wavelab automation in a clean fashion or does it suck for everyone ?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1216026375321026700",
+    "author": "dcmabon",
+    "date": "2024-03-09",
+    "content": "This exact thing set me back *years* in the beginning because the infamous Gearslutz days. \u201cI can\u2019t possibly get a good mix because I don\u2019t have a $20,000 monitoring setup\u201d. Eventually realized \u201chey, people with $1000 setups are mixing some of my favorite stuff. What am *I* doing differently. Then I was finally able to grow from there",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220811159309910106",
+    "author": "Berlin",
+    "date": "2024-03-22",
+    "content": "the gut meter is becoming more and more obsolete \ud83d\ude42",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1224910181130047630",
+    "author": "Jeremy Klein",
+    "date": "2024-04-02",
+    "content": "Ok so from what i can tell, Apple Digital Masters, (previously called MFiT), is basically just a series of guidelines that wants you to \n\na) deliver the highest res wave file possible without up sampling\nb) avoid clipping (so true peak + reduced ceiling + monitor any clipping through the tools they provide you)\nc) preview that after your wav is encoded for Apple Music, you make sure it still sounds good. (the Master for Itunes droplet tool they give you)\n\nIf you want that \"Apple Digital Master\" badge, on the track, you likely have to get it done by someone certified to do an ADM master.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234596699125714944",
+    "author": "Conah Tucker",
+    "date": "2024-04-29",
+    "content": "Evening folks! So I'm a year into my mastering buisness and I've got some money saved for gear. So far I've custom built 12 10cm thick high density rockwool panels + SoundID.\n\nJust wondering what route you would go down if you were in my position. Got some dynaudio monitors, Focusrite Clarett interface and no hardware.\n\nWith mastering gear being so expensive I don't want to make a poor decision. In my head I should go down monitoring first, then conversion then hardware. What would you guys recommend equipment wise? \ud83d\ude42",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234623905994375262",
+    "author": "Rollmottle",
+    "date": "2024-04-29",
+    "content": "There's tons of info in the #\ud83d\udd08monitoring-talk  channel on room setup basics that are also worth tracking down. Start with this pin: https://discord.com/channels/800115582531928064/829551288437440512/1090192266389377065",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1244700352352223325",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-27",
+    "content": "And of course, as boring as it is all roads lead back to monitoring where you can actually hear these frequencies with some fidelity so you can make the best calls. Music has never been so loud or had as much sub 50 Hz as today, across every genre",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324811188114161746",
+    "author": "Moses Mastering",
+    "date": "2025-01-03",
+    "content": "So, in most cases, you can go over 0 dB in your DAW if you're working in 32-bit (or higher) precision, and you won\u2019t necessarily hear the clipping. This is because the internal audio engine can handle peaks above 0 without immediate distortion\u2014it\u2019s all about floating-point processing magic.\n\nNow, whether the audio gets normalized to stay under 0 dB depends on what happens during export. Sometimes, what you're seeing in the DAW or Ozone meters isn\u2019t exactly what ends up in the final file\u2014especially if there's a limiter, normalization, or post-processing involved. It\u2019s even possible that the version you\u2019re analyzing wasn\u2019t actually the one that was officially released. Happens more often than you\u2019d think!\n\nThat said, it\u2019s not unusual to see mixes or masters that are technically clipping more so going over 0... in tools like Ozone or the DAW but sound fine due to the flexibility of floating-point processing. I\u2019m not saying this is a best practice\u2014but I\u2019ve definitely played around with it. I\u2019ve even intentionally clipped files way past 0 dB, re-exported them, and compared them to cleaner versions. They sounded different, but at that point, I found myself asking, \u201cWhy am I trying to squeeze one more dB of loudness out of something that\u2019s already crushed and competitive?\u201d Classic overthinking, right?\n\nAnyway, back to your question: I think what you\u2019re seeing is a product of the DAW working internally at 32- or 64-bit, so it can handle those overs without clipping during processing. Then, during export, maybe they normalized it, maybe they fixed it later, maybe it did just didn't sound distroted haha... or maybe that\u2019s just not the real released version at all. Who knows?  I would not lose sleep over it and also know what you have seen is not a \"secret\" that your missing haha.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324816671428317215",
+    "author": "Ted Whitten Media",
+    "date": "2025-01-03",
+    "content": "Haha I saw those meters before I read your response and was like, holy crap! \ud83d\ude02",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324824895519199406",
+    "author": "Ted Whitten Media",
+    "date": "2025-01-03",
+    "content": "Yeah they're just using peak/RMS on the metering section, the k system has colored ranges on it. So that's actually going out of Ozone like that. But as mentioned before, it's floating point, so no worries there. There's got to be some gain staging after that, 5 db of steady clipping would sound like it's being run through a fuzz pedal. Lol.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1336772710683906108",
+    "author": "Calvin Lauber",
+    "date": "2025-02-05",
+    "content": "Hey guys- so I\u2019m asking this question I guess in a mixing context but I know it\u2019s a common function of mastering so I thought I\u2019d post here. \n\nI always have an instance of ozone maximizer at the end of my chain that I mix into. I\u2019m generally happy with the results/loudness I get and comfortable with the parameters, except I never really mess with the \u201ccharacter\u201d which I suppose is the speed/release of the limiting? \n\nOn a recent mix I slowed it down more than I ever would, which really just means making it slower at all from the defaul setting, I usually stick very close to it, and I really like how it made the pocket of my mix feel. But I guess, I have always understood people to use very fast release compression on masterbusses.. \n\ndo you all find yourselves moving the character/release of the final limiter around pretty widely to get the right feel or are you typically keeping it quite fast?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360286547915837540",
+    "author": "hebakadry",
+    "date": "2025-04-11",
+    "content": "I think time spent de-essing vocals and treating HF content in vinyl prepped masters overrides worrying about how much limiting there is in my opinion. The amount of limiting and how good/bad the cut is really pertinent on the program material itself.  Not the actual amount of gain reduction you are doing because the cutter will literally just turn everything down anywhere between 8-10dB before the signal hits the amps. Excessive sibilance, on a hyper compressed rock record with insane splashy over compressed cymbals and out of control HF information will result in the dull cuts you get back from most plants where you don\u2019t have access to the cutting engineer.  They do this because they want to create a playback safe record and avoid a very expensive $10k mistake like blowing a cutterhead if their amp breakers aren\u2019t calibrated right.  Instead of spot de-essing problem on one song or spot treating problem songs on a side, they will opt for broad stroke moves (HF limiting, EQ, global de-essing) and that can be a bit of death sentence to the quality of the cut and put everyone off vinyl as a format.  Which I think is an incredible format with well crafted engineering.  Also I strongly believe that every record doesn\u2019t belong on vinyl\u2026but that\u2019s another convo.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1364308785472212993",
+    "author": "Nomograph Mastering",
+    "date": "2025-04-22",
+    "content": "@Slow Hand is there a way to move this to the monitoring channel?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1385698651745288222",
+    "author": "Rollmottle",
+    "date": "2025-06-20",
+    "content": "fighting against your space or work because your monitoring is unreliable is no fun. worth spending some time doing searches in #\ud83d\udd08monitoring-talk because better monitoring is well within grasp with even modest resources.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1390575164151824404",
+    "author": "conordalton",
+    "date": "2025-07-03",
+    "content": "does anyone split up the mastering process over multiple venues / days? \n\nvery often recently i will run the song through some gear at home and get a rough balance, using headphones to monitor, \n\nand then finish the mastering the next day at the studio on the speakers, finalizing digitally\n\nsomehow it's working great, giving the chance to have more than one \"first impression\" in different environments and systems",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1408190153419128983",
+    "author": "Berlin",
+    "date": "2025-08-21",
+    "content": "all meters over here",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1410077117848227850",
+    "author": "Nick Stetina",
+    "date": "2025-08-26",
+    "content": "I like most of TDR's plugs, Fabien is a super smart dude. I dig the level of control In Finesse and the 'Guard' parameter seems useful, but on this particular track today I immediately preferred DSM V3.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1420778411835785286",
+    "author": "East End",
+    "date": "2025-09-25",
+    "content": "I print a pre limited pass but I'm always monitoring through the digital limiter.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1441973194306097223",
+    "author": "BatMeckley",
+    "date": "2025-11-22",
+    "content": "I think you might be mistaken about what constitutes a \u201cproblem\u201d. \n\nIn cases like this, when it\u2019s clear that A level people worked on something that did relatively well, instead of a framing it as a \u201cproblem\u201d, I\u2019d recalibrate and ask yourself what it is that you\u2019re not picking up on or understanding about why other people are vibing on something that sounds \u201cwrong\u201d to you. \n\nSome of my favorite music started as WTF, and ended up teaching me something new about how to connect emotionally via a different technique. That sleighbells record without the \u201cawful\u201d limiting wouldn\u2019t kick nearly as much ass",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1469480618801762478",
+    "author": "Bryan DiMaio",
+    "date": "2026-02-06",
+    "content": "Can\u2019t wait to buy your Sonarworks presets",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014216113160243",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "Yeah that\u2019s a big thing for me. I\u2019ve got a reliable ab method in wavelab so I\u2019m not sure how much I\u2019d use the monitor  path",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "972237991194021978",
+    "author": "h3x",
+    "date": "2022-05-06",
+    "content": "that def also is a monitoring issue too cuz i always will think i nailed a mix, but then when taken to the car it sounds either under-cooked or over-cooked and its cuz my speakers r so hyped up that its super hard to gauge what's \"ready\" for the mix to be sent off to either streaming or a mastering engineer",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975129557415890975",
+    "author": "Eric Martin",
+    "date": "2022-05-14",
+    "content": "That is based on how the manufacturers calibrate where full scale is in terms of output which you\u2019ll see referred to in a different language excuse the output is designed in volts not db, so in terms of voltage they\u2019ll be able to cleanly supply more voltage than is necessary so that playback is always sounding as intended.\n\nIE 0dbfs = 2.2 Volts peak to peak(positive and negative)\n\nAnd lets say the amplifier can reproduce 3  Volts peak to peak, they\u2019ve designed the device to handle any overs without distortion.\n\nAll of this is highly technical but involves maths and actual \u201caudio engineering\u201d in the geekiest of the geekery.\n\n@David Fuller will understand much better than I do about it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975129622758977676",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "it's just the rail voltage being above the maximum calibrated output",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "977550017948700732",
+    "author": "chadwahlbrink",
+    "date": "2022-05-21",
+    "content": "Is it just me or does Apple Soundcheck feel super fucked up? \n\nI have been using soundcheck more to reference spatial vs stereo but I noticed some other quirks when just jamming stereo records.\n\nApparently, playing an album will try to set the volume for the whole album, but from what I can tell, it\u2019s all dictated by the first track. Some records that start with an intro track of sfx or quiet musical bits end up being screaming loud if played from the album mode with soundcheck enabled.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "977559917969940500",
+    "author": "Eric Martin",
+    "date": "2022-05-21",
+    "content": "On the mac you can actually \u201cget info\u201d and it will tell you how the song gets adjusted for soundcheck",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "977586574692876298",
+    "author": "Eric Martin",
+    "date": "2022-05-21",
+    "content": "I\u2019ve only ever turned on soundcheck to check to see how a song gets turned down, but have never liked how it sounds",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "981400857457340416",
+    "author": "Deleted User",
+    "date": "2022-05-31",
+    "content": "I started putting it after my final limiter from this year to give some extra push like a final bit of salt sprinkles before serving. I don\u2019t touch the gain parameter, effect rarely goes beyond 6-7% and curve at +- 3-4. If I set the ceiling on the limiter right, it doesn\u2019t clip other than ISPs or a few samples clipping. I start at 2 range and tweak it at the end. But I only do this when I\u2019m doing a bounce, I don\u2019t master so interested in hearing now mastering engineers use it. \n\nOr if there\u2019s an individual instrument that needs some lift, I would use inflater more aggressively.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1001926737548030042",
+    "author": "Eric Martin",
+    "date": "2022-07-27",
+    "content": "for real, my tubes and transformers are doing so much more than the GR meter can show.\n\nMastered a song yesterday without a \u201cfinal limiter\u201d and it felt great, just two sets of tubes and transformers",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1027358657098297394",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-05",
+    "content": "That said I have a super non standard workflow which allows me to avoid the oversampling filter in Standardclip so it's basically perfect for what I do. I only want/need hard clip and good metering",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1027361143091642411",
+    "author": "ALXCPH",
+    "date": "2022-10-05",
+    "content": "what i do like about it, is also the visual aspect. the meters go up from 0 - -1 Db in 0.1 increments and then in 1db increments after that. makes it really easy to see the exact amount of clipping, which can be a little difficult in standard clip sometimes. imo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1028098513189490789",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-07",
+    "content": "I would never look at a meter for a decision like that. I only ever glance at LUFS after I\u2019m done, if even",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1028219222922362902",
+    "author": "Maxim",
+    "date": "2022-10-08",
+    "content": "Do you think the monitoring environment can push someone into either direction (by varying degrees of being emotionally engaged and absorbed by the music as well as the highlighting of \u201cmistakes\u201d)? I\u2019ve wondered why many MEs seem to use hifi monitors.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030332024847880222",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-13",
+    "content": "I've got it set up in MS (you can see on the meters) but I never MS EQ",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031968093142003752",
+    "author": "VESHZA",
+    "date": "2022-10-18",
+    "content": "i cannot explain this but its like my ears are tuned to like specifically -10 LUFS for some reason lmaoo\n\neverytime before i actually check the LUFS on any meter, i first get it to a level i like personally and feel like works the best for the track, \nand afterwards when i check it and its almost always on -10.0LUFS",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1031971256209248316",
+    "author": "VESHZA",
+    "date": "2022-10-18",
+    "content": "yea, and the fact that this decision is being made without looking at meters just supports the fact that it truly feels right for the track i think",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1034565067611582484",
+    "author": "hebakadry",
+    "date": "2022-10-25",
+    "content": "If however you\u2019re cutting at a plant like GZ media or any of their brokers (which everyone does now) for the high turnaround, where you cannot interface with the cutting engineer\u2026yes you\u2019re going to get a boring \u201csafe cut\u201d\u2026meaning they will not go above and beyond or be creative and will avoid inner diameter distortion at all cost. \u00a0They have their own proprietary software and the lathe operator is literally in a different room from the person that actually processes the source material they get for the cut. Very much a setup made for speed factory cutting & efficiency and not so much for the craft. \u00a0There is an interesting video by Michael Fremer filmed at GZ\u2026i think he\u2019s the only person that was ever allowed in and it is by all means is an impressive operation. \u00a0They have a pretty advanced QC process. \u00a0But it\u2019s a game of odds on whether your cut will sound good or not. \u00a0Half the time you\u2019ll get a shit cut and the other time it might be fine\u2026depends on which operator you get. \u00a0It\u2019s treated like a product there and not so much a \u201ccraft\u201d.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1041063115258863746",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-12",
+    "content": "I have a learned sense of how loud things are in the room so I\u2019m not a big meters guy but at this point you\u2019ll need to take a break, then come back and use some combo of lufs metering and referring to decide how loud to make things",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042570981945901096",
+    "author": "ALXCPH",
+    "date": "2022-11-16",
+    "content": "When you decide on loudness for a track, do you use any specific reference tracks? or do you just know how loud something is in your room because of how well you know your room and what loud enough sounds like? You mentioned before you weren\u2019t much of a meters person, so i dont imagine you use measurements like lufs to check how loud you are?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042574196930265098",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-16",
+    "content": "And correlation - if you need a meter for that your monitoring is fucked (or you are a beginner)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042575065864228864",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-16",
+    "content": "That\u2019s a challenge. Maybe there\u2019s a way to use a consistent ref track and an SPL meter to get a baseline of some consistency",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042575495302221886",
+    "author": "ALXCPH",
+    "date": "2022-11-16",
+    "content": "I do have a couple of ref tracks to let me know what a room is roughly giving me. But the rooms are so inconsistent, from big expensive studios to small 6x6 meter Production rooms",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1043023484386820166",
+    "author": "masteredbyjack",
+    "date": "2022-11-17",
+    "content": "This is true (at least as I understand it) but I think the deeper discussion revolves around how dense you want the music to be, how the transients sit relative to other aspects of the music, how much low end you want and what you\u2019re willing to trade off in terms of openness/dynamics vs energy. \n\nThis is a super deep topic that I\u2019m still wrapping my head around and forming my own opinion\u2026and while I know I argued earlier it\u2019s important to consider your loudness, it should absolutely take a back seat to your feel for the music creatively IMO.\n\nThere are many complex reasons why people like things loud (some I agree with, some not) but they do and will continue to as far as I can see.\n\nSomething like LUFS I find is best rendered as background knowledge. For example I found it interesting Ruairi says he knows how loud a record is because he knows his room so well and doesn\u2019t need to look at the meters. I\u2019m still getting there but I feel that\u2019s a best case scenario so the meters aren\u2019t dictating feel",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1053014007340093461",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-15",
+    "content": "But there\u2019s so much subtle stuff to how you make those decisions, like how relative levels feel at low levels vs high listening levels",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054820174315933756",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "I make exactly zero dynamic decisions using meters, I\u2019ll measure LUFS when I QC but pretty much never change anything based on what I see",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054820593024909342",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "None what so ever, by meters I mean",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054820722511458365",
+    "author": "ALXCPH",
+    "date": "2022-12-20",
+    "content": "Advantage of having a great room with great monitoring.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054821675033698324",
+    "author": "ALXCPH",
+    "date": "2022-12-20",
+    "content": "For sure. But i wouldn\u2019t trust my instincts if i knew the room was out of what. I would def use some metering to get job done. An uneven room can make something feel more or less dynamic than it actually is as well.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054823780834344970",
+    "author": "ALXCPH",
+    "date": "2022-12-20",
+    "content": "If the bottom octave was really hard to hear, referencing a meter to see that 20hz isn\u2019t 20db louder than everything else would be useful. If I had a track that would break up much easier than normal  and I couldn\u2019t hear anything specifically wrong I would def pull up a frequency spectrum to check if it was a bass issue and easily pin point where exactly it was. I agree on not using them to guide decisions, but I see the value in them being able to locate certain problems if you are in suboptimal listening conditions. At least for me. Maybe that goes away with experience, which is why you can get around it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054824954564182016",
+    "author": "ALXCPH",
+    "date": "2022-12-20",
+    "content": "I guess your original point still stands. And maybe I was just looking to justify some kind of use of a metering plug-in.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054825336317161492",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "Mostly, but your example was an excellent real world example of something that could happen and a good approach using a meter to solve it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054831939791622154",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "The common question in beginner mastering is \u201cwhat\u2019s the correct number for measured parameter X?\u201d And it\u2019s trap",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054832040580755476",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "But in tracking and mixing metering can help things get in the ballpark pocket well",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054980799792943156",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "When I mastered in Pro Tools I would always capture pre limiter but monitor post limiter, kind of a best of both worlds",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1058164257071566888",
+    "author": "Bonati12461",
+    "date": "2022-12-29",
+    "content": "Brainworx has few nice lil\u2019 functions too - that tilt knob and saturation knob have come in handy for me. I don\u2019t use the LPF or HPF but the monitor functions are nice too - especially if you don\u2019t have physical buttons on your console that will mono just the right or left channel or the sides.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060623757577830450",
+    "author": "masteredbyjack",
+    "date": "2023-01-05",
+    "content": "Of course I\u2019m making it sound too easy and I\u2019m not a real software developer\u2026.but it shouldn\u2019t be a lot of data to travel with a file and it\u2019s a serious no-brainer for a user experience point of view.\n\nI\u2019m still young but this kind of thing in the software world makes me grumpy. My gut says they are clueless and they messed something up long ago that they never took the time to fix.\n\nMaybe we should crowdsource our own mastering DAW on here lol. No meters. It only does spectral repair, loads plugins and bounces stuff haha. Blank UI",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060725064313618582",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-05",
+    "content": "Said another way could I use RME for the analog loop but keep my topping for the monitoring DAC?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060858878268551228",
+    "author": "Dimitris Bourgiotis",
+    "date": "2023-01-06",
+    "content": "I would like to ask If you think this combination of the topping plus the RME has any advantage over the ADI 2 FS R SE, where you can have two independent outs from the RME. I am thinking to go the ADI 2 FS R SE route for my monitoring/mix buss conversion.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060965169578115192",
+    "author": "Dimitris Bourgiotis",
+    "date": "2023-01-06",
+    "content": "Was thinking to use them as my monitor outputs & use the main input/output  for the my HW chain. Thanks for pointing this out, will look into this further. I naively thought that being balanced it would be ok & if I recall the specs were similar regarding dynamic range etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064413381316063293",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-15",
+    "content": "But with decades of experience and great monitoring and rooms",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064641498601246771",
+    "author": "Bonati12461",
+    "date": "2023-01-16",
+    "content": "I have a MBP too - also hate the metering, too coarse. RMS/Peak switching and parallel mix are nice features. Like the width and depth options but already have a very nice width control on the Maselec MTC2 (that actually mono\u2019s when set to 0%). The color options sound great on this box but it\u2019s not a comp I can\u2019t live without. I also dislike those stepped pots they use - they wear out over time and the steps become \u201csmooth\u201d, doesn\u2019t feel nice.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064679891230007296",
+    "author": "David Fuller",
+    "date": "2023-01-16",
+    "content": "wait, hold on, I've got this somewhere in #\ud83d\udd08monitoring-talk",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064691532684329030",
+    "author": "Gerhard Westphalen",
+    "date": "2023-01-16",
+    "content": "1. Taste\n2. Monitoring\n3. Everything matters\n4. Learn the technology/gear\n5. Taste",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064692358307921970",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-16",
+    "content": "Because if so I say you are stuck with Inherent taste, and we need to put monitoring first so you can work on your developed taste",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1068329857064378440",
+    "author": "Jeremy Klein",
+    "date": "2023-01-26",
+    "content": "also the width of the player is maybe 2 centimeters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1068718271379017828",
+    "author": "Rollmottle",
+    "date": "2023-01-27",
+    "content": "Probably better in #\ud83d\udd08monitoring-talk",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070623157611925534",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-02",
+    "content": "Remind me of your monitoring situation",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073714023801040907",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-10",
+    "content": "So, we have a monitoring problem",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073714579089137795",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-10",
+    "content": "Ah, so your monitoring tells you when something hits but it's not quite leading you there on your own work",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078819756255223860",
+    "author": "ALXCPH",
+    "date": "2023-02-24",
+    "content": "Well maybe bad monitoring, and after it has been mastered certain mix mistakes become more clear/aparrent",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078824534943211572",
+    "author": "Rollmottle",
+    "date": "2023-02-24",
+    "content": "neural monitoring to bypass my fried 90 year old ears",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079103940710383676",
+    "author": "hyanrarvey",
+    "date": "2023-02-25",
+    "content": "Not taking the piss this time so please correct me if i am wrong, but i start with a multi meter and calibrate, make sure its the \u201ctrue level\u201d and then i just hit it till it sounds good",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079103980606591066",
+    "author": "hyanrarvey",
+    "date": "2023-02-25",
+    "content": "So maybe the calibration is dumb",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079106916741042266",
+    "author": "hyanrarvey",
+    "date": "2023-02-25",
+    "content": "You can could calibrate all the levels so its no change in gain from box to box and then just adjust the daws output into the first one and then use that as your like master gain stage or whatever",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079109967409336421",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "Different considerations. For monitoring DACs I don\u2019t care about noise at all, only IMD and jitter etc. noise is just not a problem",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079159329824972890",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "It's way hyped a s technique but usually by people who either can't hear (bad monitoring) or don't know what they are doing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079159796604866662",
+    "author": "noahc",
+    "date": "2023-02-25",
+    "content": "I've honestly just been slapping it on every mixbuss as a failsafe? hasn't been terrible but now that i have proper monitoring/room, I think I can hear more of what's happening",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079557772301062216",
+    "author": "David Fuller",
+    "date": "2023-02-26",
+    "content": "Mastering is a very different mindset (and requirements for monitoring) than mixing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079557924889833584",
+    "author": "David Fuller",
+    "date": "2023-02-26",
+    "content": "but IMO there is a hard floor on monitoring for mastering and below it there be dragons",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079558933829656647",
+    "author": "Rollmottle",
+    "date": "2023-02-26",
+    "content": "@Nomograph Mastering has posted some really useful exercises for those new to mastering and how to think about. i will find them and link them for you. but as @David Fuller says, there's a floor to where your room and monitoring need to be.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082209678085341274",
+    "author": "spectrummasters",
+    "date": "2023-03-05",
+    "content": "@Nomograph Mastering What I\u2019ve gained particularly from yourself ruari is huge....in fact it really began with seeing your discussions with Matt and spider with regards to room acoustics and the importance of accurate monitoring. Ive said to you already that your point that two musicians could be in the same room and hearing different things due to the acoustics ...and that this can distress a creative process....was one of the mind blowing things I\u2019d never really considered. So this was the first major revelation i picked up from you about the necessary and correct attention to detail. That pricked my ears so to speak. I was v impressed with you and spiders approach to sound. !!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082799424209690684",
+    "author": "noahc",
+    "date": "2023-03-07",
+    "content": "I'm trying to \"calibrate\" levels today. Any advice how I can see if I'm hitting +18dBu on my fearn? I'm unsure what to set my Lynx Hilo at, as well as how hard to output out of my daw.  Was reading above about +24dBu on the converter trim but a little confused.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1090175381832745040",
+    "author": "spectrummasters",
+    "date": "2023-03-28",
+    "content": "Fantastic , thank you for this insight and I follow . I notice the point regarding monitoring at the same level keeps resurfacing here and have noted this for my own workflow thank you",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1090744005127581696",
+    "author": "ALXCPH",
+    "date": "2023-03-29",
+    "content": "Id love to stear the conversation away from good vs bad, but maybe towards, \n\nWhat is the point of a mastering engineer today? \n\nIs it technical skill? Is it a creative input? Is it psychological? Is it monitoring? All of the above? \n\nWhich of these things can be replaced? Because i have no doubt that some of the skill sets Will be replaced. And others will change in function",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1094326114828165240",
+    "author": "masteredbyjack",
+    "date": "2023-04-08",
+    "content": "Thanks Ruairi! Will monitor here whenever you have a chance",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105609699644162049",
+    "author": "masteredbyjack",
+    "date": "2023-05-09",
+    "content": "Crew: Does anyone know of a good mastering-level insert switcher that won't break the bank? \n\nI am thinking of adding a piece which doesn't have hardwire by-pass to the chain and would like the option of just having one insert or both in at the same time.\n\nMy AD/DA is a Hilo which only has one analog loop (2in, 2out) and handles monitor control so all I need is something to essentially route the signal around one piece of gear - or not. The things I've seen...like a full on mastering controller are definitely wayyyy overkill here and completely uneccesary from a function, space, and cost perspective to me.\n\n@Nomograph Mastering or @Rollmottle I am putting up Bat Signal since I'm sure you've encountered something similar but would love anyone's thoughts if willing to share!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108804239481917491",
+    "author": "Jodonny",
+    "date": "2023-05-18",
+    "content": "Thanks for the quick feedback Ruairi!\n\nAny good learning resources you recommend? I\u2019ve looked up some aliasing videos in the past but always walked away feeling like I didn\u2019t have a lot of practical takeaway.\n\nIME, all I\u2019ve found that using oversampling in Saturn 2 on more complex audio, such as a synth or a mix bus sounds a bit \u201ccleaner\u201d. I also wonder how much of these details are more prevalent in high-end monitoring/rooms. \n\nWhen you\u2019re talking about the \u201cnoise based sound of a snare\u201d are you inferring that aliasing is less noticeable in less-tonal/musical elements?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1113867325897187358",
+    "author": "Nomograph Mastering",
+    "date": "2023-06-01",
+    "content": "This is a big no no so historically levels are monitored by the FCC and various national equivalents",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1113954318056431666",
+    "author": "Rollmottle",
+    "date": "2023-06-01",
+    "content": "dynamic range isn't even a thing people care about. \"does this slap?\" is the barometer for the average listener.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127681903445672007",
+    "author": "popaganda.",
+    "date": "2023-07-09",
+    "content": "Not adding anything new to the conversation here\u2026.but the jump between a scarlet and a Hilo can make less of a difference than which brand of guitar strings or whether the singer did yoga that morning. As for monitoring, I was hanging out in a friends room that was extremely well/professionally treated with atc 45\u2019s and it sounded like ass. Not to mention nearly every big pro studio in town has a bad sounding control room. These things are marginal.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1131436529730994196",
+    "author": "omarakrouche",
+    "date": "2023-07-19",
+    "content": "On this note, I often find that I can get tracks louder with Ozone over Pro L2... but there have also been times where I've stepped back and felt like Maybe Pro L2 made things sound more \"like a record\"/had the glue/hold/etc. from a mastering limiter where as Ozone was really good at making things louder? I even feel like I could confirm this by how much work the meters were doing even with the same threshold",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1136187928163389440",
+    "author": "simplersounds",
+    "date": "2023-08-01",
+    "content": "Can't you just avoid SRC on Mac my by going to the Audio Midi setup and checking you are monitoring the same SR as the files you are playing back/streaming?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1137836461555724388",
+    "author": "Rob Domos",
+    "date": "2023-08-06",
+    "content": "Everyone says this. My response is that it\u2019s not a coincidence that 18 out of the 20 top mixers happen to be bypassing core audio. At the top it\u2019s a game of millimeters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1137869024307458048",
+    "author": "Rob Domos",
+    "date": "2023-08-06",
+    "content": "At least monitoring wise",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138173674000760862",
+    "author": "Rob Domos",
+    "date": "2023-08-07",
+    "content": "I sank 3 weeks into trying to find the cause. Only verifiable difference I found was that Cubase dithered the monitoring output and others didn\u2019t",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138252884685893726",
+    "author": "Rob Domos",
+    "date": "2023-08-07",
+    "content": "But my waves loudness meter impacts the sound in bypass \ud83e\udee3",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138253119390748683",
+    "author": "Rob Domos",
+    "date": "2023-08-07",
+    "content": "Even plugs that you think would do nothing, like a meter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138277149674053772",
+    "author": "Bryan DiMaio",
+    "date": "2023-08-07",
+    "content": "Think he\u2019s feeding his TC meter digitally from it so the analog put goes to the speakers",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138286925875265649",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "But it\u2019s true that modern good enough DACs are way less important than either analog monitor controller, speakers or acoustics in the chain",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138292091248722020",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "The same ears that heard the Dangerous monitor as sucky (when no one believed me), the ATC tweeter/port stuff etc hears the DAC differences",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1142602943816814664",
+    "author": "Zach Hughes",
+    "date": "2023-08-19",
+    "content": "I haven\u2019t used the RX monitor feature. Do you make the moves in RX and hear the playback from your DAW or how does that work?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1142606314825068585",
+    "author": "Adam Thein",
+    "date": "2023-08-19",
+    "content": "It's a plugin you can drop into your DAW on any channel - if I'm working on a vocal later on in the mix, I can plop the RX monitor at the first insert, then set your Driver Type to \"RX Monitor\" in the Audio settings in RX, and it will pipe the output of RX directly to the plugin in your DAW, allowing you to monitor RX through whatever chain you are processing with.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1143706850718646453",
+    "author": "hebakadry",
+    "date": "2023-08-22",
+    "content": "Some dance records can sound fine with some limiting or clipping still on\u2026but that\u2019s because there are no vocals and the crest factor is for the most part pretty high and you can get away with it.  The pickup playback distortion can also create harmonics and ends up bringing back some of the high frequency information you may lose as the you progress towards the inner diameter, but the moment you add female vocals on, it becomes very perceptible.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152990404875141321",
+    "author": "hyanrarvey",
+    "date": "2023-09-17",
+    "content": "Cause there\u2019s stereo meters for phase and width",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1153332524106387476",
+    "author": "onanisland",
+    "date": "2023-09-18",
+    "content": "When I didn't use to have full range monitors, etc... I'd get self concious about my low end .... bam... ME will provide you that peace of mind. And that feeling when the FOH says your \"mix\" sounds f awesome",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154194322326036511",
+    "author": "itMIGHTbeNICK",
+    "date": "2023-09-20",
+    "content": "i absolutley agree with this, i know there are differences. some do certain things that others dont and vice versa and some are calibrated differently. Additive vs subtractive depending on the EQ... but man i feel like between the couple of \"good\" EQ's I chose to use... I usually just always work with my ears over my eyes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154249785365246073",
+    "author": "Josh",
+    "date": "2023-09-20",
+    "content": "My pin is *redacted because of the conversation in monitoring talk*",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1158052031748124793",
+    "author": "Rollmottle",
+    "date": "2023-10-01",
+    "content": "And yeah, co-sign on not trying to anticipate what might happen in mastering. That will be like chasing your tail. Best to make sure you\u2019re confident with what you\u2019re hearing on your end monitoring-wise and making the best mix you can.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1166928936245141534",
+    "author": "masteredbyjack",
+    "date": "2023-10-25",
+    "content": "You know, I think this is so key. Just hitting a little over a year into the thing now, feeling much less timid. Not sure if that\u2019s a good or a bad thing quite yet, but being okay making a call I feel is in the best interest of the art and trusting the monitoring to tell the truth about what\u2019s happening has been huge over here\n\nMade a couple moves today on something I would never have considered doing for it being \u201cwrong\u201d before, maybe not a \u201cmastering\u201d move. But said fuck it, I like it and it accentuates what I find moving about the record! And the artist loved it, super pumped (didn\u2019t know what I did just with the result)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1166929747616477336",
+    "author": "masteredbyjack",
+    "date": "2023-10-25",
+    "content": "Also counterintuitively to my previous assumptions I find great mixes can actually be\u2026\u201dpushed\u201d or take more or whatever you\u2019d call it. Of course only in a situation where I feel like the connection to the art calls me to it, I\u2019m more than happy to barely touch things too when I love them, again why the monitoring matters so much",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176727851400167485",
+    "author": "masteredbyjack",
+    "date": "2023-11-21",
+    "content": "Okay crew got a question on a scenario I\u2019ve come upon often enough to ask:\n\nA limited REF is given at 24 bit \u2014 but when the non-lim mix is given in 24bit it\u2019s peaking at exactly 0.0db. \n\nObviously there could be many explanations for this (if intentional, which is fine). But I\u2019ve had it happen quite a few times where I have a close relationship with a mixer and thought it could be an oversight for reasons specific to each instance (not just generally seeing a peak of 0)\u2014 turns out when the non-lim 32 bit print is sent there are sure enough overs in there.\n\nTypically i see it happen when they are going into limiters hot in the REF, obviously when they print non-lim there are overs. Talking big overs, +4db or whatever\n\nBUT \u2014 honestly it doesn\u2019t really sound \u201cclipped\u201d in the 24bit non-lim print \u2014 I\u2019m assuming the overs are just recalibrated to zero but somehow this doesn\u2019t sound bad? Of course, if I get the 32bit I find I can make it sound just as loud but \u201cbetter\u201d with the full waveform represented in the 32bit file.\n\nIt\u2019s an easy fix \u2014 just get a 32 bit print without a limiter (if I can get in touch with who is handling that, which isn\u2019t always the case).\n\nI think (?) I understand what\u2019s happening \u2014 DAWs operate at 64 or 32 and can handle the overs fine in the session, but upon render at 24bit they get chopped (not sure about wording).\n\nTotally fine \u2014 I can and have handled it no problem, just a curiosity on what others are seeing, if I\u2019m even on the mark about this and how (or if) you are handling it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1180991669299073044",
+    "author": "Nomograph Mastering",
+    "date": "2023-12-03",
+    "content": "- make sure your monitoring scenario is the best it can be (so many of the issues I see stem from this)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": true
+  },
+  {
+    "id": "1190028570806988871",
+    "author": "spectrummasters",
+    "date": "2023-12-28",
+    "content": "With no parameter changes at all .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1190031996836139048",
+    "author": "Jonathan Jetter",
+    "date": "2023-12-28",
+    "content": "It's possible, or maybe there's a parameter that is inadvertently slightly adjusted (the output ceiling on Pro-L, or something like that)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1199445817858203858",
+    "author": "itMIGHTbeNICK",
+    "date": "2024-01-23",
+    "content": "Gonna be taking care of a Master from my NAMM hotel room saturday morning.\nWould you guys recommend I go with my HILO headphones out, bring my little \"Mobile\" monitors, or just go bluetooth to my computer?\n\nwhats the sauce thsse days?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1212435067725422602",
+    "author": "masteredbyjack",
+    "date": "2024-02-28",
+    "content": "I am of course no Ruairi or Randy, but I've absolutely used the transient emphasis (and many unspeakable techniques) if I only have a limited mix. Actually just pulled apart a song with LALAai to get the vocals and beat separate and rebuilt it. Anything goes. So long as it is in service of the art. I haven't ever (and probably will never) encounter something I would do every time, all about what the song asks for.\n\nThis is also why monitoring is so important, to judge what is actually going on.\n\nIt would probably be a crime to do such a thing to a @cian riordan or @Adam Thein mix, but even then I remain open if it needs it!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217494874534973482",
+    "author": "David Fuller",
+    "date": "2024-03-13",
+    "content": "MFiT doesn't really have any meaning other than \"it was run through Apple's metering\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217498660082946048",
+    "author": "Gerhard Westphalen",
+    "date": "2024-03-13",
+    "content": "If they\u2019re using the same driver then they\u2019ll be the same other than how each program starts playback which will be different in each case. To listen blind you need to mute your monitoring, start playback, and unmute",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220519522654490625",
+    "author": "Berlin",
+    "date": "2024-03-21",
+    "content": "yes but see the seqoia meter to the left",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222214089493708801",
+    "author": "Rollmottle",
+    "date": "2024-03-26",
+    "content": "Are you all not adjusting the overall song levels so you\u2019re consistently hitting your monitors at the right level?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222738690443313173",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-27",
+    "content": "And the metering is nonsense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1225949345082249216",
+    "author": "Berlin",
+    "date": "2024-04-05",
+    "content": "Most belt drive TTs are not perfect and have to be calibrated. Technically less rubmled transfers from the motor to the needle, but the pitch can often be an issue. Ran into it alot, and I would often tell folks to hit up a DJ friend with a tehcnics because if they are in good condition, they are quartzlocked and should be playing at the exact 33.333333 rpms speed.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1227630712581128242",
+    "author": "Iwan Morgan",
+    "date": "2024-04-10",
+    "content": "On this, is this the purpose of the new Loudness Penalty app which cn toggle between album/playlist modes.  I've not tried it yet as I've never really got on with Meterplugs although I own most of them.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1232858802831757373",
+    "author": "Edsel Holden",
+    "date": "2024-04-24",
+    "content": "Connection. For any of my scenarios to be true, the songs will need to connect and click with listener and communicate a feeling. We can move the meter on this.\n\nWith the exception of making mom cry, the other two also require some level of \"success\" in the local sense or greater music biz sense, and we don't have a way to affect that as ME's.\n\nI know I was called on, but I would love to hear any other thoughts on this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234927359195484160",
+    "author": "Will Melones",
+    "date": "2024-04-30",
+    "content": "https://www.frontendaudio.com/funk-logic-palindrometer-303-rack-panel/\n\nA couple of these and some red ventilated blanks on your IG, and you\u2019ve got clients for life!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1242278984025374802",
+    "author": "Rollmottle",
+    "date": "2024-05-20",
+    "content": "he really does chime in with pearls when he chimes in. \"There is no meter for art.\" that's gold.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1244356644834508801",
+    "author": "Rollmottle",
+    "date": "2024-05-26",
+    "content": "How\u2019s your monitoring? Can you reliably hear sub-30hz in your room?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1250893718169583628",
+    "author": "Nick Stetina",
+    "date": "2024-06-13",
+    "content": "From what I\u2019ve gathered a lot of you start in RX and move to your DAW of choice after - has anyone played with integrating RX Monitor in their workflow? I think I tried it years ago and it didn\u2019t cooperate, tried it again recently and it worked as Track or Output insert in WL, though it can be finicky. I have it in at the beginning of the chain so I can get some level going, and then dive into RX and \u201cguess\u201d less on how things will translate downstream. Curious if anyone else is doing this or if I\u2019m just late to the party \ud83e\udd73",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1250896890455654503",
+    "author": "Edsel Holden",
+    "date": "2024-06-13",
+    "content": "I don't use monitor, but I do use the \"external editor\" thing in wavelab to dump audio between RX and wavelab when I need to. Select the clip and hit external and it dumps in RX. It's basically the same as starting in RX workflow wise. Just is a convenient button in WL.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1252188954464354355",
+    "author": "Iwan Morgan",
+    "date": "2024-06-17",
+    "content": "Does anyone use Meterplugs\u2019 Perception plugin to level match unprocessed mixes to mastered mixes? I\u2019ve stopped using it as it doesn\u2019t seem to work with Apple Silicon, and i\u2019ve found it quite nice without it. I trust my own perception more, make better moves and go with what feels right. If something feels wrong i\u2019ll just level match before and after using Metric A/B.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1255206625950826607",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-25",
+    "content": "I think it\u2019s a little bit of a lot of things, and these are not ranked in importance \n\n- I work in a basically perfect room designed by Northward Acoustics\n- I work great, relatively low distortion speakers (ATC SCM110)\n- I worked at a fairly fixed level and it\u2019s relatively quiet\n- I don\u2019t reference other stuff while I work\n- A big one - I\u2019m Mastering \u2026 taking mixes from ok to good or great, it\u2019s way less chaotic and varied than producing or mixing where you can spend a lot longer in the weeds with weird sounds etc \n- I\u2019ve been doing audio for 30 years so there\u2019s less fight\n\nI do absolutely remember being complete toast at the end of recording and mixing days when I was younger - shitty monitoring and acoustics, playing too loud, chasing my tail all contributed\n\nNow, my ears basically never go. My brain does, I just get too tired to make decisions, or my body says \u201csleep please\u201d but my ears just truck along thankfully",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1255848531110137937",
+    "author": "Iwan Morgan",
+    "date": "2024-06-27",
+    "content": "Downloaded the 60-day (!) demo and started mastering an EP.  So far it's a bit confusing but I can feel it's designed for mastering.  I like that there's so many options for ref tracks, fade types, null tests and the metering seems really good.  I should be able to swing an EDU discount which makes way more affordable too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1272338396672561204",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-11",
+    "content": "I love RX and depend on it but it\u2019s not where the ball is for a typical mastering engineer coming up - monitoring, room, EQ and client relationships are 100 times more important",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273352788411416640",
+    "author": "Will Pragnell",
+    "date": "2024-08-14",
+    "content": "I will certainly keep some. But there's money tied up in there that would be better spent on better monitors",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274394724043853949",
+    "author": "Iwan Morgan",
+    "date": "2024-08-17",
+    "content": "Could be that they are monitoring too quietly, the mix is really quiet and not been auditioned with a limiter present, or not checking on headphones. Gain changes everything.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274478738578346066",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-17",
+    "content": "How do you calibrate a body to walk without falling over as a child?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274809244431945883",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-18",
+    "content": "Or \u201chey please instantly get a room and monitoring that you cannot afford\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1275689551532265484",
+    "author": "thegreatcarsoni",
+    "date": "2024-08-20",
+    "content": "The goal isn\u2019t necessarily loud (anymore), I just feel like when I was pushing to make stuff louder I wasn\u2019t liking the results as much as when I just didn\u2019t worry about it. But also aware that my ear-in-training, monitoring environment, and methods of achieving loudness haven\u2019t always been reliable.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1285633280414056553",
+    "author": "masteredbyjack",
+    "date": "2024-09-17",
+    "content": "I'm no metering guy, so aside from understanding how loudness translates which I still study, same",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1290409726663852133",
+    "author": "Berlin",
+    "date": "2024-09-30",
+    "content": "He was pretty much like \"hey.. listen you guys all need to forget about this lufs stuff, it's fucking you up when you think about it. just make the track sound good and yeah if you want to see what it meters at just to know what it meters at, then cool do that, but don't change how the track that you like sounds based on whether or not it comes in at -14lufs.\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1290415492443668631",
+    "author": "Berlin",
+    "date": "2024-09-30",
+    "content": "I felt lucky at the time when these discussions started - to be able to have some conversations with a a producer and mixer that I admire and look up to greatly. They hadn't even heard about all the normalization mumbo jumbo (maybe this was more like 2018 or 19) and essentially said that same thing that gehringer was saying at namm this year. Don't worry about the meter and just make it sound awesome. So that was my take away and what I try to encourage all of my self produced and self mixed artists.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1290855824171995188",
+    "author": "masteredbyjack",
+    "date": "2024-10-01",
+    "content": "There is a folder of backups, I believe mine saves every 5 minutes and saves I think 100 of those so I\u2019ve never had an issue (I believe you can set the parameters on each of those as well)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1298704351807934465",
+    "author": "Nomograph Mastering",
+    "date": "2024-10-23",
+    "content": "It would never in a million years occur to me to meter a master in MS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308496392905429103",
+    "author": "Edsel Holden",
+    "date": "2024-11-19",
+    "content": "like if you said he runs sonarworks and masters upside down id be sad to hear that lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308496492129947658",
+    "author": "Nomograph Mastering",
+    "date": "2024-11-19",
+    "content": "I will never forget standing next to him to listen to something, he hit play and then opened the SPL  monitor controller all the way up. 10",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315014570376433797",
+    "author": "Montano Mastering",
+    "date": "2024-12-07",
+    "content": "Can still hear the distortion on my mains but it sounds more\u2026 palatable or maybe even more acceptable. But on the sennheisers it\u2019s gnarly in a way it isn\u2019t on either other monitoring setup.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315016448401211493",
+    "author": "Nomograph Mastering",
+    "date": "2024-12-07",
+    "content": "- and following from that \u201ccan I perceive problematic levels of distortion on my main monitors?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315016734805332099",
+    "author": "Montano Mastering",
+    "date": "2024-12-07",
+    "content": "Maybe it\u2019s a matter of recalibrating my sense of what\u2019s problematic on mains",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315020219860648026",
+    "author": "Nomograph Mastering",
+    "date": "2024-12-07",
+    "content": "Jumping between monitoring options is not a solution or sustainable IMO, but perhaps there are headphones you can get to that cover your bases",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324816474774442024",
+    "author": "Moses Mastering",
+    "date": "2025-01-03",
+    "content": "ksystem shows \"over\" in theory if you just looking at the meter.. but its not",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1324824208361918585",
+    "author": "Moses Mastering",
+    "date": "2025-01-03",
+    "content": "i would still bet it might be a meter system set up haha.. but also i don't know... it could very well not be the actual session haha.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1330668555733307522",
+    "author": "Will Pragnell",
+    "date": "2025-01-19",
+    "content": "How much are people worrying about mono compatibility in 2025? I know that many small bluetooth speakers, etc. are still summing to mono, so it feels like it matters to me. That said, I'm noticing a lot of recent releases that seem not to care. Latest example is https://tidal.com/browse/track/371179904?u - huge chunks of the strings just dissapear in mono, and looking at a correlation meter while it's playing I can see that it's negative a lot of the time. Would you have let this go out like this? How do you approach it if you get a mix like this? (edit to clarify: not asking about the technical side of how to fix this sort of thing, asking about how you think about this kind of stereo material, how you approach it with clients if you feel it needs changing, etc.)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1336775540241207437",
+    "author": "masteredbyjack",
+    "date": "2025-02-05",
+    "content": "I will even go so far as to automate the parameters based on certain sections or things in a song -- sometimes theres a setting that is perfect, but it clips a few times -- automate lookahead (character to be slower for ozone), etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337225707461283840",
+    "author": "Will Melones",
+    "date": "2025-02-06",
+    "content": "Parameters so important there should be a podcast about them",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337599876342743041",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-07",
+    "content": "As for why - imagine every parameter - speed/redundancy/security/scaleability/remote access etc etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1353512048461611109",
+    "author": "Gerhard Westphalen",
+    "date": "2025-03-23",
+    "content": "If they can both start/stop with the space bar it's easy. Close your eyes, alt tab enough times that you no longer can keep track of it, hit space bar and listen. Only tricky part is if they do any kind of fade when they start/stop which can give it away. In that case it's handy to have a mute button on your monitor controller",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1353512473788940359",
+    "author": "Gerhard Westphalen",
+    "date": "2025-03-23",
+    "content": "Turn off monitor if you really don't want to have your eyes closed",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1362856255902716214",
+    "author": "Nomograph Mastering",
+    "date": "2025-04-18",
+    "content": "Also, earlier in the mastering journey a good dose of humility around your playback scenario is best practice. I have mixer friends with phenomenal rooms and speakers getting notes from junior mastering engineers with objectively worse monitoring about things like \u201ctoo much low end in mix\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1362859782905528501",
+    "author": "Nomograph Mastering",
+    "date": "2025-04-18",
+    "content": "So I\u2019m not of the mind of riding around on my \u201cbetter monitoring\u201d high horse dispensing notes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1364289204867039313",
+    "author": "Nick Stetina",
+    "date": "2025-04-22",
+    "content": "Yeah, there\u2019s a Time parameter as well.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1364309902486405130",
+    "author": "Slow Hand",
+    "date": "2025-04-22",
+    "content": "Not an option. The best move would be for Victor to delete and re-post in #\ud83d\udd08monitoring-talk",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372248032464208084",
+    "author": "Rollmottle",
+    "date": "2025-05-14",
+    "content": "what are you feeling that you're missing from your current monitoring that you want to swap the DAC?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372267599869509713",
+    "author": "Berlin",
+    "date": "2025-05-14",
+    "content": "going thru a lil makeover right now with monitoring so just touching on a few things, including the DAC.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372348289734672424",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-14",
+    "content": "Great headphone amp, EQ if needed  on monitors and headphones, killer A/D",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374487661892337776",
+    "author": "Nick Stetina",
+    "date": "2025-05-20",
+    "content": "Concern expressed by the mixer monitoring off an iPhone SE they use for referencing. Streaming off Samply.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1376288802968043631",
+    "author": "An Hero",
+    "date": "2025-05-25",
+    "content": "I'm talking about producing with the intent to not have to increase perceived loudness more than necessary, while \"keeping the meters happy\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378372818441601075",
+    "author": "Jonathan Jetter",
+    "date": "2025-05-31",
+    "content": "There are no specs for theatrical screening. Translation happens by virtue of both the mix room and the theater being similarly calibrated (at least, that\u2019s the goal).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378372911815065600",
+    "author": "Jonathan Jetter",
+    "date": "2025-05-31",
+    "content": "If either end of that equation is not calibrated then all bets are off.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1385670264947216445",
+    "author": "Rollmottle",
+    "date": "2025-06-20",
+    "content": "how's your monitoring?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1385670945817100289",
+    "author": "aliberger",
+    "date": "2025-06-20",
+    "content": "it's not great honestly, recently i've been strategizing and repositioning and trying to improve the situation with what i have. i do a lot in sony mdr-7506, i've been using them for like 15 years so i'm able to do a decent amount with them and i have them eq'd well now. for monitors i have focal alpha 50s and ns10s. i find the focals really helpful for the mids & highs, not so great lower down cause my room is 14 feet or so square-ish with a low ceiling",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1388567315594874893",
+    "author": "Rob Domos",
+    "date": "2025-06-28",
+    "content": "If I could wave a magic wand and make every parameter on every plugin unstepped I would",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1388610605765758986",
+    "author": "chrissorem",
+    "date": "2025-06-28",
+    "content": "Ah word! I have a controller with a big knob  that if I put the mouse over it I can move most parameters. And I rarely use it haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1390637085417013269",
+    "author": "Conah Tucker",
+    "date": "2025-07-04",
+    "content": "I tend QC the day after mastering before sending them off to the client, just in case something has slipped through. Depends on how busy the day is. If I've only got a few tracks in I'll QC them in the afternoon and send them back the same day. Completely agree with the 1st impression twice. 9.9 times out of 10 they're perfect but catching that 0.1 is so important to me\n\nAlways on the same speaker system. Not as confident with headphone mastering - something I definitely want to get more flight time with",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1400188708292132874",
+    "author": "Nomograph Mastering",
+    "date": "2025-07-30",
+    "content": "You got what it takes - great meters!!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1400189054787522590",
+    "author": "SawyerM",
+    "date": "2025-07-30",
+    "content": "Analog meters? The grammys are coming your way soon",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1402763032056172624",
+    "author": "James Cronier",
+    "date": "2025-08-06",
+    "content": "On the recording front: one *can* switch the Unfairchild meter mode to something calmer then GR, when the artist insists on sitting 3ft away from it for vocals. Some lessons are learned by spending an hour in RX.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405226254126284801",
+    "author": "DarrenB",
+    "date": "2025-08-13",
+    "content": "I can't remember if it's already been discussed here but a bit meter is a handy way to understand what's going on.  If not in one's DAW, Goodhertz has one in their dither plugin.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1406813515284615309",
+    "author": "masteredbyjack",
+    "date": "2025-08-17",
+    "content": "You can define different types of parameters for a given card/entry and choose which ones to show on the board, etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1408138498271219905",
+    "author": "cartierdad",
+    "date": "2025-08-21",
+    "content": "Been feeling a bit uninspired with my monitoring lately. Was considering going down the PMC rabbit hole but also Dutch & Dutch 8c. Anyone have any suggestions?\n\nCurrently on Tyler Acoustics which are passive perhaps the IB1?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1408231988434964570",
+    "author": "Gerhard Westphalen",
+    "date": "2025-08-21",
+    "content": "But this isn't monitoring talk so I won't ramble",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1409275014573719663",
+    "author": "Austin Gordon",
+    "date": "2025-08-24",
+    "content": "Interesting, I've had my D2X's for a few years and like them a lot, though I do often wonder what else is worth checking out! It's been very difficult to find anyone with monitors I can demo here in Dallas",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1410039192854990868",
+    "author": "Rollmottle",
+    "date": "2025-08-26",
+    "content": "May be worth considering whether you might be at the limits of your existing room and monitoring too",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1425101564800012339",
+    "author": "masteredbyjack",
+    "date": "2025-10-07",
+    "content": "@danrobinson30 above is a short vid I made about a year ago showing the basics of how I use Wavelab. There are many approaches, but this is the core of the things I use every day and the principles can handle the messiest of situations.\n\nKeep in mind I\u2019m a pretty minimal type, no meters, whatever. So others use it different with success. But the core functions are there\n\nBut it should get you off the ground and actually mastering in 15 min",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1425680853031325749",
+    "author": "onanisland",
+    "date": "2025-10-08",
+    "content": "even at just barley touching the first meters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1434354158051262637",
+    "author": "Nomograph Mastering",
+    "date": "2025-11-01",
+    "content": "(copy/paste)\n\nAssuming we're talking about fairly typical rock, pop and Hip Hop then this 3 part strategy covers a lot of ground\n\n1) Make sure the EQ is as balanced as you can get it - most of your perceived loudness comes from the arrangement and mid range focus (2k to 8k). Too much low end will sound bad when you limit. Make sure the relationship between 80, 160 and 320 makes sense (think of them a little like fundamental, 1st and 2nd harmonic).\n\n2) Consider shaving snare transients (and maybe kick transients) with a clipper. This spreads that peak energy harmonically across the spectrum, keeping energy, hiding in the noisey nature of snares and lets the limiter work less hard (I like SIR Standardclip - $25, great metering and responds intuitively). a dB or two of clipping will help the limiter work less.\n\n3) Pro-L2 on the settings below is a great start point for clean and predictable limiting, raising input gain until you get the desired level",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1463358467585740983",
+    "author": "Juliette",
+    "date": "2026-01-20",
+    "content": "I\u2019ve used it during mixing as well, mainly to monitor transients on my drum bus. but I find it warping my mix when I usually have something very balanced. So weird",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1463374803359629456",
+    "author": "masteredbyjack",
+    "date": "2026-01-20",
+    "content": "Even though the PT one doesn\u2019t sound as good as others IMO it should still be a good starting point to understand the rock solid fundamentals of what limiting does, how the parameters affect the feel, etc. \n\nIf you\u2019re in heavy learning phase diving deep on it, no need to go drop a couple hundred on some of the other ones if it\u2019s still learning phase I think",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014093421514864",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "My only concern is the monitor path , not sure I\u2019ll really use it much . I love the build quality of the maselec stuff and I\u2019ve had nothing but issues with the dangerous masters I\u2019ve owned over the years",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014446548221953",
+    "author": "Nomograph Mastering",
+    "date": "2026-02-13",
+    "content": "What is your current monitor controller DAC combo?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]

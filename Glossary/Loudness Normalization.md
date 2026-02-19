@@ -35,17 +35,39 @@ The process by which streaming platforms automatically adjust playback volume so
 - **Mastering quieter than the target** on some platforms means your track gets turned up, which can actually sound better due to preserved dynamics
 - **True peak ceiling** should be -1 dBTP or lower to avoid distortion from lossy codec conversion (MP3, AAC)
 
-> [!quote] Discord Source — Nomograph Mastering (2022-10-22) — 59 reactions (pinned in #newbie-questions)
-> "If I was asked 'What sample rate should people make records at in 2022?' And was forced to choose then the answer would be 48k."
+### Where Normalization Doesn't Apply (from #mastering-talk)
 
-The community's ongoing debate is whether to master to -14 LUFS for Spotify or master louder for competitive playback on non-normalizing platforms.
+Working mastering engineers in #mastering-talk emphasize that normalization is far less universal than commonly assumed:
+
+- **Spotify on smart TV** — no loudness normalization
+- **Spotify web browser** — no loudness normalization
+- **External/Bluetooth speakers** — normalization behavior varies
+- **Sonos and similar systems** — not reliably applied
+- **Bandcamp** — no normalization at all
+- **Users who disable normalization** — a significant portion of listeners
+
+> [!quote] Nomograph Mastering (2022-11-16) — #mastering-talk — 10 reactions
+> "Not everyone has level norm on. Spotify on smart TV does not have level norm. Spotify on web browser does not have loudness norm. Spotify and other DSPs can and will change the targets so you CANNOT depend on them."
+
+The only context where loudness has enforceable consequences is **broadcast advertising** (-24 LUFS in North America, -23 LUFS in Europe).
+
+### Professional Mastering Perspective
+
+The consensus from working mastering engineers is strongly against targeting a LUFS number:
+
+> [!quote] Rollmottle (2023-01-26) — #mastering-talk — 22 reactions, pinned
+> "Just master the material for the material."
+
+See [[Loudness Standards and Streaming Delivery]] for comprehensive coverage.
 
 ## Related Terms
 
 - [[LUFS]]
 - [[Mastering Workflows]]
+- [[Intersample Peak]]
 
 ## See Also
 
+- [[Loudness Standards and Streaming Delivery]]
 - [[Beginner FAQ#Mastering Basics]]
 - [[Streaming Economics]]

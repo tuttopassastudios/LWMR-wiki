@@ -748,6 +748,74 @@ For each channel processed, record:
 
 ---
 
+### #mastering-talk
+
+- **Channel:** #mastering-talk (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** April 2022 – February 2026
+- **Messages:** 22,909 raw → ~19,806 substantive (>20 chars, non-bot, non-GIF/emoji-only) → ~6,466 keyword-categorized
+- **Unique authors:** 272
+- **Pinned messages:** 13
+- **Peak activity:** 2025 (6,744 messages)
+
+**Category Message Counts:**
+| Category | Messages |
+|----------|----------|
+| Business & Pricing | 1,575 |
+| Mastering Tools & Plugins | 1,346 |
+| Limiting & Clipping | 1,213 |
+| Client Communication | 1,166 |
+| Album Mastering | 718 |
+| Vinyl & Physical | 657 |
+| Streaming & Delivery | 506 |
+| Loudness & LUFS | 419 |
+| DIY vs Professional | 361 |
+| Monitoring & Metering | 261 |
+| Converters & Hardware | 178 |
+| Stem Mastering | 154 |
+| Mastering EQ | 149 |
+| Mix Preparation | 82 |
+| Mastering Compression | 27 |
+
+**Pages created (4 topic + 2 glossary):**
+- [[Loudness Standards and Streaming Delivery]], [[Mastering Signal Chain]], [[Client Communication in Mastering]], [[Album Mastering and Sequencing]]
+- [[Intersample Peak]], [[DDP]]
+
+**Pages enriched (7):**
+- [[Mastering Workflows]] — massive expansion with 22,909 messages (previously 344 daw-talk + mixing-talk tangential); confidence upgraded medium → high; moved from Topics/Mixing/ to Topics/Mastering/
+- [[LUFS]] — mastering-talk context on normalization gotchas, "master for the material" philosophy
+- [[Loudness Normalization]] — real-world normalization failures (Sonos, smart TV, web browser)
+- [[iZotope]] — Ozone mastering usage (206+ mentions), IRC modes, "preset jockey" critique
+- [[FabFilter]] — Pro-L mastering limiter context
+- [[Music Business Pricing and Rates]] — mastering-specific pricing, referral culture, deadlines
+
+**MOC updated:** [[Mastering]] — major restructure with new sections for Workflows & Philosophy, Album Mastering & Delivery, Client Relations & Business, Loudness & Metering, Source Channel
+
+**Channel summary:** [[mastering-talk Channel Summary]]
+
+**Identified experts:**
+- **Nomograph Mastering** (5,730 substantive, 85%) — Limiting/clipping, business, client communication, EQ philosophy, career guidance — mastered Lana Del Rey, Kendrick Lamar
+- **Rollmottle** (1,307 substantive, 84%) — Mastering tools, client communication, loudness/LUFS, M/S processing
+- **masteredbyjack** (1,288 substantive, 93%) — Business/pricing, mastering tools, loudness shootouts, career development
+- **Berlin** (1,288 substantive, 77%) — Business, vinyl/physical, client communication, attended sessions
+- **Edsel Holden** (609 substantive, 82%) — Business, mastering tools, album mastering, career growth
+- **cian riordan** (470 substantive, 85%) — Business, limiting, client communication, mixer perspective (1,538 reactions)
+- **Gerhard Westphalen** (418 substantive, 97%) — Business, client communication, vinyl, hardware
+- **hebakadry** (104 substantive, 92%) — Vinyl/physical, limiting, mastering tools (mastered Bjork, Deerhunter, Beach House)
+- **Jonathan Jetter** (205 substantive, 100%) — Client communication, limiting, business (100% substantive rate)
+
+**Notes:**
+- This is the **most professionally dense channel processed** — multiple contributors have major-label mastering credits
+- Nomograph Mastering contributes 40% of all messages — the most dominant single contributor in any channel
+- Client Communication (1,166) and Business & Pricing (1,575) are top categories — first vault channel where business and interpersonal topics outweigh technical discussion
+- Vinyl & Physical (657) represents deep knowledge not found in any other channel
+- The channel grew consistently year-over-year: 3,080 → 6,902 → 5,750 → 6,744 → 433 (2026 partial)
+- Jonathan Jetter's 100% substantive rate is unique across all processed channels
+- Mastering Workflows moved from Topics/Mixing/ to Topics/Mastering/ to properly house it in the mastering domain
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -765,3 +833,4 @@ For each channel processed, record:
 | #biz-talk | Feb 2021 – Feb 2026 | ~3,400+ | ~2,800+ | 8 (+5 glossary) | 0 |
 | #mixing-talk | Aug 2021 – Feb 2026 | 48,084 | ~41,904 (~14,481 categorized) | 8 (+4 glossary) | 0 |
 | #newbie-questions | Feb 2021 – Feb 2026 | 9,859 | ~8,607 (~2,405 categorized, 1,173 Q&A pairs) | 2 (+6 glossary) | 0 |
+| #mastering-talk | Apr 2022 – Feb 2026 | 22,909 | ~19,806 (~6,466 categorized) | 4 (+2 glossary) | 0 |

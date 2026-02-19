@@ -1,0 +1,79 @@
+{
+  "total_messages": 22909,
+  "date_range": "2022-04-01 to 2026-02-13",
+  "substantive_messages": 19806,
+  "noise_filtered": 3103,
+  "unique_authors": 272,
+  "unique_messages_categorized": 6466,
+  "uncategorized": 13340,
+  "activity_by_year": {
+    "2022": 3080,
+    "2023": 6902,
+    "2024": 5750,
+    "2025": 6744,
+    "2026": 433
+  },
+  "categories": {
+    "loudness_lufs": {
+      "label": "Loudness & LUFS",
+      "count": 419
+    },
+    "limiting_clipping": {
+      "label": "Limiting & Clipping",
+      "count": 1213
+    },
+    "mastering_eq": {
+      "label": "Mastering EQ",
+      "count": 149
+    },
+    "mastering_compression": {
+      "label": "Mastering Compression",
+      "count": 27
+    },
+    "converters_hardware": {
+      "label": "Converters & Hardware",
+      "count": 178
+    },
+    "monitoring_metering": {
+      "label": "Monitoring & Metering",
+      "count": 261
+    },
+    "streaming_delivery": {
+      "label": "Streaming & Delivery",
+      "count": 506
+    },
+    "stem_mastering": {
+      "label": "Stem Mastering",
+      "count": 154
+    },
+    "diy_vs_professional": {
+      "label": "DIY vs Professional",
+      "count": 361
+    },
+    "mix_preparation": {
+      "label": "Mix Preparation",
+      "count": 82
+    },
+    "client_communication": {
+      "label": "Client Communication",
+      "count": 1166
+    },
+    "mastering_tools": {
+      "label": "Mastering Tools & Plugins",
+      "count": 1346
+    },
+    "business_pricing": {
+      "label": "Business & Pricing",
+      "count": 1575
+    },
+    "vinyl_physical": {
+      "label": "Vinyl & Physical",
+      "count": 657
+    },
+    "album_mastering": {
+      "label": "Album Mastering",
+      "count": 718
+    }
+  },
+  "pinned_count": 13
+}

@@ -67,6 +67,14 @@ In #mixing-talk (2,441 plugin discussion messages, 2,247 EQ messages), FabFilter
 - **Pro-C2 versatility:** Multiple compression styles in one plugin, with the community favoring it for transparent bus compression when hardware isn't available
 - **Pro-L2 for limiting:** Slow Hand's pinned link to a Pro-L2 analysis demonstrates the community's detailed investigation of limiter behavior
 
+## Mastering Context (from #mastering-talk)
+
+In #mastering-talk (22,909 messages), FabFilter Pro-L is one of the most referenced final limiters alongside iZotope Ozone's Maximizer:
+
+- **Pro-L as mastering limiter:** Widely used as a final limiter in mastering chains; multiple professional mastering engineers include it in their workflow
+- **Pro-Q in mastering:** Used for surgical and corrective EQ, though some engineers prefer more characterful EQs (Equilibrium, Kirchhoff) for mastering due to FabFilter's intentionally transparent sound
+- **Pro-L ceiling debate:** The community discusses setting true peak ceiling at -1.0 dBTP vs lower values; Rollmottle argues for lower ceilings to prevent intersample peaks during codec conversion
+
 ## See Also
 
 - [[UAD Plugins]]
@@ -75,6 +83,8 @@ In #mixing-talk (2,441 plugin discussion messages, 2,247 EQ messages), FabFilter
 - [[Compression Techniques]]
 - [[Vocal Mixing]]
 - [[Mix Bus Processing]]
+- [[Mastering Signal Chain]]
+- [[Loudness Standards and Streaming Delivery]]
 
 ## Source Discussions
 

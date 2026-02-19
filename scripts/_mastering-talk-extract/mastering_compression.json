@@ -1,0 +1,245 @@
+[
+  {
+    "id": "1064308437741211799",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-15",
+    "content": "If I was teaching someone modern mastering compression would be way way down the list of priorities",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1041872189122691102",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-14",
+    "content": "But when I see dudes rocking multiband dynamics in MS I\u2019m not onboard",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1298690894677147680",
+    "author": "cian riordan",
+    "date": "2024-10-23",
+    "content": "My guess on this is that if that sub material wasn't on the final mixes, then theres likely tube misbehaving on an MS outboard compressor (unfairchild, etc). As for keeping your low end in mono -- that was a rule of thumb for years to ensure translation outside of the studio for various formats. With digital recording & reproduction... it's not an issue if you do it thoughtfully.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374805735040483422",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-21",
+    "content": "The question feels to me like it\u2019s informed by a lot of this kind of online conversation \u201cmy mastering compressor is better than your mix compressor\u201d",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1010149670330314802",
+    "author": "Brodie Stewart",
+    "date": "2022-08-19",
+    "content": "Master Rebalance can be amazingly helpful. Clever use of multiband compression, or even multiband transient designers\u2026 I\u2019ve definitely found some creative solutions over the time. Really makes you search the depths of your plugin folder and learn all of your tools! \ud83e\udee0",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035600070265032786",
+    "author": "1ggy",
+    "date": "2022-10-28",
+    "content": "Lol that sounds like a \"i know what multiband compression means and i'm gonna use it in a sentence\" note.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1440069385955049533",
+    "author": "shaunobi",
+    "date": "2025-11-17",
+    "content": "Enjoyed the hang Gabriel! \n\nAnd yeah - I think a lot of what you brought up (pushing A800 pretty hard on that one track, etc) I\u2019d put in more of the \u201c2bus\u201d group rather than \u201cmastering\u201d.\n\nHaven\u2019t checked your doc but for me I run 3-4 plugins - tape, some Pultec with a tiny boost, a bit of Fairchild box tone, Tonal balance control for analysis and that\u2019s it. Then for \u201cmastering\u201d I\u2019m boring and use either Pro L2 for a touch more loudness or Ozone with most of the modules turned off \ud83d\ude42",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "979150456515342367",
+    "author": "ehutton21",
+    "date": "2022-05-25",
+    "content": "comfort & best range of flexibility is my criteria. I prefer having attack and release controls and being able to tweak it all accordingly, and that\u2019s why i\u2019m keen on ozone and boz\u2014ozone fits so seamlessly in with the rest of my bus compression as well. everyone does mix-bus differently and for me the biggest thing i want my clipper to do is to catch the peaks that my bus compressor hasn\u2019t dealt with as in full and provide a little more \u201cpush\u201d without squashing anything. for me, i try to keep mix bus processing pretty consistent in terms of tools but vary the control settings to match the song. pro-q (pulling down very subtle things i don\u2019t want), bus compressor, my quick little ozone chain, and then the boz clipper.\n\nit varies from genre to genre on occasion but most of the artists i work with have a very consistent \u201cradio friendly\u201d sound that\u2019s kind of genre blending, so i get to work closely with them on determine the feel.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "980536586854871071",
+    "author": "samvalentine",
+    "date": "2022-05-29",
+    "content": "That's interesting Cian. You are doing some master bus processing though, no? Even if it's not a clipper... Aren't you unfairchild gang?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "989183628422557707",
+    "author": "rse",
+    "date": "2022-06-22",
+    "content": "I use it a lot, but I barely do any gr with it, the line almost doesn't visually move. I've also found that moving the character slider down helps (controls attack and release times, depending on the mode). I almost always use either the tube style or the modern style, with a preference for the tube style. Apparently the whole thing is modeled after a Fairchild 670",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1022705704399814717",
+    "author": "Jodonny",
+    "date": "2022-09-22",
+    "content": "I could understand the technique as it\u2019ll glue and smooth a mix, especially in House like he does, while keeping the tops and kick energetic. But just use a multiband compressor like Pro MB haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1023200667797553162",
+    "author": "cuba1956",
+    "date": "2022-09-24",
+    "content": "It's not a multiband compression, of course, but if you think about what is multiband compression \u2014 it's essentially the same thing with some extra steps.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035599556563447958",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-28",
+    "content": "I got a super specific note from a new client the other day, some version of \"please use multiband compression to control 6kHz\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042207770579058728",
+    "author": "Deleted User",
+    "date": "2022-11-15",
+    "content": "I don\u2019t know if this is worse or m/s multiband compressor is worse",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064771994513584178",
+    "author": "masteredbyjack",
+    "date": "2023-01-16",
+    "content": "I don\u2019t know Gerhard\u2026I\u2019ll take your word for it \ud83d\ude02 but I really enjoy your mastering and your credits speak for themselves.\n\nI love that people like you exist in the world and push boundaries of what\u2019s possible. But to tie to maybe a literal example\u2026I have a Massive Passive. It\u2019s like 75 percent of what I wish it was. And it may well be possible for me to learn and build a better version of it with my background knowledge, not constrained by the variables Manley is.\n\nBut as you know, it would take YEARS of studying, trial/error/etc. maybe I end up with a better EQ. But I could also argue that I could have spent all that time just making records and I\u2019d be much better off as a mastering engineer in long run, even with a \u201cworse\u201d EQ.\n\nThat\u2019s an extreme black/white example, but I\u2019ve got some big life changes coming and I\u2019m really trying to reevaluate where my time is best spent and how it relates to my long term goals.\n\nYou and Ruairi straddle two very specific and niche worlds so was just looking for insight on how you handle your balance! How specific are you with your time management when you go down rabbit holes? And how that relates to your mastering goals",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1072230185925091398",
+    "author": "Jeremy Klein",
+    "date": "2023-02-06",
+    "content": "What is the thought process behind when and when not to use sidechain eq to filter out lows in a bus compressor?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1072231499757264936",
+    "author": "Jeremy Klein",
+    "date": "2023-02-06",
+    "content": "gotcha that makes total sense! So what would be the inverse of that? Like, when would you ever NOT want to filter out the lows into the bus compressor?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102983419106951260",
+    "author": "masteredbyjack",
+    "date": "2023-05-02",
+    "content": "Since I'm on one today: another gear question ** shudders **\n\nDoes anyone have experience with both a Fearn VT-5 and a Massive Passive? I have the MP currently, but I am rarely using the actual bands...I mostly just hit it at whatever volume I feel best suits the color I'm looking for (different for every song). It does do a very cool job, but I just wonder if the Fearn is maybe a little more like \"clear\" in the lows or something? We've talked about the rounding of the lows, I know that's indicative of the tubes on some level but I've been mulling maybe going to the Fearn since usually what the Manley does best to me (biggers boosts/cuts transparently) I feel is just too much for a lot of the stuff I'm doing and a lot of mastering these days.\n\nAlso for most modern pop stuff I'm in the box, this wouldn't be for that. But I do actually use the MP a fair amount with good result in the capacity of it being a \"tube box\" sorta thing\n\n@Nomograph Mastering obv you have some experience and I know @Rollmottle moved on I think from it? Curious if you would be willing to share any thoughts",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102983948361027645",
+    "author": "David Fuller",
+    "date": "2023-05-02",
+    "content": "all the manley stuff I've ever used is consistently really... goopy sounding I guess?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1113870695655555223",
+    "author": "Nomograph Mastering",
+    "date": "2023-06-01",
+    "content": "Then, in various orders you\u2019ll have automatic gain control (very long slow dynamic control), multiband compression, EQ and auto EQ (that moves), stereo widening, phase rotation (a deep topic on it\u2019s own), bass enhancement, clippers, limiters etc etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1205188486903103569",
+    "author": "montrose recording",
+    "date": "2024-02-08",
+    "content": "i think it's the sound of the mixbus compression or something that is pulling my ear",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1336067647959466004",
+    "author": "Berlin",
+    "date": "2025-02-03",
+    "content": "Sometimes you might be sitting there thinkin \"man, this kinda sounds like dua lipa.. if I just put a multiband compressor and EQ it like this.. BANG DUA LIPA\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1369004736887390279",
+    "author": "Berlin",
+    "date": "2025-05-05",
+    "content": "Labels will hurl notes talking about backing off stereo wideners, backing off compressors, backing off multiband dynamic eqs, converters, clippers.. and all I used was on their track was 1 EQ and 1 limiter with 1db of gain reduction.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1377038683332411484",
+    "author": "Victor Garcia",
+    "date": "2025-05-27",
+    "content": "Interesting! It reminds me what A. Scheps is doing these days; no mix bus compression but mix bus reverberation to smear things out to taste",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1380236141667684524",
+    "author": "Juliette",
+    "date": "2025-06-05",
+    "content": "Hey, all. When you are putting together your mixbus, how do you generally like your chain to lined up, between limiters, bus compressor, saturator, etc? You don\u2019t even have to specify which kinds of equipment you\u2019re using if you don\u2019t want (although I am open to recommendations for VST\u2019s!)\n\nI\u2019m more so curious about the order of the chain itself and how one plugin being put before the other will affect the final sound\u2014 I know it\u2019s pretty subjective in nature but I\u2019d love to hear your processes.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1402763032056172624",
+    "author": "James Cronier",
+    "date": "2025-08-06",
+    "content": "On the recording front: one *can* switch the Unfairchild meter mode to something calmer then GR, when the artist insists on sitting 3ft away from it for vocals. Some lessons are learned by spending an hour in RX.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1410083268023549983",
+    "author": "masteredbyjack",
+    "date": "2025-08-26",
+    "content": "Using it this way, how is DSM any different from a normal multiband compressor?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]

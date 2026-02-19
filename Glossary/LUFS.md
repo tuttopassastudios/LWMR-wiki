@@ -37,9 +37,22 @@ In #mixing-talk, LUFS is discussed within the broader loudness and gain staging 
 - **Reference track matching:** When A/B comparing against a reference, loudness-matching via LUFS is critical — the louder track almost always sounds "better" due to psychoacoustics, not actual quality differences
 - **Mixing metering:** Multiple members use LUFS meters during mixing (not just mastering) to ensure mixes are in a reasonable loudness range before sending to mastering
 
+## Mastering Context (from #mastering-talk)
+
+In #mastering-talk (419 loudness/LUFS messages, 22,909 total), working mastering engineers provide a sharply different perspective on LUFS than typical online discourse:
+
+- **"Just master the material for the material"** — Rollmottle's pinned summary: targeting a specific LUFS number is misguided because not all platforms normalize, not all users enable normalization, and many genres benefit from being pushed into a limiter
+- **The -14 LUFS target is largely internet chatter** — Nomograph Mastering (pinned): "The dedication with which a Mastering Engineer advocates -14 is inversely proportional to the amount of records they've done that you've heard of"
+- **Perceived loudness is built in the arrangement and mix** — Nomograph Mastering: "Perceived loudness is almost all determined by the arrangement. Mixing can enhance it some. Mastering can enhance it less"
+- **Normalization doesn't apply everywhere** — Spotify on smart TV, Spotify web browser, Sonos, and many external speakers don't normalize; Bandcamp doesn't normalize at all
+- **Genre-appropriate references matter more than numbers** — Nomograph Mastering: "If you want a -7 LUFS master then you need to build a -7 LUFS mix"
+
+See [[Loudness Standards and Streaming Delivery]] for comprehensive platform-specific normalization data.
+
 ## See Also
 
 - [[Mastering Workflows]]
+- [[Loudness Standards and Streaming Delivery]]
 - [[Dolby Atmos and Immersive Audio]]
 - [[Reference Mixing and Translation]]
 - [[Mix Bus Processing]]

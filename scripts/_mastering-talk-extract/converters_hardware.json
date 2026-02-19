@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "1175838686366154772",
+    "author": "Rollmottle",
+    "date": "2023-11-19",
+    "content": "Been trying to think of a way in to the question about what I did without being completely frustrating or giving a list of moves that don't mean anything outside of the context of being in my chair, hearing what and how I hear.\n\nThis process for this song is like any other...listen for what the song needs and act accordingly. That's the frustrating answer but it's also true. What did you do? \"I mastered it.\" lol\n\nBut I know that's not what you're asking. For a track like this, I'm primarily focused on the vocal and how it's sitting and feeling. The vocal performance is incredibly dynamic and intimate. This one had some ringy stuff through 2.5k and in the upper mid range that I felt was detracting from the \"fireside\" intimacy. The goal was to take off some of the edge without stepping on the presence. That was a combo of RX and EQ. \n\nOn this song, I did an analog pass because I am usually able to manage to get the balance of presence and de-edge I'm looking for very quickly. Since time was of the essence here, that was the move. Couple of moves on Equilibrium digitally before the Gyraf and Porter Grinder in the analog chain. The \"trickiest\" thing I did here was flip the Porter Grinder into M/S to bring the vocal closer into the center (by cutting!) and to push the mellotron and atmospherics to the sides (by boosting). All very subtle stuff.\n\nSo, there were some moves here, but the moves were all in service of the feeling the song was telling me it needed. We talk a lot about monitoring here. When you can connect to the song and walk around inside of it, it's much easier to know what you need to do (or not to do) to bring it to life.",
+    "reactions": 16,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1156347241569726475",
+    "author": "Gerhard Westphalen",
+    "date": "2023-09-26",
+    "content": "I get lost when others start to make decisions which should be entirely in my realm. Once had someone ask me for a revision not using Crane Song converters. I've never owned any, never mentioned anything about them, and master was ITB...",
+    "reactions": 15,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064601467333386271",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-16",
+    "content": "If you are feeling ITB then trust that. There is no rule that outboard is better (despite what people say on Gearslutz)",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1338929780862615673",
+    "author": "Paris Lee",
+    "date": "2025-02-11",
+    "content": "Was rearranging some stuff last night, I\u2019m selling a lot of gear coming up. And just distilling my analog rig to the Pure essentials.\nFigured I\u2019d share \nSome cool stuff here, Frank Lacey made items like the Barry Porter Net Eq and his own compressor, also a classic FX 384 with modified attack and release times, and a Maselec of course \ud83d\ude42",
+    "reactions": 8,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1383260387323023472",
+    "author": "Paris Lee",
+    "date": "2025-06-13",
+    "content": "Very exciting happenings\u2026\nCurrently amazed at how the ADI does what it claims re: auto sensing balanced or unbalanced loads (dictating how it adjusts the internal impedance) , and giving the same sonic result either way. An amazing time today putting my Balanced MEA 2 on insert 1, then running into my Bal/Unbal Frank Lacy HPF to the Lacy Porter on insert 2. The original setup includes a way to balance the signal back before the A/D, and i have that, but it\u2019s an extra piece of equipment that i never need/use. This was the feature that drew me to the ADI to be honest and made me pull the trigger\u2026so does the ADI perform as it should\u2026? Damn effing straight it does. What a box!!!! Nothing in, balanced signal\u2026great\u2026both eq\u2019s in\u2026no timbral change\u2026either eq in by itself\u2026no timbral change (other than what the boxes themselves would impart\u2026but being a passive switcher and these boxes being what they are\u2026and this converter what it is\u2026there\u2019s not a obtrusive timbral change imparted). \n\nBalanced\u2026unbalanced\u2026zero fucks given\u2026what a box!",
+    "reactions": 7,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1434252573933568202",
+    "author": "Slow Hand",
+    "date": "2025-11-01",
+    "content": "When it comes to loudness, a big unlock happened for me when I realized that a lot of perceived loudness comes from the frequency balance of instruments or groups. There's a sort of \"center of gravity\" for the frequency of instruments. Individual instruments did not need as much low end as I once thought. I realized that I could push more energy up into the mids and upper-mids. Instruments could be leaner and biting. Much more than I thought tolerable. This has a few positive effects:\n\n1. The sounds will cut more and be articulate in the mix (if desired).\n\n2. Low-end buildup is the first thing that's going to hit your limiter. Shifting the energy up the frequency spectrum buys you more space before your limiter kicks in. Thus your overall mix can be louder.\n\n3. Your low-end instruments will no longer compete to feel powerful. Therefore they do not need to be as loud in an absolute/voltage sense. Meanwhile, your midrange-y instruments that were once lean and bite-y in isolation are supplemented by your low-end instruments and feel whole again.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "999350575743389807",
+    "author": "Rollmottle",
+    "date": "2022-07-20",
+    "content": "1. Pull in all pre-masters into one session. Name all regions and order it as intended. \n2. Initial pre-master listen to gain the material to be generally the same RMS (material dependent of course) so that it hits my analog chain at a consistent level....draw in any obviously needed volume automation. \n3. Start mastering....which for me is two steps...the actual deep pre-master listen to understand what the track may need. It is as this stage where I'll address any technical issues (pre-analog processing, RX work, additional automation refinement, etc.). Then comes the actual master processing step and the subsequent master capture.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138282341563891752",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Ruairi's gonna come on here and shellac me in a few, but I'm of reasonably stable mind and don't believe that people are setting up proper tests when matching converters (level calibration, having the ability to actually go back and forth between them instantly, etc). The idea that there's a dramatic sonic difference between any reasonably spec'd modern converter is just insane to me. I've gone down the rabbit hole for years with comparative listening with converters, clocks, etc and I've built my own conclusions --  I hope everyone here has a chance to do that as well instead of just taking people's word on the internet for how many thousands of dollars people should spend on boutique A/D/A.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234771120549269545",
+    "author": "Berlin",
+    "date": "2024-04-30",
+    "content": "I sold all my outboard gear last year and went 100 in the box, best decision I\u2019ve made in a minute. Only second to joining this discord.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359968175617216755",
+    "author": "Nomograph Mastering",
+    "date": "2025-04-10",
+    "content": "In modern record making clipping and limiting on the buss is a huge part of the overall sound and feel of a record. Kendrick for example never heard his productions, mixes or masters without it. Clipping has an energy in the kicks and snares that was built a certain way, limiting has rounding and smoothing characteristics and often \"holds\" the track in a particular way. You can't just bypass one , or the other or both without huge changes in groove, balance, tone and feel. (Swapping limiters for something *safer* can be equally damaging) \n\nWhat does clipping actually do? It creates square waves at the extreme (for the duration of the clipping)\n\nWhat is a square wave? It is a fundamental with a bunch of odd harmonics trailing off in level\n\nWhat happens when you low pass the square wave at the converter reconstruction filter, lathe low pass etc? It is no longer a square wave\n\nDoes cutting this no longer square wave to a disc for brief periods present challenges and cause extra momentary distortion? Yes\n\nIs that trade off worth while? I believe so and have itterated on this belief across hundreds and hundreds of projects cut and pressed to vinyl and then compared carefully with the original digital files",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372026218244739083",
+    "author": "Elaine Rasnake",
+    "date": "2025-05-13",
+    "content": "Currently using the Lynx Hilo over here",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1072302903181725746",
+    "author": "hebakadry",
+    "date": "2023-02-06",
+    "content": "I love the side chain insert on my Dangerous Compressor\u2026it can come in handy when you\u2019re mastering a dance record and the kick and bass clump doesn\u2019t have as much definition/separation and you just can\u2019t make it bounce\u2026triggering the SC with a hyper filtered peak EQ and finding that transient very subtly can do something really tasteful.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073139432531697664",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-08",
+    "content": "Well eventually (after many hours of probing everything, trying different adapter cables\u2026) I found it was a ground loop being caused by the interface\u2019s AES I/O even though it\u2019s supposedly floating. Gets very unhappy depending on what touches ground. Ended up having to have one AES cable going through one format converter which entirely separates ground and another wired differently (pin 1 and 2 instead of 2 and 3 to convert to spdif). Solves the grounding issues",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138277777456496690",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Because I A/B'd the Lynx Hilo, my Orion, the Grace DAC, and a Topping D30 and they all sounded the goddamned same. So for utility sake, having everything come out the Grace DAC makes a lot more sense for a sane, working mix environment.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1298690894677147680",
+    "author": "cian riordan",
+    "date": "2024-10-23",
+    "content": "My guess on this is that if that sub material wasn't on the final mixes, then theres likely tube misbehaving on an MS outboard compressor (unfairchild, etc). As for keeping your low end in mono -- that was a rule of thumb for years to ensure translation outside of the studio for various formats. With digital recording & reproduction... it's not an issue if you do it thoughtfully.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313186684023607408",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "I\u2019ve seen so many things like this, stereo is dangerous in the wrong hands. Someone I worked with once just duplicated a vocal and panned one channel to each side with no additional processing and it was phase city",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1334969454164971530",
+    "author": "Berlin",
+    "date": "2025-01-31",
+    "content": "Digital \"Vinyl Premasters\" where an ME might mono sum the low end or not use a limiter, or do some of those types of \"vinyl master\" tricks, are honestly getting into the minutia and we are talking about 1-2% gains in the final result.. It should be mentioned also that the cutting engineer will also have their own cutting mastering chain of various outboard units that are going to try and catch some of those \"issues\" that might be presented. Best practice, and others might disagree with me, in my house is to prepare the vinyl sides and a PQ sheet, QC the export, and ship it. Don't fuck with an approved master/project too much. - Partner with a great lacquer engineer, and the Master will be dope.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1344051170980794519",
+    "author": "\u00d8ra Mastering",
+    "date": "2025-02-25",
+    "content": "Never tried the Maselec, but this is the exact same way I use my Tube-Tech smc-2b. Great for tonal shaping, different than using an eq. Boost mids between 150-6k: hello everything that is important in the mix. When the boxtone fits the project of course (love that boxtone). I only compress the lows slighty on some projects.\n\nThe Tubetech is the only MB comp I use though, never vibed with ITB options.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372150304979816540",
+    "author": "conordalton",
+    "date": "2025-05-14",
+    "content": "big fan of RME ADI2 Pro FS R Black for the headphones",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372348901469716500",
+    "author": "Elaine Rasnake",
+    "date": "2025-05-14",
+    "content": "I have to RME ADI-2 DAC as my \"mobile\" DAC (because the Hilo is so  bulky) and it's awesome",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102983827699277935",
+    "author": "Bryan DiMaio",
+    "date": "2023-05-02",
+    "content": "If you're able to get a demo unit, might as well just try it out. I haven't used the Fearn thing but I often find that testing outboard is best done firsthand",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1120491973674029086",
+    "author": "Gerhard Westphalen",
+    "date": "2023-06-19",
+    "content": "A lot of the time it's other hissy gear like outboard or plugins. Not room tone. Vocal clips themselves already edited around the active parts",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1127642029548118086",
+    "author": "LAPhill",
+    "date": "2023-07-09",
+    "content": "I think most of us with a few extra reps around the sun would usually point to something we\u2019ve done BEFORE getting the baller gear as our best/most popular work. Good gear can help once you know what you\u2019re doing, but good ideas and intention have nothing to do with what DAC you have.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138284250857209926",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Absolutely. I try to be as agnostic as possible between audio brands of various cache (I think my switch from ATC to PMC is solid proof of this). I'd be happy to spend money on a better DAC if it made a reasonable impact in my monitoring environment or even more importantly, the quality of my work. I had every intention of using the better spec'ing Topping instead of the Grace but when I A/B'd them, they sounded near identical and I would go on to say that the Topping sounded slightly worse. The Hilo and Orion were just identical. Different story when replaced my Dangerous Monitor ST with the Grace m905... that was a big difference. Same with the ATCs vs PMCs... instant. Huge. But DACs? I'm firmly in the 'solved problem' camp. Insanity to me that people working out of bedrooms with wall panels claiming they can hear massive differences between these boxes... I genuinely want to call shenanigans.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217668561733156864",
+    "author": "Berlin",
+    "date": "2024-03-13",
+    "content": "speaking of raising rates and not listening. a few years back I raised my rates and lost an artist, they then went else where for their master, got it mastered, and got v1 back - set up in their studio, jamming it loud, and then when the bridge of track 1 hit, there was an iphone ring tone BLASTING, distorted, and it scared them to death and almost blew up their studio... Needless to say they came back quickly, paid my rate. \n\nStill have always wondering what happened with those masters - all I can figure is their phone was synced to their computer, they were mastering out of the box, and their computer chose the DAC for their mastering chain, got a call while running masters without monitoring, didn't QC and just hit send.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308511182721650798",
+    "author": "Bryan DiMaio",
+    "date": "2024-11-19",
+    "content": "looks like a dangerous seat",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372043993378062447",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-13",
+    "content": "Prism/Benchmark/Topping in use here",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372222175825760257",
+    "author": "mcsnare",
+    "date": "2025-05-14",
+    "content": "On the converter topic, I\u2019m rockin a Prism DA-2 for monitors, an OG db tech DA 924 for pitch and a Prism AD-2 for catch. The new Millennia Immersiv DAC is on the way for trial.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1420779304039485575",
+    "author": "Rollmottle",
+    "date": "2025-09-25",
+    "content": "I don\u2019t have the volume of work some others here do so I am more likely to have the time others don\u2019t have to send something to outboard. With that said, I am digital 95% of the time. On the rare occasion I use my outboard, it will more than likely be a single. I will always capture the print pre-limiter. And if I need to tweak something, it will be done with a digital EQ.\n\nThese days, I\u2019d never do an album where all the tracks go out. It takes too much time to document, extra time to capture, and when the inevitable mix swap comes, extra time to recall, reprint etc. I used to, but it doesn\u2019t scale well if you have any meaningful volume of work where recalls or in flight projects become prohibitive to you handling more than one work stream for multiple clients at once.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1430688638341218487",
+    "author": "Mike Tierney",
+    "date": "2025-10-22",
+    "content": "Since every channel is talking about de-essing rn, here\u2019s my product idea: slate trigger, but for s, sh, and f sounds. And steven slate recorded the samples. You can also convert them to midi and trigger your own ess sounds if you want, but why bother when slate already recorded the rhcp ess for you?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014837092454486",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "I\u2019m doing all my monitor control via wavelab and an RME adi2pro. I locked the level so I don\u2019t ever adjust it an dI just level match with a ref track \u201cloudness matching\u201d feature in wavelab and use a key stroke to flip a/b",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "974852775307534436",
+    "author": "David Fuller",
+    "date": "2022-05-13",
+    "content": "AKM has +2.5dB of headroom *above* full-scale before anything clips",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975107542395015238",
+    "author": "BillyC",
+    "date": "2022-05-14",
+    "content": "How can anything go truly *above* full scale? Isn't that like saying my 12 gallon gas tank has an extra half gallon of room if overfilled?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060955161859723354",
+    "author": "Bonati12461",
+    "date": "2023-01-06",
+    "content": "I've heard good things about that Topping stuff - I like that 8 channel D/A they have, very simple. USB in, 8 TRS out. Handy!  but on the RME tip - I bought this ADI 2 Pro blah blah (long ass model name) and man, this is the best piece of audio I've bought in years. Super deep, super useful swiss army knife. It floats between pro & personal use all the time - portable headphone amp, a floater A/D for various analog transfers for reissues, sampler A/D for some high quality synth sample packs, etc. Love it. I use to see RME stuff from a distance and think \"that shit it too tweaky for me\" but now I'm on board. Tweaky is good if it;s useful. Only learning curve was the odd menu navigation with the 2 buttons on the front.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064309944100343858",
+    "author": "Eric Martin",
+    "date": "2023-01-15",
+    "content": "I master with an outboard compressor that\u2019s very rarely doing much gain reduction but the transformers of the box are working as a harmonic generation, and the. I use Apogee soft limit as my limiter.\n\nMastering with one EQ and one compressor/limiter box, and it\u2019s been turning out results that keeps my current clients coming back and is getting more coming to me.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064680716002132018",
+    "author": "Gerhard Westphalen",
+    "date": "2023-01-16",
+    "content": "I have a device in my studio which does nothing except plug into the wall (and has on/off switch). Changes how everything in my system sounds. Measure AD/DA loop with REW and you\u2019ll see no difference at all yet if I print files others can pick out which has the device on/off. Took a lot of analysis for me to figure out what it does is change the shape of the noise floor on my DAC (and/or ADC)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079107200229842974",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "For our chain the sweetspot was leaking around -6dB FS on the converter. Our EQs and line amps are all low noise/high headroom so it was governed solely by the analog color piece - modded SSL, MDE, Fearn, Gyraf or whatever. What I like about ghat level is that I can go up or down easily and find that perfect amount of color",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079129463243149442",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "I would say practically digital tools that could really do what the analog chain does would be very helpful to me today. But from a idealogical point of view I am much more interested in what digital can do that analog can\u2019t",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101608858327199888",
+    "author": "Bonati12461",
+    "date": "2023-04-28",
+    "content": "Bryan that's a great idea and I've been meaning to do that. The silk section is all I really use on the Neve MBP anyway, ha. On analog limiters I only like the Maselec MPL-2, which I just nabbed one recently. Had used it in a former mentor's studio and dearly missed it for years. Only analog purchase in a long time. No other analog limiter ever worked for me - the Pendulum PL-2 crackled and I couldn't trust it. Plugin limiters are just so superior. Also no interest in Bettermaker here. Tons of them show up used too - bad sign?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102745184124543027",
+    "author": "hank01564",
+    "date": "2023-05-01",
+    "content": "Same with outboard gear tbh",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234608087034364065",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-29",
+    "content": "With that in mind you want the best speakers and room you can justify, a good DAC and. Handful of great plug ins",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273402436270297178",
+    "author": "Berlin",
+    "date": "2024-08-14",
+    "content": "I'm completely in the box now. Sold all of my outboard mastering gear last year (it had been sitting in the desk unused for quite some time) and it has been the best decision I've made for my workflow in a while. But that is just me. I finish records faster and more efficiently, and can revise more quickly if needed. I feel folks are happier with the end result as well. But that being said, I did need to walk down the path of the outboard gear situation to learn from it.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324406157149864070",
+    "author": "masteredbyjack",
+    "date": "2025-01-02",
+    "content": "I personally would be horrified to do it intentionally on someone else's mix (in the way I'm describing it)...but again, maybe I'm not understanding Em's intention or process with Sequoia. Then again I'd be horrified to clip a Lavry on almost anything too that wasn't intended for that. So take it for what it's worth.\n\nYou'd have to listen through a dither plug or something to hear what it would be doing, in the DAW you're still hearing 32/64bit",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1324882464971423845",
+    "author": "Berlin",
+    "date": "2025-01-03",
+    "content": "I believe this is what they are doing.. no external converter clipping hardware involved.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1334299617155612855",
+    "author": "Nomograph Mastering",
+    "date": "2025-01-29",
+    "content": "If the track is mastered with analog outboard, there will be some information up there (clipping and distoriton harmonics) as well as noise, and it can be ok to submit",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1336765929534525511",
+    "author": "Paris Lee",
+    "date": "2025-02-05",
+    "content": "@Stefan Hi Stephen, this is a great question! \nThere are two issues at play here: One the more obvious, sending the signal to multiple A/D\u2019s, and then, maybe a little less obvious: the issue of how your system is being clocked, and whether the A/D you\u2019re auditioning is exerting maximum performance based on these conditions. Personally, to feed multiple converters, I use a Maselec MTC 1x console. This offers two identical outputs. So the analog signal part of that is solved right there. There are other ways to address this problem like outboard switchers. \n\nBut here\u2019s the real problem, clocking. *Generally*, and when i say generally probably in almost 100 percent of cases, the A/D converter sounds its best when it is the master clock of your system. Of course there are *certain* converters that *may* benefit from external clocking, but I\u2019m not jumping into that can of worms. You can read ENDLESS arguments on Gearspace about this. \n\nI\u2019ll say up front that I think clock sounds best just getting transferred straight through the AES audio feed to your interface, vs using a BNC output to your system, but again, I could get pushback there, that\u2019s my opinion. \n\nSo- let\u2019s get to it, you have two A/D\u2019s running AES feeds into your interface. Now, on your interface itself- you need to choose what AES feed your choosing to Sync to- so you\u2019re going to choose one aes feed, or the other. This doesn\u2019t *preclude you* from solo\u2019ing each feed in your DAW. But the main thing here is that when you audition one converter, you need to also go to your control panel of your interface and select that AES feed to sync if you really want to hear the correct sound. \n\nIn sum, I would do it this way and record a 30-45 pass of each. Then audition them that way (i use comp lanes on the same track to achieve this).\n\nAnother possible way to do this is having an outboard aes switcher like a z sys and switching the converters to the same aes output. Hope this helps!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1343718215884345425",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-24",
+    "content": "I used to repair all maselec gear in the states",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1344021565871882291",
+    "author": "Paris Lee",
+    "date": "2025-02-25",
+    "content": "The EQ section on the MLA 4 is fucking excellent and different than conventional eq sound. Bump the mid band half a db (top of low range to a mid range 3k-8k. Killer\n\nIt has a great hi shelf de-esser \n\nTurning down 100-200hz half a db can really relax the low end that a shelf on other eq\u2019s does not do.\n\nThe eq is where it\u2019s at. The compression is just a slight slight squeezer. \n\nLow band on dance tracks *GENTLY* no visible GR or rare GR lights \nHi band de ess - starting point 3m attack 50m release)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1346150135205330954",
+    "author": "Moses Mastering",
+    "date": "2025-03-03",
+    "content": "yes and yes.. as a analog lover and user of it still for the last 8 years.. and i continue to buy things... its just a tool... .so it has to not only fit in the context of the project sonically but also in the context of \"getting the project done\" on time/budget. etc... sometimes labels will send me same day stuff and as much as I would love to run the record thru the analog chain, I know in two hours they will send me a new mix with a new vocal lol.. casue they are behind and someone missed something haha ... sometimes there is literally not enough time in a day even if you wanted to run analog due to project constraints. Is this good or bad? I don't know haha.. but its part of the gig I have found and something i accepted. Ironically i made a career and enough money off plugins lol to then buy all this gear lol... at this stage the gear is more for me and the way I like to work when time allows it. I adore gear.. but workflow and turn around time makes it sometimes impossible to use.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1357269930784854016",
+    "author": "\u00d8ra Mastering",
+    "date": "2025-04-03",
+    "content": "Welcome Dave!\n\nYour podcast episodes on \u00abAttack and Release show\u00bb and \u00abSecret Sonics\u00bb are great, made me rethink my workflow and I am never clipping converters again \ud83d\ude05 \nLooking forward to hear your voice on different topics in this group.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372090251606233120",
+    "author": "allearsmastering",
+    "date": "2025-05-13",
+    "content": "very happy with my RME ADI2 Pro FS Dac here",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "971795801204473886",
+    "author": "Rollmottle",
+    "date": "2022-05-05",
+    "content": "Did they use outboard? Sounds like a L/R cable is swapped (among other things). Oooffff.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "971795984818528346",
+    "author": "Zack Hames",
+    "date": "2022-05-05",
+    "content": "They absolutely could have. It sounds like outboard misused (overcompressed, over-Eq-ed). on top of a technical issue. Note: the artist said \"it could have been the gear they ran it through\" so I think he's using some analog.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "974852712132902922",
+    "author": "David Fuller",
+    "date": "2022-05-13",
+    "content": "it depends on the converter if I'm honest. Some handle peaks better than others",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975112620594040952",
+    "author": "Eric Martin",
+    "date": "2022-05-14",
+    "content": "when the peak happens in-between sample points it can be over full scale in decoding the analog signal out of the digital one",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975113269549342811",
+    "author": "Eric Martin",
+    "date": "2022-05-14",
+    "content": "and then the converter on the end users device clips, and sometimes the converters have clipping protection built into the firmware so that can\u2019t happen and that further crunches up the audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975114327822565416",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "Yeah so basically the converter has extra headroom before it runs into the supply rails",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975117330013106196",
+    "author": "BillyC",
+    "date": "2022-05-14",
+    "content": "@Eric Martin @David Fuller I understand how digital clipping can occur, but I'm still not sure I understand how it's theoretically possible to have true headroom above 0dBfs. In my mind the converter either has a nifty way of limiting intersample peaks, or the converter is simply scaling the signal down by -2.5dBfs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975123948587069521",
+    "author": "BillyC",
+    "date": "2022-05-14",
+    "content": "Again, I can conceive of ISPs. My question is even simpler: Isn't a converter company claiming to have *true* 2.5dB above full scale being a bit disingenuous? Doesn't that actually only mean they have a good sounding way limiting ISPs up to 2.5dB above full scale? In other words, \"yeah this exactly 6' person will absolutely fit into our exactly 6' tall room...right after we take off his shoes and give him a clean buzz cut.\" Maybe my question is more semantic?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975129557415890975",
+    "author": "Eric Martin",
+    "date": "2022-05-14",
+    "content": "That is based on how the manufacturers calibrate where full scale is in terms of output which you\u2019ll see referred to in a different language excuse the output is designed in volts not db, so in terms of voltage they\u2019ll be able to cleanly supply more voltage than is necessary so that playback is always sounding as intended.\n\nIE 0dbfs = 2.2 Volts peak to peak(positive and negative)\n\nAnd lets say the amplifier can reproduce 3  Volts peak to peak, they\u2019ve designed the device to handle any overs without distortion.\n\nAll of this is highly technical but involves maths and actual \u201caudio engineering\u201d in the geekiest of the geekery.\n\n@David Fuller will understand much better than I do about it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975129622758977676",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "it's just the rail voltage being above the maximum calibrated output",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975130485791539230",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "Matthias from RME explaining it better than I could",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "975134426239467571",
+    "author": "David Fuller",
+    "date": "2022-05-14",
+    "content": "tl;dr: AKM chips have extra headroom above the voltage level that AKM decides is full scale, so the converter itself cannot clip with lower ISPs. Given good analog side engineering around that, it won't clip until it hits about +2dBFS - and the clipping behavior is pretty benign compared to the utter tomfuckery that is ESS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "979125750928117820",
+    "author": "ALXCPH",
+    "date": "2022-05-25",
+    "content": "Yeah but he would resample stuff in Fl studio to like 1\u20136k this is a mastering converter which is why I find it kinda odd that it starts at 32khz and up.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "991036289161789440",
+    "author": "hank01564",
+    "date": "2022-06-27",
+    "content": "One of my mentors/ close friends started developing a clipping plugin based on Lavry conversion. It\u2019s still in development but I think it\u2019s gonna be a game changer once it\u2019s out \n\nHere\u2019s his IG if anyones interested https://www.instagram.com/schwabedigital/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "991224127002263552",
+    "author": "David Fuller",
+    "date": "2022-06-27",
+    "content": "honestly whether or not ISPs are audible depends on the particular DAC doing the reconstruction and how loud it is",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "991224273702228058",
+    "author": "David Fuller",
+    "date": "2022-06-27",
+    "content": "like AKM DAC chips honestly dgaf about overs until you get to about +2.5dBFS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1037924322070773800",
+    "author": "Zach Hughes",
+    "date": "2022-11-03",
+    "content": "Folks, I have a question for the group. Would love to get a mastering engineers perspective. I'm curious what is the rationale behind masters clipping output converters and leaving in true peaks that exceed 0dBFS? I get that clipping converters can sound cool / desirable, but why not achieve the clipping you want and then print a final master under zero? Why risk a consumer product crapping out during playback and adding potential distortion and why totally disregard pretty much every DSP's recommendation that true peaks not exceed -1 for the encoding process? I'm noticing that a ton of major label releases are peaking above zero with loudness normalization turned off on Spotify.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038241603430662225",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-04",
+    "content": "1) The DAC outputs full scale and is attenuated in teh analog domain",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038242788317331466",
+    "author": "cian riordan",
+    "date": "2022-11-04",
+    "content": "My shit-hot Topping D30/Dangerous ST combination",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038243896054005860",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-04",
+    "content": "Before we answer that I'm trying to clarify something. Your question \" I'm curious what is the rationale behind masters clipping output converters and leaving in true peaks that exceed 0dBFS?\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038246083043803157",
+    "author": "David Fuller",
+    "date": "2022-11-04",
+    "content": "As an aside, most converters don't ram right into hard clipping at full scale. Many have 2-3dB *above* before it actually clips",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042815115336097892",
+    "author": "Will Melones",
+    "date": "2022-11-17",
+    "content": "I guess because ISPs can manifest differently depending on the DAC being used, so you never really know what the listener is getting on their device?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1042832476583772180",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-17",
+    "content": "We talked about this here before ISPs matter more because of Codec clipping than converter clipping. I would say that at this point the vast majority of modern playback systems are using digital attenuation to control level, as never get hear full scale on a DAC",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1044327606109085706",
+    "author": "ALXCPH",
+    "date": "2022-11-21",
+    "content": "Do you have a go to digital clipper, or are you converters only?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1044330170468802630",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-21",
+    "content": "I never clip converters, when I clip digitally I use Standardclip",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1044331243476635738",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-21",
+    "content": "I\u2019m not trying to add distortion typically, and if I am it\u2019s with nice outboard",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054719410310496388",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "It may be different now but at least on the version I have the filters would shift (or display differently) depending on the sample rate RX was in. So I built everything to work when RX/Lynx was set to 44.1",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054985892634304532",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-20",
+    "content": "The analog chain is super clean unless I\u2019ve introduced deliberate distortion",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1058168022558314516",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-29",
+    "content": "Good, but I\u2019ve been spoiled with the Maselec",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060725064313618582",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-05",
+    "content": "Said another way could I use RME for the analog loop but keep my topping for the monitoring DAC?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060858878268551228",
+    "author": "Dimitris Bourgiotis",
+    "date": "2023-01-06",
+    "content": "I would like to ask If you think this combination of the topping plus the RME has any advantage over the ADI 2 FS R SE, where you can have two independent outs from the RME. I am thinking to go the ADI 2 FS R SE route for my monitoring/mix buss conversion.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060956611532816504",
+    "author": "Bonati12461",
+    "date": "2023-01-06",
+    "content": "Oh - I have one big gripe about the RME - the unbalanced / balanced headphone option on the front panel. For a regular ol' set of phones you just plugin into the 1/4\" TRS jack - for balanced you to use _both_ sets of TRS jacks.  You really have to make your own adapter cable. In my case that was a dual TRS to 4 pin XLR adapter that hooked to a balanced headphone cable I already had. I make cables all the time but it was still kind of a pain. They just give you a pinout in the manual, ha. Not an easy adapter to find if you can't make shit.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060961926168985600",
+    "author": "Dimitris Bourgiotis",
+    "date": "2023-01-06",
+    "content": "Thanks a lot for the insight Josh, I had the same concern regarding RME being more on the tweak-ability vs ux side. Good to know it's manageable in the end. I had no idea regarding the unbalanced / balanced headphone option, I assume it will be the same for the 2/4 SE version. My only wish would be to have some kind of a remote controller with rotary knob like the ARC.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060962625044885575",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-06",
+    "content": "Newest RME has a front panel Pentacon for balanced headphone out",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1060976480961695904",
+    "author": "Bonati12461",
+    "date": "2023-01-06",
+    "content": "I have the \"Black Edition\" btw, haha. I had some previous analog chain converters crap out about a year ago and I threw the RME into the hot seat and it saved my ass. Was my whole D/A/D capture loop. Sounded excellent. There was something in the (thick) manual about custom programming buttons on the remote but I haven't got around to that yet.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064413056173621258",
+    "author": "Nomograph Mastering",
+    "date": "2023-01-15",
+    "content": "Even with a basic computer and DAC you could make this happen for $10k in a typical small rented space or bedroom",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064641498601246771",
+    "author": "Bonati12461",
+    "date": "2023-01-16",
+    "content": "I have a MBP too - also hate the metering, too coarse. RMS/Peak switching and parallel mix are nice features. Like the width and depth options but already have a very nice width control on the Maselec MTC2 (that actually mono\u2019s when set to 0%). The color options sound great on this box but it\u2019s not a comp I can\u2019t live without. I also dislike those stepped pots they use - they wear out over time and the steps become \u201csmooth\u201d, doesn\u2019t feel nice.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1064771994513584178",
+    "author": "masteredbyjack",
+    "date": "2023-01-16",
+    "content": "I don\u2019t know Gerhard\u2026I\u2019ll take your word for it \ud83d\ude02 but I really enjoy your mastering and your credits speak for themselves.\n\nI love that people like you exist in the world and push boundaries of what\u2019s possible. But to tie to maybe a literal example\u2026I have a Massive Passive. It\u2019s like 75 percent of what I wish it was. And it may well be possible for me to learn and build a better version of it with my background knowledge, not constrained by the variables Manley is.\n\nBut as you know, it would take YEARS of studying, trial/error/etc. maybe I end up with a better EQ. But I could also argue that I could have spent all that time just making records and I\u2019d be much better off as a mastering engineer in long run, even with a \u201cworse\u201d EQ.\n\nThat\u2019s an extreme black/white example, but I\u2019ve got some big life changes coming and I\u2019m really trying to reevaluate where my time is best spent and how it relates to my long term goals.\n\nYou and Ruairi straddle two very specific and niche worlds so was just looking for insight on how you handle your balance! How specific are you with your time management when you go down rabbit holes? And how that relates to your mastering goals",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070629976442945546",
+    "author": "spectrummasters",
+    "date": "2023-02-02",
+    "content": "Yep fair . So , a db expansion post catching peaks because I want to be loud but improve  the dynamics a little . Just want to open the mix up. Hence idea of  eq and expansion moves . The spectral shaper isn\u2019t visibly working it\u2019s in a de ess range really . The saturation in their mix sounds good , kind of sleazy and cool for the vocal so I don\u2019t want to turn in something too clean . I thought mono <40 hz to pin the low end down  for want of a better phrase @@",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1071309784550211646",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-03",
+    "content": "Yep, again I went deep on this maybe 3 years ago and it\u2019s all hazy now. But they are basically throwing away the bottom bits of the audio (so with 16 bit that means any information from -96 dBFS up to \u201484 dBFS). Then they use that space to encode a fold down of information above 20k derived from high res source material. The hand waving Gerhard refers to is their claim to have a special \u201capodizing\u201dfilter that corrects for the phase shift in AD converters. This is actually impossible without knowing the exact AD, brothers in arms was recorded on ancient 3M digital machines with analog anti alias filters, very different to a kid with an Apollo with a Cirrus AD today",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1071503050419753010",
+    "author": "austenballard",
+    "date": "2023-02-04",
+    "content": "Oh yeah, I read that conversation. I'm personally inclined to believe you, not because I'm gullible to snake oil (though I'm certainly just as gullible as anyone else when it comes to stuff I don't fully understand) but because I had the privilege of knowing a very intelligent man many years ago who explained to me how electrical currents flow and their impacts on components. This has since been supplemented by a friend who designs audio hardware linking me to a reputable article discussing the effects of minor fluctuations in current on variables like jitter, THD, and dither noise in ADC and DAC hardware. I look forward to seeing your results.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1072325497993822279",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-06",
+    "content": "Super common to get alts printed at the wrong level (recalled outboard) or out of sync with main master. And as @hebakadry said cleanup can be worse on exposed A cappella etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073138704220164158",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-08",
+    "content": "I\u2019d like to share a little cautionary tale from my 3 hours spent troubleshooting today. I\u2019ve been printing through AD/DA looping using an ADI-2 (so single unit). Went to use a different DA. Got horrible ground loop. Very strange behaviour (if I touch this or touch ground of this cable to this ground the noise floor changes in this way\u2026). Made no sense since both converters use brick supply with no ground and my interface feeding them supposedly has transformer coupled outputs and inputs (AES) which I confirmed aren\u2019t tied to ground.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079102873847222402",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-25",
+    "content": "Rough plan is DAC (+24 but can drop down), line amp, SPL width circuit (op amps + tube, xformerless) adjusted to handle +24, Davelizer (+24), BP (+24), SSL (I assume needs to run lower, haven\u2019t looked into it), *insert other gear here * (I\u2019d like to clone an OCL-2 someday\u2026), selectable transformers with some kind of gain for driving potentially followed by a tube buffer with additional transformer (LL5402), line amp 2, ADC (+24, adjustable)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079105160980209674",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "The noise floor of modern converters and clean analog gear is really low. So we can avoid worrying about that too much",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079105404509896855",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "I\u2019m terms of our upper limit, undesirable clipping that is something we have some control over with most modern converters - we can adjust the analog level at which they clip - Gerhard mentioned +24 in his case",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079110175379685476",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "But once we are using an analog chain we are looking for color, color that comes with noise l, noise which isn\u2019t doesn\u2019t matter much in the kind of loud records we often make",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079115617665302578",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "If I was starting over I\u2019d be looking at unbalanced straight from the DAC or the best possible differential input stages - go down the Bruno rabbit hole",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079124642192707686",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-25",
+    "content": "E.g. my Davelizer is worlds different from DMG and so far I haven\u2019t been able to manipulate a chain with DMG (like DMG + converter loop) to match",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079133820755914902",
+    "author": "David Fuller",
+    "date": "2023-02-25",
+    "content": "This is getting really deep in the weeds but certain types of cap will behave differently with polarization voltage vs without",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079136001080963134",
+    "author": "Gerhard Westphalen",
+    "date": "2023-02-25",
+    "content": "In the past I\u2019ve tested on things like mics but this time it was just a converter loop with a single cap in line. Unfortunately I missed a 0 in one of my formulas so the cutoff ended up being at 80Hz instead of closer to 8Hz and the small variations between the caps created +/- around 0.2dB in the rolloffs making any blind testing not really valid. I\u2019d say there a still other audible differences but can\u2019t definitively stand behind that. I was hoping those variations would be well below 20Hz. Just need to get some bigger caps now\u2026",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082216367647899718",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-06",
+    "content": "But we have all sorts of baller custom outboard as well as pendulum, Magic Death Eye, Gyraf, Fearn, SSL etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082799424209690684",
+    "author": "noahc",
+    "date": "2023-03-07",
+    "content": "I'm trying to \"calibrate\" levels today. Any advice how I can see if I'm hitting +18dBu on my fearn? I'm unsure what to set my Lynx Hilo at, as well as how hard to output out of my daw.  Was reading above about +24dBu on the converter trim but a little confused.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082801427581243393",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-07",
+    "content": "Take a mix ITB that is peaking on your converter loop at around -10 dBFS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082801672675414068",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-07",
+    "content": "The do this for every dB step up until you clip your converter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1093273240115351682",
+    "author": "Maxim",
+    "date": "2023-04-05",
+    "content": "I mean what else is all that fancy outboard gear for if not \u201csong fixer voodoo magic\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102983419106951260",
+    "author": "masteredbyjack",
+    "date": "2023-05-02",
+    "content": "Since I'm on one today: another gear question ** shudders **\n\nDoes anyone have experience with both a Fearn VT-5 and a Massive Passive? I have the MP currently, but I am rarely using the actual bands...I mostly just hit it at whatever volume I feel best suits the color I'm looking for (different for every song). It does do a very cool job, but I just wonder if the Fearn is maybe a little more like \"clear\" in the lows or something? We've talked about the rounding of the lows, I know that's indicative of the tubes on some level but I've been mulling maybe going to the Fearn since usually what the Manley does best to me (biggers boosts/cuts transparently) I feel is just too much for a lot of the stuff I'm doing and a lot of mastering these days.\n\nAlso for most modern pop stuff I'm in the box, this wouldn't be for that. But I do actually use the MP a fair amount with good result in the capacity of it being a \"tube box\" sorta thing\n\n@Nomograph Mastering obv you have some experience and I know @Rollmottle moved on I think from it? Curious if you would be willing to share any thoughts",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102983948361027645",
+    "author": "David Fuller",
+    "date": "2023-05-02",
+    "content": "all the manley stuff I've ever used is consistently really... goopy sounding I guess?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1104359447175901255",
+    "author": "louisvie",
+    "date": "2023-05-06",
+    "content": "Anyway, let's Make Music Dangerous Again and thank you for your participation in showing the culture it can be done",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105612347529248808",
+    "author": "Rollmottle",
+    "date": "2023-05-09",
+    "content": "also, don't get a Dangerous Liaison",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126620812376543283",
+    "author": "Gerhard Westphalen",
+    "date": "2023-07-06",
+    "content": "Question for those of you using a G14 or other Gyraf gear - what level are you running at? I'm testing the buffer from this Pultec circuit (same as G14 as far as I can tell) but it's completely crunching at any reasonable level. Even when I turn my converters down to +13dBu I can't play anything at full scale without it crunching. If I back it down 3dB from there it's OK but that's super low compared to +19dBu levels and the noise floor of it is pretty high",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126623966891610232",
+    "author": "Gerhard Westphalen",
+    "date": "2023-07-06",
+    "content": "If I do a sweep at -20dBFS with converters set at +19dBu I get around 1% distortion. Could be usable but would be ridiculous to need to have everything at -20dBFS. My other gear is 0.001% even at -3dBFS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126638463043772506",
+    "author": "Gerhard Westphalen",
+    "date": "2023-07-06",
+    "content": "Nothing but the SRPP amp connected to converters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126981814075007127",
+    "author": "Gerhard Westphalen",
+    "date": "2023-07-07",
+    "content": "OK so the second tube from the pair I got (tested on the same board) is giving me 12dB more and the voltage before the output cap is completely different. Still distorting long before getting much level from it but clearly at least one of the tubes isn't as it should be",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138172988680843314",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "Jitter is only when audio meets a converter, it\u2019s a non concept in the DAW",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138173210236559361",
+    "author": "Rob Domos",
+    "date": "2023-08-07",
+    "content": "I understand this entirely. The reason I came to this conclusion is because when I tried some digital captures of playbacks between daws they nulled, and when I did a capture outside the DAC they didn\u2019t",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138173680267051129",
+    "author": "OMA",
+    "date": "2023-08-07",
+    "content": "Question.  Guys introduce voltage regulars and power conditioners in their setup so playback wouldn't dip in what not?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138174151367081994",
+    "author": "OMA",
+    "date": "2023-08-07",
+    "content": "Ppl introduce these things so the amps n whatnot would get consistent voltage?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138276522046799872",
+    "author": "alexstein",
+    "date": "2023-08-07",
+    "content": "Is there a reason for the grace dac in the setup now that you got the PMCs? Curious if you\u2019ve tried Lynx or other stuff in the new room",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138290548348813505",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "But in doing all these tests I realized that things I spent a lot of money on like my crane song gear was actually really shitty",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138292091248722020",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "The same ears that heard the Dangerous monitor as sucky (when no one believed me), the ATC tweeter/port stuff etc hears the DAC differences",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138295497841442876",
+    "author": "cian riordan",
+    "date": "2023-08-07",
+    "content": "Anywho, we both need to go back to work. Maybe we should start a #converter-talk channel and I can just stay clear and stay in my lane over here in crazyland.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152609182713925782",
+    "author": "Nomograph Mastering",
+    "date": "2023-09-16",
+    "content": "Ignore the hoopla about outboard, Prioritize your speakers and room when you can. I do everything, like everything with about $1k of plug ins and RX",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1152990321580449913",
+    "author": "hyanrarvey",
+    "date": "2023-09-17",
+    "content": "It\u2019s like dude got some new outboard gear after going to a sunn o))))  concert and mastered with his eyes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1153003100194476052",
+    "author": "Nomograph Mastering",
+    "date": "2023-09-17",
+    "content": "And now that every Thomas, Richard and Harriet can load up a credit card to buy a bunch of Gearslutz recommended outboard that hierarchy makes even less sense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154202859051679845",
+    "author": "masteredbyjack",
+    "date": "2023-09-20",
+    "content": "Something I have loved about the weiss EQ is the stepped frequencies and .1db steps.\n\nI\u2019m now using it and equilibrium (I prefer equilibrium when in the box, for whatever reason I prefer the weiss when I go outboard it matches well to me)\u2026but having used it only for the last year it was really great as a learning tool\u2026it is easy to hear the differences in the steps which I found made me have less options and therefore better masters (and there are more than enough options to accomplish essentially anything)\n\nFor @Nomograph Mastering it may not sound how he likes or is not flexible enough, but for me as a beginner I think it sounds great and the slightly restricted options really focus my energy where they should be",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1156509072732995605",
+    "author": "Nomograph Mastering",
+    "date": "2023-09-27",
+    "content": "There is no intersample peak until the digital samples are converted to analog in a DA converter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176728627660996689",
+    "author": "cian riordan",
+    "date": "2023-11-21",
+    "content": "They might be clipping the non-lim in an analog chain? Or a digital chain?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214375535665225728",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-04",
+    "content": "I\u2019m e hit this many times where I used a demo piece to master something, or a piece of outboard I later sold",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214395972038303834",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-04",
+    "content": "Had a client beg today to understand what I\u2019m using. What outboard? What secret sauce? How so wide? How so loud? How so clean?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217497538618195968",
+    "author": "Rob Domos",
+    "date": "2024-03-13",
+    "content": "I haven\u2019t had enough free hours to keep pulling the thread, but the output from the playback of different daws null perfectly on digital loopback but on playback going out of each DAW out the DAC I can pick out blind differences between DAWs. I\u2019ve spent so long wrestling with this and the only logical conclusion I\u2019ve been able to come to is that they handle the passing off of the data stream to the DAC differently, ie. (And here\u2019s where I start talking about shit I really don\u2019t know shit about) Ableton running audio off of a midi clocking design that runs off of your macs built in clock while reason is running off of the clock built into your interface or whatever. When I asked Chat GPT it told me that they do each use various forms of clocking for playback that aren\u2019t 1:1 the same but I have no fucking way of verifying this after hours of trying to find sources.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217499905342443681",
+    "author": "Rob Domos",
+    "date": "2024-03-13",
+    "content": "Bits are going out my DAC when I listen",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217499977543188530",
+    "author": "Rob Domos",
+    "date": "2024-03-13",
+    "content": "How is a DAC functioning with no clocking involved",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1217500107755229244",
+    "author": "Rob Domos",
+    "date": "2024-03-13",
+    "content": "Err bits are going into my DAC and signal is coming out, but you know what I mean",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220472281705218169",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-21",
+    "content": "Converter induced \u201creal\u201d DC offset was still a thing when I started, but not anymore",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220506008133046272",
+    "author": "David Fuller",
+    "date": "2024-03-21",
+    "content": "AFAIK a lot of RME stuff is DC coupled and can send CV, so it can *potentially* create actual DC offset",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1220508125292003528",
+    "author": "Nomograph Mastering",
+    "date": "2024-03-21",
+    "content": "The converter chips all have filters in now",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1225913515513086065",
+    "author": "Edsel Holden",
+    "date": "2024-04-05",
+    "content": "interface is cool and i like how it is clear what file resolution is playing back and i like that it changed my converter sample rate as im playing back different albums... def a \"nicer\" expierence than tidal",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1228106743616110622",
+    "author": "Rob Domos",
+    "date": "2024-04-11",
+    "content": "A couple of things could be at play here:\n\n1) I saw a study once where participants preferred lossy audio over lossless. Maybe that\u2019s because the OGG rolloff was just enough to make Travis Scott\u2019s top end bearable, or maybe it\u2019s because people have become accustomed to the lossy sound. All that to say, you could like the sound of the loss. \n\n2) It\u2019s possible that Bluetooth is less destructive to audio than a DAC the size of a tic-tac fit into a lightening cable that feeds a port that is every bit as much for charging as it is for audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273350526615949344",
+    "author": "Will Pragnell",
+    "date": "2024-08-14",
+    "content": "For those of you who use an analog chain, how many of you have gear in it that don't have stepped / detented controls, and how much of a pain does that make recall for you when you need to do revisions? (And before anyone gets worried that I'm about to go and buy a load of stuff I don't need... that's not what's happening here. I'm just working out which pieces of gear I already own I should sell vs keep. edit: obviously there are other concerns besides ease of recall, but this is potentially an easy way to cut a bunch of stuff out of the list real quick, potentially)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273352452858576908",
+    "author": "Will Pragnell",
+    "date": "2024-08-14",
+    "content": "Not as helpful in terms of making it easier emotionally to sell all my beloved outboard but that's a personal problem \ud83d\ude02",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1279528310904459416",
+    "author": "Berlin",
+    "date": "2024-08-31",
+    "content": "r u using the Grace as your converter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1279528583236423760",
+    "author": "Berlin",
+    "date": "2024-08-31",
+    "content": "ok what\u2019s your converter / clock?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1279528680380567573",
+    "author": "Edsel Holden",
+    "date": "2024-08-31",
+    "content": "in digig in to my 228's, so my converter is my PMC's - this atsrted at 96k but now happens at all smaple rates",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1289342433888309268",
+    "author": "Th\u00e9o Quayle",
+    "date": "2024-09-27",
+    "content": "In this case I had done an outboard pass and noticed I missed a click in my initial RXing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315013898713301134",
+    "author": "Montano Mastering",
+    "date": "2024-12-07",
+    "content": "For the sennheisers I\u2019m just using the lynx hilo built in amp, for the LCDX I\u2019m using a schiit magnius",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315015958951100417",
+    "author": "Nomograph Mastering",
+    "date": "2024-12-07",
+    "content": "The lynx is reasonably clean, not my fav but fine. Never heard the Schiit",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1336698974727307316",
+    "author": "Stefan",
+    "date": "2025-02-05",
+    "content": "Paris, how do you go about interfacing and auditioning multiple converters in your studio?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1338767330322415679",
+    "author": "Paris Lee",
+    "date": "2025-02-10",
+    "content": "@Stefan \nI don\u2019t audition different converters on every track. That would drive me insane. \nFor an album that would be more of a thing\u2026but I\u2019ll be honest I\u2019ll just use one converter for a while across some projects and then I\u2019ll switch to the other one arbitrarily for a while\u2026\n\n(I have a Crane Song Interstellar and a Lavry Savitr\nBoth great All Rounders that have proven legacies  and hard to get a bad sound out of\u2026)\n\nI\u2019m not a big believer that the converter is the \u2018barrier\u2019 to delivering your best work. If you\u2019re in a room where you\u2019re hearing what\u2019s happening clearly, you can work. Now we all have our preferences on that \u2018last 5 percent\u2019 of sonics, which influences your decision, but if I can hear the eq and get a cohesive tight image and strong center, it doesn\u2019t matter, I\u2019m fine. All of that is Much more important. \n\nThese converters are all so fucking good now. I think 15 years ago which one you had was more of a heated discussion. \n\nJust don\u2019t feel the need to go off the reservation on the ones you\u2019ve seen in the top guys racks over the years, and\u2026DONT BUT SOME VINTAGE THING THAT COULD BREAK ON YOU!!! Get something new that\u2019s supported. \n\nMaybe I over answered haha. Coffee ya know",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1341578306222293012",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-18",
+    "content": "If rendered to a 32 float file it will clip at the mix output and DAC but we have the option of scaling it down to \u201cunclip\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1343679978985750611",
+    "author": "Berlin",
+    "date": "2025-02-24",
+    "content": "bax eq, shadow hills, clipping converter on the way back in..",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1345175909904420884",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-28",
+    "content": "There are some sounds you can\u2019t make without complex analog chains, I\u2019m not against that. I just push back on it as the default in mastering",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1346910156830802012",
+    "author": "Nomograph Mastering",
+    "date": "2025-03-05",
+    "content": "\"Hey Prof, I've got my parallel upward multiband expander with band selective harmonics ready to go, and all my analog outboard\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1346910754397356103",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-05",
+    "content": "\"but it can't possibly be so simple right?\"\nthe narrative has been shifted so far away from just making the right moves because it doesn't sell plugin subscriptions and outboard gear",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1353441257577386065",
+    "author": "DarrenB",
+    "date": "2025-03-23",
+    "content": "I wonder if it is related to the other flac issues you mentioned.  Converters and drivers behaving otherwise?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1353488491560042596",
+    "author": "Gerhard Westphalen",
+    "date": "2025-03-23",
+    "content": "Yeah just RME loopback",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368783292995866635",
+    "author": "Paris Lee",
+    "date": "2025-05-04",
+    "content": "I\u2019ve had good luck tapping 8:1 ratio \u2018compressors\u2019 before typical brickwall limiters \n\nMaselec MLA 2 is a classic choice,\nsee a couple lights then slam with a look ahead\n\u2026Or the R Comp before the L2 on that waves max bass\n\ntime constants of course extremely fucking fast \n\nI just read a classic contrarian old Howie Weinberg article where he said the best limiter attack is the slowest he can find or the transients would always get ruined and generally couldn\u2019t stand them and you should all just clip and get with the program! ha! Talked about old NTP limiters\u2026i think 100 200 attack on those old guys? Love Howie btw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1369004736887390279",
+    "author": "Berlin",
+    "date": "2025-05-05",
+    "content": "Labels will hurl notes talking about backing off stereo wideners, backing off compressors, backing off multiband dynamic eqs, converters, clippers.. and all I used was on their track was 1 EQ and 1 limiter with 1db of gain reduction.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372043848179777566",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-13",
+    "content": "@Berlin have done the converter convo many times here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372340725986889738",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-14",
+    "content": "If you still do analog loop it will be hard to beat whatever the latest 2 in 4 out RME is",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372368381537419374",
+    "author": "vostral",
+    "date": "2025-05-14",
+    "content": "I'm considering update the interface to a range of 2000-3000$. My list has RME UFX, Apollo, Apogee Desktop. I guess RME is known well for conversion and top quality here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1372370939693629490",
+    "author": "vostral",
+    "date": "2025-05-14",
+    "content": "So should i go for an interface instead? Or this converter paired with an interface?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1373247214826029118",
+    "author": "conordalton",
+    "date": "2025-05-17",
+    "content": "I prefer the sound of the RME adi 2 pro fs r black to the RME 2/4\n\ndifferent chips used and to my ear not an improvement (albeit personal taste)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1373507046363631779",
+    "author": "Paris Lee",
+    "date": "2025-05-17",
+    "content": "Nice one! \nI\u2019m gonna check this RME out then\u2026i want a new all in one with a small footprint that kicks ass on my Desk.\n\nApropos of nothing \n\nTwo Best all in one systems I\u2019ve ever used \n\n1) Prism Ada 8 (sold it waaaaaaay too early in my mastering life\u2026 cuz i got sucked into the antelope hype machine.\n\nCould totally still have been using it all this time\u2026 and do now. have an ol faithful Prism DA-2 at the spot in use (thx @Nomograph Mastering)\n\nDont fix what isn\u2019t broken, kids\u2026\n\n2) Merging HAPI (original Ardatech AD chip card with the newer ESS Pro DA card)\n\n\u2026still got it! \n\nGot sucked into the Lavry vortex\u2026but coming out of it\u2026and forgot how goddamn good this was till I plugged it in recently.  \nOnce again\u2026things were great. Saw a gold thing\u2026thought\u2026hey-I like Gold things..! Back to maturity.\n\nGlad I brought the unit back out\u2026\n\u2026Wanted to compare it to @huntleymiller standalone Frank Lacy build Ardatech Ad I just bought off him!!! \nthe frank one, unsurprisingly, is better). \n\nStrap that up on the RME AES and run a simple USB cable sounds like a breath of fresh air. With the Atmos stuff, life is too complicated!!!\n\nTried combining both worlds after having them seperate. Mistake! \n\n(And yes you can DM me if you\u2019re digging for gold and  want a Savitr and a Quintessence I\u2019ll give a decent deal if you buy both)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374071879052165312",
+    "author": "Nomograph Mastering",
+    "date": "2025-05-19",
+    "content": "But it\u2019s very dangerous ground",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378410504120172574",
+    "author": "Paris Lee",
+    "date": "2025-05-31",
+    "content": "Pretty dumb question here if you actually know about computers themselves-\nAnd an eye rolling one generally-\n\nRME released ARM Windows Drivers for non intel Windows machines. My question isn\u2019t about what they are actually intended for (specifically designed for \u2018snapdragon\u2019 CPU\u2019s and not for x86). But, from what i understand when you\u2019re on parallels on Mac (yes this is not the same as a straight ARM install, it is a \u2018virtualization\u2019, got that.)\n\nBut it does use the Arm windows installation (slap me if untrue) \n\nI\u2019m going to try this out and report back because, after reaading the RME ADI Pro FS manual, my eyes kinda got wide and misty as to to how fucking good this interface was designed (on so many levels) and I\u2019d \u2018like\u2019 to just run Sequoia on an M1 Mac in parallels, if at all possible. \n\nThis seems like maybe you have a legitimate shot of RME drivers showing up within your parallels with little fuss and computer nerdery and actually working decently\u2026? \n\nDefinitely NOT intending to do a computer science pivot. No one wants that! Lmao\n Does this pass a smell test/ or anyone actually run their computers off a M1 in parallels and it\u2019s not that deep) /PM",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1382950835239256114",
+    "author": "Paris Lee",
+    "date": "2025-06-12",
+    "content": "A joy to listen to. It has a mellow sheen that\u2019s got a perfect presence  that does *not* digititis mix elements from 3-10k. *Especially percussive ones*\nThat hot bright snare sample that kicks up your anxiety level and inflames your tinnitus asserts itself as being what it is, but is free of those extra panic attack additives\n\nYou are unshackled-less afraid to eq certain areas that evoke ptsd that other converters have baked into you. That 8x oversampling setting might be wrong, but the aliasing is not fucking up your whole day and making you reach for a Xanax \n\nVery easy to concentrate on the music and feel relaxed doing it. No notes. \n\nWe\u2019ll see if the benchmark stays. Not part of the \u2018master plan\u2019 i just don\u2019t have trs xlr cables for the other RME da pair. \nBut we all know the DAC 3 kicks ass so no complaints at all pitching with it right now\u2026",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1383506865316692019",
+    "author": "Bryan DiMaio",
+    "date": "2025-06-14",
+    "content": "Yeah RME is sick and this is exactly the purpose of their gear, to get out of the way and let you do what you want!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1386778406938742934",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-23",
+    "content": "I did at a decade of very expensive outboard, coloring things, pushing things etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405011668483838106",
+    "author": "masteredbyjack",
+    "date": "2025-08-12",
+    "content": "So for instance, a very clean piano track that is sparse im not letting true peaks in, because I\u2019ve studied how that will codec convert (or a DAC can make the true peaks into real peaks when it goes to analog, etc)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1410317083191017602",
+    "author": "Paris Lee",
+    "date": "2025-08-27",
+    "content": "Lately I\u2019ve gotten a hold of TDR elliptical and TDR ultrasonic and find both of them very good additions \n\u2018Traditional Disc Mastering\u2019 preset is solid starting point on beat oriented music. \n\nMy new export scheme in Reaper involves upsampling the file to 96k mastering there. And using chain upsampling post converter at 192 and leaving oversampling off plugins whenever possible\u2026placing ultrasonic after the last limiter seems to be  helpful but also something probably to be cautious with fussing too much around with other than turn if on and see if it\u2019s better, has extra features that are above my pay grade (nyquist hard limit, dynamic gating\u2026) \n\nI export out at 44/48 64 bit and get that out of the way and the chain OS still stays at 192. \n\nDb power amp to 24 bit triangle dither. \n\nVoxengo R8brain in Reaper, to me, is pretty damn good",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1440066180248371222",
+    "author": "Bryan DiMaio",
+    "date": "2025-11-17",
+    "content": "There's a lot of stuff in there that may be formed from misconceptions, like specific level and loudness values, etc\nIn addition to that as a mastering engineer starting out maybe try and get it all done with an EQ, a limiter, and a clipper when needed. It'll help you way more than adding many character plugins and potentially getting into the dangerous territory of adding something just to add it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1447638442228977755",
+    "author": "Ted Whitten Media",
+    "date": "2025-12-08",
+    "content": "This is another way the Reaper batch converter is handy you can either normalize or peak/true peak limit the src'd file to ensure that doesn't happen.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1470151960261824693",
+    "author": "Eric Martin",
+    "date": "2026-02-08",
+    "content": "If I master something without the screen and just outboard vs screen and let\u2019s say the same-ish types of hardware internally they will \ud83d\udcaf sound different",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472012472281202985",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "Anyone here using a Maselec MTC1? There\u2019s one for sale and I\u2019m curious what folks think of in, wondering if I should hold out for someone to post the 1X.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014093421514864",
+    "author": "East End",
+    "date": "2026-02-13",
+    "content": "My only concern is the monitor path , not sure I\u2019ll really use it much . I love the build quality of the maselec stuff and I\u2019ve had nothing but issues with the dangerous masters I\u2019ve owned over the years",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472014446548221953",
+    "author": "Nomograph Mastering",
+    "date": "2026-02-13",
+    "content": "What is your current monitor controller DAC combo?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]

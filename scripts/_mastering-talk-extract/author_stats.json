@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Nomograph Mastering",
+    "total": 6708,
+    "substantive": 5730,
+    "substantive_pct": 85.4,
+    "avg_length": 90,
+    "reactions": 6461,
+    "top_topics": {
+      "limiting_clipping": 310,
+      "business_pricing": 286,
+      "client_communication": 264,
+      "mastering_tools": 242,
+      "album_mastering": 136
+    }
+  },
+  {
+    "name": "Rollmottle",
+    "total": 1550,
+    "substantive": 1307,
+    "substantive_pct": 84.3,
+    "avg_length": 136,
+    "reactions": 1869,
+    "top_topics": {
+      "mastering_tools": 105,
+      "client_communication": 99,
+      "business_pricing": 97,
+      "limiting_clipping": 81,
+      "vinyl_physical": 56
+    }
+  },
+  {
+    "name": "masteredbyjack",
+    "total": 1383,
+    "substantive": 1288,
+    "substantive_pct": 93.1,
+    "avg_length": 206,
+    "reactions": 898,
+    "top_topics": {
+      "business_pricing": 142,
+      "mastering_tools": 132,
+      "limiting_clipping": 94,
+      "album_mastering": 73,
+      "client_communication": 44
+    }
+  },
+  {
+    "name": "Berlin",
+    "total": 1663,
+    "substantive": 1288,
+    "substantive_pct": 77.5,
+    "avg_length": 125,
+    "reactions": 1303,
+    "top_topics": {
+      "business_pricing": 121,
+      "vinyl_physical": 94,
+      "client_communication": 93,
+      "mastering_tools": 71,
+      "limiting_clipping": 65
+    }
+  },
+  {
+    "name": "Edsel Holden",
+    "total": 744,
+    "substantive": 609,
+    "substantive_pct": 81.9,
+    "avg_length": 138,
+    "reactions": 466,
+    "top_topics": {
+      "business_pricing": 51,
+      "mastering_tools": 43,
+      "album_mastering": 33,
+      "streaming_delivery": 23,
+      "limiting_clipping": 22
+    }
+  },
+  {
+    "name": "hyanrarvey",
+    "total": 712,
+    "substantive": 478,
+    "substantive_pct": 67.1,
+    "avg_length": 56,
+    "reactions": 320,
+    "top_topics": {
+      "business_pricing": 19,
+      "mastering_tools": 17,
+      "limiting_clipping": 13,
+      "album_mastering": 12,
+      "vinyl_physical": 8
+    }
+  },
+  {
+    "name": "cian riordan",
+    "total": 553,
+    "substantive": 470,
+    "substantive_pct": 85.0,
+    "avg_length": 131,
+    "reactions": 1538,
+    "top_topics": {
+      "business_pricing": 32,
+      "limiting_clipping": 31,
+      "client_communication": 25,
+      "diy_vs_professional": 22,
+      "mastering_tools": 19
+    }
+  },
+  {
+    "name": "Gerhard Westphalen",
+    "total": 430,
+    "substantive": 418,
+    "substantive_pct": 97.2,
+    "avg_length": 173,
+    "reactions": 265,
+    "top_topics": {
+      "business_pricing": 61,
+      "client_communication": 38,
+      "vinyl_physical": 24,
+      "album_mastering": 18,
+      "mastering_tools": 15
+    }
+  },
+  {
+    "name": "David Fuller",
+    "total": 414,
+    "substantive": 350,
+    "substantive_pct": 84.5,
+    "avg_length": 80,
+    "reactions": 208,
+    "top_topics": {
+      "limiting_clipping": 28,
+      "mastering_tools": 19,
+      "business_pricing": 13,
+      "converters_hardware": 12,
+      "vinyl_physical": 9
+    }
+  },
+  {
+    "name": "Bryan DiMaio",
+    "total": 380,
+    "substantive": 320,
+    "substantive_pct": 84.2,
+    "avg_length": 98,
+    "reactions": 307,
+    "top_topics": {
+      "client_communication": 21,
+      "mastering_tools": 20,
+      "album_mastering": 12,
+      "business_pricing": 11,
+      "streaming_delivery": 7
+    }
+  },
+  {
+    "name": "ALXCPH",
+    "total": 335,
+    "substantive": 295,
+    "substantive_pct": 88.1,
+    "avg_length": 154,
+    "reactions": 131,
+    "top_topics": {
+      "limiting_clipping": 34,
+      "business_pricing": 23,
+      "mastering_tools": 15,
+      "monitoring_metering": 9,
+      "streaming_delivery": 8
+    }
+  },
+  {
+    "name": "spectrummasters",
+    "total": 321,
+    "substantive": 286,
+    "substantive_pct": 89.1,
+    "avg_length": 216,
+    "reactions": 120,
+    "top_topics": {
+      "mastering_tools": 36,
+      "limiting_clipping": 35,
+      "business_pricing": 31,
+      "loudness_lufs": 14,
+      "album_mastering": 12
+    }
+  },
+  {
+    "name": "Rob Domos",
+    "total": 307,
+    "substantive": 280,
+    "substantive_pct": 91.2,
+    "avg_length": 163,
+    "reactions": 208,
+    "top_topics": {
+      "mastering_tools": 25,
+      "business_pricing": 20,
+      "limiting_clipping": 17,
+      "streaming_delivery": 12,
+      "album_mastering": 11
+    }
+  },
+  {
+    "name": "Iwan Morgan",
+    "total": 232,
+    "substantive": 224,
+    "substantive_pct": 96.6,
+    "avg_length": 189,
+    "reactions": 200,
+    "top_topics": {
+      "mastering_tools": 33,
+      "limiting_clipping": 25,
+      "business_pricing": 24,
+      "album_mastering": 20,
+      "vinyl_physical": 18
+    }
+  },
+  {
+    "name": "Ted Whitten Media",
+    "total": 225,
+    "substantive": 218,
+    "substantive_pct": 96.9,
+    "avg_length": 162,
+    "reactions": 72,
+    "top_topics": {
+      "streaming_delivery": 27,
+      "client_communication": 22,
+      "album_mastering": 19,
+      "mastering_tools": 19,
+      "business_pricing": 14
+    }
+  },
+  {
+    "name": "Jonathan Jetter",
+    "total": 206,
+    "substantive": 205,
+    "substantive_pct": 99.5,
+    "avg_length": 160,
+    "reactions": 240,
+    "top_topics": {
+      "client_communication": 23,
+      "limiting_clipping": 17,
+      "business_pricing": 16,
+      "mastering_tools": 13,
+      "stem_mastering": 7
+    }
+  },
+  {
+    "name": "Eric Martin",
+    "total": 212,
+    "substantive": 198,
+    "substantive_pct": 93.4,
+    "avg_length": 142,
+    "reactions": 107,
+    "top_topics": {
+      "mastering_tools": 24,
+      "business_pricing": 23,
+      "client_communication": 16,
+      "vinyl_physical": 16,
+      "limiting_clipping": 14
+    }
+  },
+  {
+    "name": "Nick Stetina",
+    "total": 192,
+    "substantive": 174,
+    "substantive_pct": 90.6,
+    "avg_length": 224,
+    "reactions": 138,
+    "top_topics": {
+      "mastering_tools": 29,
+      "business_pricing": 27,
+      "client_communication": 18,
+      "album_mastering": 13,
+      "diy_vs_professional": 6
+    }
+  },
+  {
+    "name": "Will Pragnell",
+    "total": 167,
+    "substantive": 157,
+    "substantive_pct": 94.0,
+    "avg_length": 179,
+    "reactions": 32,
+    "top_topics": {
+      "business_pricing": 28,
+      "client_communication": 21,
+      "mastering_tools": 11,
+      "album_mastering": 10,
+      "diy_vs_professional": 5
+    }
+  },
+  {
+    "name": "chrissorem",
+    "total": 187,
+    "substantive": 156,
+    "substantive_pct": 83.4,
+    "avg_length": 130,
+    "reactions": 436,
+    "top_topics": {
+      "limiting_clipping": 11,
+      "business_pricing": 8,
+      "mastering_tools": 5,
+      "diy_vs_professional": 5,
+      "streaming_delivery": 5
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 176,
+    "substantive": 154,
+    "substantive_pct": 87.5,
+    "avg_length": 199,
+    "reactions": 379,
+    "top_topics": {
+      "mastering_tools": 18,
+      "business_pricing": 11,
+      "limiting_clipping": 9,
+      "client_communication": 7,
+      "streaming_delivery": 6
+    }
+  },
+  {
+    "name": "onanisland",
+    "total": 207,
+    "substantive": 154,
+    "substantive_pct": 74.4,
+    "avg_length": 89,
+    "reactions": 36,
+    "top_topics": {
+      "client_communication": 13,
+      "stem_mastering": 7,
+      "mastering_tools": 5,
+      "limiting_clipping": 5,
+      "business_pricing": 3
+    }
+  },
+  {
+    "name": "peterlabberton",
+    "total": 141,
+    "substantive": 132,
+    "substantive_pct": 93.6,
+    "avg_length": 167,
+    "reactions": 206,
+    "top_topics": {
+      "business_pricing": 21,
+      "client_communication": 9,
+      "mastering_tools": 6,
+      "limiting_clipping": 3,
+      "album_mastering": 2
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 136,
+    "substantive": 128,
+    "substantive_pct": 94.1,
+    "avg_length": 190,
+    "reactions": 89,
+    "top_topics": {
+      "loudness_lufs": 15,
+      "limiting_clipping": 14,
+      "vinyl_physical": 12,
+      "business_pricing": 11,
+      "album_mastering": 9
+    }
+  },
+  {
+    "name": "mcsnare",
+    "total": 142,
+    "substantive": 128,
+    "substantive_pct": 90.1,
+    "avg_length": 136,
+    "reactions": 143,
+    "top_topics": {
+      "vinyl_physical": 15,
+      "client_communication": 13,
+      "business_pricing": 5,
+      "mastering_tools": 4,
+      "limiting_clipping": 4
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 125,
+    "substantive": 115,
+    "substantive_pct": 92.0,
+    "avg_length": 144,
+    "reactions": 126,
+    "top_topics": {
+      "business_pricing": 10,
+      "client_communication": 8,
+      "limiting_clipping": 7,
+      "loudness_lufs": 5,
+      "monitoring_metering": 4
+    }
+  },
+  {
+    "name": "Zach Hughes",
+    "total": 125,
+    "substantive": 114,
+    "substantive_pct": 91.2,
+    "avg_length": 201,
+    "reactions": 68,
+    "top_topics": {
+      "limiting_clipping": 18,
+      "streaming_delivery": 17,
+      "loudness_lufs": 15,
+      "business_pricing": 13,
+      "client_communication": 8
+    }
+  },
+  {
+    "name": "hebakadry",
+    "total": 113,
+    "substantive": 104,
+    "substantive_pct": 92.0,
+    "avg_length": 348,
+    "reactions": 278,
+    "top_topics": {
+      "vinyl_physical": 20,
+      "limiting_clipping": 16,
+      "mastering_tools": 12,
+      "business_pricing": 12,
+      "client_communication": 11
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 113,
+    "substantive": 100,
+    "substantive_pct": 88.5,
+    "avg_length": 138,
+    "reactions": 250,
+    "top_topics": {
+      "business_pricing": 13,
+      "client_communication": 8,
+      "mastering_tools": 4,
+      "diy_vs_professional": 3,
+      "loudness_lufs": 2
+    }
+  },
+  {
+    "name": "Adam Thein",
+    "total": 117,
+    "substantive": 100,
+    "substantive_pct": 85.5,
+    "avg_length": 197,
+    "reactions": 153,
+    "top_topics": {
+      "mastering_tools": 14,
+      "business_pricing": 12,
+      "client_communication": 10,
+      "vinyl_physical": 7,
+      "limiting_clipping": 6
+    }
+  }
+]

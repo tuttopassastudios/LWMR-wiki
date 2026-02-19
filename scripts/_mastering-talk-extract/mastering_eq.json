@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "1385636390422708436",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-20",
+    "content": "I have many thoughts but I would probably lead with this. You are likely learning what\u2019s \u201ccorrect\u201d on the internet, having been in the game for a minute I can tell you that 90% of what you are reading is wrong, or incomplete or misses the point\n\nYour clients however will be your greatest teachers. I learn more every year than the last, and I\u2019m 31 years into record life and 23\u2019in mastering\n\nClients understand music intuitively, they are reaching for something bigger than LUFS, and tonal balance curves. Keep an open ear, write short emails and you\u2019ll keep learning",
+    "reactions": 17,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1235299143887360050",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-01",
+    "content": "In this house we believe\n\n- that +0.5 dB at 16k is what matters \n- Linear phase EQ is a war crime\n- Noise shaped dither is for suckers",
+    "reactions": 14,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079949034053181620",
+    "author": "masteredbyjack",
+    "date": "2023-02-27",
+    "content": "Just for reference, the convo was to restrict my approach to one band of EQ, Q of no sharper than .7 and maybe a low shelf. That's it. And a limiter.\n\nSince then I've done at least over 100 songs, many of which are out in the world and/or on their way to release. So a decent time to circle back with some insight. However, compared to more experienced ears on here I am still a baby.\n\nExtremely powerful challenge from Ruairi, and it really made me think in broad terms about what EQ is doing, what my goals are when using it, and how each part relates to another. And what you gain or lose when making a move. I would highly recommend it, and found it very very hard. It's non-trivial to make things sound better when you actually hear what's happening.\n\n I've also been pretty lucky to work on quite a bit of music that I would have considered outside of my experience range, and I think this gentler approach worked well there because the mixes were already pretty damn good. So there's that too!\n\nOf course for work where I'm being paid I'm not only restricting to one band, I do whatever is needed but even so many times I would prefer that. It felt like \"learning scales\" but for mastering in a way. And loudness really is down mostly to EQ, as far as I can tell!",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1262767718596218961",
+    "author": "Nick Stetina",
+    "date": "2024-07-16",
+    "content": "Right. That ended up being my approach, not taking it as a prescriptive EQ order but just sussing out from that what they were trying to achieve.\n\nA .1db tilt shelf and a few EQ moves no more than +/- .5db later and they \u201clove it\u201d. It was honestly a coin toss to me if they were going to reply that they couldn\u2019t hear a difference, ha. Maybe that scratched their itch to have *some* input? \n\nIn any case, they\u2019re happy and I think not jumping into an even tactful version of \u201calright what\u2019s really going on here\u201d helped preserved the \u2018experience\u2019 a bit. When the customer sends their steak back the first time, serve up a new one to their liking right away. If they send it back again\u2026maybe it\u2019s okay for the chef to walk out and (politely) see wtf is going on \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1343679496620081243",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-24",
+    "content": "Hope the 6 x multiband  parallel dynamic linear phase upward expanders with per band saturation sounded awesome",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035908470995689502",
+    "author": "ALXCPH",
+    "date": "2022-10-29",
+    "content": "Funny timing! 10 minutes ago i was dynamically eq\u2019ing some anoying ringing frequencies out of an acoustic guitar. Using Pro Q 3. I tried ZL, NP and LP. After A/Bing, I went with the Linear Phase option on high. To my surprise it just sounded better then the other two. So I stuck with it. Goes to show, no rules in audio are absolute. 99.9% I never go with linear phase eq\u2019s l, but today I did.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035909428941168721",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-29",
+    "content": "I feel like there isn\u2019t enough coffee in the world to get me going today so I\u2019m going to wait until another day to post thoughts on linear phase",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054835319456931910",
+    "author": "hebakadry",
+    "date": "2022-12-20",
+    "content": "Yeah i'm a massive fan of TDR.  Obsessed with Kotelnikov plugin...reminds me of GML 2030, which I miss.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080003976822542356",
+    "author": "Rollmottle",
+    "date": "2023-02-27",
+    "content": "just remember he's \"airy\" like a 27k high shelf. \ud83e\udd1d",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1164055197484584970",
+    "author": "Jonathan Jetter",
+    "date": "2023-10-17",
+    "content": "Then I have to be on the lookout for all the stuff I don't want to be, because now anything's possible: True Peak limiting even when it sounds worse. Linear Phase EQ because it's \"better.\" The default HPF at 30 and LPF at 18kHz. etc etc. I end up QCing someone else's work when that's not really my job. And if the song had just gone to one of my usual MEs I would have listened through once and been fine with it.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1087680905407107195",
+    "author": "Ross Fortune",
+    "date": "2023-03-21",
+    "content": "On that note, can't remember where I found this but a related piano recipe from Michael Brauer. Hoping he hasn't trademarked this one so the Discord doesn't get shut down.\n\n\n\n\"Remember the early Elton John records? Remember how his piano shimmered? At mediasound we loved that sound so a lot of us were always playing around with getting different versions of it. No lacquered hammers, no Dolby A off, just a combination of compression and EQ.\n\n\nI only recorded Luther's voice, may he rest in peace, on that song along with \"searching\" and then mixed both. Luther was on a whole other level of singers. He walked into that session and listened to the song in the control room once, then he walked out into the studio with the lyric sheet in his hand. What you hear on\"Glow of Love\" and \"searching\" is his first fun down reading the lyrics from a yellow pad. No punches.\n\n\nThe piano sound you\u2019re referring to is probably the same one that I did for Vandross on the \u201cNever too much\u201d song.\n\n\nOk, this is how you do it.\n\n1. First insert an LA3A or LA2A (depending on the version of sound you\u2019re going after) across the stereo piano tracks. The LA2A is good if the song is slow and the chords are quarter notes. The LA3A is good if the chords are faster with a harder attack like in \u201cnever too much\u201d. Bang those meters and \n2. out of the compressor go into a couple of pultecs and push up..way up the 3 or 5 k on the low end and the 8 or 10 k on the high end. Don\u2019t be safe. \n3. Now go to the desk EQ and start clearing out some of the muddiness and EQ up the remaining mids so that it just shimmers like a baby. \n4. When it\u2019s done right, you can hear the harmonics riding up during each sustain.  \n5. I remember hearing that song on the radio and man that piano was making me feel good all over. Sounds pretty simple when you know how to do it right?\u201d",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368326322106925197",
+    "author": "\u00d8ra Mastering",
+    "date": "2025-05-03",
+    "content": "I always end up chasing my tail when separating tonal and loudness. If I get the right tonal balance first, then everything shifts around when adding loudness/limiting. To me all limiters and limiter styles within have different tones, at least if I\u2019m limiting more then a couple of dB. For that reason I always start with finding the right limiter/style that keeps or changes the tonal balance the way I want (too bright mix = dark limiter, dull mix = bright limiter, great mix = limiter that keeps the balance when pushed ect.). Once I have the loudness and given the tonal balance a gentle push in the right direction with the limiter, I get the track over the finish line with eq or other tools in front of the limiter. \n\nThis is not meant as criticism of your approach, I just haven\u2019t cracked that code.\nHats of to you for making that work!",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1385421710756417587",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-19",
+    "content": "Correct LUFS\nTonal balance \u201cmodern\u201d perfect fit\nNo noise \nProfit",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1010044450761875527",
+    "author": "Rollmottle",
+    "date": "2022-08-18",
+    "content": "Yup. Saturate low mids in mid-side? Tilt EQ to boost the lows? Expansion on drum area? Transient designer to get some more snap?",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029572073800073237",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "Does it crash as often as Sontec\u2019s breakdown? \ud83d\ude42",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035679016994209843",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-28",
+    "content": "I\u2019m a linear phase h8r",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1041063912088551576",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-12",
+    "content": "When you start pushing level you\u2019ll hear bunching in various frequencies, maybe too much low end energy. I suggest avoiding high pass filters and use a low shelf instead",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098379035731566712",
+    "author": "Bonati12461",
+    "date": "2023-04-19",
+    "content": "Love a tilt EQ. I use the Gyraf tilt one (older one that's tube only, no solid state option) and I have a preset I set up for myself in Fabfilter Q2 when I want to tweak. It would be very weird to use a LOT of tilt EQ on something (have done it though) because a little goes such a long way. Maybe I just work on weirder shit than the rest of you. I throw a bunch of processing at certain things, no shame at all.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103872775925542963",
+    "author": "masteredbyjack",
+    "date": "2023-05-04",
+    "content": "In my experience (again, caveated by it being rather limited compared to some on here), a gentle shelf wins most of the time.\n\nThis isn\u2019t quite like soothe, but I\u2019ve found success in certain situations using the weiss ds1-mk3 in the low pass mode, so it is only working on the area below the filter (as I understand it, and it appears to me). This seems to my ears to not have the bad multiband smearing problems of say fabfilter mb, etc\n\nIn situations where the dynamics down there are out of whack and you need to control the groove better it can really work great, but that specific plugin has odd release characteristics that take time to understand. That same flexibility can allow some subtle control down there that can actually accentuate the groove and fix your problems at the same time.\n\nAs with everything, there are trade offs, it can make the low end sound odd if not careful, and you really need a room that is accurate down there to judge it well I think (now that I\u2019m in my current setup I can very clearly hear when it is helping or hurting)",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1352789307659784214",
+    "author": "Nick Stetina",
+    "date": "2025-03-21",
+    "content": "Wow. Next they\u2019re gonna add a 3db shelf at 80hz cause it sounded \u201cweak\u201d on their laptop speakers.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1359777049904156773",
+    "author": "mcsnare",
+    "date": "2025-04-09",
+    "content": "But most times when the mix and arrangement is top shelf, I have a huge internal grin - you just wouldn\u2019t know it from game face.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1368558436492509195",
+    "author": "\u00d8ra Mastering",
+    "date": "2025-05-04",
+    "content": "That makes sense, thanks for the explanation. Reading this, I don\u2019t think we\u2019re miles appart. I used to have one \u00abdefault\u00bb limiter and focus all my moves in front of that, also adding limiter/loudness as the last step. When doing so, I always found myself having to tweak the moves (that I already had \u00abperfectly\u00bb dialed in) because everything would change when adding the final limiter. That\u2019s when I would be chasing my tail \ud83d\ude05\nNow I start with getting the limiter right for the song and then doing eq moves as the second step. This way it it a lot less back and forth for me. I should say I only use one limiter at the time and the limiters I audition with are dmg limitless, fabfilter pro-l2 and Ozone maximizer, with styles I know well. Dmg usually gets used on acoustic and jazz, pro-l2 & ozone for pop/rock. If it is music with vocals I find different styles can really change the way the vocals are percieved, so it\u2019s mostly chosing the style that support the vocals best that is the goal. Using two minuttes to get the right limiter from the start saves me time and uncertainty down the road, and in some cases let\u2019s me use less eq to get the desired result.\nThere are many roads to Rome as they say, I was just interested in yours bc whenever I tried that it ended in a lot of second guessing (for me!). \n\nDo you find yourself having to add more eq when adding limiter at the end to keep the tonal balance you have acheived?",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1469030727512232079",
+    "author": "Berlin",
+    "date": "2026-02-05",
+    "content": "thoughts this morning as i\u2019m listening.. \n\nrebalance really is great in rx for catching a word here or there. maybe a short pick up phrase into v2 out of ch1 that\u2019s buried. little things. rather than using it as a broad stroke mixing tool. this is where i\u2019ve found my way with it.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029580485464170556",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "If you keep going i\u2019ll have to post that I don\u2019t really think that Sontecs sound all that special",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082565629267148820",
+    "author": "spectrummasters",
+    "date": "2023-03-06",
+    "content": "...so, the short answer jack is yes , the wide q eq moves are definitely advantageous and applicable outside of the mastering stage (for my workflow)....very much so. I think in a way , the broad eq is sort of like a painter taking a few steps back from the canvas having been working up close on a detailed brushstroke (which I\u2019d suggest for example is like a surgical eq move in a mix or saturating a sound at the production stage etc).....\u201dstepping back\u201d and listening not just to The minutiae but the overall tone i think is a discipline that is potentially easy to forget in mix mode ......and in a sense this is how the broad EQ is serving me . I find the eq points ruairi shared work v well at the group bus stage also......for light touches\n\nWith regards to whether I\u2019m only mastering . No, currently my most common paid work comes from local / independent artists in my network I\u2019ve built mostly from my local community outwards through word of mouth. This is primarily in the rnb/trap/hip-hop genres and for better or worse it appears to have been normalised that when someone wants a mix....what they want is a mixter. I\u2019m with Derek Ali\u2019s Enginears platform and even there they are promoting a free master from us as mixers on the platform.\nPersonally, I\u2019m not against certain mixers mastering as well....but i think this is more genre specific.....and also v much down to the individual. I think you spoke about your arc on here into mastering and others have too. ....i believe there is much to benefit from having professional mastering engineers, with thousands of hours under their belt listening to thousands of tracks in excellent environments......take the final listen and make the final adjustments on a mix..and for me, i consider myself on a career arc towards becoming that .",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098303965667528764",
+    "author": "Jeremy Klein",
+    "date": "2023-04-19",
+    "content": "hahah that ssl red knob might as well be a tilt eq",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171752802855419934",
+    "author": "Iwan Morgan",
+    "date": "2023-11-08",
+    "content": "Interesting response by Chris Gehringer in the new MWTM Q+A section: \n\n*\"Dereck, You really hit home with this one.\nI\u2019m 99% ITB for over 10 years was well. I was more hybrid earlier on during my conversion period and now mostly all in due to my workflow and client time demands.\n\nI definitely feel like i\u2019m chasing Refs with the same plugins used by mixers and producers sometimes and don\u2019t feel creative but that\u2019s the game lately. I really feel this is the main problem. I\u2019m not really happy when i\u2019m pushed in that direction.\nWith almost everyone having the same plugins it\u2019s very apparent that most masters in a shootout sound the same now. No surprises there.\n\nIs Analog Better?\n\nI recently bought a Terry Audio CEQ to try and change my sound and it definitely works. It has an amazing sound and color that cannot be found in most plugins. That being said it doesn\u2019t work for me all the time.\nMany of the projects i work on are so loud and pushed anything run through analog gear loses the \u201cglue\u201d that is in the digital mix.\nI also just got a Sontec MES-432D9D from Make Believe Studios.\nIt actually sounds like the real thing to me. It has a much different vibe when using it. I find myself using different frequencies from other EQs.\nIs That Better? I\u2019m not sure yet but getting good results when i use both of these tools.\n\nI think the most important part of my setup is that I\u2019m very familiar with my plugins and know when to use different ones when necessary (its also so easier to try another one if you\u2019re not sure obviously)\nI\u2019m constantly trying to stay fresh and not mail it in.\n\nNot sure if there\u2019s an actual answer for this but i hope i answered some of your question or at least validated our situation.\n\nChris\"*",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1385623512177311744",
+    "author": "DarrenB",
+    "date": "2025-06-20",
+    "content": "Is that your new Pultec quantizer/dither plugin?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029581746813026304",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "I think Sontecs sound good but the hoopla comes from the fact that they were the first useable parametric, that they are rare, and a metric ton of forum hype mainly by Brad Blackwood back in the day, echoes of which still reverberate on Gearslutz",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029785352162005003",
+    "author": "David Fuller",
+    "date": "2022-10-12",
+    "content": "Linear phase is weird sounding to me. Pre-ring sounds funky and not in a good way",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030332391593627698",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-13",
+    "content": "So where it defaults to peak, you can go down and choose a shelf or HPF",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1038563408628420748",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-05",
+    "content": "I definitely would not discourage someone like @masteredbyjack from going deep. He has science brain and the tenacity to research, iterate etc. I guess what I\u2019m saying arguing against is the idea of silver bullets - if I just had a Sontec, or ATCs, or a Rev A 1176 or whatever",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1074063834966401105",
+    "author": "spectrummasters",
+    "date": "2023-02-11",
+    "content": "Thanks guys I appreciate the pointers . My inspiretion was precipitated by a long cab ride out of town this weekend and the driver was playing a classic mix of all the old bad boy stuff / uptown records and it struck me how good the tonal balance was imo . Warm , deep but bumpy and not overwhelming . I thought I\u2019d like to learn about the people behind those decisions . Good target \ud83c\udfaf",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079159529956179978",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-25",
+    "content": "And if you must use a first order low shelf, on the S channel of Equilibrium",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079960242894426264",
+    "author": "Rollmottle",
+    "date": "2023-02-27",
+    "content": "i'm enamored with it and haven't really missed the MP as much as i like all the possibilities it opens with possible shelves at every band. high shelf at 1k gang.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1095735794267861084",
+    "author": "David Fuller",
+    "date": "2023-04-12",
+    "content": "m/s dynamics processing is usually the more egregious of the two IME since you've got the movement of a compressor on part of but not all of the program material which can sound downright strange, but m/s EQ can have some... weird effects too",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102989192239259749",
+    "author": "hyanrarvey",
+    "date": "2023-05-02",
+    "content": "When i got into using sontecs i learned that it was never color i was after it was just a very good honest eq",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1106271912419659846",
+    "author": "Iwan Morgan",
+    "date": "2023-05-11",
+    "content": "There\u2019s some m/s eq on the Serban mix, but he doesn\u2019t really explain why or what the motivation for doing that is. I don\u2019t think you are missing out truthfully.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154825690198315038",
+    "author": "spectrummasters",
+    "date": "2023-09-22",
+    "content": "......which is still shaping my progress and elevating my attitude to tonal balance, theres a special listening moment on every 2bus when my attention turns to  my nomograph mastering preset / starting points. Forever grateful for that epiphany ruairi.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1228119977077510195",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-11",
+    "content": "Lossy is FFT manipulation so it sounds all round and blurry like linear phase",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1261339314680496209",
+    "author": "Jonathan Jetter",
+    "date": "2024-07-12",
+    "content": "Linear Phase EQ will cause pre-ringing, it's inherent in how it all works. Then you figure out if the sound bugs you or not relative to normal minimum phase EQ.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1261341206299017268",
+    "author": "BoozleBAM",
+    "date": "2024-07-12",
+    "content": "@cian riordan Sorry to dig this up, but I basically do this exact thing with my kick drum, and I look forward to experimenting with linear phase this afternoon, which is something I basically wrote off after finding it to be quite \"stiff\" feeling when I did the \"duplicate a bass track and then put a chorus on it and highpass it with a linear phase\" thing... My kick drum does feel a bit \"smeary\" at times with all the heavy eqing/ processing, though. So yeah... excited to give this a go. Thank you.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313182778132664462",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "Using linear phase mode in pro-q3 is one example!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1344021565871882291",
+    "author": "Paris Lee",
+    "date": "2025-02-25",
+    "content": "The EQ section on the MLA 4 is fucking excellent and different than conventional eq sound. Bump the mid band half a db (top of low range to a mid range 3k-8k. Killer\n\nIt has a great hi shelf de-esser \n\nTurning down 100-200hz half a db can really relax the low end that a shelf on other eq\u2019s does not do.\n\nThe eq is where it\u2019s at. The compression is just a slight slight squeezer. \n\nLow band on dance tracks *GENTLY* no visible GR or rare GR lights \nHi band de ess - starting point 3m attack 50m release)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360286547915837540",
+    "author": "hebakadry",
+    "date": "2025-04-11",
+    "content": "I think time spent de-essing vocals and treating HF content in vinyl prepped masters overrides worrying about how much limiting there is in my opinion. The amount of limiting and how good/bad the cut is really pertinent on the program material itself.  Not the actual amount of gain reduction you are doing because the cutter will literally just turn everything down anywhere between 8-10dB before the signal hits the amps. Excessive sibilance, on a hyper compressed rock record with insane splashy over compressed cymbals and out of control HF information will result in the dull cuts you get back from most plants where you don\u2019t have access to the cutting engineer.  They do this because they want to create a playback safe record and avoid a very expensive $10k mistake like blowing a cutterhead if their amp breakers aren\u2019t calibrated right.  Instead of spot de-essing problem on one song or spot treating problem songs on a side, they will opt for broad stroke moves (HF limiting, EQ, global de-essing) and that can be a bit of death sentence to the quality of the cut and put everyone off vinyl as a format.  Which I think is an incredible format with well crafted engineering.  Also I strongly believe that every record doesn\u2019t belong on vinyl\u2026but that\u2019s another convo.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1367513091197108315",
+    "author": "masteredbyjack",
+    "date": "2025-05-01",
+    "content": "He lost me immediately at \"I needed a linear phase spectrum splitter\"",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374381064071413922",
+    "author": "masteredbyjack",
+    "date": "2025-05-20",
+    "content": "Really interesting to hear your insight on all this. Feels like you're describing is a certain fearlesness that I notice all the best ones have. A bit of friendly counterpoint to what you're talking about -- there is fearlessness is saying \"I don't need to do much\" too. A confidence in that. Knowing what is good. And knowing what we each like, following that\n\n(for instance I dislike m/s eq deeply but clearly it works for you)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378394179247542392",
+    "author": "Nick Stetina",
+    "date": "2025-05-31",
+    "content": "Feeling close to moving this convo over to #\ud83d\udc69\ud83c\udf73mixing-talk , but you might want to try out GainAim. I found it useful to \u2018groom\u2019 dialogue ahead of other processing on a documentary project recently. It was helpful to think of it as just part of the equation instead of finding *the* setting that will park your dialogue where it needs to be. I.e. - GainAim pass followed by a compressor, or a GainAim pass focusing on broad stroke leveling > another GainAim pass with a faster speed setting acting more like word by word clip gain.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1387526258736238712",
+    "author": "Nomograph Mastering",
+    "date": "2025-06-25",
+    "content": "With saturation and MS and linear phase",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1409713218460319867",
+    "author": "mcsnare",
+    "date": "2025-08-25",
+    "content": "1979 no longer plates. And Nipro sold their operation to Gotta Groove. GG does excellent plating and pressing. My fav platting guy is Gary at Paramount. QRP also plates and presses and is still top shelf.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1440069385955049533",
+    "author": "shaunobi",
+    "date": "2025-11-17",
+    "content": "Enjoyed the hang Gabriel! \n\nAnd yeah - I think a lot of what you brought up (pushing A800 pretty hard on that one track, etc) I\u2019d put in more of the \u201c2bus\u201d group rather than \u201cmastering\u201d.\n\nHaven\u2019t checked your doc but for me I run 3-4 plugins - tape, some Pultec with a tiny boost, a bit of Fairchild box tone, Tonal balance control for analysis and that\u2019s it. Then for \u201cmastering\u201d I\u2019m boring and use either Pro L2 for a touch more loudness or Ozone with most of the modules turned off \ud83d\ude42",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1022906868361867294",
+    "author": "Rollmottle",
+    "date": "2022-09-23",
+    "content": "he also didn't put a shelf on the bass when he said it's as simple as putting a shelf on the bass? \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1027358284400824380",
+    "author": "Rollmottle",
+    "date": "2022-10-05",
+    "content": "like Ruairi being allergic to linear phase, i am allergic to anything Acustica Audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029567947875823749",
+    "author": "hyanrarvey",
+    "date": "2022-10-11",
+    "content": "Mastering dudes we have a sontec plugin we are debuting at aes anyone wana try it? Mac only atm for the next week or two",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029572628643577886",
+    "author": "hyanrarvey",
+    "date": "2022-10-11",
+    "content": "Sontec\u2019s don\u2019t really breakdown unless someones messed with them",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029574330482434120",
+    "author": "hyanrarvey",
+    "date": "2022-10-11",
+    "content": "Really the whole thing is we have a new technology called soul stealing which is just like a cracked out kemper but bj made this wild machine learning blah blah but it can take the output and match it really really fuckjng close to where its kinda scary, we tested first on ricks pye preamps and then we\u2019ve slowly been going deeper and deeper the sontec being the latest",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029575769686556702",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "I can tell you categorically that Sontecs are notoriously unreliable, I have endless stories to scare children at bedtime. But anyhow let\u2019s not derail your plug in thread",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029576279256735826",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "The only thing worse than Sontec\u2019s reliability is Burgess\u2019 \u201cservice\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029576401508106294",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "It has nothing to do with how Sontecs sound",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029577023556943972",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "Ryan - can I share your email with a Sontec owning friend?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029580068852355155",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "Anyway, i\u2019ll leave you in peace. I\u2019ve been inside several Sontec\u2019s and have a very good understanding of the circuit, have used 3 or 4. So again, not the typical plug in buyer",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029585405210796113",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-11",
+    "content": "Disable nonsense like linear phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029586094448181329",
+    "author": "Rollmottle",
+    "date": "2022-10-11",
+    "content": "i'll give DMG an eval next to the Sontec \ud83e\udd13",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029773961082450031",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-12",
+    "content": "Their whole deal is linear phase and I can\u2019t stand linear phase EQ so not something I\u2019m interested in",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1029778383128756354",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-12",
+    "content": "The short version is that it sounds bad to me. I could see a use case for it in mixing, but in mastering it blurs things and makes things vague in a way that I hate. And I\u2019ve tried a lot of linear phase eqs over the years",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030331775743971338",
+    "author": "Rollmottle",
+    "date": "2022-10-13",
+    "content": "just used the shelf on a master and to tame a resonating bass note",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030332911779577897",
+    "author": "Rollmottle",
+    "date": "2022-10-13",
+    "content": "ooh, maybe i'll try this first order filter on this track. was using a shelf, but the sub bass is a little wild and this might do the trick better",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030333542607097936",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-13",
+    "content": "Yeah, you can see I have a first order shelf as the only preset band in my preset",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030334236974141440",
+    "author": "Rollmottle",
+    "date": "2022-10-13",
+    "content": "I never use HPF's, always shelfs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1032840504804651089",
+    "author": "masteredbyjack",
+    "date": "2022-10-20",
+    "content": "NOT linear phase though!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1032840640561692746",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-20",
+    "content": "Try restricting yourself to one band, and maybe a low shelf too",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1033033772351893586",
+    "author": "Eric Martin",
+    "date": "2022-10-21",
+    "content": "I can feel how hard it would be to turn off the mixer/producer and just listen to the tonal balance",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035673370773180486",
+    "author": "spectrummasters",
+    "date": "2022-10-28",
+    "content": "(There\u2019s a vid about pre ringing in pro q3 in linear phase mode and being honest I struggled to perceive it during the demonstration )",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035674013864824832",
+    "author": "ehutton21",
+    "date": "2022-10-28",
+    "content": "Pre ringing became clearest to me when I started play with linear phase adjustments on naked drum samples in my daw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035675936697360404",
+    "author": "David Fuller",
+    "date": "2022-10-28",
+    "content": "I always found linear phase to be a bit silly in mastering",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035895548772884540",
+    "author": "chadwahlbrink",
+    "date": "2022-10-29",
+    "content": "Linear phase is a made-up necessity by big plugin conglomerates. \n\nIt\u2019s potentially mathematically helpful for multi-mic sources, but in mastering, I don\u2019t see a benefit. Even with multi-mic sources, I\u2019m more apt to avoid HPF/LPF and opt for shelving/bells on a non-linear phase eq than reach for the linear phase tool. \n\nAlso, nearly every bit of processing will affect the phase somehow. There\u2019s no sense in being so precious with phase that we stop listening to tone.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1035909465381294243",
+    "author": "chadwahlbrink",
+    "date": "2022-10-29",
+    "content": "That's fantastic, @ALXCPH. My all-or-nothing hot take on linear phase was more in the spirit of \u201cmaking assertions\u201d (in Seth Godin\u2019s terminology). \n\nHonestly, my caveat to my previous statement is that linear phase processing is likely operating in a lot of plugins behind the scenes. Many times when I'm using RX, I notice processes adding the pre or post ring of linear phase even if that's not an option I'm selecting.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1036007969575403540",
+    "author": "Zakhiggins",
+    "date": "2022-10-29",
+    "content": "This actually kinda makes sense to me, I find linear phase kinda fluffs your transients out, I have often used the cut feature on spiff to turn down high transients on acoustic guitar, usually sounds better to me",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1040310065963487262",
+    "author": "masteredbyjack",
+    "date": "2022-11-10",
+    "content": "Yeah also I feel like what I was envisioning (though down for whatever) is more broad stroke/higher level discussion where seeing something on a screen just isn\u2019t necessary",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1041062035745673276",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-12",
+    "content": "Once you are set up then add an EQ plug in to each channel and as we talked about elsewhere here restrict yourself to one EQ move first. Try to make it low Q or a shelf. What is the one move (if any) the track needs to pop into focus?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1048193908292735028",
+    "author": "Ross Fortune",
+    "date": "2022-12-02",
+    "content": "I\u2019m potentially missing the point here (there are probably reasons you mastering lot stay in RX rather than Tools), but\u2026 could you apply the workflow I use for declicking audio in PT to what you\u2019re looking for above?\n\nEg - lead vocal will almost certainly have some clicks. I duplicate playlist (with suffix _Dclk), open up RX DeClick in Audiosuite and set to stun. Render it on the whole playlist indiscriminately while reading LWMR discord.\n\nFlip back to the main playlist. Listen through with an egregious high shelf and a boatload of compression - comp up from the _Dclk playlist whenever you hit a click. \n\nMaybe some combo of this idea with Batch processing in RX could speed things up?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054720663446892594",
+    "author": "ALXCPH",
+    "date": "2022-12-20",
+    "content": "And the blurring is caused by the linear phase filter right?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1054985740980846602",
+    "author": "masteredbyjack",
+    "date": "2022-12-20",
+    "content": "I\u2019m no Ruairi, but digital is so clean these days it definitely doesn\u2019t introduce anything audible (or at least detrimental compared to my tube EQ). And almost all the time I have a digital EQ in the chain anyway! So that can be tweaked without \u201cadding\u201d.\n\nAnalog for me is really broad stroke and color. Someone like @Rollmottle may use it differently though!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055159144853815427",
+    "author": "Nomograph Mastering",
+    "date": "2022-12-21",
+    "content": "But like any filter it\u2019s a trade off best judged by ear. Steeper slopes and lower cutoffs will clean up aliasing, but at a cost to transients. Not all aliasing is bad, and not all transients are good or worth preserving! But linear phase for sure",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1057211252268617769",
+    "author": "spectrummasters",
+    "date": "2022-12-27",
+    "content": "For real , tbh I don\u2019t know if I know that much of his work ,  although I do love derek Ali\u2019s work. Nicolas seems to really enjoy his work and gets great results and that is as you rightly say, what counts .\n\nI must say tho ruari, if you do do a mastering breakdown, I\u2019m sure no matter how hard you tried, boring would be the last thing you could make it .Your insights  always seem firmly based in good art/science and humble opinion\n\nI\u2019ve always liked mike bozzi s one on mwtm, more of a general eq/tonal balance thing which I found v helpful",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1058446772369903627",
+    "author": "popthetrunk",
+    "date": "2022-12-30",
+    "content": "You can do this on MacOS with the built in Automator app. Or on windows there are a few off the shelf products that do usb packet capture and replay. You just edit out the clicks of a/b or whatever your workflow is. Works pretty well, your mileage may vary.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1073715090592911430",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-10",
+    "content": "Don't worry about details, just get some feedback on broad strokes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078719501450874890",
+    "author": "spectrummasters",
+    "date": "2023-02-24",
+    "content": "Eq as in tonal balance of the whole mix (how the hz. Relate to themselves ?) and a good balance allowing for loudness ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078750453652795512",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-24",
+    "content": "I worked on a track last night that felt amazing, but looked absolutely insane on iZotope Tonal Balance",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078778672842035331",
+    "author": "Maxim",
+    "date": "2023-02-24",
+    "content": "Yup. I really like the 10 bands (I also kept the first order shelf at 10hz). Helps act on instinct and listen rather than chasing frequencies.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1079051020228894771",
+    "author": "spectrummasters",
+    "date": "2023-02-25",
+    "content": "@Nomograph Mastering  right, ruari class finished ! .....ok so, ive a lot of thoughts ...this exercise has made a v big impression on me .\nOff top, \n\nAccording to RX The mix is at -7.2 LUFS integrated , -6.3 short term, TP -0.1\n\nThe artist wants a \"bit more low-end \" on a fast paced, alt/pop/rock track.\nAnd Imo a little air on top would compliment the mix.\n(starting at -7.2 is loud for my experience so its a good challenge and these sort of Lufs are what i want to become v comfortable working at where currently im more comfortable around -9.)\n\nSO i start with your 10 eq points in place , with your q settings and .5 db limits in fabfilter pro q 3  .\n\nThoughts:\n\nIt became clear immediately how powerful to me these q settings and eq points are, with regards to re-shaping the tonal balance.\nI cannot recall ever having only used these curves , nor in the absence of any other processing. \nListening to the impact of 0.1 db up or down in the different areas was remarkable. \n\nAfter half an hour id got to something i was v happy with, that appeared \"Louder \" to me and also.....a bit more lows and a little more open on top. Which id call a success.\n\nId brought the Pro q output down 0.4db to compensate the gain increase and printed with no limiter.\n\nIn RX this printed version showed as -7.2 LUFS integrated , -6.3 short term, TP 0.0 .\n\nIdeally id have not touched this again.....i really liked it. \n\nFollowing instructions i then put the L2 Limiter on (modern mode , +0.1 db, TP on and output -0.1) .\n\nTruth be told, once id put the limiter on i wanted to go back into the EQ because i didnt like the sound anymore, i felt the L2 spoilt it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1082217535451168888",
+    "author": "spectrummasters",
+    "date": "2023-03-06",
+    "content": "I considered your points where you\u2019ve discussed how broad stroke analogue gear can be at times tho and  in my limited experience with some Ssl and neve bits I have I have to agree",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1090744634659045406",
+    "author": "Nomograph Mastering",
+    "date": "2023-03-29",
+    "content": "I have a single low shelf on it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1095467778384859277",
+    "author": "masteredbyjack",
+    "date": "2023-04-11",
+    "content": "I have nowhere near the experience Ruairi does, but I have never done it either; or wanted to. It feels so much like a \u201crule\u201d that has for some reason become accepted, I\u2019ve never heard it feel any better, it always feels worse to me, even when \u201ctechnically\u201d better\n\nThe closest I have come is maybe a very gentle low shelf cutting some sides; this is like once or twice to clear up the groove down there",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098303555456225322",
+    "author": "Maxim",
+    "date": "2023-04-19",
+    "content": "Any of you ever reach for a tilt eq? And if not, why?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098303794510561360",
+    "author": "Edward Rivera",
+    "date": "2023-04-19",
+    "content": "Brighter ? Darker ? Tilt eq...but more often than not, just for brighter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098306155014533220",
+    "author": "Edward Rivera",
+    "date": "2023-04-19",
+    "content": "And since its such a broad stroke, it will most likely be early int he chain",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098307277531918336",
+    "author": "Maxim",
+    "date": "2023-04-19",
+    "content": "Yeah tilt eq in mastering",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098310425633894512",
+    "author": "Nomograph Mastering",
+    "date": "2023-04-19",
+    "content": "Man, I'm doing some writing atm and Tilt EQs are such a perfect example of what I am trying to understand and describe",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098448695655141457",
+    "author": "Will Melones",
+    "date": "2023-04-19",
+    "content": "Has anyone (in the history of music) used the Pro-Q tilt *shelf*? I just can\u2019t wrap my head around the why of that option.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098608887847997501",
+    "author": "Will Melones",
+    "date": "2023-04-20",
+    "content": "I suppose it has the same application as a tilt band, but without getting more extreme at the lower and upper frequency limits. It just feels chaotic to me, like a single shelf would do the job more precisely.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1098624101502951426",
+    "author": "Deleted User",
+    "date": "2023-04-20",
+    "content": "I just started using the mixland one. I like it on individual sources, I love that you can really find a sweet spot for the presence of a sound and it allows you to move quickly. But for Mastering I think it might be too broad stroke in most cases",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103822061585047582",
+    "author": "Rollmottle",
+    "date": "2023-05-04",
+    "content": "Shelf city. The First Order shelf Ruairi baked into in his Equilibrium default is nice and gentle. You can set it out of audible band and it's still doing work up in the audible band.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103823699683070072",
+    "author": "omarakrouche",
+    "date": "2023-05-04",
+    "content": "Feel like this is a pultec cut moment",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105620479152242688",
+    "author": "Rollmottle",
+    "date": "2023-05-09",
+    "content": "big question...i broadly think about the digital EQ as \"corrective,\" as in framing the song to where i think it needs to sit, not necessarily technical correction. (the RX stage is where that happens). sometimes that's the end of it if the mix is good enough. but sometimes there's more to be had and that's typically when i go analog. not that i don't think digital couldn't also get me there, but that the analog does it in a way i find more pleasing and faster. i probably have the luxury of more time than Ruairi does per project and if my circumstances changed, my approach might change. in broad strokes, that's how my brain thinks about it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1117277564344487957",
+    "author": "masteredbyjack",
+    "date": "2023-06-10",
+    "content": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nI suppose I meant an actually reliable AI.\n\nIt seems feasible an AI could QC a downsample or alt version given a high res render with confidence no? Just check that everything went as it should by comparing the files, which is what we do\n\nNot so simple I know, just broad stroke possibilities",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126620812376543283",
+    "author": "Gerhard Westphalen",
+    "date": "2023-07-06",
+    "content": "Question for those of you using a G14 or other Gyraf gear - what level are you running at? I'm testing the buffer from this Pultec circuit (same as G14 as far as I can tell) but it's completely crunching at any reasonable level. Even when I turn my converters down to +13dBu I can't play anything at full scale without it crunching. If I back it down 3dB from there it's OK but that's super low compared to +19dBu levels and the noise floor of it is pretty high",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126638649283465289",
+    "author": "Nomograph Mastering",
+    "date": "2023-07-06",
+    "content": "Pultec circuit needs 26dB gain IIRC so if you are only getting 12 something is off",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1138292379258982541",
+    "author": "Nomograph Mastering",
+    "date": "2023-08-07",
+    "content": "Also there are ways of listening that once you click you can\u2019t unhear. Like once you understand what linear phase is doing you can spot it a mile away",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154184032612003901",
+    "author": "David Fuller",
+    "date": "2023-09-20",
+    "content": "It would be nice if I could have a controller dedicated to that Metric Halo Sontec plug",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154193423520251934",
+    "author": "itMIGHTbeNICK",
+    "date": "2023-09-20",
+    "content": "DMG EQUILIBRIUM, Eiosis air EQ, and Weiss Mastering EQ are usually my choices depending on what i'm feel the track needs...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154212057437192213",
+    "author": "masteredbyjack",
+    "date": "2023-09-20",
+    "content": "@hyanrarvey fascinated to know\u2026but totally understand if you don\u2019t want to share\u2026how many units does a plug like the sontec sell? \n\nBroad strokes\u2026thousands? Tens of thousands?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1154516307987943494",
+    "author": "Nomograph Mastering",
+    "date": "2023-09-21",
+    "content": "Should be very clean in RX, do the steepest filter you can, right under 48k, linear phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1202379958354456576",
+    "author": "Nomograph Mastering",
+    "date": "2024-01-31",
+    "content": "Preringing is 1 I think, whatever is fully linear phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1203181891021438986",
+    "author": "Rob Domos",
+    "date": "2024-02-02",
+    "content": "Also as an aside, I\u2019m surprised to see Randy Merrill using narrow Q m/s eq",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1222745693836283904",
+    "author": "Rollmottle",
+    "date": "2024-03-27",
+    "content": "shelfing down from there to turn down the shit i can hear",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1235300155897679962",
+    "author": "cian riordan",
+    "date": "2024-05-01",
+    "content": "Linear Phase tangent here... you have two identical tracks (let's say a mult of a drum stem)... and you want to process one heavy handedly and leave the other natural... but you need to EQ the processed one. I'm still in the belief that linear phase EQ is the best solution for this problem... AITAH?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1235300646983307295",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-01",
+    "content": "I agitate against it in mastering because the accepted wisdom is that the heavy cpu linear phase EQ sounds better than regular, and it doesn\u2019t for 99.9% of use cases",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1235301167395897415",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-01",
+    "content": "I would say honestly, even in recording/mixing use cases that linear phase EQ is the better choice < 1% of the time",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1235301360279355493",
+    "author": "cian riordan",
+    "date": "2024-05-01",
+    "content": "I found using linear phase LPF on the LFE channel in atmos when sending stuff in parallel was a must to keep the coherency.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1244697689296474224",
+    "author": "Nomograph Mastering",
+    "date": "2024-05-27",
+    "content": "It\u2019s a pretty technical document but the key thing that pertains to the OP\u2019s question is the filtering that happens before the loudness is calculated. The first stage of pre filtering is a very simple high shelf to account for the shape of the human head, the second is what matters here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1255537524286160926",
+    "author": "Iwan Morgan",
+    "date": "2024-06-26",
+    "content": "I\u2019m 99% ITB. I occasionally run stuff through my Thermionic Culture gear but that is very rare and only when the client wants me to juice the signal. I usually use Izotope/DMG and Ryan\u2019s Sontec",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1261327595518034071",
+    "author": "BoozleBAM",
+    "date": "2024-07-12",
+    "content": "Sorry to dig this up, but I basically do this exact thing with my kick drum, and I look forward to experimenting with linear phase this afternoon, which is something I basically wrote off after finding it to be quite \"stiff\" feeling when I did the \"duplicate a bass track and then put a chorus on it and highpass it with a linear phase\" thing... My kick drum does feel a bit \"smeary\" at times with all the heavy eqing/ processing, though. So yeah... excited to give this a go. Thank you.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1261328050109546568",
+    "author": "BoozleBAM",
+    "date": "2024-07-12",
+    "content": "Does linear phase mostly find its relevance in the lower frequencies for some reason?? That is mostly when I hear of people using it - when the lower freqs are in play...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1261360694251622440",
+    "author": "miguel @ knurlmastering",
+    "date": "2024-07-12",
+    "content": "I still think that linear phase EQing is very program-dependent, more than anything else. On the Weiss EQ1, I use both standard and linear phase modes; most of the time, one just works better than the other and is usually noticeable. It\u2019s one of those things that I\u2019ve stopped trying to intellectualize and just go with what sounds best on a per-case basis. It\u2019s very hard to specify exact scenarios where one will always be better than the other, at least for music production! So while in theory one might be better than the other for a specific task, not all music handles EQing the same way.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1272779474420891668",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-12",
+    "content": "For the kinds of small corrections we do in RX the smearing is mostly a non issue. I\u2019m allergic to the sound of linear phase anything but I have no issue with how RX sounds on brief spectral edits",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1273351065957302293",
+    "author": "masteredbyjack",
+    "date": "2024-08-14",
+    "content": "Probably depends on the gear though, Fearn is very broad stroke",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1274404411774341213",
+    "author": "Will Pragnell",
+    "date": "2024-08-17",
+    "content": "I have a track here with a kick that is almost all sub, very few harmonics, and is also way too loud. As it happens, this is a mix that someone wanted feedback on before sending for mastering, so I can help them fix it, but I also took it as an opportunity to do a practice master on the current version. Best results so far have come from setting up a dynamic low shelf in Nova, which helps to take the excessive low end boom out of play, but obviously doesn't do anything to bring out the harmonics higher up and make the kick audible on smaller systems. Any suggestions for other things I could try (other than maybe getting crazy in RX)?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1305969610494840892",
+    "author": "flyboystudio",
+    "date": "2024-11-12",
+    "content": "Hey all, first of all just want to say how stoked I am to have found this community! Discovered the LWMR podcasts a few months back and have truly loved listening and learning. \n\nI\u2019ve had a note back from a ME that I\u2019ve used a few times via an artist I work with, asking to send an unlimited version of the final mix. \nFinal mix had the limiter off but I mixed into standard clip doing a couple db of soft clipping here and there, pretty minimal, so left that on. \n\nMix bus was: SSL G Comp - Maag EQ - Oxford Inflator - Standard Clip (Soft Clip Pro, 5% Saturation, 8 x oversampling). All very light touches along the way. \n\nSent loud mix to A&R and artist (less than 2db reduction on limiter) but they also approved the pre master in this instance i.e with mix bus on but limiter off. \n\nAlthough the ME has the approved mix already, I\u2019m thinking of sending a version without any clipping and asking to hear 2 versions\u2026\n\nAny thoughts welcomed!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1310807403364876288",
+    "author": "agnusbeats",
+    "date": "2024-11-25",
+    "content": "Hey folks, first off just wanted to say I\u2019m extremely grateful for stumbling across this group via LWMR - I\u2019ve just been reading through the groups soaking up all the epic conversations, recommendations and knowledge that\u2019s currently being shared!\n\nI\u2019ve recently been getting some feedback on mix + masters and recurrence has been that chorus\u2019 and bigger sections of songs need more stereo width. There is major panning already happening within these tracks\u2026 so I\u2019ve been trialing out imaging tools such as S1 imager, Ozone Imager, T-racks imager, Microshift & Doubler. I\u2019m aware it\u2019s important to be cautious with these plug-ins as they can introduce phasing issues. I\u2019m also finding the stereo sound these plug ins are producing sounds - fake, thin, untasteful and feels as thought is alters the song in negative way. \n\nAt times I thought maybe I\u2019m need more instrumentation within these arrangement to play with panning - but I hear absolutely gorgeous tracks that are simply a vocal and an acoustic guitar that have such a rich deep stereo field (almost as if there were 2 acoustic gtr\u2019s) \n\nI\u2019ve been starting to play with M/S eq and have been having some small wins - but would appreciate and thoughts, views, opinions or direction!\n\nThanks team \ud83d\ude4f\ud83c\udffc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313183183235190916",
+    "author": "tinkerjef",
+    "date": "2024-12-02",
+    "content": "Hmm the linear phase would make sense on a track level EQ move, but I don\u2019t see the difference on the master?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313191911539867688",
+    "author": "onanisland",
+    "date": "2024-12-02",
+    "content": "Linear Phase shouldn't shift phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313193029519278225",
+    "author": "onanisland",
+    "date": "2024-12-02",
+    "content": "But I will def check the Linear Phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313193457237491865",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "But I\u2019ve definitely heard it when switching between modes in pro-q even with no actual eq\u2019ing inserted. Not on every song, but it wasn\u2019t an isolated incident!\n\nI also almost never use linear phase mode in general",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313194191098220686",
+    "author": "onanisland",
+    "date": "2024-12-02",
+    "content": "I've used weiss, maat, and others (which are all linear phase equalizers) on many occeasions on orchestral, ballads, etc where I needed the stereo image to stay as it is",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313208084361117789",
+    "author": "Halliemmelton",
+    "date": "2024-12-02",
+    "content": "Yeah I\u2019d just normally use Weiss for that purpose rather than use pro-q in linear phase, namedly because of the issues I\u2019ve seen before with that mode on pro-q",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319767022048903281",
+    "author": "Tyson 'Jam' Ramela",
+    "date": "2024-12-20",
+    "content": "Hey guys, I was wondering if anyone had any input on ADPTR Sculpt? Specially how the tonal balance restoration is. \n\nNot sure if it was discussed here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1346990991449522306",
+    "author": "Austin Gordon",
+    "date": "2025-03-05",
+    "content": "I did try out the MEA-2 on a master today and it ended up working beautifully, particular with that top shelf. Might end up snagging that one",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1374430495110205573",
+    "author": "Paris Lee",
+    "date": "2025-05-20",
+    "content": "@mcsnare If you were to show someone who\u2019s just eq\u2019ing stereo, and has never taught or fucked around enough properly with M/S eq\u2019ing, and don\u2019t really want to get deep, a top 3-5 of essential \u2018you gotta at least have these moves as a bypassed band to try\u201d, what would they be?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378201258711715975",
+    "author": "David Fuller",
+    "date": "2025-05-30",
+    "content": "EQ feels a bit too broad stroke for this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405513169161424958",
+    "author": "Ted Whitten Media",
+    "date": "2025-08-14",
+    "content": "When doing revisions, does anyone save a whole new project file with a version number appended to the end? Wondering if that might help me stay more organized. Currently working on an album where the client wanted to go back to V1 for release, and I swear I kept track of every move I'd made to get to v2, but for some reason I just couldn't get it to sound exactly like V1 again. It's no problem on their end because they just used the file I'd rendered and uploaded to Samply. But now I have a clip in my montage that doesn't match the released version, which I don't like. I ended up dropping the master on a reference track instead.\n\nI think this issue was partially caused because I tend to send an initial rough master too early in the process and they get demo-itis. For some reason I've always wanted to send clients an initial rough master after I've done the quick \"from the gut\" broad strokes, but before I've totally nailed down the nitty gritty stuff, to see if they like the direction I'm headed. And all too often they end up liking the first version.\n\nOr maybe I'm just overthinking v2 and making it worse on a regular basis? I dunno... \ud83d\ude02",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405717073316941897",
+    "author": "cartierdad",
+    "date": "2025-08-14",
+    "content": "@Berlin What EQ are you using as your \u201cmain\u201d. I love the Sontec. If it was 100% variable in frequency, q and gain I\u2019d probably only use that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1405731823975137281",
+    "author": "cartierdad",
+    "date": "2025-08-14",
+    "content": "That makes sense. I\u2019d assume others are using some sort of linear phase oversampling perhaps. What are you using to EQ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1406742605961756704",
+    "author": "Nomograph Mastering",
+    "date": "2025-08-17",
+    "content": "Where we boost and cut and by how much is the thing - not pultec vs API vs Fab",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418259510174416936",
+    "author": "Iwan Morgan",
+    "date": "2025-09-18",
+    "content": "I\u2019ve gone a different way now by just recreating the montage and importing the digital 2448 renders and then reexporting. This works and nulls but it is confuaing Side B worked but Side A didnt. Normally this would point to plugins not rendering correctly but it\u2019s quite a basic setup Sontec/Equilibrium/ozone or pro L2.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418294799785525369",
+    "author": "masteredbyjack",
+    "date": "2025-09-18",
+    "content": "What do the null checks tell you? Will something like the Sontec even null given that it's an analog emu?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1440067388958834900",
+    "author": "Gabriel Tyranny",
+    "date": "2025-11-17",
+    "content": "To see how much I could get from mastering alone - I will say I try and touch each of these very gently for several broad strokes, but the sentiment I\u2019m hearing is them be too many strokes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1454149881441685652",
+    "author": "James Cronier",
+    "date": "2025-12-26",
+    "content": "There\u2019s a lot of tweak-ability with Standard Clip\u2019s oversampling and filter. Personally, I\u2019d get my ears familiar with the oversampling amounts and the non-over sampled setting in the plugin. Some of those settings are pretty hard to differentiate, but some have clear differences. The clipping will sound different.\n\nThen I\u2019d play with default linear phase vs minimum phase oversampling filter. That difference is readily apparent to my ears. \n\nThe slope and frequency of the filters have an incredible amount of variability. There are a staggering amount of possible settings. I can\u2019t offer much on the sound of those changes. Maybe others can offer more insight.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1466770789549346836",
+    "author": "Iwan Morgan",
+    "date": "2026-01-30",
+    "content": "Anyone else finding that when you copy a plugin chain across to other clips in the wavelab montage that the settings aren't always copying?  I noticed it today.  Standard clip changed from the prest Hard Clip to Soft Clip and Pro L2 's output was back up to 0.00 rather than -0.30 which I wanted it to be.  Equilibrium and Sontec seemed to be fine.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]
