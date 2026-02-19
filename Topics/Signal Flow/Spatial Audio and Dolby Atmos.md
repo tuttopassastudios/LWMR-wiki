@@ -32,7 +32,14 @@ DAW support for Dolby Atmos varies significantly:
 - **[[Pro Tools]]** — the primary professional platform for Atmos mixing, with native integration of the Dolby Atmos Renderer and support for object-based panning. Pro Tools Ultimate is required for the full Atmos workflow
 - **[[Logic Pro]]** — added native Atmos support with built-in Dolby Atmos tools, spatial audio authoring, and binaural monitoring, making it the most accessible entry point for Atmos mixing
 - **Nuendo** — Steinberg's post-production DAW offers comprehensive immersive audio support with ADM (Audio Definition Model) authoring
-- **Other DAWs** — [[Ableton Live]], [[Cubase]], [[FL Studio]], and [[Reaper]] can feed audio to the external Dolby Atmos Renderer via Dolby Audio Bridge but lack native Atmos authoring tools
+- **Other DAWs** — [[Ableton Live]], [[FL Studio]], and [[Reaper]] can feed audio to the external Dolby Atmos Renderer via Dolby Audio Bridge but lack native Atmos authoring tools
+
+### Cubase vs Nuendo — ADM Import Limitation
+A key distinction confirmed by Jemody's investigation in #cubase: **[[Cubase]] cannot import ADM files** (Audio Definition Model — the standard format for Dolby Atmos projects). ADM import is exclusive to **Nuendo**, Steinberg's post-production DAW. This means Cubase users who need to work with Dolby Atmos projects requiring ADM exchange must upgrade to Nuendo. Cubase can still feed the external Dolby Atmos Renderer via Dolby Audio Bridge, but it cannot natively author or import ADM-formatted immersive audio sessions.
+
+> [!quote] Source
+> **Author:** Jemody — **Date:** 2024–2025 — **Channel:** #cubase
+> Jemody confirmed that ADM import is exclusive to Nuendo — a hard limitation for Cubase users working in Dolby Atmos post-production workflows.
 
 ### Stem Delivery for Immersive
 Atmos mixing has fundamentally changed stem delivery requirements. Because elements need to be positioned independently in 3D space, engineers increasingly print full multitracks rather than traditional stereo stems. Effects must often be printed separately from dry sources so that reverbs and delays can be spatially positioned independently of the source material.
@@ -82,3 +89,9 @@ Transitioning to Atmos mixing requires rethinking several established workflows.
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Bryan DiMaio, cy (sigh), Ian, gatewoodsensei, mixedbywong_my
 > **Message volume:** 29 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Jemody
+> **Message volume:** ~35 messages on Dolby Atmos, ADM, and Nuendo feature distinctions
+> See also: [[cubase Channel Summary]]

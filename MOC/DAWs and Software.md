@@ -73,6 +73,14 @@ modified: 2026-02-18
 
 ---
 
+## Cubase-Specific Concepts
+
+- [[Logical Editor]] — MIDI and project-level manipulation engine, macro building
+- [[VariAudio]] — built-in pitch editing and correction tool
+- [[Render in Place]] — rendering with or without inserts/sends
+
+---
+
 ## Plugins & Formats
 
 - [[Plugin Formats and Compatibility]] — AAX, VST, AU format details

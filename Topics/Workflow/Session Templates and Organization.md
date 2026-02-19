@@ -68,6 +68,20 @@ Additional Ableton-specific template strategies from the dedicated channel:
 - **Loadr (Max for Live)** — M4L device that batch-loads plugins and devices into a session, streamlining template building and session prep (#ableton-live)
 - **Stream Deck integration** — several community members use Elgato Stream Deck with Ableton for one-touch access to common actions, transport controls, and macro triggers (#ableton-live)
 
+### Cubase Organization Tips (from #cubase)
+
+**Hazel Rules for File Management:**
+Dean Tuza shared macOS Hazel automation rules that auto-organize Cubase project folders, backups, and exports. Rules can:
+- Move bounced files to a dedicated export folder based on naming patterns
+- Archive old project versions automatically after a set period
+- Sort audio imports by date or file type
+
+**Track Color Coding Systems:**
+The #cubase community discussed systematic track color approaches:
+- Color by instrument group (drums = blue, bass = green, vocals = yellow, etc.)
+- Cubase's track visibility configurations allow saving and recalling visibility presets per workflow stage (tracking, editing, mixing)
+- Combine color coding with PLE (Project Logical Editor) presets to show/hide tracks by color
+
 ## Practical Application
 - Invest time building templates — it pays off exponentially
 - Use scripting tools (SoundFlow, ReaScript) to automate repetitive tasks
@@ -130,3 +144,9 @@ If you're breaking a single sampled instrument out ac...*
 > **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
 > **Key contributors:** Jeremy Klein, Slow Hand, Josh, oaklandmatt
 > **Message volume:** ~40 categorized messages on template workflow, SoundFlow, Loadr, and Stream Deck integration
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Dean Tuza, LAPhill, chrissorem
+> **Message volume:** ~15 messages on Hazel rules, track color coding, and PLE visibility presets
+> See also: [[cubase Channel Summary]]

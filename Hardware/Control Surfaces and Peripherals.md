@@ -45,6 +45,19 @@ Interface selection depends on I/O count, conversion quality, driver stability, 
 ### Monitor Controllers
 Dedicated monitor controllers (Dangerous Music, Grace Design, Audient) handle speaker switching, volume, and source selection outside the DAW. This keeps monitoring independent of the computer and provides a physical volume knob — critical for protecting speakers and ears from unexpected playback levels.
 
+### CC121 Controller (Cubase) — from #cubase
+The **Steinberg CC121** is a dedicated Cubase controller with deep DAW integration:
+- **Jeff Dunne's CC121 workflow** — uses the CC121's AI knob for parameter control, transport buttons, and EQ section mapped to Cubase's channel strip
+- The CC121 communicates via a proprietary Steinberg protocol (not generic MIDI/HUI), providing tighter integration than third-party surfaces
+- Best paired with the [[Logical Editor]] for extending its capabilities beyond the hardware's physical controls
+
+### Stream Deck + Rotary Knobs for Cubase (from #cubase)
+Jeff Dunne's workflow combines an Elgato Stream Deck (with optional rotary knob attachment) with Cubase's [[Logical Editor]] presets:
+- Each Stream Deck button triggers a specific Logical Editor preset or macro
+- Rotary knobs mapped to Quick Controls for continuous parameter adjustment
+- Custom icons on Stream Deck buttons provide visual feedback for each macro's function
+- This combination creates a semi-custom control surface at a fraction of the cost of dedicated hardware
+
 ### DAW-Specific Hardware Integration
 Hardware compatibility varies significantly across DAWs and operating systems. Apple Silicon (M1/M2/M3) transitions caused widespread driver issues, particularly with older interfaces and control surfaces.
 
@@ -78,3 +91,9 @@ Hardware compatibility varies significantly across DAWs and operating systems. A
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** popaganda., Slow Hand, BatMeckley, ALXCPH
 > **Message volume:** 143 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Jeff Dunne, LAPhill
+> **Message volume:** ~25 messages on CC121, Stream Deck, and rotary knob integration with Cubase
+> See also: [[cubase Channel Summary]]

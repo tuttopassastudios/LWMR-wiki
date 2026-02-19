@@ -39,8 +39,13 @@ modified: 2026-02-17
 > "Because Ableton doesn't have AudioSuite like Pro Tools, I rely heavily on RX for quick spot cleanups of noise/artifacts or rendering CPU intensive plugins (Supertone Clear)."
 
 **Cubase:**
-- VariAudio provides built-in pitch correction comparable to Melodyne
+- [[VariAudio]] provides built-in pitch correction comparable to Melodyne — accessible directly in the Sample Editor with no ARA overhead
+- **Split notes** — divide detected pitch segments for more precise control (SoundsLikeJoe)
+- **Vibrato control** — adjust vibrato depth on individual notes
+- **Free mode** — drag notes to non-chromatic positions for blue notes and microtonal inflections
+- **Delete block technique** (Lee Rouse) — deleting an analyzed VariAudio segment disables tuning for that region while preserving surrounding corrections
 - Direct Offline Processing for non-destructive offline effects
+- **ARA reliability caveat** — Melodyne via ARA in Cubase produces clicks/pops at region boundaries; Auto-Tune ARA mode can cause crashes. Community recommends committing ARA-processed audio early or using VariAudio to avoid ARA entirely for simple tuning tasks
 
 ### Creative Vocal Processing (Ableton)
 Slow Hand demonstrated a sophisticated parallel vocal chain using Audio Effect Racks:
@@ -93,3 +98,9 @@ Many professionals use a multi-DAW approach:
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, Adam Thein, oaklandmatt, Ross Fortune, Rob Domos, mixedbywong_my
 > **Message volume:** 452 categorized messages (139 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Lee Rouse, SoundsLikeJoe, Joel "Roomie" Berghult
+> **Message volume:** ~60 messages on VariAudio techniques, ARA issues, and pitch correction workflows
+> See also: [[cubase Channel Summary]]

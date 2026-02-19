@@ -43,6 +43,38 @@ Operating system updates are a major source of instability. macOS updates freque
 > **Author:** Chase H — **Date:** 2025-03-17 — **Channel:** #daw-talk
 > "Upgraded to a m4 Mac Mini. Thursday while working on a mix the orange 'Mic Mode' icon flashed and caused a brief audio glitch..."
 
+### Cubase-Specific Issues (from #cubase)
+
+**Cubase 13 Bounce Fatal Error:**
+LAPhill reported a fatal error during bounce operations in specific session configurations in Cubase 13. The issue was session-dependent and could sometimes be resolved by removing specific plugins from the signal path before bouncing.
+
+**ARA Plugin Crashes:**
+- **Melodyne ARA clicks/pops** — audible artifacts at region boundaries when using Melodyne via ARA; the most commonly reported ARA issue in Cubase 13 and 14
+- **Auto-Tune ARA crashes** — Antares Auto-Tune in ARA mode causes session instability and occasional crashes
+- **Workaround:** Commit ARA-processed audio early (Render in Place or bounce) before further editing
+
+**OpenGL Plugin Window Issues:**
+Plugins that use OpenGL rendering (Soothe 2, Altiverb, some Waves plugins) can conflict with Steinberg's window management system, causing visual glitches, frozen GUIs, or crashes when opening/closing plugin windows rapidly.
+
+**GPU Driver Conflicts:**
+- NVIDIA GPUs occasionally cause GUI glitches in Cubase (flickering mixers, corrupted plugin windows)
+- Radeon GPUs generally reported as more stable with Cubase
+- Updating to the latest GPU drivers or disabling GPU acceleration in preferences can resolve issues
+
+**VSTi Multi-Out Visibility Sync Bug:**
+When using multi-output virtual instruments (e.g., Kontakt, BFD), the output track visibility in the arrange window doesn't always stay in sync with the mixer view. Workaround: manually refresh track visibility or save/recall a visibility preset.
+
+**"Bad Plugin" Diagnosis Workflow (SoundsLikeJoe):**
+When a session crashes on load:
+1. Rename the VST plugin folders (or move them temporarily)
+2. Open the session — Cubase will load without the plugins
+3. Re-enable plugin folders one at a time, relaunching the session each time
+4. The crash will recur when the offending plugin folder is restored, isolating the culprit
+
+> [!quote] Source
+> **Author:** SoundsLikeJoe — **Date:** 2024–2025 — **Channel:** #cubase
+> SoundsLikeJoe's "bad plugin" diagnosis workflow — rename VST folders, open session, re-enable one at a time — is the systematic approach to isolating session crashes.
+
 ## Practical Application
 - Save incremental session versions frequently to enable rollback
 - Isolate plugin crashes by disabling plugins one at a time
@@ -112,3 +144,9 @@ I have a ...*
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, Adam Thein, cian riordan, Iwan Morgan
 > **Message volume:** 1,137 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** LAPhill, SoundsLikeJoe, Lee Rouse, Joel "Roomie" Berghult
+> **Message volume:** ~15 messages on Cubase crashes, ARA issues, GPU conflicts, and plugin troubleshooting
+> See also: [[cubase Channel Summary]]

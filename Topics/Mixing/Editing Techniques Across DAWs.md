@@ -36,11 +36,17 @@ Comping (assembling the best take from multiple recordings) varies widely. [[Pro
 ### Strip Silence and Transient Editing
 [[Pro Tools]]' Strip Silence and Tab to Transient remain gold-standard editing features. Beat Detective is widely used for drum editing and alignment. [[Logic Pro]]'s Strip Silence equivalent and [[Ableton Live]]'s transient markers offer similar functionality but with different interaction models. Members working on drum editing frequently recommend dedicated tools like [[Sound Radix]] Drum Leveler alongside DAW-native features.
 
+### Cubase Editing Features (from #cubase)
+- **Blob editing** — a new audio editing mode introduced in a Cubase 14.x maintenance update, providing an alternative visual approach to audio event manipulation
+- **Time stretching in audio editor** — Cubase's Sample Editor provides direct time-stretch handles on audio events, with algorithm selection (Standard, Musical, Solo) for different source material
+- **[[VariAudio]]** — integrated pitch and timing editing directly in the Sample Editor (see [[Vocal Editing Across DAWs]] for details)
+
 ### DAW-Specific Editing Strengths
 Each DAW has particular editing strengths valued by the community:
 - **[[Pro Tools]]:** Tab to Transient, Beat Detective, Playlist comping, nudge shortcuts
 - **[[Logic Pro]]:** Flex Time/Pitch, Quick Swipe Comping, Marquee tool
 - **[[Ableton Live]]:** Warp modes, non-destructive clip editing, Session View arrangement
+- **[[Cubase]]:** [[VariAudio]], [[Logical Editor]] batch MIDI editing, blob editing, Direct Offline Processing
 - **[[Reaper]]:** Fully customizable editing actions, scripting, razor edits
 
 ## Practical Application
@@ -69,3 +75,9 @@ Each DAW has particular editing strengths valued by the community:
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, Josh, oaklandmatt, Eric Martin, ALXCPH
 > **Message volume:** 261 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Joel "Roomie" Berghult, SoundsLikeJoe, Lee Rouse
+> **Message volume:** ~15 messages on blob editing, time stretching, and audio editor features
+> See also: [[cubase Channel Summary]]

@@ -48,6 +48,30 @@ Beyond dedicated tools like SoundFlow, users employ Keyboard Maestro (macOS), Au
 > **Author:** Joel Berghult — **Date:** 2024-05-11 — **Channel:** #daw-talk
 > "My system is built around 'no stone unturned'... 1) record in take lanes 2) Alt+click on phrase shifts on main track with lanes open..."
 
+### Cubase Logical Editor & PLE (from #cubase)
+
+[[Cubase]]'s [[Logical Editor]] and Project Logical Editor (PLE) provide the most powerful macro and MIDI manipulation system of any DAW — a conditional transformation engine that other DAWs cannot replicate without scripting.
+
+**LAPhill's MIDI Presets:**
+LAPhill maintains an extensive Logical Editor preset library shared in #cubase, covering:
+- Velocity curve transformations (compress, expand, randomize within range)
+- Note filtering by pitch range, channel, or length
+- MIDI CC manipulation (scale, offset, filter specific controllers)
+- Track organization macros via PLE (show/hide by name, color, or type)
+
+**Jeff Dunne's Stream Deck + LE Presets:**
+Jeff Dunne integrates Logical Editor presets with an Elgato Stream Deck equipped with rotary knobs, creating a tactile macro surface for Cubase. Each Stream Deck button triggers a specific LE preset — transforming what would be a multi-step menu operation into a single button press.
+
+**Greg Ondo Shared Presets:**
+Greg Ondo (Steinberg product specialist) has shared community-ready Logical Editor presets that serve as a starting point for new users learning the system.
+
+**"Print MIDI Modifiers" Tip:**
+MIDI Insert effects in Cubase are non-destructive by default. The "Print MIDI Modifiers" function (or "Merge MIDI in Loop") commits these transformations permanently to the MIDI part — essential before exporting MIDI or transferring sessions.
+
+> [!quote] Source
+> **Author:** LAPhill — **Date:** 2025 — **Channel:** #cubase
+> LAPhill's Logical Editor preset library covers velocity editing, note filtering, CC manipulation, and track organization — the most comprehensive community preset collection shared in the channel.
+
 ## Practical Application
 - Learn your DAW's default shortcuts before customizing — they are designed around common workflows
 - Map your ten most-used actions to easy single-key or two-key shortcuts
@@ -93,3 +117,9 @@ I'll load a whole folder of 808s into individual cha...*
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Josh, Adam Thein, Will Melones, peterlabberton, gatewoodsensei
 > **Message volume:** 281 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** LAPhill, SoundsLikeJoe, Jeff Dunne, Joel "Roomie" Berghult
+> **Message volume:** ~80 messages on Logical Editor, PLE, macros, and Stream Deck integration
+> See also: [[cubase Channel Summary]]

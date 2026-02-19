@@ -9,7 +9,7 @@ tags:
   - type/topic
   - domain/recording
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Vocal Chain
@@ -142,6 +142,56 @@ See [[Session Mindset and Engineering Philosophy]] for Ross Fortune's pinned voi
 ### Mic Shootouts
 BatMeckley recommends regular mic shootouts on vocalists: "It's a good idea every once in a while to shoot out your mics on things and recalibrate your life. I just had a singer over to sing into the 251, the Josephson 705, the Soyuz 17FET, and the M930."
 
+## Microphone Physics — How Mics Actually Work (from #nerd-talk)
+
+David Fuller's cardioid microphone primer (14 reactions — the 2nd highest in #nerd-talk) explained the physics behind polar patterns in a way that helps engineers make better mic choices:
+
+### How Cardioid Patterns Work
+A cardioid microphone is not a single element that "listens forward." It achieves directionality through **phase cancellation**:
+
+- The capsule has openings on both the front and rear
+- Sound arriving from the front reaches the diaphragm directly
+- Sound arriving from the rear enters through both the front and rear ports, arriving at the diaphragm at nearly the same time from both sides — the resulting pressure difference is near zero, producing cancellation
+- The rear port's acoustic resistance (a carefully tuned damping material) controls the timing and degree of cancellation, shaping the polar pattern
+
+### Why This Matters for Recording
+- **Cupping a mic** (wrapping your hand around the grille) blocks the rear ports, destroying the cardioid pattern and turning it closer to omnidirectional — this is why vocalists who cup the mic sound muddy and feedback-prone in live settings
+- **Proximity effect** is a consequence of the pressure-gradient design — the bass boost at close distances is physics, not a feature. It is more pronounced in cardioid patterns than in omni (which uses a different operating principle)
+- **Off-axis coloration** varies dramatically between mic designs — some mics reject off-axis sound cleanly, while others color it heavily. This matters for room bleed and for how the mic handles a moving singer
+
+### Choosing Patterns for the Source
+| Pattern | Best For | Why |
+|---------|----------|-----|
+| **Cardioid** | Most vocal recording | Rejects rear sound, proximity effect available |
+| **Omni** | Singers who move, well-treated rooms | No proximity effect, most natural sound, no off-axis coloration |
+| **Figure-8** | Ribbon mics, MS technique, duets | Rejects sides, captures front and rear equally |
+| **Hypercardioid** | Loud stages, high-bleed environments | Tighter pickup, but has a rear lobe — point the null at the loudest bleed source |
+
+> [!note]
+> See [[Impedance and Audio Electronics]] for how mic output impedance interacts with preamp input impedance to affect tone — this is another physical factor in "why mics sound different through different preamps."
+
+## VariAudio vs Melodyne — Pitch Correction Workflow (from #cubase)
+
+The #cubase channel produced extensive discussion on pitch correction tool selection and multi-tool workflows:
+
+### Community Consensus
+- **[[VariAudio]] wins for speed** — built into Cubase's Sample Editor, no ARA overhead, instant access
+- **[[Melodyne]] wins for polyphonic editing** — superior fine-grained control on complex material
+- Both tools are excellent for standard vocal tuning; the choice is workflow preference, not quality
+
+### Multi-Tool Pitch Workflow
+Lee Rouse's power-user approach chains multiple tools:
+1. **[[VariAudio]]** — first pass for quick macro-tuning and timing correction
+2. **Auto-Tune** — real-time tracking correction during recording for vocalists who want to hear correction in their headphones
+3. **[[Melodyne]]** — detailed polyphonic editing for complex passages, harmonies, or fine corrections that VariAudio can't handle
+
+### Lee Rouse's "Delete Block" Technique
+In VariAudio, deleting an analyzed segment disables pitch correction for that specific region without affecting surrounding corrections. This is useful for preserving natural phrasing, slides, or intentional bends on specific notes while the rest of the vocal remains tuned.
+
+> [!quote] Source
+> **Author:** Lee Rouse — **Date:** 2024–2025 — **Channel:** #cubase
+> Lee Rouse's multi-tool pitch workflow and delete-block technique represent the community's most refined approach to vocal pitch correction in Cubase.
+
 ## See Also
 - [[Budget Gear Guide]]
 - [[Acoustic Treatment Guide]]
@@ -149,8 +199,16 @@ BatMeckley recommends regular mic shootouts on vocalists: "It's a good idea ever
 - [[Recording and Tracking Workflows]]
 - [[Session Mindset and Engineering Philosophy]]
 - [[Headphone Mixes and Cue Systems]]
+- [[Impedance and Audio Electronics]]
 
 ## Source Discussions
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Lee Rouse, SoundsLikeJoe, Joel "Roomie" Berghult
+> **Message volume:** ~60 messages on VariAudio, Melodyne, and pitch correction workflows
+> See also: [[cubase Channel Summary]]
+
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 62
@@ -160,3 +218,10 @@ BatMeckley recommends regular mic shootouts on vocalists: "It's a good idea ever
 > Channel: #recording-talk
 > Matches: 933
 > Key contributors: BatMeckley, cian riordan, Zakhiggins, NoahNeedleman, Ross Fortune, peterlabberton, LAPhill
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~126 (microphone physics, polar pattern theory, capsule design, preamp impedance interaction)
+> Key contributors: David Fuller (polar pattern primer — 14 reactions), Nomograph Mastering, Bryan DiMaio, Gerhard Westphalen
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]

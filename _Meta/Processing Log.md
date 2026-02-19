@@ -273,6 +273,55 @@ For each channel processed, record:
 
 ---
 
+### #cubase
+
+- **Channel:** #cubase (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** September 2024 – January 2026
+- **Messages:** 518 raw → ~421 substantive (40+ chars)
+- **Unique authors:** 26
+
+**Glossary entries created (3):**
+- [[Logical Editor]], [[VariAudio]], [[Render in Place]]
+
+**Pages enriched (11):**
+- [[Cubase]] — Major expansion: Logical Editor, VariAudio, Cubase 14/15, ARA issues, automation, stock plugins, community tips
+- [[Keyboard Shortcuts and Macros]] — Added Cubase Logical Editor/PLE section, Stream Deck integration
+- [[Vocal Chain]] — Added VariAudio vs Melodyne comparison, multi-tool pitch workflow
+- [[Vocal Editing Across DAWs]] — Added Cubase VariAudio details, ARA reliability notes
+- [[Spatial Audio and Dolby Atmos]] — Added Cubase vs Nuendo ADM limitation
+- [[Troubleshooting DAW Issues]] — Added Cubase crashes, ARA issues, GPU conflicts, "bad plugin" workflow
+- [[DAW Version History and Updates]] — Added Cubase 14/15 highlights
+- [[Control Surfaces and Peripherals]] — Added CC121, Stream Deck + rotary knobs
+- [[Session Templates and Organization]] — Added Hazel rules, track color coding
+- [[Editing Techniques Across DAWs]] — Added blob editing, time stretching
+- [[Bounce and Export Workflows]] — Added render queue/RIP distinction, loop export, wet FX stems
+
+**Channel summary:** [[cubase Channel Summary]]
+
+**MOC updated:** [[DAWs and Software]] — added Cubase-Specific Concepts section
+
+**Identified experts:**
+- **Joel "Roomie" Berghult** (141 messages) — Power user, Cubase 12→13→14 transition, VariAudio, modulators
+- **Jemody** (63 messages) — Dolby Atmos/ADM, game audio, MIDI CC, pitch correction
+- **SoundsLikeJoe** (59 messages) — 24yr Cubase veteran, Logical Editor/PLE, stock plugins
+- **LAPhill** (52 messages) — Logical Editor mastery, MIDI workflow, game audio composer
+- **Lee Rouse** (49 messages) — Session workflow, VariAudio+Melodyne combo, troubleshooting
+- **chrissorem** (41 messages) — Recording sessions, click management, VST Connect
+- **Jeff Dunne** (19 messages) — CC121, Stream Deck, Logical Editor presets
+- **fakedad916** (18 messages) — Audio alignment, key commands
+
+**Notes:**
+- Channel has a very high substantive rate (81.3%), indicating focused technical discussion
+- Joel "Roomie" Berghult contributed 27% of all messages — the most dominant single contributor of any processed channel
+- Logical Editor discussion is unique content not found in any other channel
+- ARA integration issues (Melodyne clicks, Auto-Tune crashes) are a persistent community pain point
+- Cubase confidence upgraded from medium to high (now has dedicated channel + daw-talk data)
+- Strong overlap with #daw-talk for version comparison content but with much deeper Cubase-specific detail
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -282,3 +331,4 @@ For each channel processed, record:
 | #recording-talk | Dec 2021 – Feb 2026 | 16,219 | ~11,195 | 8 | 0 |
 | #recording-talk (Media) | Dec 2021 – Feb 2026 | — | 413 images, 279 links | +1 (External Resources) | 0 |
 | #ableton-live | Feb 2024 – Feb 2026 | 1,982 | ~1,495 | 3 | 0 |
+| #cubase | Sep 2024 – Jan 2026 | 518 | ~421 | 0 | 3 (glossary) |

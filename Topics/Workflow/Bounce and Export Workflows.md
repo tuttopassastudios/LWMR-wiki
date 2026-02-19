@@ -55,6 +55,25 @@ Sample accuracy issues are more common during playback than rendering, and less 
 - Detailed naming, format, and routing options
 - Batch export with granular control
 
+### Cubase Render Queue vs Render in Place vs Bounce (from #cubase)
+Cubase has three distinct rendering workflows that are a frequent source of confusion:
+- **[[Render in Place]]** — renders with selected processing (inserts, sends, or both) to a new track in the project; the most flexible option for committing CPU-heavy plugins during mixing
+- **Bounce Selection** — renders raw audio without any processing; useful for consolidating edits and gluing audio events
+- **Export Audio Mixdown (Render Queue)** — renders to a file on disk with full channel path; used for final stems and deliverables. The render queue allows batch export of multiple channel configurations
+
+### Seamless Loop Export (SoundsLikeJoe)
+SoundsLikeJoe's method for exporting seamlessly looping audio:
+1. Set up the loop region in Cubase
+2. Render the loop 3 times consecutively (3× the loop length)
+3. Trim the exported file to the middle copy only
+4. The middle copy inherits seamless crossfade points from the surrounding repetitions, avoiding clicks at loop boundaries
+
+### Wet FX Stem Export
+For exporting stems with wet effects:
+- Select multiple outputs in the Export Audio Mixdown dialog
+- Enable the **FX channel checkbox** to include effect return channels in the export
+- This allows separate dry and wet stems — essential for remix deliverables and Dolby Atmos preparation
+
 ## Settings & Parameters
 
 | Parameter | Recommendation | Notes |
@@ -178,3 +197,9 @@ With one issue, but it's workable. Sending to a return from a nested track ("dru
 > **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
 > **Key contributors:** Slow Hand, Ross Fortune, Adam Thein, Jeremy Klein, markmaclure
 > **Message volume:** ~130 categorized messages on stem export, group bounce workarounds, and archiving
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** SoundsLikeJoe, chrissorem, Joel "Roomie" Berghult
+> **Message volume:** ~20 messages on render queue, Render in Place, loop export, and wet FX stems
+> See also: [[cubase Channel Summary]]

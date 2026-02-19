@@ -47,6 +47,22 @@ The community consensus on update timing is strongly conservative:
 > **Author:** Joshua Riley — **Date:** 2023-07-26 — **Channel:** #daw-talk
 > "The last few mixes I've had have been anywhere from 80-150 tracks. There was one mix that crippled my M2 but I was quite heavy on the processing."
 
+### Cubase 14 Feature Highlights (from #cubase)
+Cubase 14 (~2025) was well received by the dedicated #cubase community:
+- **Modulators** — new modulator system for creative sound design (extensively tested by Joel "Roomie" Berghult)
+- **Mixer reordering** — long-requested ability to reorder mixer channels independently of the arrange window
+- **Blob editing** — new audio editing mode (arrived in a 14.x maintenance update)
+- **PT-style clip gain** — direct clip gain adjustment similar to Pro Tools' implementation
+- **Dorico integration** — improved interoperability with Steinberg's notation software
+- **M4 efficiency core support** — better Apple Silicon performance, particularly on M4 chips
+
+### Cubase 15 Early Reception (from #cubase)
+Cubase 15 features welcomed by the community:
+- **Expression maps revision** — significant overhaul of the expression map system for orchestral workflows
+- **Pattern engine melodic mode** — new creative tool for melodic pattern generation
+- **Known issues:** nudge bar bug reported by multiple users
+- **Community consensus:** wait for the first maintenance update — consistent with the community's cautious approach to new major versions
+
 ### Feature Additions Over Time
 Members track how DAWs evolve feature parity over time. Features that were once exclusive to one DAW gradually appear in competitors: comping (once a [[Pro Tools]] strength) was added to [[Ableton Live]] in version 11; ARA integration (popularized by [[Studio One]]) was adopted by [[Pro Tools]], [[Logic Pro]], and others. The community values these additions but notes that implementation quality varies significantly across DAWs.
 
@@ -118,3 +134,9 @@ I haven't confirmed this yet myself but if you were talking in #💬general-talk
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, Josh, ALXCPH, Adam Thein
 > **Message volume:** 208 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #cubase — **Date Range:** 2024-09 to 2026-01
+> **Key contributors:** Joel "Roomie" Berghult, SoundsLikeJoe, LAPhill, Lee Rouse
+> **Message volume:** ~80 messages on Cubase 14 features and Cubase 15 early reception
+> See also: [[cubase Channel Summary]]
