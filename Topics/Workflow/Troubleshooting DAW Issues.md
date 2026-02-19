@@ -75,6 +75,39 @@ When a session crashes on load:
 > **Author:** SoundsLikeJoe — **Date:** 2024–2025 — **Channel:** #cubase
 > SoundsLikeJoe's "bad plugin" diagnosis workflow — rename VST folders, open session, re-enable one at a time — is the systematic approach to isolating session crashes.
 
+### Pro Tools-Specific Issues (from #pro-tools)
+
+**PT 2024.3 Aux Routing Delay Bug:**
+Matthew The Cooke reported that aux sends introduced an unexpected delay in specific routing configurations after the 2024.3 update. The bug was session-dependent and not easily reproducible, making it particularly frustrating for engineers mid-project.
+
+**PT 2024.6 Playlist View Crash:**
+samvalentine identified a crash triggered by the Ctrl+Cmd+arrow key combination in playlist view — a regression in the 2024.6 release that affected playlist navigation workflows.
+
+**M4 Rosetta Assertion Errors:**
+Josh Bowman reported that creating new tracks on M4 Macs triggers assertion errors, requiring running Pro Tools under Rosetta 2 as a workaround. This affects the newest Apple Silicon hardware.
+
+**Session Corruption Recovery (Ross Fortune):**
+When a Pro Tools session won't open or crashes on load:
+1. Hold Shift while opening the session to disable all plugins
+2. Once the session loads (stripped of plugins), reactivate plugins one at a time
+3. The crash will recur when the offending plugin is reactivated, isolating the culprit
+4. Remove or replace the corrupted plugin and save a new session version
+
+**Autotune Settings Zeroed After Ozone 12 Install:**
+Josh Bowman reported that installing iZotope Ozone 12 caused Antares Auto-Tune settings to reset to defaults across all sessions — a cross-plugin conflict triggered by the Ozone installer.
+
+**Aggregate Device Power Outage Recovery:**
+Felipe De Mari Scalone documented that after a power outage, macOS aggregate audio devices can become corrupted and need to be recreated in Audio MIDI Setup before Pro Tools will recognize them again.
+
+**HEAT "Insufficient DSP" on Blank Session:**
+montrose recording reported receiving "insufficient DSP" errors when enabling [[HEAT]] on a completely blank session with no tracks or plugins, suggesting a configuration or compatibility issue with certain hardware setups.
+
+**Low Latency Monitoring Mode Confusion:**
+thegreatcarsoni raised confusion about Pro Tools' Low Latency Monitoring mode, noting that Avid support claimed the feature "never worked that way" — contradicting community understanding of the feature's behavior and documentation.
+
+**PT 2023.9 as Stability Sweet Spot:**
+Community consensus recommends PT 2023.9 as the most stable recent release, with several members advising against upgrading past it unless specific new features are needed.
+
 ### Logic Pro-Specific Issues (from #logic-pro)
 
 **Logic 11 Command-R Crash:**
@@ -194,3 +227,9 @@ I have a ...*
 > **Key contributors:** spectrummasters, Brian Reynolds, Bryan DiMaio, Adam Thein, Iwan Morgan, austenballard
 > **Message volume:** ~55 messages on Logic 11 crashes, SBP issues, Voice Isolation, plugin instability, frozen track PDC, and automation bugs
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Matthew The Cooke, samvalentine, Josh Bowman, Ross Fortune, montrose recording, thegreatcarsoni, Felipe De Mari Scalone
+> **Message volume:** ~170 messages on PT version bugs, session corruption recovery, M4 Rosetta errors, HEAT DSP issues, and Low Latency Monitoring confusion
+> See also: [[pro-tools Channel Summary]]

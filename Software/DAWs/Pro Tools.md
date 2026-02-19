@@ -10,7 +10,7 @@ tags:
   - type/topic
   - daw/protools
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Pro Tools
@@ -71,11 +71,85 @@ modified: 2026-02-17
 - Reported stability issues with some newer third-party plugins (mixedbywong_my, 2022)
 - Less intuitive for users coming from production-focused DAWs
 
+## SoundFlow & Scripting (from #pro-tools)
+
+[[SoundFlow]] scripting is the single most discussed topic in the #pro-tools channel. The platform enables JavaScript-based automation of repetitive Pro Tools tasks, from simple keyboard macros to complex multi-step session workflows.
+
+**Key SoundFlow Workflows:**
+- **[[Bounce Factory]]** — SoundFlow's stem bouncing tool; kylem documented a detailed 6-step process for automated stem delivery. Tristan considers Bounce Factory the entry point, but prefers custom scripts for more flexibility
+- **Custom stem printing scripts** — Tristan built custom SoundFlow scripts that go beyond Bounce Factory's capabilities, automating solo→bounce→rename→organize workflows tailored to specific delivery requirements
+- **Forte export tool** — newer alternative to Bounce Factory for stem export, but reported as promising yet buggier (Tristan, #pro-tools)
+- **bobby k's tape saturation macro** — a creative SoundFlow script that automates a trim → external insert → compensating trim workflow for parallel tape saturation across multiple tracks
+- **AI/GPT for script writing** — Tristan advocates using AI tools (ChatGPT, Claude) to help write SoundFlow scripts, noting that since SoundFlow is "80-90% JavaScript," AI assistants are effective at generating working scripts from natural language descriptions
+
+**SoundFlow vs Keyboard Maestro:**
+Tristan's comparison: SoundFlow is 80-90% JavaScript with deep Pro Tools integration and a community forum for shared scripts. Keyboard Maestro is broader (works across all macOS apps) but lacks SoundFlow's DAW-specific depth. For Pro Tools power users, SoundFlow is the clear recommendation. aidanthillmann contributed practical tips from the SoundFlow forum.
+
+## Beat Detective & Drum Editing (from #pro-tools)
+
+[[Beat Detective]] remains the standard workflow for tightening drum performances in Pro Tools:
+
+- **Zack Hames' drum editing workflow** — detailed questions and solutions around multi-track drum editing, including challenges with room mic glitches during quantization (room mics produce artifacts when their transients don't align cleanly with close mics)
+- **sethmanchester's "record slower BPM" trick** — record drums at a slower BPM to get a tighter performance, use Beat Detective to quantize, then speed the session back up to the target tempo. A creative workflow for demanding drum parts
+- **Adam Thein's stray-track fix** — addressing situations where Beat Detective misidentifies transients on tracks with bleed or weak transient definition
+
+## Playlists & Comping Deep Dive (from #pro-tools)
+
+Pro Tools' playlist system is the gold standard for comping, and the #pro-tools channel reveals significant depth and some edge-case limitations:
+
+- **EliHeathMusic's pinned comping shortcuts** — the channel's only pinned message, documenting keyboard shortcuts for efficient playlist-based comping. This includes swipe selection, playlist navigation, and quick audition commands
+- **Dual-mic vocal recording workflow** — EliHeathMusic explored challenges when recording vocals with two microphones simultaneously (e.g., close and room mic), where comping decisions on one track must be correlated to the other to maintain phase coherence
+- **jerikcenteno's playlist color coding** — using Pro Tools' color palette to visually distinguish between playlists for faster navigation during comping sessions
+- **Cut Time playlist limitation** — Matthew The Cooke discovered that Pro Tools' Cut Time command doesn't move alternate playlists — only the active playlist is affected, potentially destroying alignment with other takes (important caveat for arrangement editing)
+
+## Folders & Routing (from #pro-tools)
+
+- **[[Routing Folder]] architecture** — Matthew The Cooke explored using folders as aux buses, discovering both capabilities and limitations. Routing Folders can sum child track outputs but have challenges with preserving internal routing when tracks are moved in and out
+- **Folder organization philosophy** — the community discussed folder depth and routing strategies, with some preferring deep nesting for organization and others (like Zack Hames) advocating for a flat structure with "as few folders as possible"
+
+## Pro Tools Version Issues (from #pro-tools)
+
+Version-specific bugs are a significant community concern:
+
+- **PT 2024.3 aux routing delay bug** — Matthew The Cooke reported that aux sends introduced an unexpected delay in specific routing configurations after the 2024.3 update
+- **PT 2024.6 playlist view crash** — samvalentine identified a crash triggered by Ctrl+Cmd+arrow key combination in playlist view, a regression in the 2024.6 release
+- **M4 Rosetta assertion errors** — Josh Bowman reported that creating new tracks on M4 Macs triggers Rosetta assertion errors, requiring running Pro Tools under Rosetta 2 as a workaround
+- **PT 2023.9 stability sweet spot** — community consensus suggests PT 2023.9 is the most stable recent version, with several members advising against upgrading past it unless specific new features are needed
+
+## MIDI & Virtual Instruments in PT (from #pro-tools)
+
+MIDI functionality in Pro Tools is usable but remains a secondary strength:
+
+- **MIDI quantization limitations** — selective subdivision quantization (e.g., quantizing only 16th notes while leaving 8th notes untouched) is not straightforward in Pro Tools compared to [[Cubase]]'s [[Logical Editor]]
+- **MIDI undo double-tap bug** — jerikcenteno reported that MIDI edits sometimes require two Cmd+Z presses to undo, with the first press appearing to do nothing
+- **Orchestral latency offset** — BatMeckley discussed setting negative track offsets for virtual instruments with inherent latency (common with orchestral sample libraries) to maintain timing alignment
+- **Arrangement markers workaround** — andrew_yv shared how to use [[Memory Location|Memory Locations]] as an arrangement markers substitute, since Pro Tools lacks a dedicated arrangement track
+
+## HEAT (from #pro-tools)
+
+[[HEAT]] (Harmonically Enhanced Algorithm Technology) discussion reveals a declining feature:
+
+- Community usage has dropped since HEAT's introduction — many engineers tried it and moved on
+- Will Melones raised questions about HEAT's interaction with channel strips during live recording, experiencing CPU choke on M1 MacBook Pro
+- montrose recording reported "insufficient DSP" errors on completely blank sessions when HEAT was enabled
+- The community discussed HEAT freeze behavior — whether HEAT processing is captured during freeze or reapplied
+
+## Internal Clipping Behavior (from #pro-tools)
+
+Josh Bowman made an important discovery about Pro Tools' internal gain staging:
+
+- **Pro Tools' internal buses don't produce audible clipping during playback** — even when signals exceed 0 dBFS on internal buses, the floating-point processing chain handles the overs without audible distortion
+- **However, exporting that same signal at 24-bit destroys the audio** — the clipping that was inaudible internally becomes permanent when rendered to a fixed-point file format
+- This is critical knowledge for gain staging: internal headroom is essentially unlimited during mixing, but you must ensure levels are below 0 dBFS before bouncing to fixed-point formats
+
 ## Community Tips
 - Learn keyboard shortcuts extensively — speed in PT sessions is critical for assistant roles (Rob Domos)
-- Use SoundFlow scripting for automating mix prep tasks (Nacho Sotelo)
+- Use [[SoundFlow]] scripting for automating mix prep tasks (Nacho Sotelo, Tristan)
 - Set up templates with folder structure, routing, and color coding pre-configured (Nacho Sotelo)
 - Consider PT for tracking/mixing even if producing in another DAW (Ross Fortune)
+- For session corruption: shift-open to disable all plugins, then reactivate slowly to isolate the offending plugin (Ross Fortune)
+- Use [[Memory Location|Memory Locations]] for session navigation and arrangement structure
+- Be cautious with internal bus levels — they won't clip audibly but will destroy exports (Josh Bowman)
 
 > [!quote] Source
 > **Author:** Nacho Sotelo — **Date:** 2024-03-23 — **Channel:** #daw-talk
@@ -88,6 +162,12 @@ modified: 2026-02-17
 - [[CPU Optimization for Audio]] — PT ranked #1 in CPU tests
 - [[Bounce and Export Workflows]]
 - [[DAW Comparison]]
+- [[SoundFlow]] — scripting and automation platform
+- [[Beat Detective]] — drum quantization tool
+- [[AudioSuite]] — offline plugin processing
+- [[HEAT]] — built-in analog saturation modeling
+- [[Routing Folder]] — folder tracks with audio summing
+- [[Memory Location]] — marker and navigation system
 
 ## Source Discussions
 
@@ -95,3 +175,9 @@ modified: 2026-02-17
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Adam Thein, oaklandmatt, Ross Fortune, Rob Domos, Nacho Sotelo, austenballard, mixedbywong_my
 > **Message volume:** 1,315 categorized messages (306 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Bryan DiMaio, cian riordan, hyanrarvey, Josh Bowman, Ross Fortune, Tristan, Matthew The Cooke, samvalentine, bobby k, Will Melones
+> **Message volume:** 4,104 raw → ~3,062 substantive messages on SoundFlow scripting, Beat Detective, playlists/comping, folders/routing, version issues, MIDI, HEAT, session workflow, and internal clipping behavior
+> See also: [[pro-tools Channel Summary]]

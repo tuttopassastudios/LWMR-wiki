@@ -68,6 +68,20 @@ Additional Ableton-specific template strategies from the dedicated channel:
 - **Loadr (Max for Live)** — M4L device that batch-loads plugins and devices into a session, streamlining template building and session prep (#ableton-live)
 - **Stream Deck integration** — several community members use Elgato Stream Deck with Ableton for one-touch access to common actions, transport controls, and macro triggers (#ableton-live)
 
+### Pro Tools Session Organization (from #pro-tools)
+
+**Flat Folder Structure Philosophy:**
+Zack Hames advocates for "as few folders as possible" — a flat organizational approach that prioritizes visibility over nesting. This contrasts with the deep nesting common in large mixing templates but has advocates among tracking engineers who need quick access to all tracks.
+
+**Finder Sidebar Drag for Session Folders (Bryan DiMaio, 12 reactions):**
+Bryan DiMaio shared a macOS tip: dragging your session folder to the Finder sidebar provides one-click access to the session directory from any Save/Open dialog — including Pro Tools' bounce and import dialogs. One of the channel's most-reacted tips.
+
+**Split Mono Import from Cubase → PT (Josh Bowman, 13 reactions):**
+Josh Bowman documented a workaround for importing split mono files from Cubase sessions into Pro Tools, which by default doesn't handle Cubase's split mono naming convention. This was the channel's highest-reacted practical tip.
+
+**Multitrack Delivery as PT Session (Ross Fortune):**
+Ross Fortune's practice of delivering final mixes as both stems and a complete Pro Tools session — allowing the recipient to play back the full mix with all routing and processing intact, rather than just receiving flat audio files.
+
 ### Cubase Organization Tips (from #cubase)
 
 **Hazel Rules for File Management:**
@@ -178,3 +192,9 @@ If you're breaking a single sampled instrument out ac...*
 > **Key contributors:** spectrummasters, hyanrarvey, Charlie Deane
 > **Message volume:** ~55 messages on default patches, Project Alternatives, consolidate, package vs folder, and session cleanup
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Zack Hames, Bryan DiMaio, Josh Bowman, Ross Fortune
+> **Message volume:** ~80 messages on folder philosophy, Finder sidebar trick, split mono import, and multitrack delivery
+> See also: [[pro-tools Channel Summary]]

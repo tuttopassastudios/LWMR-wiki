@@ -72,6 +72,30 @@ MIDI Insert effects in Cubase are non-destructive by default. The "Print MIDI Mo
 > **Author:** LAPhill — **Date:** 2025 — **Channel:** #cubase
 > LAPhill's Logical Editor preset library covers velocity editing, note filtering, CC manipulation, and track organization — the most comprehensive community preset collection shared in the channel.
 
+### Pro Tools SoundFlow Deep Dive (from #pro-tools)
+
+The #pro-tools channel contains the community's most extensive [[SoundFlow]] discussion:
+
+**SoundFlow as Pro Tools' Killer Macro Platform:**
+Tristan is the channel's most vocal SoundFlow advocate, describing it as "80-90% JavaScript" with deep Pro Tools integration. The SoundFlow forum provides a community library of shared scripts, and Tristan actively helps other users write and debug scripts.
+
+**Bounce Factory vs Custom Scripts vs Forte:**
+- **[[Bounce Factory]]** — SoundFlow's built-in stem bounce automation; the easiest entry point for automated stem export
+- **Custom SoundFlow scripts** — Tristan builds purpose-built scripts that go beyond Bounce Factory for specific delivery requirements (e.g., custom naming, conditional routing, multi-format export)
+- **Forte** — newer third-party export tool; promising features but reported as buggier than Bounce Factory
+
+**SoundFlow vs Keyboard Maestro (Tristan):**
+SoundFlow is 80-90% JavaScript with deep DAW-specific hooks — it can read and manipulate Pro Tools session data, track names, and plugin states. Keyboard Maestro is broader (works across all macOS applications) but lacks SoundFlow's DAW-specific depth. For Pro Tools power users, SoundFlow is the clear recommendation; Keyboard Maestro is better suited for cross-application automation.
+
+**bobby k's Tape Saturation Macro:**
+A creative SoundFlow script that automates a multi-step signal chain: trim → external insert → compensating trim, applied across multiple tracks for parallel tape saturation. Demonstrates the creative potential of scripting beyond simple workflow acceleration.
+
+**Using AI/GPT for SoundFlow Scripts (Tristan):**
+Tristan advocates using AI tools to help write SoundFlow scripts, noting that since the platform is JavaScript-based, AI code assistants are effective at generating working scripts from natural language descriptions.
+
+**samvalentine's Hotkey Poll:**
+samvalentine conducted a community poll on keyboard shortcut usage patterns, generating discussion about which default Pro Tools shortcuts are most valuable and which are worth remapping.
+
 ### Logic Pro Key Commands (from #logic-pro)
 
 **SoundFlow with Logic:**
@@ -143,3 +167,9 @@ I'll load a whole folder of 808s into individual cha...*
 > **Key contributors:** Spencer Broschard, Tristan, Jonathan Arnold, Bryan DiMaio
 > **Message volume:** ~20 messages on SoundFlow with Logic, key commands, and controller assignment
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Tristan, bobby k, aidanthillmann, samvalentine
+> **Message volume:** ~50 messages on SoundFlow deep integration, Bounce Factory, custom scripts, Forte, Keyboard Maestro comparison, AI-assisted scripting, and community hotkey discussion
+> See also: [[pro-tools Channel Summary]]

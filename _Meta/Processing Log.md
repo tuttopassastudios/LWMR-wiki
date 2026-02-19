@@ -370,6 +370,64 @@ For each channel processed, record:
 
 ---
 
+### #pro-tools
+
+- **Channel:** #pro-tools (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** February 2024 – February 2026
+- **Messages:** 4,104 raw → ~3,062 substantive (40+ chars)
+- **Unique authors:** 20+ substantive contributors
+- **Pinned messages:** 1 (EliHeathMusic — playlist comping shortcuts)
+
+**Glossary entries created (6):**
+- [[Beat Detective]], [[Bounce Factory]], [[AudioSuite]], [[Memory Location]], [[HEAT]], [[Routing Folder]]
+
+**Pages enriched (13):**
+- [[Pro Tools]] — Major expansion: SoundFlow scripting, Beat Detective, playlists deep dive, folders/routing, version issues, MIDI, HEAT, internal clipping behavior
+- [[Bounce and Export Workflows]] — Added Bounce Factory process, SoundFlow stem scripts, Forte, committing workflow, surround channel order
+- [[Troubleshooting DAW Issues]] — Added Pro Tools-specific issues: aux delay bug, playlist crash, M4 Rosetta, session corruption recovery, HEAT DSP errors
+- [[Keyboard Shortcuts and Macros]] — Added SoundFlow deep integration, Bounce Factory vs SF vs Forte, Keyboard Maestro comparison
+- [[Editing Techniques Across DAWs]] — Added Beat Detective workflow, "record slower" trick, Tab to Transient, Cut Time limitation
+- [[Session Templates and Organization]] — Added flat folder philosophy, Finder sidebar drag, split mono import, multitrack delivery
+- [[Recording and Tracking Workflows]] — Added dual-mic vocal workflow, Low Latency Monitoring, Apollo aggregate pitfalls
+- [[DAW Pricing and Licensing]] — Added Avid perpetual vs subscription features, premium plugin tiers, iLok frustrations
+- [[CPU Optimization for Audio]] — Added channel strip choke, M4 Rosetta workaround, DSP/HEAT performance
+- [[SoundFlow]] — Upgraded from stub to expanded entry: Bounce Factory, custom scripting, Forte, Keyboard Maestro comparison
+- [[Elastic Audio]] — Added Beat Detective relationship, room mic glitch context
+- [[Clip Gain]] — Added mass clip gain to -infinity use case
+- [[Comping]] — Added EliHeathMusic's pinned shortcuts, dual-mic comping challenges
+
+**Channel summary:** [[pro-tools Channel Summary]]
+
+**MOC updated:** [[DAWs and Software]] — added Pro Tools-Specific Concepts section
+
+**Identified experts:**
+- **Bryan DiMaio** (344 messages) — SoundFlow with Logic+PT, workflow tips, community engagement
+- **cian riordan** (225 messages) — Moderator, editing techniques, session troubleshooting, Audiomovers
+- **hyanrarvey** (218 messages) — Broad PT workflow, session management, stereo/mono troubleshooting
+- **Felix Byrne** (190 messages) — Session workflow, practical PT tips
+- **Josh Bowman** (163 messages) — Troubleshooting, Atmos I/O, version updates, early adopter
+- **NoahNeedleman** (147 messages) — Moderator, editing tricks, general PT tips
+- **Ross Fortune** (146 messages) — Session corruption recovery, stem delivery, committing workflows
+- **Eric Martin** (137 messages) — Session workflow, PT tips
+- **Will Melones** (126 messages) — Multi-DAW comparison, channel strip/HEAT, live recording
+- **Iwan Morgan** (120 messages) — PT workflow, Bounce Factory
+- **Matthew The Cooke** (105 messages) — Folders/routing, MIDI quantization, playlists, Cut Time issues
+- **Tristan** (~60 messages) — SoundFlow power user, custom scripting, Bounce Factory alternative, Forte export
+- **bobby k** (~50 messages) — SoundFlow macros, tape saturation routing, creative routing
+
+**Notes:**
+- SoundFlow scripting is by far the dominant topic — the most extensive SoundFlow discussion of any processed channel
+- Channel substantive rate (74.6%) reflects focused, technical Pro Tools discussion
+- Bryan DiMaio is the most prolific contributor, bridging SoundFlow with both Logic and Pro Tools
+- Pro Tools internal clipping behavior discovery (Josh Bowman) is unique, critical knowledge
+- PT 2023.9 is community consensus stability sweet spot; later versions have significant regressions
+- HEAT usage is declining despite being a premium feature
+- Strong overlap with #daw-talk and #recording-talk contributors but with much deeper PT-specific detail
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -381,3 +439,4 @@ For each channel processed, record:
 | #ableton-live | Feb 2024 – Feb 2026 | 1,982 | ~1,495 | 3 | 0 |
 | #cubase | Sep 2024 – Jan 2026 | 518 | ~421 | 0 | 3 (glossary) |
 | #logic-pro | Feb 2024 – Feb 2026 | 621 | ~480 | 0 | 2 (glossary) |
+| #pro-tools | Feb 2024 – Feb 2026 | 4,104 | ~3,062 | 0 | 6 (glossary) |

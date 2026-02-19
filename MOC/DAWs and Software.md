@@ -88,6 +88,17 @@ modified: 2026-02-18
 
 ---
 
+## Pro Tools-Specific Concepts
+
+- [[Beat Detective]] — built-in drum/rhythm quantization using transient detection
+- [[AudioSuite]] — offline/destructive plugin processing system
+- [[Bounce Factory]] — SoundFlow-based stem bounce automation tool
+- [[HEAT]] — built-in analog saturation modeling on each channel
+- [[Memory Location]] — marker/locator system for session navigation
+- [[Routing Folder]] — folder tracks that can sum child track outputs
+
+---
+
 ## Plugins & Formats
 
 - [[Plugin Formats and Compatibility]] — AAX, VST, AU format details

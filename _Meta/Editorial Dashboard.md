@@ -83,4 +83,8 @@ SORT type ASC
 - [[gear-talk Channel Summary]] — #gear-talk source data
 - [[nerd-talk Channel Summary]] — #nerd-talk source data
 - [[recording-talk Channel Summary]] — #recording-talk source data
+- [[ableton-live Channel Summary]] — #ableton-live source data
+- [[cubase Channel Summary]] — #cubase source data
+- [[logic-pro Channel Summary]] — #logic-pro source data
 - [[monitoring-talk Channel Summary]] — #monitoring-talk source data
+- [[pro-tools Channel Summary]] — #pro-tools source data

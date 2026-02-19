@@ -80,6 +80,17 @@ Managing latency is critical when recording through plugin-heavy sessions in Abl
 - **Mixbus routing trick** — jonmatteson's approach: route all tracks to a submix bus, then route the submix to the master. This allows you to bypass the submix (and all its latency) when recording, while keeping your mix chain intact for playback (#ableton-live)
 - **Bypassed plugins still add delay compensation** — even bypassed plugins contribute to Ableton's delay compensation calculation. Remove (not just bypass) unused plugins from tracks to reduce overall latency (#ableton-live)
 
+### Pro Tools Performance (from #pro-tools)
+
+**Channel Strip CPU Choke (Will Melones):**
+Will Melones reported that Pro Tools' channel strip (EQ + dynamics) caused CPU choke during live recording on an M1 MacBook Pro — the built-in channel strip consumed more resources than expected when tracking with low buffer sizes.
+
+**M4 Rosetta Workaround:**
+Pro Tools on M4 Macs can trigger assertion errors when creating new tracks in native mode. Running Pro Tools under Rosetta 2 resolves these errors with minimal performance impact, though it sacrifices some Apple Silicon optimizations (Josh Bowman, #pro-tools).
+
+**DSP/HEAT Performance Issues:**
+montrose recording reported "insufficient DSP" errors when enabling [[HEAT]] on blank sessions, suggesting that HEAT's processing overhead may conflict with certain hardware configurations even without any audio tracks loaded.
+
 ### Logic Pro CPU Tips (from #logic-pro)
 
 **Rosetta vs Native Mode:**
@@ -179,3 +190,9 @@ I only wa...*
 > **Key contributors:** Adam Thein, spectrummasters, Finding Hope, Deleted User, petter
 > **Message volume:** ~20 messages on Rosetta vs native, low latency mode, buffer for bouncing, and M4 Mac Mini RAM
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Will Melones, Josh Bowman, montrose recording
+> **Message volume:** ~40 messages on channel strip CPU choke, M4 Rosetta workaround, and DSP/HEAT performance issues
+> See also: [[pro-tools Channel Summary]]

@@ -47,8 +47,35 @@ Sample accuracy issues are more common during playback than rendering, and less 
 
 ### Pro Tools Export
 - Bounce to disk with detailed format options
-- AudioSuite for offline processing before export
+- [[AudioSuite]] for offline processing before export
 - Track output assignment for stem bouncing
+
+### Pro Tools Stem Workflow (from #pro-tools)
+
+The #pro-tools channel contains the community's most detailed stem export workflows:
+
+**[[Bounce Factory]] 6-Step Process (kylem):**
+1. Set up track outputs for each stem group
+2. Configure Bounce Factory with naming conventions and destination folder
+3. Solo-safe any reference tracks that shouldn't be included
+4. Run Bounce Factory — it automates the solo→bounce→rename cycle
+5. Verify exported stems by reimporting and checking against the session
+6. Package stems with session notes for delivery
+
+**Custom SoundFlow Stem Scripts (Tristan):**
+Tristan built custom [[SoundFlow]] scripts that go beyond Bounce Factory, automating the entire solo→bounce→rename→organize workflow with session-specific logic. He advocates custom scripts for engineers with recurring delivery requirements.
+
+**Forte Export Tool:**
+A newer alternative to Bounce Factory for stem export. Reported as promising but buggier than Bounce Factory by the #pro-tools community (Tristan).
+
+**Committing Workflow for Mix Delivery (Ross Fortune):**
+Ross Fortune's approach to delivering final mixes: commit all processing (print through inserts), consolidate clips, and deliver the Pro Tools session alongside stems. This ensures the mixer's intent is preserved while giving the client a playable session.
+
+**Mono vs Stereo Export:**
+Community emphasis on exporting mono sources as mono files — particularly important for bass, kick, snare, and lead vocal stems. Sending stereo files of mono content wastes disk space and can cause panning issues in the receiving DAW.
+
+**Surround/Atmos Channel Order (Oli J):**
+For surround deliverables, Oli J noted that film and TV use different channel order conventions for surround stems. Engineers must verify the expected channel order (L R C LFE Ls Rs vs other arrangements) before bouncing surround content.
 
 ### Cubase Export
 - Considered the gold standard for export workflows
@@ -232,3 +259,9 @@ With one issue, but it's workable. Sending to a return from a nested track ("dru
 > **Key contributors:** Bryan DiMaio, austenballard, spectrummasters, hyanrarvey, Chad Rodgers, Ross Fortune
 > **Message volume:** ~100 messages on Logic export limitations, bounce glitches, automation bugs, and third-party bounce tools
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** kylem, Tristan, Ross Fortune, Oli J
+> **Message volume:** ~110 messages on Bounce Factory, SoundFlow stem scripts, Forte export, committing workflow, mono/stereo practices, and surround channel order
+> See also: [[pro-tools Channel Summary]]

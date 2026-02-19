@@ -91,6 +91,20 @@ cian riordan provided detailed guidance on backup strategies:
 - [[Pro Tools]] — industry standard for tracking
 - [[Session Templates and Organization]] — template setup
 
+### Pro Tools Recording Specifics (from #pro-tools)
+
+**Dual-Mic Vocal Workflow:**
+EliHeathMusic explored the challenges of recording vocals with two microphones simultaneously (e.g., close and room mic). The primary difficulty is maintaining phase coherence during comping — when you select a section from one take on the close mic, the corresponding section on the room mic must be selected too. This requires careful group editing or manual playlist management.
+
+**Low Latency Monitoring Mode Confusion:**
+thegreatcarsoni raised confusion about Pro Tools' Low Latency Monitoring behavior — Avid support reportedly claimed the feature "never worked that way," contradicting community understanding. This highlights a documentation gap for a critical recording feature.
+
+**Apollo Aggregate Device Pitfalls:**
+Engineers using Universal Audio Apollo interfaces in macOS aggregate device configurations reported instability after power outages or sleep/wake cycles. Felipe De Mari Scalone documented the recovery process: recreating the aggregate device in Audio MIDI Setup.
+
+**Multi-Interface I/O Management (gaspardm):**
+gaspardm discussed managing I/O across multiple audio interfaces in Pro Tools — a common scenario in studios with separate preamp/converter setups. Pro Tools' I/O Setup dialog handles multi-device routing but requires careful configuration to avoid channel mapping conflicts.
+
 ### Logic Pro Recording Tips (from #logic-pro)
 
 **Low Latency Mode Details:**
@@ -138,3 +152,9 @@ The #recording-talk community strongly advocates for committing to sounds during
 > **Key contributors:** Deleted User, thecoleyoung, mariano, hyanrarvey, spectrummasters
 > **Message volume:** ~20 messages on low latency mode, PDC settings, AAF import, and missing audio files
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** EliHeathMusic, thegreatcarsoni, Felipe De Mari Scalone, gaspardm
+> **Message volume:** ~80 messages on dual-mic vocal workflow, Low Latency Monitoring, Apollo aggregate device, and multi-interface I/O
+> See also: [[pro-tools Channel Summary]]

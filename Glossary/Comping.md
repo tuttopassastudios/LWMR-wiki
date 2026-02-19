@@ -29,6 +29,15 @@ Comping workflows are a key differentiator between DAWs. [[Pro Tools]]' playlist
 
 BatMeckley's philosophy on comping from #recording-talk: "Very rarely is a take ALL bad. 'I especially loved the first three words and the last one. Let's focus on that energy' is helpful." The community emphasizes that comping should serve the performance, not replace it -- chasing technical perfection at the expense of emotion is considered a common mistake. See [[Session Mindset and Engineering Philosophy]].
 
+## Pro Tools Comping Deep Dive (from #pro-tools)
+
+EliHeathMusic's pinned message in #pro-tools documents the essential keyboard shortcuts for playlist-based comping — the channel's only pinned message, reflecting its community value. Key comping insights from the channel:
+
+- **Playlist navigation shortcuts** — EliHeathMusic's comprehensive list of keyboard shortcuts for creating, duplicating, and switching between playlists during comping sessions
+- **Dual-mic comping challenges** — when recording with two microphones (e.g., close and room mic), comping decisions on one track must be precisely correlated to the other to maintain phase coherence. This requires group editing or careful manual playlist management
+- **Playlist color coding** — jerikcenteno uses Pro Tools' color palette to visually distinguish between playlists for faster navigation
+- **Cut Time playlist limitation** — Matthew The Cooke discovered that Cut Time doesn't affect alternate playlists, potentially destroying take alignment during arrangement editing
+
 ## See Also
 
 - [[Pro Tools]]

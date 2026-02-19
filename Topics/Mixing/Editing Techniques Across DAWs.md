@@ -36,6 +36,27 @@ Comping (assembling the best take from multiple recordings) varies widely. [[Pro
 ### Strip Silence and Transient Editing
 [[Pro Tools]]' Strip Silence and Tab to Transient remain gold-standard editing features. Beat Detective is widely used for drum editing and alignment. [[Logic Pro]]'s Strip Silence equivalent and [[Ableton Live]]'s transient markers offer similar functionality but with different interaction models. Members working on drum editing frequently recommend dedicated tools like [[Sound Radix]] Drum Leveler alongside DAW-native features.
 
+### Pro Tools Editing (from #pro-tools)
+
+The #pro-tools channel provides deep detail on PT-specific editing workflows:
+
+**[[Beat Detective]] Drum Editing:**
+- Zack Hames documented detailed drum editing workflows using Beat Detective, including multi-track transient detection and room mic alignment challenges
+- Room mic glitches during quantization remain a persistent issue — room mics produce artifacts when their transients don't align cleanly with close mic transients after conforming to the grid
+- sethmanchester's creative trick: record drums at a slower BPM to get a tighter performance, use Beat Detective to quantize, then speed the session back up to the target tempo
+
+**Tab to Transient and Separate Clip on Grid:**
+YianniAP's message combining Tab to Transient with Separate Clip on Grid was the channel's most-reacted message — demonstrating the continued value of Pro Tools' fundamental editing tools for experienced engineers.
+
+**'N' Key Update:**
+cian riordan highlighted that a Pro Tools update changed the 'N' key behavior, fixing a long-standing annoyance. The channel discussion suggests this was a highly anticipated quality-of-life improvement.
+
+**Dual-Mic Vocal Correlated Editing:**
+EliHeathMusic explored the challenge of editing vocals recorded with two microphones simultaneously — edits made on one mic's track must be precisely correlated to the other to maintain phase alignment, requiring group editing or careful manual alignment.
+
+**Cut Time Limitation:**
+Matthew The Cooke discovered that Pro Tools' Cut Time command doesn't move alternate playlists — only the active playlist is affected. This means using Cut Time to remove or rearrange sections can destroy the alignment of takes stored on other playlists, an important caveat for arrangement editing.
+
 ### Cubase Editing Features (from #cubase)
 - **Blob editing** — a new audio editing mode introduced in a Cubase 14.x maintenance update, providing an alternative visual approach to audio event manipulation
 - **Time stretching in audio editor** — Cubase's Sample Editor provides direct time-stretch handles on audio events, with algorithm selection (Standard, Musical, Solo) for different source material
@@ -122,3 +143,9 @@ Each DAW has particular editing strengths valued by the community:
 > **Key contributors:** spectrummasters, Iwan Morgan, austenballard, itaylerner, Jonathan Arnold
 > **Message volume:** ~60 messages on editing frustrations, drag modes, tool assignment, Smart Tempo, Flex Time, and region alignment
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Zack Hames, sethmanchester, YianniAP, cian riordan, EliHeathMusic, Matthew The Cooke
+> **Message volume:** ~150 messages on Beat Detective drum editing, Tab to Transient, dual-mic correlated editing, and Cut Time playlist limitation
+> See also: [[pro-tools Channel Summary]]

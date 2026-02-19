@@ -45,6 +45,15 @@ The [[Waves]] Update Plan controversy is one of the most discussed licensing top
 > **Author:** Slow Hand — **Date:** 2023-03-27 — **Channel:** #daw-talk
 > "Waves is in a unique position. They're one of the longest-enduring plugin developers today. They still offer and support plugins that people purchased 25 years ago."
 
+### Pro Tools Subscription vs Perpetual (from #pro-tools)
+
+The #pro-tools channel provides granular detail on Avid's pricing structure:
+
+- **Perpetual license includes Lo-fi and vintage plugins** — the base perpetual license comes with a set of creative and vintage-style stock plugins (Ross Fortune)
+- **Premium plugins are subscription-only** — Moog synthesizer, Reel Tape saturation, and other premium Avid plugins are only available with an active subscription, not included in the perpetual license (Ross Fortune)
+- **iLok frustrations** — multiple community members reported issues with iLok authentication, including failed license checks when working offline or at remote locations, and difficulties transferring licenses between machines
+- **Community sentiment** — overall frustration with Avid's pricing persists, but many engineers accept it as the cost of the industry standard. Some explore [[Reaper]] or [[Logic Pro]] as cost-effective alternatives for personal projects while maintaining Pro Tools for professional work
+
 ### Upgrade Strategies
 Community members share strategies for managing software costs:
 - Wait for Black Friday or holiday sales for major purchases (30-50% off common)
@@ -107,3 +116,9 @@ Community members share strategies for managing software costs:
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, Adam Thein, Will Melones, Jeremy Klein
 > **Message volume:** 482 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #pro-tools — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Ross Fortune, Will Melones
+> **Message volume:** ~60 messages on Avid subscription vs perpetual features, premium plugin tiers, and iLok frustrations
+> See also: [[pro-tools Channel Summary]]
