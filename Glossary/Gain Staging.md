@@ -1,12 +1,12 @@
 ---
 type: glossary
-confidence: low
+confidence: medium
 aliases:
   - Gain Structure
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Gain Staging
@@ -29,8 +29,19 @@ In analog systems, improper gain staging can introduce noise (too low) or distor
 
 In #recording-talk, gain staging is discussed primarily in the context of tracking through outboard gear. cian riordan notes that "24 bits is an insane amount of headroom" -- the community generally advises leaving 6-12 dB below digital 0 when tracking. The more nuanced discussion involves deliberately driving preamp and compressor inputs for tonal character (e.g., using [[UREI 1176]]s as line distortion by "blowing up the input and trimming the output").
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk (706 gain staging/levels messages), gain staging is discussed primarily in the context of maintaining optimal levels through the mix chain:
+
+- **Plugin input levels matter** — many analog-modeled plugins respond differently at different input levels, even in 32-bit float. Driving an SSL compressor emulation harder produces different harmonic behavior than feeding it a gentle signal
+- **Metering awareness:** Iwan Morgan discovered that simply changing his Pro Tools metering mode fundamentally improved his mixing decisions (36 reactions) — demonstrating that how you see levels affects how you mix
+- **Mix bus headroom:** The community recommends leaving -3 to -6 dBTP of headroom on the mix bus if sending to a mastering engineer
+- **Clip gain as gain staging:** Using clip gain to normalize levels before processing is effectively a gain staging step — ensuring compressors and EQs see consistent input levels
+
 ## See Also
 
 - [[Mixing in the DAW]]
 - [[DAW Comparison]]
 - [[Recording and Tracking Workflows]]
+- [[Compression Techniques]]
+- [[Mix Bus Processing]]

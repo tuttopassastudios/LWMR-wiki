@@ -1,6 +1,6 @@
 ---
 type: software
-confidence: medium
+confidence: high
 aliases:
   - FabFilter Pro-Q
   - FabFilter Pro-C
@@ -12,7 +12,7 @@ manufacturer: FabFilter
 category: Plugin
 price_range: $150–$250 per plugin
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # FabFilter
@@ -59,11 +59,22 @@ modified: 2026-02-17
 - Over-relying on visual feedback instead of trusting ears
 - Not exploring alternatives that may offer better sonic results despite less polished UIs
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk (2,441 plugin discussion messages, 2,247 EQ messages), FabFilter plugins are among the most frequently referenced:
+- **Pro-Q3 as spectral analyzer:** cian riordan's tip (27 reactions) -- setting Pro-Q3's sidechain to display the lead vocal bus spectrum while EQing other tracks, allowing visual frequency comparison
+- **Dynamic EQ bands:** Pro-Q3's dynamic EQ functionality is the community's preferred tool for surgical, frequency-specific compression -- preferred over multiband compressors for precision work
+- **Pro-C2 versatility:** Multiple compression styles in one plugin, with the community favoring it for transparent bus compression when hardware isn't available
+- **Pro-L2 for limiting:** Slow Hand's pinned link to a Pro-L2 analysis demonstrates the community's detailed investigation of limiter behavior
+
 ## See Also
 
 - [[UAD Plugins]]
 - [[Waves Plugins]]
 - [[iZotope]]
+- [[Compression Techniques]]
+- [[Vocal Mixing]]
+- [[Mix Bus Processing]]
 
 ## Source Discussions
 

@@ -577,6 +577,95 @@ For each channel processed, record:
 
 ---
 
+### #mixing-talk
+
+- **Channel:** #mixing-talk (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** August 2021 – February 2026
+- **Messages:** 48,084 raw → ~41,904 substantive (>20 chars, non-bot, non-GIF/emoji) → ~14,481 unique keyword-categorized
+- **Unique authors:** 445
+- **Pinned messages:** 23
+- **Peak activity:** 2023 (17,518 messages)
+
+**Category Message Counts:**
+| Category | Messages |
+|----------|----------|
+| Vocal Mixing | 2,741 |
+| Compression Techniques | 2,443 |
+| Plugin Discussion | 2,441 |
+| EQ Techniques | 2,247 |
+| Low End Management | 2,203 |
+| Saturation & Distortion | 1,930 |
+| Reverb & Delay | 1,796 |
+| Drum Mixing | 1,539 |
+| Monitoring & Listening | 1,020 |
+| Mix Workflow & Philosophy | 958 |
+| Mix Bus / Master Bus | 800 |
+| Automation | 726 |
+| Gain Staging & Levels | 706 |
+| Bass Mixing | 654 |
+| Stereo & Width | 447 |
+| Reference Mixing & Translation | 387 |
+| Genre-Specific Mixing | 262 |
+
+**Pages created (8 topic + 4 glossary):**
+- [[Compression Techniques]], [[Reverb and Delay Techniques]], [[Vocal Mixing]], [[Drum Mixing]]
+- [[Mix Bus Processing]], [[Low End Management]], [[Reference Mixing and Translation]], [[Automation and Mix Moves]]
+- [[Parallel Compression]], [[Mix Bus]], [[Pre-delay]], [[Transient]]
+
+**Pages enriched (20):**
+- [[Advanced Mixing Techniques]] — massive expansion, confidence upgraded to high
+- [[Mixing in the DAW]] — workflow philosophies, confidence upgraded to high
+- [[Mastering Workflows]] — mastering-adjacent mixing discussion
+- [[Vocal Editing Across DAWs]] — vocal mixing context
+- [[Console Philosophy]] — analog vs ITB from mixing perspective
+- [[Gain Staging]] — mixing perspectives, confidence upgraded to medium
+- [[LUFS]] — streaming loudness debate
+- [[Sidechain]] — sidechain compression techniques, confidence upgraded to medium
+- [[De-esser]] — vocal de-essing techniques, confidence upgraded to medium
+- [[Bus]] — bus architecture discussions, confidence upgraded to medium
+- [[VCA]] — VCA compressor topology context, confidence upgraded to medium
+- [[SSL Bus Compressor]] — mixing usage and settings, confidence upgraded to high
+- [[UREI 1176]] — parallel compression use cases, confidence upgraded to high
+- [[Teletronix LA-2A]] — vocal compression context, confidence upgraded to high
+- [[Empirical Labs Distressor]] — mixing applications, confidence upgraded to high
+- [[FabFilter]] — Pro-Q/Pro-C/Pro-L mixing context, confidence upgraded to high
+- [[Soundtoys]] — Decapitator/EchoBoy mixing usage, confidence upgraded to high
+- [[Lexicon]] — reverb technique context, confidence upgraded to medium
+- [[Waves Plugins]] — mixing-talk plugin discussions
+- [[Acustica Audio]] — mixing-talk plugin discussions
+
+**MOCs updated:**
+- [[Mixing]] — added Instrument Mixing section (Vocal, Drum, Low End), Compression & Dynamics expansion, Spatial Processing expansion, Bus Processing expansion, Fundamentals additions
+- [[Plugins]] — added Mixing Techniques section linking compression, reverb, bus processing
+- [[Signal Flow]] — added mix bus and bus architecture links
+
+**Channel summary:** [[mixing-talk Channel Summary]]
+
+**Identified experts:**
+- **Nomograph Mastering** (3,592 substantive, 86%) — EQ, saturation, compression theory, FFT analysis, mix philosophy
+- **hyanrarvey** (3,450 substantive, 69%) — Drum mixing, low end, plugin recs, broad mixing knowledge
+- **cian riordan** (2,132 substantive, 89%) — Compression, EQ, low end, vocal mixing, philosophy — most celebrated mixer (7,409 reactions)
+- **NoahNeedleman** (1,641 substantive, 89%) — Vocal mixing, EQ, reverb/delay, mentoring
+- **chrissorem** (1,244 substantive, 87%) — Vocal mixing, reverb/delay, Grammy-winning engineer
+- **spectrummasters** (1,086 substantive, 90%) — Low end, vocal mixing, EQ, long-form analysis
+- **Ross Fortune** (963 substantive, 90%) — Vocal mixing, drum mixing, detailed methodology (pinned)
+- **Jonathan Jetter** (894 substantive, 99%) — EQ, saturation, compression, group processing math (highest substantive rate)
+- **Adam Thein** (834 substantive, 90%) — Plugin discussion, vocal mixing, reference mixing methodology (pinned)
+- **Slow Hand** (813 substantive, 94%) — Plugin discussion, reverb/delay, saturation, Tupe discovery (pinned)
+
+**Notes:**
+- This is the **largest channel processed** (48,084 messages) — nearly 3x the size of #recording-talk
+- The channel has 23 pinned messages — far more than any other channel — reflecting the depth of instructional content
+- Jonathan Jetter's 99% substantive rate is the highest of any contributor in any channel
+- cian riordan's 7,409 total reactions is the highest reaction total of any contributor in any channel
+- Nomograph Mastering's compressor guide and Lin/Log FFT explanation are two of the most valuable educational posts across the entire server
+- The channel evolved from foundational mixing questions (2021-2022) to sophisticated technique sharing (2023-2025)
+- Activity by year: 2021: 849 | 2022: 9,154 | 2023: 17,518 | 2024: 11,451 | 2025: 8,355 | 2026: 757
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -592,3 +681,4 @@ For each channel processed, record:
 | #show-your-setup | Feb 2021 – Feb 2026 | 12,791 | ~7,761 | 1 (+3 glossary) | 3 (glossary) |
 | #atmos-talk | Jul 2021 – Jan 2026 | 4,539 | ~3,950 | 1 (+4 glossary) | 0 |
 | #biz-talk | Feb 2021 – Feb 2026 | ~3,400+ | ~2,800+ | 8 (+5 glossary) | 0 |
+| #mixing-talk | Aug 2021 – Feb 2026 | 48,084 | ~41,904 (~14,481 categorized) | 8 (+4 glossary) | 0 |

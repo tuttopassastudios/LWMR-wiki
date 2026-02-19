@@ -14,7 +14,7 @@ manufacturer: Acustica Audio
 category: Plugin
 price_range: $50–$300+ per plugin
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Acustica Audio
@@ -65,11 +65,20 @@ modified: 2026-02-17
 - Loading too many instances — these plugins are extremely CPU-hungry
 - Buying without checking current M1/ARM compatibility status
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, Acustica Audio plugins are discussed within the plugin (2,441 messages) and mix bus (800 messages) categories:
+- **Ruby on the mix bus:** Acustica Ruby remains a community staple for mix bus processing -- its convolution-based emulation provides a distinct character that modeled plugins don't replicate
+- **CPU trade-off in mixing:** The community acknowledges that Acustica's CPU demands limit how many instances can be used in a mix session, making them best suited for bus-level processing rather than per-channel use
+- **Mixing workflow integration:** Members using Logic or Ableton report better Acustica stability than Pro Tools users (Rosetta compatibility remains an issue)
+
 ## See Also
 
 - [[UAD Plugins]]
 - [[Softube]]
 - [[Plugin Alliance]]
+- [[Mix Bus Processing]]
+- [[Compression Techniques]]
 
 ## Source Discussions
 

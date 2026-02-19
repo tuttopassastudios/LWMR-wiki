@@ -1,6 +1,6 @@
 ---
 type: gear
-confidence: medium
+confidence: high
 aliases:
   - Distressor
   - EL8
@@ -13,7 +13,7 @@ manufacturer: Empirical Labs
 category: Compressor
 price_range: $1,500-$1,800
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Empirical Labs Distressor
@@ -75,6 +75,13 @@ Commonly referenced settings from experienced engineers:
 - **Not reading the manual** -- Eric Martin notes "you do have to read the manual" to get the most from it. The interaction between ratio, attack/release, and distortion modes is more complex than most compressors.
 - **Getting the scratchy top end** -- cian riordan identifies this as a limitation: "Distressors always have a scratchy top end that does a great job helping channel and bandpassing the punchy part of the spectrum, but sort of falls apart when you're going for super hi-fi."
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, the Distressor is discussed as the most versatile hardware compressor due to its ability to emulate multiple compressor topologies:
+- **Parallel drum compression:** 10:1 or 20:1 ratio with fast attack/release on a parallel drum send -- the Distressor's character adds excitement
+- **2:1 ratio community favorite:** For vocal tracking and mixing, the community consistently recommends the Distressor at 2:1 for gentle, transparent compression
+- **Saturation tool:** The Distressor's Dist2 and Dist3 modes add harmonic saturation, making it function as both a compressor and a tone-shaping tool
+
 ## See Also
 
 - [[UREI 1176]]
@@ -82,6 +89,9 @@ Commonly referenced settings from experienced engineers:
 - [[Burl BG2]]
 - [[Tube-Tech CL1B]]
 - [[Spectra 1964 C610]]
+- [[Compression Techniques]]
+- [[Parallel Compression]]
+- [[Drum Mixing]]
 
 ## Recording-Talk Perspectives
 

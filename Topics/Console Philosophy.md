@@ -157,6 +157,15 @@ The setup channel documents several real-world console installations:
 > Date range: February 2021 – February 2026
 > Key contributors: Zack Hames (SSL 6040 E, Trident 24), cian riordan, nachomaquieira (SSL 4000), popaganda, Eric Martin, Chad Rodgers (SSL desk)
 
+### Analog vs ITB from a Mixing Perspective (from #mixing-talk)
+
+The #mixing-talk channel adds a practitioner's perspective to the console debate. While #gear-talk discusses console hardware, #mixing-talk focuses on the practical impact on mix quality:
+
+- **Mix bus processing as console substitute:** Many ITB mixers use plugin chains (SSL bus comp, Pultec EQ, tape saturation) to emulate what a console's summing and bus section contributes to a mix
+- **Rollmottle's LCR mixing:** "I exclusively mix in LCR. Makes you really work for it" (33 reactions) — a console-era panning philosophy applied ITB
+- **Nomograph Mastering's perspective:** As a mastering engineer, he sees mixes from both console and ITB workflows — his pinned posts focus on processing fundamentals rather than the analog vs digital debate
+- **chrissorem's hybrid approach:** A Grammy-winning engineer who uses a real plate reverb alongside ITB processing, demonstrating that the "console or ITB" debate is a false binary for many professionals
+
 ## See Also
 - [[Outboard vs In-The-Box]]
 - [[AD-DA Conversion]]
@@ -164,9 +173,16 @@ The setup channel documents several real-world console installations:
 - [[DAW Summing and Sound Differences]]
 - [[Cables and Connectivity Guide]]
 - [[Studio Design and Setup]]
+- [[Mix Bus Processing]] — mix bus chain philosophy from #mixing-talk
+- [[Compression Techniques]] — bus compression approaches
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 506
 > Key contributors: hyanrarvey, cian riordan, Zack Hames, Nomograph Mastering, Bryan DiMaio, peterlabberton, chrissorem, SoundsLikeJoe, NoahNeedleman, David Fuller, Rollmottle, jonmatteson, jantrit
+
+> [!quote] Discord Source
+> Channel: #mixing-talk — Date Range: 2021-08 to 2026-02
+> Key contributors: Rollmottle, Nomograph Mastering, chrissorem, cian riordan
+> Message volume: mix bus (800) and plugin discussion (2,441) categories contain console-relevant mixing context

@@ -1,6 +1,6 @@
 ---
 type: gear
-confidence: medium
+confidence: high
 aliases:
   - LA-2A
   - LA2A
@@ -12,7 +12,7 @@ manufacturer: Teletronix / Universal Audio
 category: Compressor
 price_range: $3,500-$5,000 (reissue)
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Teletronix LA-2A
@@ -73,6 +73,14 @@ Commonly referenced settings from experienced engineers:
 - **Over-relying on plugin versions** -- While UAD's emulations are well-regarded, Ross Fortune notes that finding alternatives to UAD's LA-2A and 1176 plugins is worthwhile to avoid ecosystem lock-in.
 - **Not understanding the two-stage release** -- The LA-2A's release is not a single time constant. The initial fast release followed by a slow recovery is what gives it its musical character. Engineers who expect a simple, predictable release curve may misinterpret what the compressor is doing.
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, the LA-2A is discussed as the community's reference optical compressor for smooth, musical compression:
+- **Vocal compression gold standard:** The LA-2A's program-dependent behavior makes it naturally musical on vocals -- 3-5 dB of gain reduction in Limit mode is the community starting point
+- **Bass compression:** Opto compression's smooth, slow response suits bass well -- it controls dynamics without audible pumping
+- **Nomograph Mastering's guide** identifies opto (the LA-2A's design) as one of four main compressor types -- smooth, program-dependent, musical
+- **Serial compression:** Many members use the LA-2A as one stage in a serial compression chain (e.g., LA-2A for smoothing, then 1176 for control)
+
 ## See Also
 
 - [[Tube-Tech CL1B]]
@@ -81,6 +89,8 @@ Commonly referenced settings from experienced engineers:
 - [[Fairchild 670]]
 - [[Retro Sta-Level]]
 - [[Spectra 1964 C610]]
+- [[Compression Techniques]]
+- [[Vocal Mixing]]
 
 ## Source Discussions
 

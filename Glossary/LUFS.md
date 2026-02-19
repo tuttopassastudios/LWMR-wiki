@@ -29,7 +29,17 @@ For [[Dolby Atmos]] delivery, the loudness specification is stricter than stereo
 - [[Gain Staging]]
 - [[Dolby Atmos]]
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, LUFS is discussed within the broader loudness and gain staging conversation (706 categorized messages). Key community perspectives:
+
+- **Streaming normalization debate:** Ongoing tension between targeting -14 LUFS (Spotify's normalization point) and mastering louder for competitive playback on platforms that don't normalize. The community generally advises mixing with awareness of LUFS targets but not obsessing over hitting an exact number
+- **Reference track matching:** When A/B comparing against a reference, loudness-matching via LUFS is critical — the louder track almost always sounds "better" due to psychoacoustics, not actual quality differences
+- **Mixing metering:** Multiple members use LUFS meters during mixing (not just mastering) to ensure mixes are in a reasonable loudness range before sending to mastering
+
 ## See Also
 
 - [[Mastering Workflows]]
 - [[Dolby Atmos and Immersive Audio]]
+- [[Reference Mixing and Translation]]
+- [[Mix Bus Processing]]

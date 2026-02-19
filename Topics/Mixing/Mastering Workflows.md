@@ -9,7 +9,7 @@ tags:
   - domain/mixing
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Mastering Workflows
@@ -53,6 +53,15 @@ The community is divided on when to master your own work versus hiring a profess
 - Using the same monitoring chain for mixing and mastering without recalibrating or changing rooms
 - Leaving plugins on the mix bus that were intended as "mastering preview" — these should be removed or communicated to the mastering engineer
 
+### Mastering-Adjacent Discussion (from #mixing-talk)
+
+The #mixing-talk channel (706 gain staging/levels messages, 800 mix bus messages) includes significant mastering-adjacent discussion:
+
+- **Loudness targets for mixing:** The debate over how loud to mix before mastering — Nomograph Mastering advocates leaving headroom (-3 to -6 dBTP) for the mastering engineer, while some members mix into a limiter
+- **Print chains:** Mix bus processing that serves a mastering-like function — compression, EQ, saturation, and limiting on the mix bus effectively "pre-masters" the mix
+- **Metering awareness:** Iwan Morgan's discovery (36 reactions) that changing Pro Tools metering settings fundamentally improved his mixing approach highlights the importance of meter-informed decisions
+- **Streaming loudness normalization:** Ongoing community debate about targeting -14 LUFS (Spotify's normalization target) vs mixing louder for platforms that don't normalize
+
 ## See Also
 - [[Mixing in the DAW]] — mixing techniques and strategies across DAWs
 - [[LUFS]] — loudness measurement standard for streaming
@@ -65,3 +74,8 @@ The community is divided on when to master your own work versus hiring a profess
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Nomograph Mastering, Iwan Morgan, cian riordan, Rollmottle, Bryan DiMaio
 > **Message volume:** 344 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #mixing-talk — **Date Range:** 2021-02 to 2026-02
+> **Key contributors:** Nomograph Mastering, Iwan Morgan
+> **Message volume:** 706 gain staging/levels messages, 800 mix bus messages

@@ -1,6 +1,6 @@
 ---
 type: software
-confidence: medium
+confidence: high
 aliases:
   - Soundtoys Decapitator
   - Soundtoys Microshift
@@ -14,7 +14,7 @@ manufacturer: Soundtoys
 category: Plugin
 price_range: $30–$500 (bundle)
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Soundtoys
@@ -63,12 +63,22 @@ modified: 2026-02-17
 - Using Microshift as a substitute for proper stereo technique instead of a complement
 - Paying full price — significant sales happen regularly
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, Soundtoys plugins are discussed within the saturation (1,930 messages) and reverb/delay (1,796 messages) categories:
+- **Decapitator as mixing saturation:** Used on vocals, drums, bass, and the mix bus for adding warmth and harmonics. The 'A' mode (Ampex 351 model) remains the community favorite
+- **EchoBoy as primary delay:** The community's most recommended delay plugin for mixing -- slapback, timed delays, and creative effects
+- **Saturn 2 for bus saturation:** Multiband saturation on buses allows frequency-targeted harmonic enhancement -- discussed as an alternative to full-band tape emulation
+
 ## See Also
 
 - [[Ampex Tape Machines]] (Decapitator 'A' model reference)
 - [[FabFilter]]
 - [[UAD Plugins]]
 - [[Eventide]]
+- [[Compression Techniques]]
+- [[Reverb and Delay Techniques]]
+- [[Vocal Mixing]]
 
 ## Source Discussions
 

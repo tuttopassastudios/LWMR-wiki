@@ -1,14 +1,13 @@
 ---
 type: glossary
-confidence: low
+confidence: medium
 aliases:
   - Buss
   - Audio Bus
-  - Mix Bus
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Bus
@@ -28,7 +27,20 @@ Bus routing is a core mixing technique. Common uses include grouping all drum tr
 - [[Summing]]
 - [[Sidechain]]
 
+## Bus Architecture (from #mixing-talk)
+
+In #mixing-talk (800 mix bus messages), bus architecture is a central mixing topic:
+
+- **Front bus / background bus:** Matt Huber and bobby k champion splitting the mix into two sub-buses — a "front bus" (vocal, lead instruments) and "background bus" (pads, ambience, supporting elements) — each with differentiated processing before hitting the [[Mix Bus]]
+- **Drum bus:** Universally used — all drum elements routed to a drum bus for cohesive compression and EQ. [[SSL Bus Compressor]] at 4:1 with slow attack is the community standard
+- **Vocal bus:** All vocal elements (lead, doubles, BGVs, ad-libs) routed to a vocal bus for group compression and shared reverb sends
+- **Parallel bus:** A dedicated bus for parallel compression — heavily compressed signal blended back with the unprocessed audio
+- See also [[Mix Bus]] for the dedicated glossary entry on the stereo output bus
+
 ## See Also
 
 - [[Mixing in the DAW]]
 - [[DAW Comparison]]
+- [[Mix Bus]]
+- [[Mix Bus Processing]]
+- [[VCA]]

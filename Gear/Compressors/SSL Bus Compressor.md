@@ -1,6 +1,6 @@
 ---
 type: gear
-confidence: low
+confidence: high
 aliases:
   - SSL G Bus
   - SSL G384
@@ -12,7 +12,7 @@ manufacturer: SSL (Solid State Logic)
 category: Compressor
 price_range: $500–$3,000 (varies by version)
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # SSL Bus Compressor
@@ -51,11 +51,22 @@ modified: 2026-02-17
 - Not recognizing that every company's SSL bus comp plugin "is slightly different"
 - Obsessing over the dbx vs. THAT VCA debate
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk, the SSL Bus Compressor is referenced within the mix bus (800 messages) and compression (2,443 messages) discussions as the community's reference standard for bus compression:
+
+- **Starting settings:** 4:1 ratio, slow attack (30ms), auto release, targeting 1-3 dB of gain reduction — this is the "textbook" starting point most members describe
+- **Glue function:** The SSL's primary role is "glue" — making individual elements feel like a cohesive mix. The slow attack lets transients through while the compression binds the body of the mix together
+- **cian riordan's bus shakeup:** In 2024, cian riordan publicly planned to experiment away from his Unfairchild/UTA EQ mix bus combo, highlighting that even established mix engineers regularly re-evaluate their bus chains
+- **Nomograph Mastering's topology guide** identifies VCA (the SSL's design) as one of the four main compressor types, suited for precise, fast, clean bus compression
+
 ## See Also
 
 - [[dbx 160]]
 - [[WesAudio]]
 - [[Elysia]]
+- [[Compression Techniques]]
+- [[Mix Bus Processing]]
 
 ## Source Discussions
 

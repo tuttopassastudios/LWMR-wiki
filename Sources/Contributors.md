@@ -9,7 +9,7 @@ modified: 2026-02-18
 # Contributors
 
 > [!info]
-> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages across **#daw-talk**, **#gear-talk**, **#nerd-talk**, and **#monitoring-talk**. A "substantive" message is 40+ characters and not a noise reply (greetings, reactions, link-only posts).
+> Rankings of community members by their contributions to the knowledge in this wiki, based on substantive messages across **#daw-talk**, **#gear-talk**, **#nerd-talk**, **#monitoring-talk**, and **#mixing-talk**. A "substantive" message is 40+ characters (or 20+ for #mixing-talk) and not a noise reply (greetings, reactions, link-only posts).
 
 ---
 
@@ -211,6 +211,57 @@ The #🔈monitoring-talk channel (3,028 messages, April 2021 – March 2022) is 
 
 ---
 
+## #mixing-talk — Top Contributors
+
+The #mixing-talk channel (48,084 messages, August 2021 – February 2026) is the **largest processed channel** and the core mixing discussion hub. A "substantive" message is >20 characters, non-bot, non-GIF/emoji-only.
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 1 | **Nomograph Mastering** | 3,592 | 4,179 | 86% | 91 |
+| 2 | **hyanrarvey** | 3,450 | 4,975 | 69% | 60 |
+| 3 | **cian riordan** | 2,132 | 2,392 | 89% | 141 |
+| 4 | **NoahNeedleman** | 1,641 | 1,845 | 89% | 136 |
+| 5 | **chrissorem** | 1,244 | 1,438 | 87% | 165 |
+| 6 | **spectrummasters** | 1,086 | 1,200 | 90% | 208 |
+| 7 | **Edward Rivera** | 1,013 | 1,163 | 87% | 113 |
+| 8 | **Ross Fortune** | 963 | 1,069 | 90% | 208 |
+| 9 | **Jonathan Jetter** | 894 | 902 | 99% | 159 |
+| 10 | **Adam Thein** | 834 | 931 | 90% | 189 |
+
+---
+
+## #mixing-talk — High-Impact Contributors (11–25)
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 11 | ehutton21 | 832 | 929 | 90% | 140 |
+| 12 | Slow Hand | 813 | 869 | 94% | 207 |
+| 13 | BatMeckley | 746 | 842 | 89% | 213 |
+| 14 | peterlabberton | 743 | 814 | 91% | 190 |
+| 15 | Rollmottle | 728 | 925 | 79% | 112 |
+| 16 | David Fuller | 696 | 844 | 82% | 71 |
+| 17 | ALXCPH | 690 | 800 | 86% | 160 |
+| 18 | Will Melones | 684 | 724 | 94% | 146 |
+| 19 | Bryan DiMaio | 630 | 750 | 84% | 86 |
+| 20 | JustinLeu | 615 | 652 | 94% | 188 |
+| 21 | Eric Martin | 563 | 596 | 94% | 150 |
+| 22 | Zack Hames | 562 | 606 | 93% | 173 |
+| 23 | Iwan Morgan | 500 | 514 | 97% | 180 |
+| 24 | Jeremy Klein | 499 | 531 | 94% | 154 |
+| 25 | Josh | 449 | 503 | 89% | 91 |
+
+### #mixing-talk — Community Overview
+- **445** unique contributors posted in #mixing-talk
+- **48,084** total messages (August 2021 – February 2026)
+- **~41,904** substantive messages (87.2% — highest raw substantive rate of any channel)
+- The top 10 contributors account for roughly **38%** of all substantive content
+- **Jonathan Jetter** has the highest substantive rate (99%) — nearly every message is technical content
+- **cian riordan** has the highest total reactions (7,409) — the most celebrated contributor by community response
+- **BatMeckley** has the highest average message length (213 chars) among top 15 contributors
+- **spectrummasters** and **Ross Fortune** tie for second-highest average length (208 chars each)
+
+---
+
 ## See Also
 
 - [[Processing Log]] — extraction methodology and coverage stats
@@ -218,3 +269,4 @@ The #🔈monitoring-talk channel (3,028 messages, April 2021 – March 2022) is 
 - [[gear-talk Channel Summary]] — #gear-talk channel overview
 - [[nerd-talk Channel Summary]] — #nerd-talk channel overview
 - [[monitoring-talk Channel Summary]] — #monitoring-talk channel overview
+- [[mixing-talk Channel Summary]] — #mixing-talk channel overview

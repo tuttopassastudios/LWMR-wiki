@@ -9,7 +9,7 @@ tags:
   - domain/mixing
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Vocal Editing Across DAWs
@@ -89,6 +89,18 @@ Many professionals use a multi-DAW approach:
 - Over-tuning vocals — subtle pitch correction sounds more natural
 - Not using playlists/takes for comping (recording over previous takes)
 
+### Vocal Mixing Context (from #mixing-talk)
+
+The #mixing-talk channel (2,741 vocal mixing messages) expands vocal editing into the broader vocal mixing context:
+
+- **Clip gain as the first editing step:** Felix Byrne's pinned advice — use clip gain to even out dramatic volume jumps before any compression, which is faster and more transparent than stacking compressors
+- **Jeremy Klein's Melodyne trick (pinned):** Record-enable to transfer vocals into Melodyne without waiting for playback — a significant workflow speedup
+- **Serial compression approach:** Rather than one compressor working hard, the community favors 2-3 compressors each doing 2-3 dB of gain reduction for more natural results
+- **De-esser placement:** Consensus is to place de-essers after compression (compression exaggerates sibilance), with multiple light instances preferred over one aggressive pass
+- **oaklandmatt's processing concern:** "a lot of the vocals I'm hearing from younger record makers are sounding heavily processed in the same way" — sparking debate about preserving natural dynamics
+
+See [[Vocal Mixing]] for the complete vocal mixing deep-dive from #mixing-talk.
+
 ## See Also
 - [[Comping]] — take selection workflow
 - [[Pro Tools]] — best for vocal editing workflow
@@ -96,6 +108,9 @@ Many professionals use a multi-DAW approach:
 - [[Cubase]] — VariAudio built-in pitch correction
 - [[Mixing in the DAW]]
 - [[DAW Comparison]]
+- [[Vocal Mixing]] — full vocal mixing techniques from #mixing-talk
+- [[Compression Techniques]] — compressor topology for vocals
+- [[De-esser]] — sibilance control techniques
 
 ## Source Discussions
 
@@ -115,3 +130,9 @@ Many professionals use a multi-DAW approach:
 > **Key contributors:** hyanrarvey, Sam Segarra, Chad Rodgers
 > **Message volume:** ~15 messages on take folder comping, Audio to MIDI, and Melodyne in Logic 11.2
 > See also: [[logic-pro Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
+> **Key contributors:** NoahNeedleman, ehutton21, Jeremy Klein, chrissorem, cian riordan, oaklandmatt, Felix Byrne
+> **Message volume:** 2,741 vocal mixing messages
+> See also: [[mixing-talk Channel Summary]]

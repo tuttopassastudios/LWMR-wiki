@@ -1,6 +1,6 @@
 ---
 type: topic
-confidence: medium
+confidence: high
 aliases:
   - Mix Techniques
   - Mixing Tips
@@ -9,7 +9,7 @@ tags:
   - domain/mixing
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Advanced Mixing Techniques
@@ -57,10 +57,38 @@ Mid-side processing and stereo width management are discussed for creating depth
 - Stacking too many saturation plugins and creating harshness in the upper mids
 - Relying on smart EQ tools as a substitute for intentional mix decisions
 
+### Compressor Topology (from #mixing-talk)
+
+Nomograph Mastering's pinned compressor guide (62 reactions) is the channel's most celebrated educational post, recommending engineers learn the four main compressor types — VCA, FET, opto, and variable-mu — by picking one model per category and mastering it before expanding. See [[Compression Techniques]] for the full deep-dive.
+
+> [!quote] Source
+> **Author:** Nomograph Mastering — **Date:** 2024-12-23 — **Channel:** #mixing-talk
+> "Ok, so that's a quick summary of the four main types of comp. My suggestion is to pick one model from each category. One and only one. Forget the rest for a while. Start trying it in various places to develop a feel for what each type does."
+
+### Reverb Width and Spatial Imaging (from #mixing-talk)
+
+Slow Hand's reverb width insights are among the most cited spatial mixing tips:
+
+> [!quote] Source
+> **Author:** Slow Hand — **Date:** 2023-03-04 — **Channel:** #mixing-talk
+> "It's one of those paradoxical mix realizations: That the key to a wide mix is not by widening every instrument, but by using mostly mono elements and panning them dramatically in the stereo field so that they occupy distinct positions in the mix."
+
+### Tupe De-emphasis Saturation Discovery (from #mixing-talk)
+
+Slow Hand's discovery of the de-emphasis feature in the Tupe saturation plugin (34 reactions) represents original community research:
+
+> [!quote] Source
+> **Author:** Slow Hand — **Date:** 2022-08-09 — **Channel:** #mixing-talk
+> "Man. I am loving the De-emphasis section on Tupe. It lets you squeeze so much saturation out of a signal without driving things too hard."
+
 ## See Also
 - [[Mixing in the DAW]] — foundational mixing concepts and workflows
 - [[DAW Routing and Signal Flow]] — setting up bus architectures
 - [[Gain Staging]] — proper levels before and after processing
+- [[Compression Techniques]] — full compression topology deep-dive
+- [[Reverb and Delay Techniques]] — spatial processing techniques
+- [[Vocal Mixing]] — vocal-specific mixing techniques
+- [[Mix Bus Processing]] — bus chain processing
 - [[De-esser]] — specialized dynamic processing for sibilance
 
 ## Source Discussions
@@ -69,3 +97,8 @@ Mid-side processing and stereo width management are discussed for creating depth
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Will Melones, Iwan Morgan, ehutton21, Slow Hand, cian riordan
 > **Message volume:** 220 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
+> **Key contributors:** Nomograph Mastering, cian riordan, Slow Hand, chrissorem, BatMeckley, NoahNeedleman, Ross Fortune
+> **Message volume:** 14,481 unique messages categorized across 17 topics (largest channel processed)

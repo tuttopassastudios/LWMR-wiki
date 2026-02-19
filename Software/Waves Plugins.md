@@ -11,7 +11,7 @@ manufacturer: Waves Audio
 category: Plugin
 price_range: $30–$300 per plugin
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Waves Plugins
@@ -60,12 +60,21 @@ modified: 2026-02-17
 - Buying plugins at full price when deep sales happen regularly
 - Not keeping licenses on a physical USB drive for portability
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk (2,441 plugin discussion messages), Waves plugins are discussed with the community's characteristic mix of appreciation and frustration:
+- **Specific plugins still valued:** Despite the brand's reputation issues, specific Waves tools (J37 tape, MV2, CLA compressors, H-Delay) remain in many members' mixing workflows
+- **H-Delay for mixing:** Used for slapback and timed delays in vocal mixing chains
+- **"Don't buy at full price" consensus:** The community universally advises waiting for sales, which happen frequently and deeply discount individual plugins
+
 ## See Also
 
 - [[UAD Plugins]]
 - [[FabFilter]]
 - [[Plugin Alliance]]
 - [[Slate Digital]]
+- [[Reverb and Delay Techniques]]
+- [[Vocal Mixing]]
 
 ## Source Discussions
 

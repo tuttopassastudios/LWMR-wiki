@@ -1,6 +1,6 @@
 ---
 type: glossary
-confidence: low
+confidence: medium
 aliases:
   - Sidechain Compression
   - Sidechaining
@@ -8,7 +8,7 @@ aliases:
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Sidechain
@@ -27,7 +27,18 @@ Sidechain compression is ubiquitous in electronic music production and increasin
 - [[Aux Track]]
 - [[Gain Staging]]
 
+## Mixing Techniques (from #mixing-talk)
+
+In #mixing-talk, sidechain techniques are extensively discussed within the compression (2,443 messages) and low end management (2,203 messages) categories:
+
+- **Kick/bass sidechain:** The most common application — kick drum triggers gentle compression on the bass to create momentary space in the low end
+- **Compressor sidechain HPF:** Using the sidechain high-pass filter on bus compressors prevents bass-heavy content from triggering unwanted gain reduction — critical for mix bus and drum bus compression
+- **Multiband sidechain (Soothe2):** bobby k's front/background bus architecture uses Soothe2's multiband sidechain to duck the background bus in frequency ranges occupied by the front bus
+- **Vocal sidechain:** Some members sidechain instrument buses from the vocal to create automatic space for the lead vocal
+
 ## See Also
 
 - [[Mixing in the DAW]]
 - [[DAW Comparison]]
+- [[Compression Techniques]]
+- [[Low End Management]]

@@ -1,6 +1,6 @@
 ---
 type: software
-confidence: low
+confidence: medium
 aliases:
   - Lexicon PCM
   - Lexicon 224
@@ -16,7 +16,7 @@ manufacturer: Lexicon (Harman)
 category: Plugin
 price_range: $200–$3,000+ (hardware); varies (plugins)
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Lexicon
@@ -67,11 +67,20 @@ modified: 2026-02-17
 - Not considering that any Lexicon PCM unit will sound good — "they all pretty much rip"
 - Overlooking the LXP-1 as an affordable entry into hardware Lexicon reverb
 
+## Mixing Context (from #mixing-talk)
+
+In #mixing-talk (1,796 reverb/delay messages), Lexicon reverbs are referenced as the industry standard for algorithmic reverb:
+- **Valhalla as the modern Lexicon alternative:** The community frequently discusses Valhalla VintageVerb and Room as affordable alternatives that capture the spirit of Lexicon algorithms
+- **BatMeckley's Valhalla insight:** "what verb you been using on the vocals these days" -- and the answer from a professional mixer was simply "Valhalla" with default-ish settings
+- **chrissorem's real plate vs Lexicon:** chrissorem uses a real plate reverb as his signature, with Michael Brauer asking about his "plugin settings" -- illustrating that hardware reverb still has a place alongside Lexicon units and plugins
+
 ## See Also
 
 - [[Eventide]]
 - [[UAD Plugins]]
 - [[Korg Synthesizers]] (for alternative rack effects)
+- [[Reverb and Delay Techniques]]
+- [[Vocal Mixing]]
 
 ## Source Discussions
 

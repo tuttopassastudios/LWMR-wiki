@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/plugins
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Plugins
@@ -49,8 +49,11 @@ modified: 2026-02-17
 
 ---
 
-## Topic Guides (Plugin-Related)
+## Mixing Techniques (Plugin-Related)
 
+- [[Compression Techniques]] — compressor topology (VCA, FET, opto, variable-mu) and plugin applications
+- [[Reverb and Delay Techniques]] — reverb/delay plugin usage and techniques
+- [[Mix Bus Processing]] — bus chain plugins and processing order
 - [[Outboard vs In-The-Box]] — hardware vs software processing debate
 
 ---

@@ -1,6 +1,6 @@
 ---
 type: topic
-confidence: medium
+confidence: high
 aliases:
   - ITB Mixing
   - In The Box Mixing
@@ -9,7 +9,7 @@ tags:
   - domain/mixing
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Mixing in the DAW
@@ -61,6 +61,24 @@ Parallel processing is a key technique discussed extensively:
 - Not using templates — rebuilding routing from scratch wastes time
 - Choosing a DAW for mixing based on summing myths rather than workflow fit
 
+### Mix Workflow & Philosophy (from #mixing-talk)
+
+The #mixing-talk channel (958 workflow/philosophy messages) adds significant depth to ITB mixing approaches:
+
+**Starting a mix:** The community's approaches vary but converge on key principles:
+- Get the vocal and drums right first — everything else serves those elements
+- Mix into the bus chain from the start, not after
+- Static balance before any processing — if it doesn't sound good with faders alone, processing won't fix it
+- cian riordan: "First of all, I'd say don't panic. Everyone in our line of work experiences this at one point or another."
+
+**Top-down vs bottom-up:** The community is split between starting from the mix bus (top-down) and starting from individual tracks (bottom-up), but the consensus leans toward establishing the bus chain first and mixing into it.
+
+**Plugin restraint:** philbarnes (23 reactions): "if you get too into the weeds with a shit-ton of plugins, don't be afraid to start it over with just a single EQ and compressor."
+
+> [!quote] Source
+> **Author:** Felix Byrne — **Date:** 2026-02-10 — **Channel:** #mixing-talk
+> "'mixing' is not a process of precision and repetition and technical perfection — it's an act of servitude and love"
+
 ## See Also
 - [[DAW Summing and Sound Differences]] — all DAWs sum the same
 - [[DAW Routing and Signal Flow]] — routing techniques across DAWs
@@ -68,6 +86,9 @@ Parallel processing is a key technique discussed extensively:
 - [[Gain Staging]] — level management
 - [[Bus]] — grouping and bus processing
 - [[Sidechain]] — inter-track processing
+- [[Mix Bus Processing]] — mix bus chain philosophy
+- [[Compression Techniques]] — compressor topology and applications
+- [[Automation and Mix Moves]] — dynamic mix automation
 
 ## Source Discussions
 
@@ -75,3 +96,8 @@ Parallel processing is a key technique discussed extensively:
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** bobby k, Slow Hand, Adam Thein, oaklandmatt, austenballard
 > **Message volume:** 1,996 categorized messages (581 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
+> **Key contributors:** cian riordan, Nomograph Mastering, chrissorem, Felix Byrne, oaklandmatt, nachomaquieira
+> **Message volume:** 958 mix workflow/philosophy messages

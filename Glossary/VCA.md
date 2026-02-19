@@ -1,13 +1,13 @@
 ---
 type: glossary
-confidence: low
+confidence: medium
 aliases:
   - VCA Fader
   - Voltage Controlled Amplifier
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # VCA
@@ -26,6 +26,14 @@ VCA faders originated on large-format analog consoles as a way to group-control 
 - [[Aux Track]]
 - [[Gain Staging]]
 
+## VCA Compressors (from #mixing-talk)
+
+In #mixing-talk, "VCA" also refers to a **compressor topology** — Voltage Controlled Amplifier compressors. The [[SSL Bus Compressor]] is the defining VCA compressor, known for fast, precise, and clean dynamic control. Nomograph Mastering's compressor guide identifies VCA as one of the four main compressor types (alongside FET, opto, and variable-mu), each with distinct sonic characteristics. VCA compressors excel at "glue" — making bus groups feel cohesive — and are the community's go-to for mix bus and drum bus compression.
+
+See [[Compression Techniques]] for the full topology breakdown.
+
 ## See Also
 
 - [[Mixing in the DAW]]
+- [[Compression Techniques]]
+- [[SSL Bus Compressor]]

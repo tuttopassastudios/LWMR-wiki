@@ -52,6 +52,9 @@ modified: 2026-02-18
 ## Bus & Aux Routing
 
 - [[DAW Routing and Signal Flow]] — bus creation and routing per DAW
+- [[Mix Bus Processing]] — mix bus chain order, compression, EQ, saturation, limiting
+- [[Mix Bus]] — stereo bus / 2-bus / master fader glossary
+- [[Bus]] — audio bus routing and architecture
 
 ---
 
