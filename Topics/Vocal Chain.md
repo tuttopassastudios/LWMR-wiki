@@ -192,6 +192,30 @@ In VariAudio, deleting an analyzed segment disables pitch correction for that sp
 > **Author:** Lee Rouse — **Date:** 2024–2025 — **Channel:** #cubase
 > Lee Rouse's multi-tool pitch workflow and delete-block technique represent the community's most refined approach to vocal pitch correction in Cubase.
 
+## Vocal Production Workflow (from #production-talk)
+
+#production-talk adds 812 messages of vocal production discussion with a **production-oriented perspective** — focusing on pitch correction philosophy, vocal tuning workflow, and the producer's role in vocal sessions.
+
+### BatMeckley's Vocal Tuning Workflow
+
+BatMeckley is the channel's acknowledged vocal production authority, having worked with Dr. Luke, Rob Cavallo, and tuned vocals for Paris Hilton's album:
+
+> [!quote] Source
+> **Author:** BatMeckley — **Date:** 2023-02-19 — **Channel:** #production-talk — 17 reactions (pinned)
+> "I would say it's not one or the other. Like, I might do some big timing moves first, just to have the vocal 80% of the way there. I'm talking actually nudging things around, not stretching. Then I'll consolidate and drop into Melodyne. In Melodyne I'll turn the whole thing and also really pay attention to the timing. At this stage it's a lot more stretching and/or compressing notes, or more importantly PARTS of words. Like I'll separate the consonant, and time compress that and bring up the volume so ccchhhhhhhhair becomes CHaaaaiiirrrr."
+
+### Auto-Tune Classic Mode History
+
+> [!quote] Source
+> **Author:** BatMeckley — **Date:** 2022-09-07 — **Channel:** #production-talk — 11 reactions
+> "I mostly fuck with retune speed; adjusting it slows down how hard the tune snaps to the note. Classic mode is because when they went from 5 to 7 we all threw a fit because they fucked heavily with the 'sound' of the plug in. I clearly remember sitting on the phone with Antares brass for HOURS while they tried to convince us the new version was 'better' and me having to explain to them that it wasn't."
+
+### The Vocal Producer Role
+
+> [!quote] Source
+> **Author:** NoahNeedleman — **Date:** 2023-01-02 — **Channel:** #production-talk — 13 reactions (pinned)
+> "The key things that keep me getting called are: Communication. Professionalism. Intuition — making the artist feel safe enough to be dangerous, knowing how hard you can push them to get a take. Sonics — I want my artists to feel expensive when they're recording. Speed — a comp up by the time they're done tracking."
+
 ## See Also
 - [[Budget Gear Guide]]
 - [[Acoustic Treatment Guide]]
@@ -200,6 +224,7 @@ In VariAudio, deleting an analyzed segment disables pitch correction for that sp
 - [[Session Mindset and Engineering Philosophy]]
 - [[Headphone Mixes and Cue Systems]]
 - [[Impedance and Audio Electronics]]
+- [[Songwriting and Arrangement]] — arrangement decisions affecting vocal production
 
 ## Source Discussions
 
@@ -230,3 +255,9 @@ In VariAudio, deleting an analyzed segment disables pitch correction for that sp
 > **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
 > **Beginner vocal chain context:** oaklandmatt (6 reactions): "1. Sing a lot every day. If you don't, no other advice matters. 2. Hire a decent vocal coach." chrissorem (6 reactions): "Most people hear tuning/intonation better with a bass element in the mix." BatMeckley (4 reactions): "Bounce all your vocals from beat 1. Make a stereo instrumental bounce. Tune and de-ess to your hearts content." 47 vocal production messages categorized from beginners.
 > See also: [[Beginner FAQ#Vocal Production]]
+
+> [!quote] Discord Source
+> **Channel:** #production-talk — **Date Range:** 2022-01 to 2026-02
+> **Key contributors:** BatMeckley (47 msgs — vocal tuning authority), austenballard (56 msgs), NoahNeedleman (42 msgs), oaklandmatt (28 msgs — Auto-Tune advocacy)
+> **Message volume:** 812 vocal production categorized messages
+> See also: [[production-talk Channel Summary]]

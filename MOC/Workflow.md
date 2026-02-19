@@ -103,6 +103,7 @@ modified: 2026-02-18
 
 ## Related Maps of Content
 
+- [[Production]] — songwriting, arrangement, beat making, sound design
 - [[Recording]] — tracking workflows and session setup
 - [[DAWs and Software]] — DAW-specific workflow features
 - [[Hardware]] — hardware setup and system optimization

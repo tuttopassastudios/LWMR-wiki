@@ -1,0 +1,2981 @@
+[
+  {
+    "id": "1281690105634881630",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-09-06",
+    "content": "Obvious for pretty much all of you I believe, but I spent so many hours over the last few years trying to make Guitar VST:s work for realism (for time/travel purposes), and it\u2019s always a pain. Tracked real yesterday for first time in a while and even when it sounds bad, it sounds good. I want my guitar VST hours back \ud83e\udd72",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1174759694271787118",
+    "author": "LAPhill",
+    "date": "2023-11-16",
+    "content": "By far, the most important element in realistic orchestral sound is in the programming. You need a controller where you can automate cc1 and cc11 (modulation and expression). Instruments, especially strings, are constantly changing their volumes. Particularly on entrances and phrase-ends. If you don't have a controller for this, you can draw it all in, but that gets really tedious.\n\nIf you get that figured out, I can almost guarantee that just about any library out there will get you good results. So then it's just a matter of what sound do you gravitate towards, how elaborate of a feature set do you need, etc. Legatos are overrated and I'd take no legato over a poorly programmed one any day.\n\nIf you want a full orchestra, not just strings, I'd check out some of the all-in-one offerings from Spitfire (Albion, BBC Orchestra, or Abbey Road), East West, Orchestral Tools (Inspire), or VSL (Prime). They all will have several different articulations, a decent amount of dynamic layers, and a full set of orchestral instruments. Have a listen to them and see what sounds grab you. Spitfire and Orchestral Tools have a more prominent room sound baked in, but they all do to some extent. So be aware that, whichever library you choose, there's a certain amount of \"reverb\" (which is actually just the hall they're recorded in) that you will never be able to turn off.",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1431661310696886442",
+    "author": "lystell",
+    "date": "2025-10-25",
+    "content": "I wouldn\u2019t let a VST instrument  take all the fun of stomping and clapping \ud83d\ude42",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1175269242405388358",
+    "author": "cian riordan",
+    "date": "2023-11-17",
+    "content": "I always find in record production, where strings are usually less featured than film/tv compositions, even blending in a single real string recording with a VST bed makes a huge difference in making things sound convincing.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1276781338091061280",
+    "author": "youngteam",
+    "date": "2024-08-23",
+    "content": "just want to share some sauce that khs transient shaper has changed my life lately. i've been on the hunt for a good ZERO LATENCY transient designer and this thing just fucks. attack, decay, a mid envelope stage called pump, time knob and built in clipping. trying to keep my production template very, very lean in terms of cpu and latency causing plugins while i'm making beats and tracking synths with a midi guitar heh",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1020827564161380432",
+    "author": "Slow Hand",
+    "date": "2022-09-17",
+    "content": "Bass players know this intuitively. A big part of what we do is cutting off a note with the right articulation.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "998799639853674516",
+    "author": "1ggy",
+    "date": "2022-07-18",
+    "content": "Bro. 90% of the time I record bass it goes like this. 1. Record bass 2. Spend 3 hours trying to find the tone 3. Give up, convert  it to midi and slap Rickenbacker on it.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059561821863944223",
+    "author": "stefanmacc",
+    "date": "2023-01-02",
+    "content": "I usually loop 4 bars of a real hi hat and real cymbals and that usually takes the computer out of the situation. Even if the kick and snare are the same velocity and sample over and over . The hat being real usually does the trick.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1063142146384855040",
+    "author": "sukhuno",
+    "date": "2023-01-12",
+    "content": "So basically what i did was i set up an ableton multisampler with all of my favourite linn drum sounds + some others that i liked (did this for snares and kicks) - so about 127 each. then i made 4 versions of that in an instrument rack and split them using multiband to only certain freq ranges (low, low mid, mid, high) - i think i used shaperbox for this. then i used an ableton random midi effect so it would trigger random samples in each of the 4 instrument racks... so you create a new sound from the seed sounds you choose. you get sounds that are in the linn drum ballpark but just a little different - which is the cool thing. https://we.tl/t-MxppdXPQlf here are some of the ones i liked (kicks, pitched snare, snares) that i made using this method",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101863849709277224",
+    "author": "esquinalee",
+    "date": "2023-04-29",
+    "content": "I think there are some things they really got right. I recently got a Prophet 6 and on some recent projects that use Arturia Prophet and Jupiter sounds I made an effort to replace them with \u201csimilar but better\u201d sounds from the P6. \n\nThere\u2019s no denying the size, life,  and 3dimensionality of the analog, but there\u2019s a few parts that were done on the soft synths that just sounded right on the money for what was needed. Pretty much if there\u2019s any parameter adjustments made as part of the performance I\u2019ll say the P6 wins every time, but if it\u2019s just a set it and forget it kind of sound, the softies from Arturia do them well! \n\nI\u2019m so tired of *trying* to automate parameters and map parameters to midi knobs",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171637146810073138",
+    "author": "NoahNeedleman",
+    "date": "2023-11-07",
+    "content": "INSTRUMENTS:\nBattery\nKeyscape \nKontakt vintage machines & vintage organs, scarbee bass\nArturia Mellotron + Minilab \nMIXING:\nProQ3\nKramer PIE\nDecapitator\nValhalla Delay\nOzone 9 or 10 covers a lot of basses\n\nThe majority of my shit is real instruments but I think I could make a record with just those. And a midi keyboard",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1207419615555092510",
+    "author": "LAPhill",
+    "date": "2024-02-14",
+    "content": "+1 for Cremona Quartet. If it's just for demoing out parts, prioritize ease of playing/programming over maximum realism. A solo string library is the equivelant of a human voice VST - unless you spend a ton of time and really write to the library's strengths, it's never going to fake anyone. Get the vibe in there and spend a couple hundred bucks on a real player.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1376436809319317626",
+    "author": "Slow Hand",
+    "date": "2025-05-25",
+    "content": "This is a very good tutorial on programming MIDI for realism: https://youtu.be/Rw8p15eNg8I?si=R_KI1ZKCuULSXM8S",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1056277735812645014",
+    "author": "Slow Hand",
+    "date": "2022-12-24",
+    "content": "One tip I'd give is to make your patch while you have a MIDI sequence playing. Not just some static, even arpeggio that you drew in, but a part that has different articulations, note lengths, velocities, and covers a range of notes.\n\nIt's easy when making a patch to just keep your finger on one key and go *doot doot doot* (tweak) *doot doot doot* (tweak again). What you can end up doing this way is optimizing the patch and parameters for a single note or handful of notes. And it gets old to listen to. By keeping the entire musical part playing you're going to move through building a well-balanced patch much quicker.\n\nIf you have a part in mind, record the MIDI with your starter/init patch, spend some time tweaking the patch while the sequence plays, and then once you get into the ballpark replay the MIDI part using your new patch. The new synth settings will influence your articulation and feel when you record the second time around. Then refine your patch as needed. Rinse and repeat until you're satisfied.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1123022398854266980",
+    "author": "Will Melones",
+    "date": "2023-06-26",
+    "content": "That\u2019s a LOT of work for one person.\n\nI just worked on a show with a post production mixer who swears by the Walker 2 plugin. You just play in the footsteps on a midi controller.\n\nhttps://www.uvi.net/walker-2",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1172282473388982312",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2023-11-09",
+    "content": "M3 Max is blowing my mind. Was on a Razer Laptop before, couldn\u2019t work in 32 sample latency at all. Now I\u2019m running 10s of VSTi:s, Ozone, while recording 4K footage in OBS, 32 sample buffer, using 30% of CPU/GPU. This actually changes everything, VSTi:s are actually PLAYABLE",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "970792778378407976",
+    "author": "oaklandmatt",
+    "date": "2022-05-02",
+    "content": "effectrix is a cool plugin for that. also, triggering a gate with midi or loading a vocal sample into a sampler is an easy way to generate ideas.\n\ntbh, the people i've seen do it best just edit edit edit by hand.   i think a lot of people read about BT doing a couple thousand edits on n sync's song \"pop\" and realized that you just spend the time to get it right",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078365720695537674",
+    "author": "Deleted User",
+    "date": "2023-02-23",
+    "content": "Tick is a PPQ (number of pulses per quarternote) it marks a relative location in midi grid between quarter notes",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1091489445502525541",
+    "author": "Adam Thein",
+    "date": "2023-03-31",
+    "content": "~~weird one, but anybody out there got a pan flute library that I could send you a little midi to run and print for me?~~\n\nrealized i could source some one shots on Splice and build a quick multisampler, cancel!",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1144000651723026554",
+    "author": "cian riordan",
+    "date": "2023-08-23",
+    "content": "Heavy vouch for the Massey DRT. I've used it forever and it always gets me a midi track quickly and accurately that I can use with Battery for all my drum samples.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1155878636776345660",
+    "author": "Josh",
+    "date": "2023-09-25",
+    "content": "Aye one more suggestion. Maybe just have the actual VST name as SKY instead of S.K.Y. The periods are tripping me up when I go to search for it. Super super nit picky so do with that statement whatever you like.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1155906847509839963",
+    "author": "LAPhill",
+    "date": "2023-09-25",
+    "content": "Hey man, nice effort on this! The sounds themselves here seem like they're be really useful. Loading it up for the first time today and will follow up with any additional thoughts, but right off the bat - you've GOT to make those parameters MIDI assignable. I have a big pet peeve for VSTs that don't map expression (cc11) to volume  by default, but beyond that, vibrato and the ADSR seem like no-brainers to be able to assign to a CC.\n\nI love the reverse function, I can tell that'll be really useful. \n\nI'd be surprised if @Rollmottle didn't mention this, but it's very odd to me that Saturation is controlled by dragging that little flame icon when everything else is much more straightforward. \n\nLast thought for now - when you get ready to release this, put your best patch as the default. You want people to load this up and be inspired and interested in diving into what it can do. Most people can't get away with the ear-splitting default patch from Omnisphere, and why would you want to anyway?",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171992413225623572",
+    "author": "NoahNeedleman",
+    "date": "2023-11-08",
+    "content": "Ya I do this a lot with my prophet. Setup a midi track, and set the output to your Yamaha. \nSet up an audio track and set the inputs to whatever you\u2019re running the keyboard to.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1334367649785712701",
+    "author": "Slow Hand",
+    "date": "2025-01-29",
+    "content": "I'll second that. Any of the Rogue Amoeba stuff is great if you're trying to do meta routing of audio on your computer. Especially if you want to insert VSTs in that signal path. I use *Audio Hijack* for capturing to my desktop. I forget if it can route to Ableton. Probably.\nhttps://rogueamoeba.com/",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337310640955723868",
+    "author": "montrose recording",
+    "date": "2025-02-06",
+    "content": "also, simple psa - audio to midi in pro tools can be so fruitful and fun.  just was working on a simple piano ballad and instead of adding new parts, i sent piano audio to midi data to a poly synth and played the knobs dynamically, then did the same with the vocal.  good stuff",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1466182004960661664",
+    "author": "BatMeckley",
+    "date": "2026-01-28",
+    "content": "Ehhh it\u2019s more nuanced than that. Automating the mod wheel can drastically change the timbre of an orchestral vst, and is an essential part of humanizing your program, and I think a lot of people don\u2019t really get that. They just open up the abbey road plugin and start hammering out chords. \n\nA lot of those instruments don\u2019t use velocity info to  change the timbre of the instrument, they rely on the mod wheel, while the velocity means something else (often portamemto, or note glide for the not nerds)",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "986498676484620318",
+    "author": "oaklandmatt",
+    "date": "2022-06-14",
+    "content": "loading up the new M1 and thinking of rounding out my synths/ vsts. i have all arturia and Narive Instruments and omnisphere and several others. i'm thinking of getting keyscape and/or trillian. i know some people that love either/ both and am curious if anyone here uses them",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994680091076464712",
+    "author": "ALXCPH",
+    "date": "2022-07-07",
+    "content": "I like to mostly just work with audio in the daw. I dont gel well with the separate sequencer work flow. I might use midi for high hats if I\u2019m doing some hip hop with rolls and pitched hats, but that\u2019s it. If not I\u2019m just pure drag on drop onto the timeline. Also midi can sometimes introduce delay or mess with the audio envelope. With audio what is see is what I get, so there is no second guessing my self.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062037816135123024",
+    "author": "hyanrarvey",
+    "date": "2023-01-09",
+    "content": "Oh i\u2019d just program it with a vsti if i had too",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1063116175124463677",
+    "author": "cian riordan",
+    "date": "2023-01-12",
+    "content": "The linn kit in battery is solid.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080450297723371590",
+    "author": "spectrummasters",
+    "date": "2023-03-01",
+    "content": "Logic Gang: quick share, Im finding the sample delay tool v useful in a few ways and reccommend for a few reasons. Picking up on the midi ticks convo last week, if youre programming in Logic , instead of dragging (and losing track of your moves) in the timeline/piano roll....throw one of these on an insert and increase the delay in tiny increments as you run down the track (typically hats and offbeat/ghost snares first) . You can quickly create the pocket youre looking for . Also added bonus...I believe under c. 12ms most people arent hearing a glaring time shift , (i dont go above 2ms ) so the delay is handy again just putting your hats , snares, percussive elements....just a millisecond or two behind/in front of each other so all your transient sounds are not hitting the 1/4,1/8, 16th counts at precisely the same instant. I find this helps with transients. Lastly, unlink the left and right on a stereo channel and youve got an instant width tool. Best for the transient and groove use tho imo.",
+    "reactions": 2,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1080723596718125146",
+    "author": "philbarnes",
+    "date": "2023-03-01",
+    "content": "I tend to be a drag and drop guy 'cause I like audio files, but when I MIDI, I enjoy Addictive Drums. Cool for programming quick hat/ride/cymbal parts on top of what you've got too.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101978298894012476",
+    "author": "jonmatteson",
+    "date": "2023-04-29",
+    "content": "just record its midi and audio at the same time on separate channels then playback the midi and record new audio if you want to adjust parameters in real time!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105126970112614551",
+    "author": "louisvie",
+    "date": "2023-05-08",
+    "content": "This is probably a known thing, but the Korg Triton vst really is the best source material I can find to replicate that early 2000s feeling. \n\nMakes sense since it was the keyboard used by producers in those days.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105818824885932192",
+    "author": "Adam Thein",
+    "date": "2023-05-10",
+    "content": "Mine just arrived yesterday.  I\u2019ve got a session coming up that I knew this would be great to have for keys, vocals, and guitar sounds.  It\u2019s definitely a bit limited in scope to lofi world but lord almighty it does those tones with ease and sounds awesome.  And the saturation knob like Noah pointed out is really sweet sounding.  I\u2019m not a guitarist but I was playing around last night with keyboard sounds and full mixes and it was very inspiring.\n\nI agree wholeheartedly that $400 is a lot for one pedal.  Factor in another $60 for their midibox if you want to have it connected via midi.  They do have CC control of every feature on the pedal including the hidden ones and an Ableton Max4Live plugin that allows you to recall settings and automate parameters.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1113250420870103080",
+    "author": "Calvin Lauber",
+    "date": "2023-05-30",
+    "content": "I think my favorite/most musical way is the Antares harmony engine set to follow midi input, mapping the chords out with a few fun/weird voicings. Even better for vibe to play the midi input live along with the artists take so they can react to it",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1115341894109634570",
+    "author": "conor // wbotm",
+    "date": "2023-06-05",
+    "content": "me and a buddy figured a very scuff version out years ago with very few tools... created a big audio rack in ableton with a channel for each note in the scale across 2 octaves, each channel had an autotune instance (or graillon 2 in our broke case) hard tuned to a single note and a gate that was sidechained to the corresponding note on a MIDI track. The MIDI track was just a plain sine wave synth, but you could also get some cool gated effects by using different inputs",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1119447483207131166",
+    "author": "LAPhill",
+    "date": "2023-06-16",
+    "content": "NI\u2019s Session Horns Pro is useful for a lot of applications because the sound is pretty dry. Good amount of articulations and instruments. But I find brass so specific and articulation-heavy that every library I\u2019ve heard eventually hits a wall with really idiomatic lines.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1133118439641317437",
+    "author": "stefanmacc",
+    "date": "2023-07-24",
+    "content": "Ya ableton is great! Really good tool for controlling hardware synths as well\u2026 midi capability is \ud83d\udcaf",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1139357734131740794",
+    "author": "NoahNeedleman",
+    "date": "2023-08-10",
+    "content": "@LAPhill was thinking of you today while doing some \u201cscoring\u201d for my wedding video (DIY slideshow / iPhone video montage.) \n\nI loaded up Keyscape cinematic grand, Spitfire BBC Orch on 4 tracks, (violins, violas, cellos, horns,) and went at like I would a vocal arrangement- one voice at a time, which was great for internal voice leading and lead to some beautiful & unexpected chords. \n\nCame together really fast too.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1144015619524669602",
+    "author": "peterlabberton",
+    "date": "2023-08-23",
+    "content": "Yeah, Massey DRT > Trigger (and other options I\u2019ve tried) for getting MIDI info out of drum tracks.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1240520251074941052",
+    "author": "Will Melones",
+    "date": "2024-05-15",
+    "content": "I would be surprised, since a MIDI instruction doesn\u2019t include a \u201cduration\u201d. The synth would have to do the math between note-on and note-off messages. Not that it\u2019s impossible!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1249854270728306709",
+    "author": "Slow Hand",
+    "date": "2024-06-10",
+    "content": "Hmmm. I don't have any super-fresh tools to recommend, but a few come to mind:\n\nPolyverse make some very interesting stuff, like *Manipulator* and *I Wish*. Very musical tools. Real time, too!\n\n*PaulXStretch* is still great for super-long FFT stretches. They made an AU, VST, AAX plugin version a few years ago that's solid.\n\nThe Michael Norris *SoundMagic Spectral* suite of plugins were some great FFT transform plugins, but he's been slow to update them for recent OS's, so there may be compatibility issues.\n\nI still use *Trash 2* all of the time.\n\nI haven't purchased *RX 11*, but the updated Dialogue Contour module looks rich with sound design potential. Can't wait to try it out. *RX* is becoming a very helpful tool these days.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1262410190670794802",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-07-15",
+    "content": "For slightly aged generic (but not original drum machine) stuff, Vengeance sample packs should do the trick. The Nexus 4 VST is also a library of impossibly generic patches and sounds (including drums) for electronic music. But honestly I feel like searching \"House Kick\" on Splice should get you there within the first few results",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270462440353693768",
+    "author": "Will Pragnell",
+    "date": "2024-08-06",
+    "content": "In case you go down the Superior Drummer or similar route, I posted some thoughts about that and Addictive Drums the other day: https://discord.com/channels/800115582531928064/809922920947646494/1267312762497929239 - I think if you scroll up from there there were also some other comments on those that might be of interest",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283888848757198879",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-09-12",
+    "content": "All-around piano/keyboard production needs is probably Keyscape. Doesn't sound the best but covers a lot of bases",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283895299986821141",
+    "author": "Adam Thein",
+    "date": "2024-09-12",
+    "content": "I used JRRShop for Keyscape with the GROUP code.  It ended up being $318 and change but they shipped a physical copy.  I think the last physical software I owned was Half Life 2",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1391829405915152436",
+    "author": "BakerBaker",
+    "date": "2025-07-07",
+    "content": "Logic's 'drummer' track has a lot of hand percussion options that are pretty useful. you can get a feel with the sliders and then convert to midi to fine tune.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1392191660120604824",
+    "author": "Brian Reynolds",
+    "date": "2025-07-08",
+    "content": "Midi hi hat pattern packs. Two reasons. First, quick drag and drop building blocks. Second, go thru your favorites and look at them closely in the midi windows. What's their velocity, length, pitch, and place on the grid. How does each hit compare to the next so on and so forth.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1465786352787521723",
+    "author": "oaklandmatt",
+    "date": "2026-01-27",
+    "content": "Definitely. So many cool ways to articulate an instrument.\n\nI think @Rob Domos (and anyone else who hasn't really ever explored a mod wheel) might do best to just start doing it. Almost every instrument has some articulation built in (from analog synths to orchestral patches to drum kits), and they should just start using them. Treat it like a performance. Then from there explore all the ways to do fancy, multi knob articulations",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "937557545302757406",
+    "author": "Slow Hand",
+    "date": "2022-01-30",
+    "content": "*Keyscape* has some fantastic sounding (and unorthodox) sampled keyboard instruments. That said I'm not particularly fond of the sound of it's LA Custom C7 grand piano. Which is a little too hi-fi for my taste.\n\nLately I've been very impressed by NI's/Kontakt's *The Maverick* grand piano. I believe it's a vintage Bechstein grand. The sound is robust and rich without all of the \"zing\" that I see in a lot of full-scale sampled grand pianos. It sounds \"woody\" to me. I think it would make for a very nice jazz piano.\n\nThey did a really good job of sampling every facet it and it has enough flexibility that you can dial in the really intimate Nils Frahm-style damper/pedal/mechanical noises, which I like.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "986613332771479622",
+    "author": "philbarnes",
+    "date": "2022-06-15",
+    "content": "LOVE both. The Wurli and Dark Upright in Keyscape are daily drivers for me. Trillian bass rocks, I use it on every session in some way or another.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "992428985466228828",
+    "author": "Eric Martin",
+    "date": "2022-07-01",
+    "content": "We end up needing to notated lots of string parts for live players at shows so this will come in handy, that and midi doubling for that zimmer sound",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009911580147855360",
+    "author": "Jeremy Klein",
+    "date": "2022-08-18",
+    "content": "I compose/mix a lot of library rock/metal music and I basically couldnt have that gig without superior drummer 3. \n\nFor it's variety of tones and realism I think it's the best out there. If you program with the predefined MIDI grooves as a base, you can get rock drums that sound _almost_ indistinguishable from the real thing. \n\nI've got a few of the SD expansions and honestly think the core library is still the best one.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1014577277503287338",
+    "author": "Will Melones",
+    "date": "2022-08-31",
+    "content": "What a slow and expensive way to make something that sounds like EZ Drummer!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1024044944337420308",
+    "author": "ehutton21",
+    "date": "2022-09-26",
+    "content": "Learning how to program and/or play drums well is super super key for leveling up as a producer. I didn\u2019t get really confident in my productions until I got one of those midi drum kit things and started learning how to just find a bounce like that.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050475474675060827",
+    "author": "Ross Fortune",
+    "date": "2022-12-08",
+    "content": "Has Logic\u2019s drummer been mentioned yet? Maybe a no go since you\u2019re in Ableton @oaklandmatt, but it\u2019s very usable in lots of styles. Instant good presets, and the \u201cproducer kits\u201d give you full access to mics (if you want to smash up a room etc). Having dynamics and \u201cbusiness\u201d on an XY pad is pretty useful for knocking demos together, then you can convert those \u201cdrummer regions\u201d to midi to tweak. Also the hi hats are usable, in a world where it\u2019s still relatively difficult to program convincing 1/8 and 1/16 hat patterns",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1056290027950317588",
+    "author": "Slow Hand",
+    "date": "2022-12-24",
+    "content": "Oh, just one more thing. I find it very helpful to practice making patches by trying to emulate a given instrument's expression. I'm primarily thinking about note articulation, here. Modeling these behaviors is a good way to start thinking musically with a synthesizer.\n\nSo if I'm going for a \"horn\" instrument I want a patch that can do attack-y stabs, but also fade into notes and have complete dynamic control. It should also have some sort of brightness feature that I can open up at will, like blowing harder into some brass.\n\nIf I'm emulating a voice there's going to be a big emphasis on legato playing and fluidity, with some very expressive pitch control for bends and vibrato. Maybe some form of subtle formant control to shade the notes like a singer would with different vowel sounds.\n\nAn organ patch is going to be a dead simple note-on/note-off volume envelope with the expression coming from the addition or subtraction of different oscillators.\n\nAnd some patches are just going to be gangly chaotic messes that you do your best to wrangle. Something with a lot of chaos and feedback and squealing. You can't control it, but you just strap in.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059636191823134820",
+    "author": "Deleted User",
+    "date": "2023-01-02",
+    "content": "I believe it\u2019s mainly a MIDI synchronization thing. Because of the linearities of MIDI, no event will happen simultaneously. So when you sync it with your daw, 96ppq may not be enough to precisely drop drum hits close enough to right on the grid - contributing to  the slightly off feel. That ended up sounding musical and people liked that feel",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078366848002834493",
+    "author": "LAPhill",
+    "date": "2023-02-23",
+    "content": "Ticks are divisions of MIDI notes, so the ms value scales with tempo",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080775656570363934",
+    "author": "jonmatteson",
+    "date": "2023-03-02",
+    "content": "I use addictive drums and enjoy it. I\u2019m sure superior drummer is great too. I like to use the build in midi packs for basic grooves then customize them to my liking if it\u2019s a pop rock thing.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080871146251104338",
+    "author": "Zack Hames",
+    "date": "2023-03-02",
+    "content": "I\u2019m probably an outlier in the usual drum pack consumer but I\u2019ll give you my take:\n\n1. I found when there\u2019s a million samples I get uninterested quickly. I\u2019d prefer 2 snare sounds as opposed to 15 slight variations of nearly the same thing.\n\n2. I use an MPC, so the lower volume thing would be annoying for my personal use, but that\u2019s an outlier.\n\n3. You could farm out the Battery / Kontakt / etc packs to friends who would be willing to do it or use those tools a lot, that way you\u2019re not stuck making a ton of them (unless you want to of course) \n\n4. I don\u2019t touch loops usually but I know tons of others do. \n\n5. That\u2019s it. Sounds like a super fun and badass project! You should document it on the way on the discord\n\nEdit: I\u2019m speaking to more electronic and supplemental use of drum samples. There are probably tons of folks out there who want all the options as if there was 100% a real drummer recorded in their studio.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080871190333247588",
+    "author": "Deleted User",
+    "date": "2023-03-02",
+    "content": "1) Different tunings, Having clean vs processed, peaking at below -6, good velocity layers, round robin is good but not really necessary for me, I personally don\u2019t need all mics separate but would like to have a separate room sample and the mixed sample as well.\n\n2) Yes please!! I hate it when samples peak at 0. I actually turn all of them down when I put them into a sampler to make it peak at -8 to -12\n\n3) small snippets of hihats or snare ghost notes and some tom loops. I\u2019d probably prefer them mixed only\n\n4) for kits I think it is important. Round robin and velocity layers, and if you are doing rooms or separate mics having a kit makes an instantly playable and tweakable kit.\n\n5) I\u2019m not sure. Anything between 44.1/16 and 48/24 should be fine! Anything beyond might be too much",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080905745035448390",
+    "author": "Jeremy Klein",
+    "date": "2023-03-02",
+    "content": "yo! welcome to the discord!\n\nYeah i'm a huge user of SD3. One of my gigs is making library rock/metal music and for all those tracks it's 100% SD3 and youd be hard pressed to tell they are programmed drums.\n\nThe real key for me was learning to use the pre-made MIDI grooves in SD3. If you start with those, and then just modify the kick to where you want it, you get some _very_ convincing drums.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080905952674455592",
+    "author": "Jeremy Klein",
+    "date": "2023-03-02",
+    "content": "So i'd say get SD3, but also get all their indie rock / genre appropriate midi packs and your drums will sound amazing in sessions",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089218014194434079",
+    "author": "hyanrarvey",
+    "date": "2023-03-25",
+    "content": "Well the bendeth snare has part of superior drummer 3 altair supraphonic in there",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102630441019781190",
+    "author": "Deleted User",
+    "date": "2023-05-01",
+    "content": "Most synths come with manual page with SysEx (system exclusive). If you want to use hands, it will automatically pick up the parameter automation and record into the daw as long as you have hooked up midi in and midi out. Some synths can just do this with usb. \nIf you are drawing in the automation, then you can reference the SysEx page to find out which midi cc corresponds to the parameters.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102630730120560651",
+    "author": "Deleted User",
+    "date": "2023-05-01",
+    "content": "in Logic you can do this by creating External MIDI track. It\u2019s the same on ProTools but works a bit differently. You need to create a Midi track and another Audio track to monitor/record.\n\nhttps://m.youtube.com/watch?v=wilpYs19xAQ",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1105852436565995591",
+    "author": "Adam Thein",
+    "date": "2023-05-10",
+    "content": "Also FWIW their customer service got back to me within minutes when I realized I needed the Midibox for what I wanted to do and they refunded me my shipping on the midibox and made sure they got boxed together.  Got a reply quickly from both a customer service person as well as the shipping person.  That alone makes the $400 sting less to me knowing there are real humans ready to answer questions and troubleshoot.\n\nOne thing I wish I had noticed earlier is you can request for them to mod the pedal to not include a gentle HPF.  I'm not handy myself with soldering but there is a guide or they will mod it for you on request.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108606289174593556",
+    "author": "LAPhill",
+    "date": "2023-05-17",
+    "content": "I'd be happy to help you setup the Kontakt side, but you should probably ask one of the Pro Tools guys here, since it's been a looooong time since I've dealt with MIDI in PT",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108608711913644113",
+    "author": "LAPhill",
+    "date": "2023-05-17",
+    "content": "MIDI Timecode. If you were using two PT rigs, I guess you could use satellite link which would be slightly better. But it just takes one MIDI cable to send timecode and MMC",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1119463942784299128",
+    "author": "Deleted User",
+    "date": "2023-06-16",
+    "content": "I had to make a template that has all the articulations on separate track. I always have staccato, fp 2,4 and sustain loaded up. another additional one for miscellaneous effects like shakes or glide up/dn",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1143803414187364422",
+    "author": "popaganda.",
+    "date": "2023-08-23",
+    "content": "Either Trigger if you have compatible samples, or something that gives you the midi, like the Massey one, and use something like battery to load your samples",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1159909602645782568",
+    "author": "Skyler Young",
+    "date": "2023-10-06",
+    "content": "Thanks to @LAPhill  I added when you right click on a knob you can get it to learn a midi knob input. Works with the mod wheel etc - was not convinced it was worth the effort to add at first but so thankful I did because it is very fun to be able to quickly attach the mod wheel to anything I want and play with",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1168794414659932190",
+    "author": "Zack Hames",
+    "date": "2023-10-30",
+    "content": "Templates can be deceiving - I tend to change things way too much every project for them to help me. I do have a template for my hardware synth rig, so all 12-16 of my channels are already named and built and input assigned and a reverb made. But then I\u2019m just using PT as a tape machine. I have a template on my MPC that\u2019s automatically routed to MIDI for all my synths, etc.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171631834728251442",
+    "author": "gatewoodsensei",
+    "date": "2023-11-07",
+    "content": "Say less:\nWaves rComp\nAntares Efx\nAntares Throat (pause)\nKontakt\nSerum\nOmnisphere\nSeventh Heaven\nPro Q3\nBattery 4 (if i had no choice)\nC4\n\nBonus\nAll my samples lol",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1174767816868626452",
+    "author": "LAPhill",
+    "date": "2023-11-16",
+    "content": "Once you get the hang of it, it's much easier to do it all at once, but whatever works for you. I almost always go back in and massage the MIDI rides with the mouse, or rerecord them, but it's part of the performance of recording the notes, not an afterthought. (This obviously doesn't apply if you're playing a two-handed part)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1186762724731002961",
+    "author": "masteredbyjack",
+    "date": "2023-12-19",
+    "content": "Understood. Of course I master only all day, so I am not in wild sessions needing that stuff, I just have one to keep connected to the music and play a few times a month or so, but I love the synthesizers.com QBK line\u2026incredible keybed, fatar synth action but no knobs or anything. That said, knobs on the desk that do midi can be had easy too.\n\n @Rollmottle would know more than me (or anyone else literally as far as application to producing goes), but if action is a big deal to you I\u2019d check those out, you can also mount them to drawer slides easily or whatever, they are thin\n\nI\u2019ve posted this here before but the Extra Deluxe one looks insanely cool too (but very expensive and I doubt it\u2019s coming back ever). I believe it uses the exact same keybed as the synthesizers.com stuff though, just in a prettier package: \n\nhttps://www.extradeluxemfg.com/buy/extra-deluxe-keyboard-61\n\nMy knowledge of these things are several years old, I\u2019m not up on what the newest stuff is since I went to mastering",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1197881795467808829",
+    "author": "Iwan Morgan",
+    "date": "2024-01-19",
+    "content": "This is Pro Tools possible. Right click the clip and convert audio to midi",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1203090090461499393",
+    "author": "Deleted User",
+    "date": "2024-02-02",
+    "content": "groove template? or audio to midi? (try neural note)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1210609822571962408",
+    "author": "LAPhill",
+    "date": "2024-02-23",
+    "content": "I don\u2019t have the BBC, but sounds like it\u2019s the way the notes are performed. Sometimes, playing with a harder velocity will give a faster attack, or there could be a slider in the GUI to address it. Otherwise, you\u2019re kind of stuck. Try looking for a different long articulation, like marcato, if it has it.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1210621045271167107",
+    "author": "LAPhill",
+    "date": "2024-02-23",
+    "content": "Another thing to keep in mind is that most libraries, especially orchestral ones, require a negative predelay for the notes to sound in time. Often somewhere between 10-50ms, but some are up to 300ms. So if everything feels late to the grid, it likely needs an offset. If it's the gentle attack of the recorded performance, not much you can do besides try a different articulation or library.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214710576056639520",
+    "author": "Deleted User",
+    "date": "2024-03-05",
+    "content": "I have BFD 2 and 3 - their biggest selling point is the dampening function. I don\u2019t think Superior Drummer has them. \n\nI think Superior Drummer has better samples though.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1237800007999160342",
+    "author": "LAPhill",
+    "date": "2024-05-08",
+    "content": "There are a couple ways to think about this - do you want maximally realistic results with less control over the actual notes, or do you want to make it sound as good as possible while still maintaining compositional ownership? I pretty much always fall into the latter.\n\nAs long as you have a decent library with enough round robins, short string lines are one of the easiest things to make sound good. I haven't used BBCSO, but I know it's light on variations in exchange for having a full set of orchestral instruments and articulations at a budget price. Any of Spitfire's main libraries would be fine, or Cinematic Studio Strings, Orchestral Tools.. pretty much anything should do the job as long as it has enough round robins and hopefully at least 4 dynamic layers.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1239074141483569152",
+    "author": "Zack Hames",
+    "date": "2024-05-11",
+    "content": "Battery is too drum beat oriented; and then processing doesn\u2019t seem to help me get there. \n\nThen the like, more bass line centric 808s on my MPC are exactly that.\n\nDug through my other loose 808 samples, they just lack the length of note and decay, I know it sounds super simple and dumb but there\u2019s this FEELING I am missing from all of it. Clean, long, deep, not overly bending the pitch. \n\nAn example would be good; I\u2019ll try to find. Metal bands use them a lot and it\u2019s sort of silly",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1249062483780435979",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-06-08",
+    "content": "Might export all this toontrack midi somewhere, it\u2019s good but needing to trigger from their plugins feels so messy",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270449203570806876",
+    "author": "Ed Sokolowski",
+    "date": "2024-08-06",
+    "content": "what\u2019s always worked best for me is building the bulk of the parts out of their MIDI and tweaking that to fit. Having SOME kind of human feel and dynamics performed in works way better for me than trying to pencil it from the start",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270484181528608789",
+    "author": "Josh",
+    "date": "2024-08-06",
+    "content": "Superior and addictive are great! GGD has great offerings for all genres. As far as importing your own, are you talking about multi sampled or one shots? Trigger comes to mind for both of those and can be fed midi",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270754182508449802",
+    "author": "Spencer Broschard",
+    "date": "2024-08-07",
+    "content": "You can do this in superior drummer!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283894577606164501",
+    "author": "Slow Hand",
+    "date": "2024-09-12",
+    "content": "@kylem Yeah, Keyscape is an excellent choice with some truly excellent sampled instruments, though a bit of an up-front investment ($400).\n\nIn fact, I just spent the last fifteen minutes practicing piano with Keyscape before taking a break here on the DIscord. It must be a decade old at this point, but Spectrasonics do a good job at supporting it. They're constantly patching it and a few months ago they added a fully-sampled felt piano instrument that sounds excellent.\n\nKontakt wouldn't be a bad investment either, since it's the backbone of NI's entire business model at this point, it comes with a sizeable sample library (not just piano), and new sample instruments are constantly being developed for the platform.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1312954204452556850",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-12-01",
+    "content": "You can use a VSTi for overheads & room mics, mute all the other stuff. Mix in discretely to taste/tune VSTi drums to match samples if needed",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1328066992288043068",
+    "author": "Ross Fortune",
+    "date": "2025-01-12",
+    "content": "Guessing that\u2019s another wrapper? No idea but installer includes VST and AU, and the AU actually runs straight in Ableton. The gui is blank, but you can access the automation parameters",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1328819956850229258",
+    "author": "Slow Hand",
+    "date": "2025-01-14",
+    "content": "I like NI\u2019s *Session Horns* for a pop horn section. Good selection of horns and articulations with an easy interface.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337468120197107762",
+    "author": "Iwan Morgan",
+    "date": "2025-02-07",
+    "content": "Yes, yes, yes. audio to midi is very inspiring. Even when it gets it wrong i love the random elements it generates.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360293824605323424",
+    "author": "jonmatteson",
+    "date": "2025-04-11",
+    "content": "Addictive drums is pretty good for this. You can layer electric sounds on kick and snare and mix them in to taste and play them in real time via midi",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1378693680394932358",
+    "author": "oaklandmatt",
+    "date": "2025-06-01",
+    "content": "+1 to youtube\n\nAlso searching anything on google and adding \"reddit\" is great for samples. I assume it works for midi packs too",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1380852631098097717",
+    "author": "Brian Reynolds",
+    "date": "2025-06-07",
+    "content": "The swing and changing of the velocity of midi hits, will help the feel and groove of a sample pieced together drum kit.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1417228431803810043",
+    "author": "Rollmottle",
+    "date": "2025-09-15",
+    "content": "- Random MIDI generator into a Scale filter\n- Same as above but add an Arpeggiator \n- Same as above but replace the Arpeggiator with a Chord filter \n- Mangle a drum loop\n- Mangle any loop\n-  Create a drum loop with differently timed Arpeggiators and midi generators controlling a  drum machine/drum rack \n- Modular synth patches",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1428443726321160423",
+    "author": "ltucunduva",
+    "date": "2025-10-16",
+    "content": "I tested it on a souless vst acoustic piano that I received for mixing and it kind of helped transform it into a more interesting sound. Almost without saturation and with a lot of room reverb from the plugin. The context was a folk rock like Steve Earle.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1465760143021969652",
+    "author": "oaklandmatt",
+    "date": "2026-01-27",
+    "content": "Truthfully you probably need to just start doing it. Use the mod wheel and pitch bend when you play keyboards. Learn to assign the cutoff of a filter to a knob on your midi* controller. Then use it. \n\nWhat instrument(s) do you play?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1470003555590213723",
+    "author": "Ross Fortune",
+    "date": "2026-02-08",
+    "content": "Killer, thanks Matt. The only pre I have to hand atm is a Neve 1073LB. It sounds cool when I\u2019ve dimed a gtr DI on it, but not quite like that tone I\u2019m after. Going to pull up some plugin emulations and see what I can cook up. \n\nThe dying battery thing made me think of the power sag feature on my voodoo labs pedal power supply. Found this dude power sagging different fuzzes - the Octa Hive pedal around 12:15 could be kind of close to the tone from that Blake Mills / Pino ref. So much cool shit to explore https://youtu.be/MlAWosDHwRE?si=CAzZodxq-duu4Zu1",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1470883727533019334",
+    "author": "Slow Hand",
+    "date": "2026-02-10",
+    "content": "Bass on both of these is extremely attentive to articulation and note-length.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472300673579225108",
+    "author": "Adam Thein",
+    "date": "2026-02-14",
+    "content": "there's an audio to MIDI function in Ableton they are asking about - it doesn't do a great job with polyphonic material unfortunately",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1473402967188177027",
+    "author": "austenballard",
+    "date": "2026-02-17",
+    "content": "There are two sides to that though\n\nI am grateful that I only ever had to splice tape in school and that I don't need a six-seven figure analog studio and the Wrecking Crew to make a track\n\ndrag-and-drop samples, vocal comping, time stretching... these are things people who came before me spent days or weeks doing. VST synthesizers! Kontakt! \n\nwe can do more, faster, because we don't have to muddle through every little thing. but this also means we have an obligation to learn how to combine the things that have become easy into new challenges and adventures\n\nin 50ish years we went from Sgt Pepper to Skrillex because of this\n\nit's the drive that humans who want to achieve and accomplish and push beyond possess",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "937551028763623434",
+    "author": "bennythetweet",
+    "date": "2022-01-30",
+    "content": "Addictive Keys or the Nord for me",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "937551316169920582",
+    "author": "kc_kasey",
+    "date": "2022-01-30",
+    "content": "Keyscape is dope too",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "937643733481050113",
+    "author": "Zakhiggins",
+    "date": "2022-01-31",
+    "content": "Keyscape is great, but if you want a really natural, real piano sound, basically anything in the spitfire libraries is insanely good",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "954162459013423134",
+    "author": "Josh",
+    "date": "2022-03-17",
+    "content": "Late to the party but literally all you need is the Arturia collection and then a solid soft synth like serum or pigments. I literally only have serum, pigments, arturia collevtion, and then a few other like guitar or bass VSTs and I have yet to want anything else.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "962821066055647293",
+    "author": "Andrewtwining",
+    "date": "2022-04-10",
+    "content": "Cassete Transport from Waves Factory is a free VST that does this and is very slick. You can do it based on ms or note value. You can have seperate note values for stoping and starting the tape",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "965743741639991348",
+    "author": "1ggy",
+    "date": "2022-04-18",
+    "content": "What are your guys go to production techniques for chords/melodies if you're not a pro on keys or guitar? Mine for example is using Scaler as a midi instrument, finding a cool progression or pattern and then messing with the midi. Or, finding a cool sounding melody in Splice and then using Pitchmap and/or melodyine to get it in the correct key and chopping it up.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "965745872900067348",
+    "author": "Rollmottle",
+    "date": "2022-04-18",
+    "content": "Big fan of Ableton's Scale and Chord midi tools so the same dumb finger patterns I make on the keyboard come out much more interesting",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "971609734752915547",
+    "author": "Zack Hames",
+    "date": "2022-05-04",
+    "content": "I actually had one and sold it, I didn\u2019t like having to Load the samples because I\u2019m a lazy fucker. I want that sp404 action but I can drop and drop into a daw format and hit on a keyboard or pad. Which I think battery can do. But idk I think I need to just bite the bullet haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "984583022990983209",
+    "author": "chris_donlin",
+    "date": "2022-06-09",
+    "content": "Anyone know how to solve the timing issue with vocal synth and/or alter boy in midi mode? They\u2019re always way ahead of the beat which makes it hard to demo ideas",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "986509697395863642",
+    "author": "itaylerner",
+    "date": "2022-06-14",
+    "content": "Don\u2019t own trillian but have used it several times and it\u2019s so great for fat expensive sounding bass sounds - one of the best imo. Keyscape is incredible too but I haven\u2019t found it doing anything that i couldn\u2019t get from a kontakt library",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "986520597842526239",
+    "author": "ehutton21",
+    "date": "2022-06-14",
+    "content": "I own the omnisphere trifecta and there stuff is the best out there on the market right now. It\u2019s absurd how versatile and flexible it is, there\u2019s enough preset patches that you probably never would need to try and create your own sounds again but personally the design aspect of it is what sets it apart. Keyscape might not be necessary if you\u2019re regularly surrounded by high quality keyboards, but trillian and bass library are incredibly invaluable to me for my needs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "987364782376099880",
+    "author": "Will Melones",
+    "date": "2022-06-17",
+    "content": "Trilian has the richest real sounding upright bass, too. Plus the integration between Omnisphere, Trilian, and Keyscape is pretty sick",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "992156435632890007",
+    "author": "Eric Martin",
+    "date": "2022-06-30",
+    "content": "OMG I\u2019m just discovering audio to MIDI and it\u2019s going to change my wife\u2019s violin orchestrating life.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "992166082083307561",
+    "author": "Eric Martin",
+    "date": "2022-06-30",
+    "content": "It works, we were just tracking something that had a written part and I was able to copy the audio to a MIDI track, make a few \u201cquantization\u201d edits and it was basically the same as the music the artist sent and I did about 2 minutes of work to it, both saying, \u201c I think this is a thing now\u201d and then actually looking it up and trying",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "992525808373604404",
+    "author": "Jeremy Klein",
+    "date": "2022-07-01",
+    "content": "I use it SOOO often on quickly transcribing lackluster bass stems to midi so I can add a sub.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994258628548759653",
+    "author": "gatewoodsensei",
+    "date": "2022-07-06",
+    "content": "What\u2019s you guys\u2019 favorite vi drum machine? I\u2019m mostly in battery 4 if I\u2019m using Logic or FL\u2019s channel rack.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994278039930277978",
+    "author": "1ggy",
+    "date": "2022-07-06",
+    "content": "Battery or maschine(even if the hardware isn\u2019t plugged). But, have almost pulled the trigger on XO a couple of times. Maybe Black Friday.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994356535654371468",
+    "author": "NoahNeedleman",
+    "date": "2022-07-06",
+    "content": "I\u2019m in PT and I like Battery as well.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994676759767285790",
+    "author": "gatewoodsensei",
+    "date": "2022-07-07",
+    "content": "Crazy all the use that battery is getting. NI did great a great job with that plug-in.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994677924038975520",
+    "author": "Will Melones",
+    "date": "2022-07-07",
+    "content": "Wow I can\u2019t keep Battery working in PT for some reason. At least not the last few times I\u2019ve tried. I loved battery 3 though \ud83d\ude2c",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994680320588783656",
+    "author": "ALXCPH",
+    "date": "2022-07-07",
+    "content": "I\u2019ll use midi for synths, sample based keys and 808\u2019s tho!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "994791533574369361",
+    "author": "Calvin Lauber",
+    "date": "2022-07-07",
+    "content": "This seems to be an easy solution for using the drum rack or midi instruments from ableton within Protools, but less sure about how using the Effects Rack with this method would work? https://youtu.be/k0HWeGQKdQg",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "998798039571497020",
+    "author": "NoahNeedleman",
+    "date": "2022-07-18",
+    "content": "Tried that audio to midi trick yet?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "999810814666100736",
+    "author": "cy (sigh)",
+    "date": "2022-07-21",
+    "content": "as far as Im aware your best bet is using the plugin's own preset format or sticking to vst3 presets across the board.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1002781899820912661",
+    "author": "Tyler Graham",
+    "date": "2022-07-29",
+    "content": "I think its a really good starting point. Committing it down and chopping / processing it further can lead you to some really cool drum grooves. Esp slicing the loop and playing it as midi",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1004089788892188712",
+    "author": "ehutton21",
+    "date": "2022-08-02",
+    "content": "So I\u2019ve basically designed everything I\u2019ve used either from waveforms and copious amounts of manipulation/FX and/or through synthesis in any of the spectrasonics VSTs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009570275785986153",
+    "author": "chris_donlin",
+    "date": "2022-08-17",
+    "content": "Anyone rocking superior drummer 3? I think I\u2019m about to go in on it but need some consulting\u2026 hit me with your thoughts or other options your passionate about!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1009646594154573944",
+    "author": "Zeuswayn3",
+    "date": "2022-08-17",
+    "content": "I have superior drummer 3 with a lot of expansions. It does a really great job, but im trying to sell the licenses to fund a real drum kit. Feel free to DM me if you\u2019re interested or have any questions!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1014603468960444456",
+    "author": "ehutton21",
+    "date": "2022-08-31",
+    "content": "Yeah, drummers still get work for those kinda records if the budget is big enough, although I think splice + sample replacement and midi has made that somewhat enhanced/fabricated too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1030768593085923368",
+    "author": "satishkumar.26c",
+    "date": "2022-10-15",
+    "content": "Oops my bad pardon my articulation.\n@oaklandmatt I want to share.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031605520269836400",
+    "author": "Johnny I",
+    "date": "2022-10-17",
+    "content": "Recommendations for a piano sample library for a convincible grand piano that works in a sparse vocal/piano arrangement? Kontakt, or Keyscape? I have access to a real baby grand at a friends house, but it needs some repair (some mechanical noises) and tuning and not sure if it\u2019s worth the hassle.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031611501380898816",
+    "author": "Johnny I",
+    "date": "2022-10-17",
+    "content": "That would be great! Having a good upright would be nice as well. The Gentleman and The Grandeur seem like solid options, along with Noire. Any thoughts on Keyscape compared to NI and Spitfire?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031612979520745494",
+    "author": "BatMeckley",
+    "date": "2022-10-17",
+    "content": "All the guys better than me seem to love keyscape but I\u2019ve never used it. It\u2019s ALL OVER pop records tho.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031613726513713273",
+    "author": "Jeremy Klein",
+    "date": "2022-10-17",
+    "content": "Oh yeah i remember at least 5 or so years ago Alicia's Keys was everything. Especially with the velocity curve limited at only the lowest velocities",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031701602270195723",
+    "author": "GaspardMurph",
+    "date": "2022-10-17",
+    "content": "I love keyscape but I also find it to be super buggy with sustain pedal and release samples stuff",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031702191318257705",
+    "author": "GaspardMurph",
+    "date": "2022-10-17",
+    "content": "Maybe because midi is such old technology ? Anyways I tend to commit pianos pretty quickly now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031705832645218304",
+    "author": "NoahNeedleman",
+    "date": "2022-10-17",
+    "content": "Lotta glitches punching while tracking midi. Always have to go back a draw in a sustain release before the punch point, and even then it can be a problem.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031744242990718997",
+    "author": "Will Melones",
+    "date": "2022-10-17",
+    "content": "Oh I always assumed the sustain glitching was a DAW-level midi problem. Never noticed a specific virtual piano being worse than others",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031746076409086002",
+    "author": "Will Melones",
+    "date": "2022-10-17",
+    "content": "I\u2019m most definitely not saying you\u2019re wrong. It would make sense that a huge sampler like keyscape might fall behind and get stuck more often than a small one",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1031903489112145980",
+    "author": "Ross Fortune",
+    "date": "2022-10-18",
+    "content": "Big love here for Keyscape. Excellent grand, vibey upright, and tack piano (least used admittedly) with great presets that process the various models in such significant ways that they could easily be separate libraries. Also, the Wurli and Rhodes libraries (plus the vintage digital keys) are second to none (that I've found - very willing to be convinced though)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1033433341015375963",
+    "author": "ALXCPH",
+    "date": "2022-10-22",
+    "content": "For live these days ill usually just bring a 25 key midi keyboard to launch tracks",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050121435412172911",
+    "author": "oaklandmatt",
+    "date": "2022-12-07",
+    "content": "What are y'all liking for drum plugins/ libraries these days. I've got plenty of samples and loops, and I've got all the kontakt drum kits (which I use a lot and are great). But I want some new shit. Addictive Drums? Superior Drummer? Slate?\n\nI really want live drums. I can make shit sound hard and programmed, so I'm not looking for pristine clean. Apologies to live drummers but I want those live drummer sounds in various sonic configurations.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050123554450063471",
+    "author": "Adam Thein",
+    "date": "2022-12-07",
+    "content": "I use both AD and SD.  \n\nAD was easier for me to learn and jump into, but I'd say it's also a little more limited in how realistic you can get depending on the ADpaks you have.  Great for getting something in quickly, and I still use it quite a bit.\n\nSD definitely had a learning curve for me but DAMN you can go deep if you really want to tweak out on drum programming.  There are tons of articulations, tons of microphones, and the expansions are all super in depth as well so you can shop around and figure out what is best.  It's definitely at a premium though for price, and I don't reach for it as often if I'm trying to get an idea out quickly, but I just used it today to play in some hihats because it sounds closer to real to my ears than AD.\n\nThe other thing I'd add about SD is the install size is pretty massive.  I have the core library with all the mics installed and their EZX kick and snares library and it's taking 250GB on one of my externals.  Oh by the way you can use any EZ Drummer libraries in SD which are more similar in depth to Addictive Drums stuff and they put out a few new libraries a year.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050129404153577583",
+    "author": "Deleted User",
+    "date": "2022-12-07",
+    "content": "For Mixed samples, I like acoustic drum workshop, sterloid samples, that sound. I haven't used those drums with tweakability in a while, but I used to use BFD, BFD 2 was pretty unprocessed and BFD 3 came a bit more processed. Personally liked BFD 2 better, but honestly as everyone else have suggested, superior drummer is a better tweakable instrument",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050129655392370779",
+    "author": "Deleted User",
+    "date": "2022-12-07",
+    "content": "That sound is on more processed side, but acoustic drum workshop has pretty organic sound (probably still processed) with 3 velocity layers and snare rolls. They also tell you the drum sizes so I find it pretty useful",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050136156643266683",
+    "author": "JakeTB",
+    "date": "2022-12-07",
+    "content": "I got my start doing session drumming, but I rarely track drums these days. It\u2019s preferable if you have the luxury, but you can make Addictive Drums work for you if you use it right.\n\nThey tend to work really well with very little tweaking, but you can tweak just about any parameter you can think of If you really need to.\n\nMy suggestion if possible would be to get a decent set of Roland triggers so you can play it in with the human feel and edit the midi if needed.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050142597814964384",
+    "author": "jonmatteson",
+    "date": "2022-12-07",
+    "content": "I like addictive drums a lot. Their presets sound great, it\u2019s easy to use, and has great sounding fx. My favorite part about it is the midi packs. You can spend a day going through and favoriting patterns you like and when you\u2019re in a session you can audition them with the song tempo and adjust the midi info then drag and drop the midi file into your session. Makes building realistic sounding grooves much faster/easier!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050455483632336956",
+    "author": "Zeuswayn3",
+    "date": "2022-12-08",
+    "content": "I have superior drummer with TONs of libraries I\u2019m looking to sell cuz I just got a kit",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1050519938382700544",
+    "author": "Deleted User",
+    "date": "2022-12-08",
+    "content": "the round robin and velocity layers help a lot with hats and cymbals.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055270407210541096",
+    "author": "Ross Fortune",
+    "date": "2022-12-21",
+    "content": "Yessir. And the drums are the Battery Jack Kit 808 bits",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1055330718613512192",
+    "author": "sukhuno",
+    "date": "2022-12-21",
+    "content": "Couple of methods I use: drum buss with the boom freq set to the tone you want (can use decap knock for this too or Denise makes a similar one), you could just use an eq to add the tone you want, you could record into melodyne and tune the note, you can try a pitchmapping tool like pitchmap/ a blend of dry signal with a vocoded sound/run izotope vocalsynth in midi and blend, or like spectral resonator in ableton running in midi mode",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1056253470765748254",
+    "author": "gatewoodsensei",
+    "date": "2022-12-24",
+    "content": "Mr. Bill is a genius. \n\nWhat i like doing is creating \u201cauthentic-ish\u201d type sounds by resynthesizing natural sounds. Flume does this a lot. Like taking a kontakt instrument, recording the midi to audio, and dragging that audio into serum. Smoothing out the shape in the settings, and cycling through the wav form with an lfo can produce some interesting results.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1057060835635236934",
+    "author": "Slow Hand",
+    "date": "2022-12-26",
+    "content": "Totally. \n\nSo I should clarify a little bit. These 3-4 patches aren't static sounds that I never change. Think of them more like initialized synth templates with pre-determined routings and modulation that I can start with and then diverge from. I still use other people's presets, but using these templates can save me a good 15 minutes every time that I want to build a new patch and don't want to start all the way from scratch. They come with a lot of built-in expression.\n\nOn most of these I've got a lot of the keyboard tracking already tuned so that a bright patch doesn't get too harsh as I go up in register or it doesn't get too flabby and lose definition in the low-end.\n\nI've got one patch set up for very expressive pitch modulation. Lots of big sweeps and bends in the attack/release envelope phases. Think wonky Neptunes-type sounds or two-octave dive bombs. Stuff like that.\n\nOne patch is set for expressive filter and amplitude modulation. Wobbles, envelope modulations, and such. It's my go-to if I'm trying to play with some \"brassy\" dynamics.\n\nOne is a legato mono patch for very fluid vocal-like playing. A big emphasis on note articulation and variation. I think of it as a solo instrument.\n\nThe final one is (you called it) A nice poly synth. Think James Blake on a Prophet. Pretty standard stuff, but once again it's got keyboard tracking that's tuned up so that the patch feels rich across the entire range.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059435449292161034",
+    "author": "conor_i997",
+    "date": "2023-01-02",
+    "content": "What are people\u2019s main techniques for creating groove when programming drums. I know it depends but something I\u2019ve heard is moving the hi hats slightly behind the grid and the snare slightly ahead. I also humanise the midi in logic to create more human like velocities and also mess with the swing. Just wondering if there\u2019s any other ways of going about it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059437571266056212",
+    "author": "Deleted User",
+    "date": "2023-01-02",
+    "content": "Playing it or you can take a drum loop with groove you like and map out a groove template. Playing it is much faster and more feel, but often times it will need editing unless you have great timing. If it\u2019s something loose then I\u2019d definitely go ahead and move each notes because quantizing even 50% is going to change the feel. This is real nerdy but when there\u2019s a really good moment in groove, I use logic\u2019s event editor to look at how many ticks they are off by and snap other notes to somewhere near. For example, if I liked the feel of it being 40 ticks late then I\u2019m gonna move everything (or some select notes that are in the same spot of the groove cycle) to somewhere nearby. Ticks are tempo relative so 50 ticks in 90bpm is different than 50 ticks in 120bpm. But it\u2019s still in same relative timeline, but it\u2019s going to feel different in different tempos. \n\nIf you want it to groove like a drummer played it, best thing to do is play it in. You might end up quantizing or fixing velocity to al 127 later, but it\u2019s going to be better than clicked in sequence if that is the style. Clicked in sequenced drums is its own groove too, you don\u2019t want them having looseness so you quantize them all to 0 but you can still mess around with nudging them to be a bit behind or ahead of the grid.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1059439807077556295",
+    "author": "conor_i997",
+    "date": "2023-01-02",
+    "content": "Appreciate the advice. I always find it so hard to play it in live in midi. Can never really get the groove I\u2019m looking for \ud83e\udd72",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1061658965181726842",
+    "author": "KushKadett",
+    "date": "2023-01-08",
+    "content": "Is it better to use a midi cable vs usb midi when interfacing your midi keyboard with say your mpc and other pieces of gear?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1061659044894478448",
+    "author": "KushKadett",
+    "date": "2023-01-08",
+    "content": "I was reading about usb midi having more jitter problems vs regular midi cables",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062028931525517443",
+    "author": "Deleted User",
+    "date": "2023-01-09",
+    "content": "anything with velocity layer helps! I\u2019ve seen some folks buy a hihat and getting good results recording them.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062039245977567292",
+    "author": "hyanrarvey",
+    "date": "2023-01-09",
+    "content": "Just get ez drummer lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062039844437631086",
+    "author": "Adam Thein",
+    "date": "2023-01-09",
+    "content": "More hats?  I don't know how else to say it, more options of hats?\n\nLike their level of sampling is awesome with articulations but I would love like a whole hat pack with a lot more manufacturers, like 20 sets",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1062041492337725500",
+    "author": "Will Melones",
+    "date": "2023-01-09",
+    "content": "There\u2019s a way a practiced drummer can finesse a hi hat and play 8th notes with feel. I don\u2019t want super robotic loops, and I\u2019m personally not interested in trying to redesign that groove with MIDI programming. That\u2019s just me though. A simple hat loop seems like a great way to add some humanity to a mostly programmed track. And if it\u2019s recorded for a few bars live, you\u2019re not hearing the same exact sound twice.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1066377432078233662",
+    "author": "KushKadett",
+    "date": "2023-01-21",
+    "content": "One being the latency of playing midi- why is logic and fl studio so much better in that regard? I'm running at the lowest buffer size, yet logic still feels almost like a real instrument in regards to input latency. Same with Fl",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1066406084463579287",
+    "author": "KushKadett",
+    "date": "2023-01-21",
+    "content": "I literally have plugins that add just 1ms of delay so that cant be it. Even with lowest settings in buffer it doesnt sound as low latency as in logic. My guess is they are using a different midi clock or sth to interface with the audio engine",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070119105752989697",
+    "author": "KushKadett",
+    "date": "2023-01-31",
+    "content": "Just recently understood the power of envelope shaping and I'm wondering if this is the reason why so many great producers prefer working in audio as opposed to midi",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070121250044780544",
+    "author": "ehutton21",
+    "date": "2023-01-31",
+    "content": "You mean like fading in midi?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070121650898604152",
+    "author": "LAPhill",
+    "date": "2023-01-31",
+    "content": "Not an ableton user, but you could likely automate the output of the VST. Though it's probably easier to commit to audio if you're settled on the part.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070124545022894081",
+    "author": "KushKadett",
+    "date": "2023-01-31",
+    "content": "yeah, fading in midi. I tried using the utility plugin but it's very clunky and doesnt sound the way it does with audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1070145085968236652",
+    "author": "Slow Hand",
+    "date": "2023-01-31",
+    "content": "What do you mean when you say \u201cfading in MIDI\u201d? Like shaping the volume envelope of an audio clip using fades?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1078363953861771294",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-23",
+    "content": "I never did midi in my recording days",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080722229412778004",
+    "author": "Nick Hatzakos",
+    "date": "2023-03-01",
+    "content": "Hello, first post in here. Please advise if I'm posting this in the wrong channel. \n\nWhat are we using for writing MIDI Drums? I'm after something that would work well for Indie Pop/Rock kinda stuff - so something that works well for real sounds / something that I would be able to use as a stepping stone for real drum tracking. Even better if the sounds are flexible enough for me to avoid drum tracking all together. \ud83d\ude42\nSuperior Drummer 3 seems to pop up a lot but just wanted to see what you guys are using? \nCheers.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1080733919609110589",
+    "author": "David Fuller",
+    "date": "2023-03-01",
+    "content": "Plus, its built in midi editor is some top grade stuff",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089041530234359868",
+    "author": "Calvin Lauber",
+    "date": "2023-03-24",
+    "content": "Favorite prophet VST? The Arturia one?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089130318608482374",
+    "author": "Ross Fortune",
+    "date": "2023-03-25",
+    "content": "On phone speaker feels like something one of the good drum plugins (EZ Drummer etc) might do better than individual samples. @hyanrarvey ?\n\nTravis Barker pack might get you close on the kick though",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089144703175372882",
+    "author": "ALXCPH",
+    "date": "2023-03-25",
+    "content": "Is ez drummer still the go to for realistic programmed drums?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089171279623508048",
+    "author": "chris_donlin",
+    "date": "2023-03-25",
+    "content": "I\u2019ve seen more positive talk on SD3 than EZ drummer. Worth checking out",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1089253516868063384",
+    "author": "hyanrarvey",
+    "date": "2023-03-25",
+    "content": "You def need a vsti for like rock drums",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1090817870012874894",
+    "author": "ehutton21",
+    "date": "2023-03-29",
+    "content": "I hate when the VSTs start barking and growling mid session",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1092641447183917086",
+    "author": "Slow Hand",
+    "date": "2023-04-03",
+    "content": "My go-to synthesized 808 is the 'Punch In the Balls' preset on NI *Razor.* It's great for modern aggro 808s, but less good for boomy, fluffy classic 808s. It's super tight with it's articulation, though.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1096140365490290718",
+    "author": "spectrummasters",
+    "date": "2023-04-13",
+    "content": "Thank you ruairi for your thoughts . V helpful and pertinent. I agree with you very much (at my own current level ) with regards to what mastering means, I agree it should feel like a sacred moment for everyone . Stepping away from the work and letting it take on its own life in the world , not continually calling it back for \u201cwhat ifs and afterthoughts \u201c until the moment it was , is lost ...and now its not the capture and articulation of those days in the studio....but musical ponderings attached to those studio moments . But how to articulate this to a young artist who hasn\u2019t been through this passage yet can be tricky. In my culture , here in south London we are v careful to never tell each other what to think or to \u201ccorrect\u201d one another , it\u2019s felt as a disrespect and respect is all in my circles.....I don\u2019t disagree with it, but it makes it very hard to create \u201cteachable moments \u201c . The ideas I\u2019ve received from you and Noah are both genuinely applicable and helpful though in exactly this conundrum and I feel a little lighter already . \u201cWeighting \u201c:is a great concept to consider . Thank you",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101274419189530696",
+    "author": "Sean Rogan",
+    "date": "2023-04-27",
+    "content": "hello all, long-time instrument recording enthusiast trying to open up to midi - was wondering if anyone had any particular VST  recommendations? in particular synths and drums.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101867139469692938",
+    "author": "esquinalee",
+    "date": "2023-04-29",
+    "content": "Now, one thing I still haven\u2019t taken the time to figure out and do is recording a rough pass on the P6 for a part while recording its midi, and then sending the midi back from the DAW into the Prophet to \u201cplay\u201d the part time & velocity adjusted for a perfect performance while I\u2019m free to use both hands to adjust parameters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1101867420093784104",
+    "author": "esquinalee",
+    "date": "2023-04-29",
+    "content": "That\u2019s one thing I always wanted to to with the soft synths but couldn\u2019t make happen with automation and midi mapping personally",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1102586445396455455",
+    "author": "esquinalee",
+    "date": "2023-05-01",
+    "content": "I\u2019ve got some time today to try this\u2014I just haven\u2019t gotten to sending the midi back out from a track through my interface into the prophet yet",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103375313041367171",
+    "author": "popaganda.",
+    "date": "2023-05-03",
+    "content": "The conversation analogy doesn\u2019t really fit all the way. All music is self-dialog, and anyone who gets remotely close to good at this knows how to have a compelling music conversation with themself. But the distinction comes in the execution. Mozart in midi vs the LA Phil.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1103376388574163116",
+    "author": "hyanrarvey",
+    "date": "2023-05-03",
+    "content": "No one wants to hear a funk band to the grid and played by midi instruments",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108602095101284434",
+    "author": "NoahNeedleman",
+    "date": "2023-05-17",
+    "content": "Had to rock a quick turnaround for a sync pitch today. Used Studio Drummer in Kontakt- chose some stock drum grooves, dragged the midi onto the channel and adjusted velocities of the kik & snare. I couldn\u2019t figure out how to mult it out without googling so I just mixed it in the plug-in. It\u2019s legit not cool sounding at all, but honestly it was useful and it got me to a pitchable place. \nAnybody else using workflows in and around kontakt that allow you to mult & trigger more interesting samples?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1108602708140769300",
+    "author": "LAPhill",
+    "date": "2023-05-17",
+    "content": "I usually just duplicate the MIDI to individual Kontakt instances and mute/delete everything but the drum I want.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1119462396587692053",
+    "author": "NoahNeedleman",
+    "date": "2023-06-16",
+    "content": "NI Session Horns has a LOT of capability, but the work to navigate each articulation really is time consuming. I managed to get some pretty convincing performances, but if time is money, it\u2019s not worth it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1119463672289435678",
+    "author": "Deleted User",
+    "date": "2023-06-16",
+    "content": "no mod wheel though. It\u2019s pretty good for fp, staccato, some basic articulations, falls and shakes\n\nbut regular sustain samples sounds so fake. most of the time programming with fp or layering them with fp to get that attack and shape.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1119480116867768380",
+    "author": "Slow Hand",
+    "date": "2023-06-16",
+    "content": "Maybe there's a solution to this problem where composers still sequence horns the old-fashioned way, using passable MIDI/sample mockups that don't get 100% there. Then the DAW does an offline pass when bouncing where it uses an AI model to fill in the blanks to make the legatos feel convincing. Or maybe it interpolates tongue-slaps into the performance in a way that carries over the resonance from the prior notes, or colors \"outside the lines\" by injecting a certain amount of \"frenzy\" into the playing that modulates pitch, intensity, timing, or overall \"vibe\". Or maybe it makes the timbre \"a little more Duke Ellington and less John Williams\". Or maybe it renders a double-tracked horn that's not just a pitch-modulated version of the source audio file.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1126346807144894505",
+    "author": "Zack Hames",
+    "date": "2023-07-05",
+    "content": "Any and everything is on the table! Blending layers of real snare recordings, synth hits, aggressive EQ and other mixing techniques. There are no rules.\n\nEven If you take a plain snare recording and have it at a single velocity and program it, it suddenly sounds like a sample!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1129454094952697906",
+    "author": "Deleted User",
+    "date": "2023-07-14",
+    "content": "@LAPhill I\u2019m struggling with making staccato string phrases sound lively with Midi strings. I don\u2019t know why but for some reason, the string libraries I\u2019m using wouldn\u2019t let me control dynamics with modwheel. And round robin feels unnatural. \n\nI\u2019m using LASS 2 and Cinematic Strings 1. \n\nI have to reference the strings in this song - at 1:30. The reference is very robust and energetic, smaller section- and I\u2019m having a hard time achieving this\n\nhttps://www.youtube.com/watch?v=tsmPCi7NKrg",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1129456084374012075",
+    "author": "Deleted User",
+    "date": "2023-07-14",
+    "content": "Ah I see! I\u2019m gonna play with the velocity and see if that helps, thank you \ud83d\ude4f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1143995442468757507",
+    "author": "Jonathan Jetter",
+    "date": "2023-08-23",
+    "content": "I like Trigger. You can also pull MIDI from it (slightly cumbersome implementation on that aspect, but it works).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1144000375800742001",
+    "author": "Edward Rivera",
+    "date": "2023-08-23",
+    "content": "Yeah the midi isn't it's best feature, the free version of Massey DRT works wonders for that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1149665878032523394",
+    "author": "austenballard",
+    "date": "2023-09-08",
+    "content": "Nobody asked, but here's a zip of basic MIDI swing presets I made this morning for my own use. 8th and 16th notes at 1/8th and 1/6th intervals from 13% up to 88%.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1155246424498372618",
+    "author": "Skyler Young",
+    "date": "2023-09-23",
+    "content": "Works in all the big daws - Vst3, aax, and au versions",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1155936262541279232",
+    "author": "Skyler Young",
+    "date": "2023-09-25",
+    "content": "Oh great point ! I honestly dont have experience with midi assignable gear so this didn\u2019t cross my mind but will definitely do this thanks",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1155962223953457343",
+    "author": "LAPhill",
+    "date": "2023-09-25",
+    "content": "Yeah, I see both sides. When I open up a new VST with a lot going on, I'd like something that immediately highlights what it can do, lest its best features go unexplored. I'll resave the default once I know my way around.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1166115822805205052",
+    "author": "chris_donlin",
+    "date": "2023-10-23",
+    "content": "Anyone have trouble with Arturia stuff not arpeggiating well? Im trying to use the Mini V it's sounding like it's falling in and out of a swung rhythm just every so slightly. The track is kick snare drum machine so everything needs to be tight. this arp bass is throwing everything off. I tried programming the midi and triggering my Poly D but im digging the sound of the Mini V more for the first time. Anyone try UAD's version?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171160099348295781",
+    "author": "chris_donlin",
+    "date": "2023-11-06",
+    "content": "Well it's complicated i guess. i bounced the vocal to Ableton cus midi in PT blows",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1171988395510202478",
+    "author": "Yoel",
+    "date": "2023-11-08",
+    "content": "I have a yamaha piano and it can receive midi and transmit midi. Let\u2019s say I have a midi file but I want to get the sound from the Yamaha keyboard, is it possible to send midi in and receive audio from it and record it in my daw? \n\nIt\u2019s Yamaha Digital Piano CLP440 \n\nAnyone know how to do this in Pro Tools?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1172017620128628736",
+    "author": "LAPhill",
+    "date": "2023-11-08",
+    "content": "You might need an offset on the MIDI track for it to play back in sync",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1174765354510196858",
+    "author": "mariano",
+    "date": "2023-11-16",
+    "content": "hey Phill, big thankss for all the info \u2764\ufe0f Love your work, and your advice is super appreciated. Defo will take a look at those libraries you mentioned.\n\nSo, when you're working with midi controllers for modulation in real-time, do you typically write out the notes in midi first and then handle the modulation manually afterward? Seems like it could get tricky playing the notes and tweaking knobs simultaneously.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176918559071404112",
+    "author": "LAPhill",
+    "date": "2023-11-22",
+    "content": "I use faders on an iPad, but ideally you\u2019d have some physical faders. I wouldn\u2019t recommend anything too small, I prefer at least 60mm throw faders, but any MIDI keyboard with some built in would be fine. I like to ride expression and mod together, so the mod wheel on a keyboard wouldn\u2019t cut it for my needs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176949204145414155",
+    "author": "BatMeckley",
+    "date": "2023-11-22",
+    "content": "Not sure. I assign them to midi cc\u2019s but are you saying you\u2019d hover over a part of the plugin with your mouse, then reach for the monogram and turn the knob?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176952481834602648",
+    "author": "Nacho Sotelo",
+    "date": "2023-11-22",
+    "content": "yes, exactly that, is useful for Pro Tools that is not that MIDI friendly",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1176952997318754415",
+    "author": "BatMeckley",
+    "date": "2023-11-22",
+    "content": "That seems like so much more trouble than it\u2019s worth\u2026 you\u2019re already there with the mouse! But afaik that\u2019s not something the monogram cc does, but I could be wrong. FWIW I\u2019m basically only protools and I\u2019ve had no problem with the midi implementation.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1177987964945584339",
+    "author": "Josh",
+    "date": "2023-11-25",
+    "content": "All of the key based stuff is crazy. Especially with meld. And then I\u2019m really stoked for the note groups to have them trigger randomly. Also the midi generator is cool",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1178126989257887775",
+    "author": "itMIGHTbeNICK",
+    "date": "2023-11-25",
+    "content": "I'm getting ready for one of many christmas concerts I'm playing this year and for 3 of them... I'm trying to figure out the best way I can sing and do vocoder from a VST. I usually have just used a roland JDXI but I dont have one this year... My Midi controller is an arturia Keylab 88. What can you guys educate me with for Vocoders in the box",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1178133524683960350",
+    "author": "Slow Hand",
+    "date": "2023-11-25",
+    "content": "Vocoders are finicky, temperamental, and need a sweet spot to work their best. This one is always dialed in perfectly and retains great vocal articulation.\n\nI suppose the one downside is that you can't change the underlying synth patch that's used as the carrier signal. But unless you're really opinionated about what you want, then it's going to be the right choice 95% of the time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1181714060002209792",
+    "author": "kidcutler",
+    "date": "2023-12-05",
+    "content": "I use an MPC 2000 and a little pocket operator, both fun, but \u201cfeeding\u201d them is a chore. Had the 2000 linked to logic but that midi configuration was a pain. The little pocket operator KO is quick and has the mic, if you want to dabble and quickly unlock an idea it crushes, mine was like $40",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1181770703100461188",
+    "author": "Zack Hames",
+    "date": "2023-12-05",
+    "content": "(Or I do general MIDI keyboard drums)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1181854366966235206",
+    "author": "Deleted User",
+    "date": "2023-12-05",
+    "content": "I think the tactile workflow aspect is really nice on Maschine. From what I\u2019ve heard from those that\u2019s both been on AKAI and Maschine, they have better velocity response than AKAI. Which is why a lot of Akai users mod the drum pads to make them more velocity sensitive. I\u2019m thinking about doing one myself for my Akai controller",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1183500705135333376",
+    "author": "Rob Domos",
+    "date": "2023-12-10",
+    "content": "As a dude who's musical education was mostly in accapella music and who's production has mostly been midi that was easily quantizable, my sense of rhythm is nowhere near tight enough for the tier of work that I've been entering into lately. This means if I play something, I'm going to need to be quantizing audio and I'm relying on the visual aid of the waveform because my inherent sense of groove is pretty weak. So I'm looking for advice on quick heuristics for quantizing audio. \n\nTodays example: I played some palm muted acoustic guitars, I've marked the scrape of the pick in red and the peak of the waveform where the note truly starts ringing in green. The waveform actually starts a little before the scrape as you can see where the pick touches the string wave over on the left . How are y'all thinking about which part of this waveform should fall on which side of the beat?",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1186742270221889566",
+    "author": "jonmatteson",
+    "date": "2023-12-19",
+    "content": "on the hunt for a decent feeling 49 or 61 key midi keyboard again. \ndo you have one you dig?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1194684399489405070",
+    "author": "LAPhill",
+    "date": "2024-01-10",
+    "content": "MTC and MMC are likely your best bets. But MIDI is not sample accurate, so you can expect some milliseconds of drift at least, different each time you hit play. Might be fine for coming up with parts, but it\u2019s not a great solution for a whole project. \n\nThe only tech I\u2019ve seen that gets around that is Avid\u2019s Satellite Link, but that\u2019s just for syncing Pro Tools rigs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1196607959296376893",
+    "author": "Rollmottle",
+    "date": "2024-01-15",
+    "content": "many ways to solve the problem. i've sampled myself playing the notes and then programmed the guitar part and have also sampled myself and then played the part via MIDI. no rules.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1197060142504624198",
+    "author": "spectrummasters",
+    "date": "2024-01-16",
+    "content": "More hat and snare samples can then be used as quieter layers to start layering shuffles in other parts between the beats . The first 16th after the downbeat and a 16th before the the offbeat in beat 2 and 4 all work , but it\u2019s then much more about velocity really . The idea is your hats and snares all start shuffling into each other , through the bar , again with the accent around the 3 . Resolving in beat 4 and back around for the next downbeat",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1197752695830892554",
+    "author": "alex stinson",
+    "date": "2024-01-18",
+    "content": "Does anyone have any ideas for the best way to replace the sound of a printed click track? For context it\u2019s for a live show- approx. 2 hours in length (tempo & meter changes all over the place). I have no access to the original MIDI, only a printed audio file of the click.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1197753883896856616",
+    "author": "Rollmottle",
+    "date": "2024-01-18",
+    "content": "You can generate MIDI from an audio file in Ableton if you needed the MIDI. I\u2019m sure you can do this in other DAWs or a plugin too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1198079581970767914",
+    "author": "Deleted User",
+    "date": "2024-01-19",
+    "content": "newer protools also have drum to midi feature",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1202240851334680576",
+    "author": "alex stinson",
+    "date": "2024-01-31",
+    "content": "Following up on this- I had the best success using a drum replacement plugin. Audio to MIDI in ProTools was unreliable (randomly missing a bar or two throughout the show). All sorted now, Thanks everyone for the suggestions!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1204165092661399602",
+    "author": "SoundsLikeJoe",
+    "date": "2024-02-05",
+    "content": "Sleeper plugin alert:  Retrologue 2 is one of the fattest classic sounding synth VSTs I have.... and I have most of them.  Very beefy. Good filters. I could fire up the ARP  2600 FS and still...  I'm using this plugin. It's wild that more people aren't listing this thing as a first recommendation synth.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1204177338158289057",
+    "author": "Zack Hames",
+    "date": "2024-02-05",
+    "content": "This is good to know. I haven\u2019t found a single vst that feels like my prophet, OB-6, Moog, etc. I\u2019ll have to check this out!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1207414795733704765",
+    "author": "Zach Hughes",
+    "date": "2024-02-14",
+    "content": "Producer peeps, any recommendations for violin / strings vsts for demo'ing out parts? Closer to natural / organic sounds than overblown / processed / fake af sounds. I've got some Spitfire / NI options but wondering if there's something better out there",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1207418315094630410",
+    "author": "Slow Hand",
+    "date": "2024-02-14",
+    "content": "Yeah. I'm asking if you want samples of solo string instruments or a string section.\n\nFor ensemble I've been enjoying the *NI Session Strings 2*. I've also got the *Spitfire BBC Symphony* but I'm less fond of those because they're recorded from an orchestral perspective and have a lot of room sound baked in, whereas *Session Strings 2* have a closer perspective. If you want an ensemble sound plus some major grit and close-miking I *do* like the *Bernard Hermann* orchestral library from Spitfire.\n\nFor solo strings the *NI Cremona Quartet* instruments are really, really nice. They're a pleasure to play with and sound fantastic. These have maximum presence too, so you can get some very direct sounds with them. I'm really enjoying them. The articulation and tonal options are extremely thorough.\n\nA while back a few people recommended *Sunset Strings* by Realitone. While I haven't used it yet, they look very promising. They seem to be serving people who want a rock/pop string feel, which could be just the ticket.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1209168201225736272",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-02-19",
+    "content": "Artist I\u2019m working with asked me to pitch up a song one or two half steps (she will decide the next few days) normally wouldn\u2019t be a problem since I usually keep all the midi around but this was started by another producer and I only have audio from him and afaik he right now doesnt have access to the hard drive with the session. Additionally a lot of his stuff was real electric guitars with no MIDI anyway \nI\u2018m working with pro tools atm do you guys think the pitch shift algo is reliable enough or should I switch to something different e.g. melodyne and if yes is there anything you can recommend?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1209169350330683412",
+    "author": "Zack Hames",
+    "date": "2024-02-19",
+    "content": "As far as PT is concerned, the new ElastiquePro has been pretty great for everything other than drums where I still use \u201cRhythmic\u201d.\n\nYou also might experiment with pitching all of the non midi stuff TOGETHER; I find that when you pitch each individual element or track, it opens up more chances for errors/glitches. But that may not be possible.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1210608589753028628",
+    "author": "SoundsLikeJoe",
+    "date": "2024-02-23",
+    "content": "It's the way they edit the samples imo.  ALL the SFA string products are missing the natural attack of the bow on the Long articulations. The shorts, spicc, marc, etc...  still have the bow attack and you can hear the difference in isolation.   In order to make their Symphonic series strings sounds rich and bite,  I use LASS from AudioBro to add definition.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1211352927730536549",
+    "author": "thegreatcarsoni",
+    "date": "2024-02-25",
+    "content": "Yep, looks like Pro Tools has a function called MIDI Track Offsets",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214704722561204256",
+    "author": "Edward Rivera",
+    "date": "2024-03-05",
+    "content": "Drum vst question - I don't own any. BFD is currently on sale and I haven't used it in about 15 years (it was great back then) is it worth getting in 2024 ? What does it do that other vst's like superior drummer can't ? What can it _not_ do that others can ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214723430197501983",
+    "author": "Slow Hand",
+    "date": "2024-03-05",
+    "content": "Damn. I\u2019ve had my eye on Superior Drummer for a minute and y\u2019all are making it look tastier and tastier.\n\nSomeone talk me out of it. What\u2019s is it not good at?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214780402116337675",
+    "author": "Josh",
+    "date": "2024-03-05",
+    "content": "Superior drummer rips",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1214800065995083796",
+    "author": "Zeuswayn3",
+    "date": "2024-03-05",
+    "content": "Totally agree that superior drummers quality is great, but it doesn\u2019t sound good out of the box or with their \u201cmixed\u201d presets.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1234933136102522970",
+    "author": "Slow Hand",
+    "date": "2024-04-30",
+    "content": "Not sure how to with stock Pro Tools, but since you're doing a lowpass sweep with an envelope follower, it's possible that one of your more generic LPF plugins would have that feature built in.\n\nIs the choir a VST instrument? Depending on the sampler you may be able to configure a LPF in the sampler that responds to that behavior.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1236686157027348593",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-05-05",
+    "content": "do you guys when producing in the box take steps to quickly commit to ideas earlier? I see myself doing it a lot when printing MIDI to audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1239251698908795062",
+    "author": "Calvin Lauber",
+    "date": "2024-05-12",
+    "content": "Is there a recommended plug-in/vst for super quickly dropping in an audio file (say a drum loop) and assigning different bars of it to midi pads on my controller? I know most sampler plugins can do this but sometime it feels too clunky and like, too many options. I\u2019d love to record a drum loop and then fairly immediately be able to play pieces of it on a sampler. I\u2019m in pt",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1240518840731828274",
+    "author": "Slow Hand",
+    "date": "2024-05-15",
+    "content": "Does anyone know if there's a program, synth, or protocol that allows you to modulate synthesizer envelope times based on the duration of the MIDI note?\n\nFor example, if I draw a quarter note (on the piano roll) and my synth plays a one octave downward sweep it would take a quarter note's worth of time to execute that sweep. But if I draw a MIDI note with a whole-note duration the synthesizer would modulate it's envelope time and that same sweep would descend over the course of a whole-note.\n\nThe synth would have to read upcoming MIDI note lengths from the the piano roll and modulate it's parameters on a note by note basis by reading the note duration before the note-on message. There would have to be some sort of communication between the synth and the DAW, and of course it would not work in real time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1240523344097575084",
+    "author": "Slow Hand",
+    "date": "2024-05-15",
+    "content": "The *Massive X* sequencer is close, but you still need to trigger the sequence using a held MIDI note, so there's this extra layer of abstraction between drawing the gesture and triggering it.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1240848961611497632",
+    "author": "Skyler Young",
+    "date": "2024-05-16",
+    "content": "Yeah unfortunately the biggest issues with DAWs in my opinion is plugins being able to see into the future. Plugins are limited to what is happening in the current buffer.\n\nCould be done with a melodyne type system where you record the midi into the plug-in before hand",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1240850370163511396",
+    "author": "Slow Hand",
+    "date": "2024-05-16",
+    "content": "My first reaction is that Melodyne-esque pre-loading sounds like trading one crummy problem for another, but maybe there's a way to make the process happen a lot faster since it's only MIDI data, and far more lightweight.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241075656583024762",
+    "author": "Slow Hand",
+    "date": "2024-05-17",
+    "content": "The only way without more communication between the DAW and the plugin, right? That sounds right. Do you find yourself wishing for similar features often when designing plugins? What else would you like to see implemented, if you could have a new protocol?\n\nHave you looked into the MIDI 2.0 protocol at all? (I haven't) I wonder if it could be expanded to poll timeline information from the DAW. It would still be a tall order to get all parties (plugin devs and DAWs) to agree on something like that, but not impossible.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241080579043364874",
+    "author": "Skyler Young",
+    "date": "2024-05-17",
+    "content": "Yes! Daws would have to send note length info - which would be super easy for them to add. I just think because midi is originally mostly geared at live playing they don\u2019t do it and could cause a crazy amount of bugs if plugins don\u2019t implement correctly\n\nYes - this is something that could unlock many types of new effects being made. For example my reverse note function would not have to be locked to a single note length anymore. Honestly that\u2019s the only thing that I really have felt is strongly needed\n\nHave not looked into midi 2.0 yet but I need to !",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241148499383419101",
+    "author": "Slow Hand",
+    "date": "2024-05-17",
+    "content": "Yeah. I'm excited to see what MIDI 2.0 can do, but I don't see many developers implementing it. Roland has released MIDI 2.0 keyboards, and the new line of NI keyboards seems to have it (though it may not be fully implemented).\n\nI wonder when DAWs will start implementing it. I'm curious to know if having more CC resolution is going to make an appreciable difference in performance.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241188794200494132",
+    "author": "Josh",
+    "date": "2024-05-17",
+    "content": "I just learned that not every DAW uses midi 2.0. That\u2019s wild.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241190375121616979",
+    "author": "Jeff Dunne",
+    "date": "2024-05-17",
+    "content": "idk PT somehow allows MIDI to be sample based instead of tick, and MasseyDRT doesn't have a VST. I still don't fully understand how the first one works but I want it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241397457959780413",
+    "author": "Josh",
+    "date": "2024-05-18",
+    "content": "Nope but I do make instrument racks of chains i use and save em for each song (when i remember to)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1241772985791287386",
+    "author": "Bryan DiMaio",
+    "date": "2024-05-19",
+    "content": "You and many other musicians are a different type of listener to the general public, where they put on a song because they like the end product and have no idea about the creation. One isn\u2019t necessarily less valuable than the other.\nOne could make the argument for sampling popular music as a way to include the listener in the homage the creator of the sampled product is paying to the original art. It can call back to a nostalgic time and help inform the context of the new form. Art is always changing and evolving and I\u2019m sure this same discussion was had at the advent of MIDI, sampling, the printing press, etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1242971719921045625",
+    "author": "chris_donlin",
+    "date": "2024-05-22",
+    "content": "Does anyone have a quick way to take a melodic riff on guitar/keys/etc and have each note play in reverse? I dont want the whole clip to just play backwards. I want the melody the same. Slice to new midi track in ableton almost gets me there but i cant reverse the samples within each sampler... or can i?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1242975212782227456",
+    "author": "Slow Hand",
+    "date": "2024-05-22",
+    "content": "I don't think *slice to MIDI* is the way here. It will become tedious if you have rests in between notes.\n\nImagine that you have a quarter note followed by a quarter note rest in your melody. If you *slice to MIDI* it will slice that sequence into a half-note length clip. If you then reverse that clip the rest will play *first*, followed by the reversed quarter note.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1244715491637854314",
+    "author": "Slow Hand",
+    "date": "2024-05-27",
+    "content": "I get a lot of mileage out of NI's *Session Strings 2*. It's a good all-rounder with solid articulations and a good sound out of the gate.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1248916178169102427",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-06-08",
+    "content": "does splice not have MIDI files anymore? I swear they used to be on there but I can't find them anywhere anymore",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1248971689862365265",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-06-08",
+    "content": "I never saw any, lemme know if you find it or any other site for good MIDI though. I was looking for some drum midi a while back and got stuck with EZ Drummer + their midi out function. Soo close to pulling the trigger on an EFNote mini kit",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1248982621334147132",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-06-08",
+    "content": "I googled it and I found threads from 5 years ago that mentioned finding MIDI on splice. Nothing recent thougj",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1249061859311620117",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-06-08",
+    "content": "Ugh, lemme know if you find good Midi stuff somewhere else!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1253134715720957972",
+    "author": "Nomograph Mastering",
+    "date": "2024-06-19",
+    "content": "It's also pretty unstable at least on VST",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1255519007579050104",
+    "author": "rawssx",
+    "date": "2024-06-26",
+    "content": "Shoutout to Audiohaze on youtube, Bro dug up articles and found the vst. Lossy by Goodhertz! What is funny, is ethan talked about using lossy on the upcoming phoebe album and after the album was out, they edited the article and cut that part out. Like bro!?!? I have been using it for a while now. Such a crazy beautiful audio manipulator and has definitely dressed me decently to use texture in songs, how better would it be if i found it earlier i tell myself.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1255928273678897283",
+    "author": "oaklandmatt",
+    "date": "2024-06-27",
+    "content": "Is there a sansamp equivalent VST? I'm editing vocals in pro tools before I move everything back to ableton per usual, and of course I threw sansamp on some adlibs and forgot how perfect this plugin is for THAT sound. cc: @cian riordan @Slow Hand",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1256158471187857458",
+    "author": "rawssx",
+    "date": "2024-06-28",
+    "content": "I was wrong about the tony berg thing, soo wrong. I dived into phoebe\u2019s stuff just last week, funny that it took me 4 year to check out an Amazing album even thou i have been following her on instagram since 2020. What blew me up was, most of the modern productions in the pop side of industry, the sad songs, all of them are inspirationally ripping phoebe\u2019s sound. I was mad at tony berg when i saw his interview where he gatekept a vst they used throughout the album to get that muffled texture. But in the past two days, i also realised he said \u201cWe are not going to tell you the vst just so you at home can not replicate the sound\u201d. I thought that was asshollery until i realised that they are actually being ripped so hard in the industry and that they really gotta protect their sound. Tony, Phoebe, Ethan these guys are hidden unknown diamonds \u201ci think (like me) a lot of people know phoebe as a celebrity than a music artist, or that was just me being lazy to check out her songs\u201d but i feel like everyone needs to experience their music.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1256159897012142101",
+    "author": "rawssx",
+    "date": "2024-06-28",
+    "content": "Good for you, i am saying that as a listener, not as an analyst. And so does anyone who listens to sad pop music, the guy who found out about the vst on youtube he also mentioned \u201cEveryone is trying to copy phoebe\u201d that is true. Not only did they gatekeep the sauce lol, even the mic they recorded vocals on.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270445686206238740",
+    "author": "FlugeBluge",
+    "date": "2024-08-06",
+    "content": "Hey there friends. For a guy a bit fresh on this journey, what are most professionals using to sequence / program live sounding drums? Are most people using superior drummer, other options, or a combination of things?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1270445897238712495",
+    "author": "FlugeBluge",
+    "date": "2024-08-06",
+    "content": "I've heard good things about Superior Drummer, but I'm also interested in something where I could occasionally import or use external sample packs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1277728192152600759",
+    "author": "Rollmottle",
+    "date": "2024-08-26",
+    "content": "My buddy and I are working on a remix. It's being done in Ableton. He tinkers with parts on his own in Logic against the rough and he added a great part with a Logic instrument that is good...but it has a very specific effect that I'd like to recreate in Ableton. Anybody have any thoughts on how to get this rhythmic gating effect using Ableton effects or know of a plugin that makes this trivial? I've included a sample of the audio, a screenshot of the Logic patch and a screenshot of the very straightforward MIDI from which it is derived. (Worse comes to worse we can use an export of the audio, but would like to see if I can crack it for maximum flexibility).\n\nI tried fucking with Beat Repeat and it's close, but not quite the same. Anybody have any bright ideas?",
+    "reactions": 0,
+    "attachments": 3,
+    "is_pinned": false
+  },
+  {
+    "id": "1277733216249450649",
+    "author": "Slow Hand",
+    "date": "2024-08-26",
+    "content": "That would give you the most rhythmic control and then you can tweak the gate depth/atk/hold/release times to get the precise articulation you want, or even modulate them as the song progresses.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1277733931516690432",
+    "author": "Slow Hand",
+    "date": "2024-08-26",
+    "content": "I\u2019d favor this approach over drawing in the automation or using a sequencer with stepped gain values because it\u2019s more tedious to make tiny changes to the global articulations on the fly.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1281004184711200770",
+    "author": "Chad Rodgers",
+    "date": "2024-09-04",
+    "content": "I did a thing for a new Duracell battery announcement video a few years ago, not as epic as the UN and world peace but it sounds like a similar vibe (two people in a clean corporate setting talking about their vision for the future, clean tech, innovation and legacy, nice B-roll etc). \n\nFor this I did a simple high-shelved felt piano piece where it glided up and down, sometimes layered to give body and tension, and used soft white noise and other relatively muted tones to create movement and moments in the form of risers and sweeps etc. It was relatively unobtrusive and tonally appropriate for the subject matter, whilst being a little bit uplifting too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1281938901618917406",
+    "author": "Jonathan Arnold",
+    "date": "2024-09-07",
+    "content": "What VSTs did you try?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1282004140951605439",
+    "author": "Eric Martin",
+    "date": "2024-09-07",
+    "content": "As a player I like pushing air and haven\u2019t found a vst that sounds like my 68 Bassman & Late 70\u2019s Rhodes cab, BUT as a listener, I have recorded so many parts with the HX Stomp that almost no one would recognize in a mix isn\u2019t an amp.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1282754581935296572",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-09-09",
+    "content": "Seen a few sites etc floating about but I\u2019m surprised it\u2019s not more widespread. Stuff including VSTi:s etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1282767223710027787",
+    "author": "Zach Hughes",
+    "date": "2024-09-09",
+    "content": "Ah gotcha. Interesting idea. I imagine there'd be individual licensing bottlenecks. Might be difficult to sell a production template requiring folks to then separately purchase additional licenses for VSTs, plugs, etc...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1282776261604671598",
+    "author": "Zach Hughes",
+    "date": "2024-09-09",
+    "content": "It is interesting. More beginner oriented. I've seen many selling VST packs, sample packs, presets, etc... Could make sense to bundle it all up and make available across multiple DAWs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283888257515388969",
+    "author": "kylem",
+    "date": "2024-09-12",
+    "content": "Apologies if this has been asked before - best piano vst for all around production needs? My friend is using stock logic piano for everything. Trying to get him to level up. Is addictive keys the move?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283889913649037322",
+    "author": "Adam Thein",
+    "date": "2024-09-12",
+    "content": "Keyscape rocks, just finally caved and grabbed that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283890061733007371",
+    "author": "Adam Thein",
+    "date": "2024-09-12",
+    "content": "For a total beginner with libraries I\u2019d take a hard look at the UVI Key Suite, covers basically the same ground and a bit more than Keyscape for less $$",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283894545095987240",
+    "author": "kylem",
+    "date": "2024-09-12",
+    "content": "Definitely going for most straightforward option. Like, open vst and click through sounds",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1283895423597150218",
+    "author": "Slow Hand",
+    "date": "2024-09-12",
+    "content": "Speaking of piano instruments, I'm in the market for a MIDI three pedal controller (sustain/sostenuto/soft) to go with my Korg SV-1. Does anyone have a three pedal sustain that they'd recommend?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308598098670391337",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-11-19",
+    "content": "what's the most accurate/fastest way to extract a drum performance to midi from drum bus audio or a full song? Ideally with estimated velocities and micro timing intact",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1308629618613289030",
+    "author": "cy (sigh)",
+    "date": "2024-11-19",
+    "content": "as far as I know best bet is something like slate trigger 2, or uvi drum replacer. S1 can convert transient markers to midi too so I assume Cubase and reaper probably have a similar function. you'd still have to at least filter out the hits. \n\nblack salt audio has a gate specifically to separate hits and it's supposed to be really good.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1312972900285808763",
+    "author": "Slow Hand",
+    "date": "2024-12-01",
+    "content": "What would be really helpful would be a way to inject variations into static samples. I'd like an AI tool that takes a static drum sample and renders 10+ variations that can be used for velocity or round-robin variations. *That* would be a cool tool.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1313405163528257587",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-12-02",
+    "content": "You think so, in fully programmed beats? Idk I see people talk about humanizing/organic groove a lot, and people spend so much time pitch shifting handfuls of cents and varying layers/microtiming/velocity to get to a less machinegunny/real place",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1315214680041459742",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2024-12-07",
+    "content": "Question to producers: What VST instrument has had the biggest impact on how you create music? (what's the closest to a \"game changer\" vsti for you?)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319356784833466510",
+    "author": "OJ",
+    "date": "2024-12-19",
+    "content": "Also, does anyone have knowledge on this...\n\nAs I'm downloading all my plug ins, Soundtoys bundle here, I'm getting AU, VST2, VST3 versions. \n\nI can turn them on and off in Ableton Plug Ins settings, is there any preference what's best? Just so I'm not having duplicates clogging things up.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1319358200587223040",
+    "author": "vostral",
+    "date": "2024-12-19",
+    "content": "I use ableton and only vst3 for almost all plugins atm",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319358513364996120",
+    "author": "Adam Thein",
+    "date": "2024-12-19",
+    "content": "I did a deep dive on performance a few years ago prepping a live show and it's pretty inconsequential on a modern computer.  If you are ever possibly collaborating with someone on a Windows machine you'll want to use VST for compatibility.\n\nGeneral rule of thumb is to not mix and match on the same plugin multiple instances (I believe this is recommended in the Ableton Live manual) but hard to go wrong.\n\nAnecdotally I seem to have more issues with AU over here than VST2 or VST3 with plugins hanging or disconnecting.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319358899756728392",
+    "author": "OJ",
+    "date": "2024-12-19",
+    "content": "Alright cheers guys ill try turning all but VST3 off for now",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319757922934198354",
+    "author": "Adam Thein",
+    "date": "2024-12-20",
+    "content": "Been kinda on the deep hunt for hardware arpeggiators that can do some specific things.  Got a Midicake ARP in the other day but was disappointed to find out it can't do keyboard splits on the input to allow you to have multiple arp patterns from different ranges on the same keyboard",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319758182381518899",
+    "author": "Adam Thein",
+    "date": "2024-12-20",
+    "content": "was hoping to find a unified piece of kit that can send multiple channels of arpeggiators all on midi clock with switchable key sync but I cannot find that product for the life of me outside of just Ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1319767245051924560",
+    "author": "Adam Thein",
+    "date": "2024-12-20",
+    "content": "yeah trying to pull off something live but requires some fancy arp programming.  Two Midicake ARPs could do it but trying to avoid going that far deep for one song live",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1328819332456910919",
+    "author": "ehutton21",
+    "date": "2025-01-14",
+    "content": "Bit of a niche request here but does anyone have a VST recommendation for a saxophone or horns ? Doing a really specific thing, and as much as I would love to do a real sax I\u2019m not sure that\u2019s within our framework. Playing around with a sample idea or two but not sure if we\u2019ll find what we want",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1332877572161146963",
+    "author": "Jonathan Arnold",
+    "date": "2025-01-25",
+    "content": "What are your favorite vsts/kontakt libraries/\u2026 that spark often some new ideas for you?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1337473121472614481",
+    "author": "chris_donlin",
+    "date": "2025-02-07",
+    "content": "@montrose recording  Whenever I used audio to midi it always detects some random notes. Did you edit the midi first or just raw dog it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1347097064474935327",
+    "author": "Sam Segarra",
+    "date": "2025-03-05",
+    "content": "I do it with Logic tempo mapping while setting up a \"scratch production\". As in I use the first version of a song to figure out while those subtle tempo shifts are going to go(as well as the general base tempo, which will often change a handful of bpm), then when I have my tempo map I retrack the stuff that isn't MIDI",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360211353960186019",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2025-04-11",
+    "content": "Anyone know of any sample libraries with modern sounding electric/acoustic hybrid sampled drum kits with many velocity layers/round robins?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1360253363261804574",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2025-04-11",
+    "content": "Maybe it's hard to explain, here's a rough example of some one shot kits for reference. Looking for something similar that has velocity layers and round robins",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1378425855319212115",
+    "author": "diamndsdancin",
+    "date": "2025-05-31",
+    "content": "is there any good sites or something where i can download midi packs for chord progressions in styles of like gunna or travis scott?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1389040110728777870",
+    "author": "andrew_yv",
+    "date": "2025-06-29",
+    "content": "Not really an answer to the second half of your question, but if you have annnnny ability to play a wind instrument, SWAM horns + an EWI controller is such an effective, facile workflow, no digging through articulations etc, just perform it how you feel it. Needs mixing to sound realistic, but can sound really good too if properly treated",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1392206543344373770",
+    "author": "hyanrarvey",
+    "date": "2025-07-08",
+    "content": "I got some tricks that can help humanize midi",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1392273008588095599",
+    "author": "hyanrarvey",
+    "date": "2025-07-08",
+    "content": "Because the leading hand is always gonna hit harder so I just imagine how they would play and the longer and faster they go the weaker the fill will be so imagine that fill at like 150 16th notes. I\u2019ll adjust depending on the tempo but like that ratio kinda works at whatever velocity you wana start so it\u2019s like",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1404615948593397893",
+    "author": "BatMeckley",
+    "date": "2025-08-11",
+    "content": "This. \nIt for some reasons gets a lot of guff from synth heads, but between it and the kontakt synths I feel I have more sw synth than I\u2019ll ever need. \n\nPlus with arturia, for like $100 you can get their cheapest little midi controller and the physical knobs integrate well with the software, giving you more of a hardware synth experience",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1404633319710396488",
+    "author": "Brian Reynolds",
+    "date": "2025-08-11",
+    "content": "My vote is for the arturia bundle. But U-he RePro 5 Is the best moog vst I've heard.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1409976623524221119",
+    "author": "Will Trotman",
+    "date": "2025-08-26",
+    "content": "For example even just stuff as small as handing them a midi controller and letting them take a stab at automating verbs or a delay throw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1416046289900011552",
+    "author": "SoundsLikeJoe",
+    "date": "2025-09-12",
+    "content": "Sanity check...    I came up producing with sampled drums, and always seemed to get fine sounds.  The last 5yrs, I've done almost exclusively live drum sessions.  Today I'm back to programming, and EVERY SINGLE snare and kick sample just sound squashed and hyped.  Over compressed?  High shelf boost? Very clicky kicks. Very flat snares. Idk...   just doesn't sound very satisfying and I want my drummer here, please. This is after digging through Addictive Drums 2 and the basic Superior Drummer. \n\nCan you confirm?  Should I look to upgrade my samples or find other kits?  What's your go to drum samples for programming rock?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418310705106387166",
+    "author": "Zack Hames",
+    "date": "2025-09-18",
+    "content": "-Pro Tools\n-when i load samples they 99% of the time automatically load as loops. and it takes at least 3 clicks or more to get it to just be a normal *one shot* that is triggered.\n-when I try to move the knobs for things like velocity or pitch, it gets stuck/doesn't work. I just found that if I use the scroll wheel, that seems smoother/consistent, but I hate the feeling of doing that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418311133202481182",
+    "author": "Zack Hames",
+    "date": "2025-09-18",
+    "content": "I don't give a major fuck about being able to tweak the sounds other than pitch within a sampler. (don't need effects or EQ built in necessarily but it can be nice)\nI do like using battery for key-tracking samples. but again, it still loads everything as a fucking loop by default. I just read the *entire* manual, there is 0 way to change the default way it loads in.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418312427656708166",
+    "author": "Zack Hames",
+    "date": "2025-09-18",
+    "content": "here's the workflow:\n\nI don't use many of the preset kits anymore. Just not really the sounds I'm looking for. I have a massive library of samples that i like to use. Accessing those is easy.\nThe problem is I don't make preset kits. Every session, every kit, is a different combination of things, always starting fresh. So I am in the Library view constantly going through samples/files to load into any Cell of Battery.\n\nWhen I find a sound I like, I can click it or drag it to the cell I want. This is all great.\n\nBut, the second i drop it in, I have to change the velocity from 0-100% (I saved my default preset to have all cells at 0% velocity which seems to be working). and then *every time i add a new sample or replace a sample* it makes it a loop in the \"Editor\" window. There is no shortcut, no preference, no saving a preset, that allows me to essentially remove that behavior.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418315667798626467",
+    "author": "cian riordan",
+    "date": "2025-09-18",
+    "content": "Or maybe some midi meta data getting piped through? What are you generating your midi notes with?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418316605963894904",
+    "author": "Zack Hames",
+    "date": "2025-09-18",
+    "content": "I've got my prophet 6 going midi out to a MOTU midi USB interface...it doesn't matter if I use that, put a midi note in the piano roll with my mouse, or if I click the cell to hear the sound, it all behaves the same way.\n\nI am going to experiment with the files themselves and where the files live to see if it fixes anything.\n\n\"load into cell\" so far has not worked. it just sits there and nothing loads in. IDK if that's a sample rate issue of some kind",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1418319918486650880",
+    "author": "Will Melones",
+    "date": "2025-09-18",
+    "content": "Battery is super buggy over here too, but it sounds like in very different ways",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1431660790124908634",
+    "author": "Jonathan Arnold",
+    "date": "2025-10-25",
+    "content": "What do you guys reach for when you want to add stomps or claps to your Production? A VST Library? Splice? I am on the fence of getting: https://www.bozdigitallabs.com/el-clapo/?utm_campaign=Prospecting+%2F%2F+CBO+%5B9.10.25%5D&utm_source=facebook&utm_medium=paid&hsa_acc=137005211&hsa_cam=6972048258009&hsa_grp=6972048258209&hsa_ad=6972055249009&hsa_src=fb&hsa_net=facebook&hsa_ver=3&fbclid=IwY2xjawNpvJZleHRuA2FlbQEwAGFkaWQAAAZXUTzJWQEetOEKPsfVAGeYdiO1M0OtBFYAltqLJ8FooLIevMKJu2tsrPHkwhRy3v7tJ_Y_aem_kAUUJRDqJTLc0SLIv7L9Tg&utm_id=6972048258009&utm_content=6972055249009&utm_term=6972048258209",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1452274237183098941",
+    "author": "baccwardshead",
+    "date": "2025-12-21",
+    "content": "Hey guys! I'm in the market for MIDI Drum Pads for finger drumming/playing drums live or during production. Torn between the Maschine Mikro Mk3, the simple Akai MPD218 and splurging for the Push 2/3 or bigger Maschine. Analysis paralysis :/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1452354187844390942",
+    "author": "BatMeckley",
+    "date": "2025-12-21",
+    "content": "The machine series kinda locks you into the machine architecture and software. You can KINDA use it as regular midi pads but it\u2019s very very limited outside maschine. The mpd 218 you can setup to work with any software.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456816548714123457",
+    "author": "Slow Hand",
+    "date": "2026-01-02",
+    "content": "What do you mean it feels like hitting cardboard? Does the instrument have bad velocity mapping that feels unnatural? Or does it have poor response time when you use your electronic kit?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456944100803870730",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2026-01-03",
+    "content": "Yeah you're on the money, the cardboard feel is a mix of velocity mapping and the dynamic response of the samples, feels unnatural and unresponsive.\n\nStuff like Toontrack & Addictive feel great on the kit (ie more natural dynamic response, more layers and nuance), but aren't as mix-ready.\n\nGGD say that with M&M2 they explicitly addressed this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456946899641962568",
+    "author": "Slow Hand",
+    "date": "2026-01-03",
+    "content": "Glad to hear they're addressing it. You may be able to finesse the dynamics by adjusting the MIDI velocity curve going to the instrument. Something like this.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false
+  },
+  {
+    "id": "1456947138796851212",
+    "author": "Slow Hand",
+    "date": "2026-01-03",
+    "content": "I imagine most electronic kits will have this feature that lets you bend the transfer curve, but you could always use a device to filter the MIDI messages before they reach the plugin. A lot of DAWs have them these days.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456949294321107076",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2026-01-03",
+    "content": "Good shout, appreciate the thoughts!\n\nThe libraries have velocity curves per kit item built in, been mucking about with it but there's a mix of not enough velocity layers (which get even more uneven spread when changing velocity curves), few round robins, not enough variety in the samples, and just something else with the response I can't put my finger on. \n\nI starting to think there might be an inverse correlation between basic mix-readiness/consistency and play feel. \n\nCurious where M&M2 falls, but a bit daunted with the opportunity cost of familiarizing myself with another full-featured sampler/mixer \ud83d\ude05",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1456956786836770991",
+    "author": "Ross Fortune",
+    "date": "2026-01-03",
+    "content": "Beyond the velocity layers etc, are there any steps you could try like easing off / bypassing onboard bus / individual compression?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1465751554991718667",
+    "author": "Rob Domos",
+    "date": "2026-01-27",
+    "content": "Maybe you take it for granted but as a shitty producer myself who has rarely touched a mod wheel on a production and usually clicked/drew in everything that wasn\u2019t just the velocity information this was sick to me",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1466268066714489029",
+    "author": "Rollmottle",
+    "date": "2026-01-28",
+    "content": "Yup. I wasn\u2019t trying to equate performing and mixing or even specifically talking about making orchestral VSTs go. Just reacting to the idea that turning off the performance (or mix or songwriting or some other inextricably linked piece of music)  is some major revelation\u2026see how much better it is when it\u2019s performed!? See how much better it is when you work on it!? Well\u2026yeah.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1466561471730155702",
+    "author": "chris_donlin",
+    "date": "2026-01-29",
+    "content": "Velocity and timing nuances  are king",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472292821787480317",
+    "author": "diamndsdancin",
+    "date": "2026-02-14",
+    "content": "i have this short basic sample, when putting it in ableton and converting to harmony\n\ni really want to take the whole chords by it but ableton isnt always spot on with it\n\ndoes anyone recommend the best way to convert samples to midi",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472300526988300514",
+    "author": "Beck Nebel",
+    "date": "2026-02-14",
+    "content": "And you don\u2019t really covert a sample to midi - you can use midi to play a sample by using a sampler as your instrument",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472302395223707752",
+    "author": "Adam Thein",
+    "date": "2026-02-14",
+    "content": "I think you need assistant for Audio to MIDI, and editor for polyphonic editing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1472302751038832691",
+    "author": "Adam Thein",
+    "date": "2026-02-14",
+    "content": "A quick google shows a ton of free audio to midi tools out there now - maybe worth trying those before buying anything",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  },
+  {
+    "id": "1473525279539335314",
+    "author": "Slow Hand",
+    "date": "2026-02-17",
+    "content": "I didn't realize Suno was so advanced these days. \n\nHow granular can you get with the tweaks if you need to change the note articulations? Can it do Melodyne-style inflections on a note? Or is it a little more \"spray and pray\" where you have to generate a few revisions to get what you're looking for?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false
+  }
+]

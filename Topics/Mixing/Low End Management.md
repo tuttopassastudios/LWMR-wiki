@@ -96,12 +96,35 @@ Common problem areas in the low-mid range:
 - Not addressing the kick/bass relationship specifically — hoping "it'll work out" in mastering
 - Relying on subwoofers for low-end decisions without checking on headphones and small speakers
 
+### Bass Production Perspective (from #production-talk)
+
+#production-talk adds 268 messages on bass production — focusing on the **creative/production side** of low-end management:
+
+> [!quote] Source
+> **Author:** cian riordan — **Date:** 2024-09-09 — **Channel:** #production-talk — 15 reactions
+> "Often when I'm recording drums I'll track the drummer at a higher BPM then varispeed everything down to tempo... great way to get deep low end."
+
+> [!quote] Source
+> **Author:** peterlabberton — **Date:** 2022-09-11 — **Channel:** #production-talk — 13 reactions
+> "If you have your monitoring sorted out, these sub decisions become way more intuitive and effortless. If you're just guessing on headphones, you're going to second-guess everything."
+
+> [!quote] Source
+> **Author:** Slow Hand — **Date:** 2022-07-18 — **Channel:** #production-talk — 10 reactions
+> "Obviously starting with the right bass is going to get you 70% of the way there, but you know what really surprised the hell out of me? The *strings*. If you're not getting anywhere close to the low end you want, look at what's happening above the bass."
+
+Key production-talk bass insights:
+- **Varispeed technique** — recording at higher tempo and slowing down creates deep, natural-sounding low end
+- **Monitoring is foundational** — sub decisions are nearly impossible to make accurately without proper monitoring
+- **808 development** — Skyler Young is building a custom 808/synth bass plugin because existing tools (808 Cooker, SubLab) have room for improvement
+- **Bass lives in the arrangement** — the strings, guitars, and other mid-range instruments define how the bass is perceived
+
 ## See Also
 
 - [[Drum Mixing]] — kick drum processing
 - [[Gain Staging]] — levels and headroom in the low end
 - [[Reference Mixing and Translation]] — checking low end on multiple systems
 - [[Mix Bus Processing]] — bus chain impact on low end
+- [[Beat Making and Drum Programming]] — 808 and bass programming
 
 ## Source Discussions
 
@@ -109,3 +132,9 @@ Common problem areas in the low-mid range:
 > **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
 > **Key contributors:** cian riordan, Nomograph Mastering, spectrummasters, Colin Althaus, Edward Rivera, peterlabberton
 > **Message volume:** 2,203 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #production-talk — **Date Range:** 2022-01 to 2026-02
+> **Key contributors:** cian riordan, peterlabberton, Slow Hand, Skyler Young, Eric Martin
+> **Message volume:** 268 bass production categorized messages
+> See also: [[production-talk Channel Summary]]

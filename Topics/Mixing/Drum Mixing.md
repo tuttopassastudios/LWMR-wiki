@@ -104,12 +104,31 @@ The community accepts drum sample augmentation as a standard modern technique:
 - Over-compressing the drum bus and losing punch and transient impact
 - Using drum samples that don't time-align with the original performance
 
+### Drum Production Perspective (from #production-talk)
+
+#production-talk adds 593 messages on drum programming and production — complementing the mixing perspective with **creative production techniques**:
+
+> [!quote] Source
+> **Author:** Rollmottle — **Date:** 2024-11-26 — **Channel:** #production-talk — 11 reactions
+> "Adding stuff is always effective but I like trying to pare back the arrangement to see if I can get away with something. Dropping the kick, the bass or snare for a bar, 1/2 a bar, or one beat can sometimes give you the push and pull you were looking for."
+
+> [!quote] Source
+> **Author:** cian riordan — **Date:** 2024-09-09 — **Channel:** #production-talk — 15 reactions
+> "Often when I'm recording drums I'll track the drummer at a higher BPM then varispeed everything down to tempo... great way to get deep low end."
+
+Key production-talk drum insights:
+- **Percussion is "the sauce"** — esquinalee (12 reactions): live percussion brings life to programmed grooves, but tambourine requires responsibility
+- **Click track alternatives** — BatMeckley: "Putting down a drum loop solved a singer's timing issue today"
+- **Assembled vs performed** — Dr. Luke and other top producers regularly cut and paste individual hits rather than playing full takes
+- **Sample augmentation** — Slow Hand (22 reactions): adding noise tail to a muted kick for decay and presence
+
 ## See Also
 
 - [[Drum Recording Techniques]] — tracking drums
 - [[Compression Techniques]] — parallel and bus compression
 - [[Low End Management]] — kick/bass relationship
 - [[Mix Bus Processing]] — downstream bus processing
+- [[Beat Making and Drum Programming]] — drum programming from production perspective
 
 ## Source Discussions
 
@@ -117,3 +136,9 @@ The community accepts drum sample augmentation as a standard modern technique:
 > **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
 > **Key contributors:** cian riordan, Ross Fortune, hyanrarvey, BatMeckley, JustinLeu, Matt Huber
 > **Message volume:** 1,539 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #production-talk — **Date Range:** 2022-01 to 2026-02
+> **Key contributors:** spectrummasters (34 msgs), Zack Hames (30 msgs), Ross Fortune (31 msgs), BatMeckley, Rollmottle, cian riordan
+> **Message volume:** 593 categorized messages
+> See also: [[production-talk Channel Summary]]

@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Nomograph Mastering",
+    "total": 791,
+    "substantive": 669,
+    "substantive_pct": 84.6,
+    "avg_length": 89,
+    "reactions": 1011,
+    "top_topics": {
+      "reference_inspiration": 31,
+      "production_workflow": 21,
+      "creative_techniques": 16,
+      "beat_making_drums": 8,
+      "guitar_production": 7
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 700,
+    "substantive": 651,
+    "substantive_pct": 93.0,
+    "avg_length": 263,
+    "reactions": 930,
+    "top_topics": {
+      "sound_design_synthesis": 118,
+      "reference_inspiration": 59,
+      "arrangement_orchestration": 58,
+      "creative_techniques": 55,
+      "songwriting_arrangement": 52
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 587,
+    "substantive": 518,
+    "substantive_pct": 88.2,
+    "avg_length": 132,
+    "reactions": 885,
+    "top_topics": {
+      "reference_inspiration": 51,
+      "vocal_production": 42,
+      "sampling_libraries": 26,
+      "songwriting_arrangement": 23,
+      "guitar_production": 21
+    }
+  },
+  {
+    "name": "Josh",
+    "total": 521,
+    "substantive": 460,
+    "substantive_pct": 88.3,
+    "avg_length": 104,
+    "reactions": 308,
+    "top_topics": {
+      "reference_inspiration": 40,
+      "sound_design_synthesis": 26,
+      "vocal_production": 25,
+      "genre_production": 23,
+      "sampling_libraries": 22
+    }
+  },
+  {
+    "name": "Deleted User",
+    "total": 475,
+    "substantive": 434,
+    "substantive_pct": 91.4,
+    "avg_length": 214,
+    "reactions": 210,
+    "top_topics": {
+      "reference_inspiration": 50,
+      "sound_design_synthesis": 41,
+      "production_workflow": 39,
+      "vocal_production": 37,
+      "arrangement_orchestration": 36
+    }
+  },
+  {
+    "name": "BatMeckley",
+    "total": 434,
+    "substantive": 404,
+    "substantive_pct": 93.1,
+    "avg_length": 244,
+    "reactions": 1216,
+    "top_topics": {
+      "reference_inspiration": 50,
+      "vocal_production": 47,
+      "songwriting_arrangement": 45,
+      "guitar_production": 30,
+      "production_workflow": 27
+    }
+  },
+  {
+    "name": "Ross Fortune",
+    "total": 383,
+    "substantive": 358,
+    "substantive_pct": 93.5,
+    "avg_length": 181,
+    "reactions": 319,
+    "top_topics": {
+      "sound_design_synthesis": 36,
+      "beat_making_drums": 31,
+      "reference_inspiration": 28,
+      "songwriting_arrangement": 27,
+      "sampling_libraries": 27
+    }
+  },
+  {
+    "name": "hyanrarvey",
+    "total": 463,
+    "substantive": 319,
+    "substantive_pct": 68.9,
+    "avg_length": 66,
+    "reactions": 215,
+    "top_topics": {
+      "genre_production": 18,
+      "beat_making_drums": 18,
+      "vocal_production": 13,
+      "guitar_production": 10,
+      "reference_inspiration": 9
+    }
+  },
+  {
+    "name": "Joel \"Roomie\" Berghult",
+    "total": 330,
+    "substantive": 301,
+    "substantive_pct": 91.2,
+    "avg_length": 159,
+    "reactions": 121,
+    "top_topics": {
+      "vocal_production": 29,
+      "sampling_libraries": 26,
+      "reference_inspiration": 23,
+      "songwriting_arrangement": 18,
+      "sound_design_synthesis": 18
+    }
+  },
+  {
+    "name": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "total": 311,
+    "substantive": 275,
+    "substantive_pct": 88.4,
+    "avg_length": 183,
+    "reactions": 172,
+    "top_topics": {
+      "reference_inspiration": 49,
+      "vocal_production": 41,
+      "songwriting_arrangement": 25,
+      "sampling_libraries": 22,
+      "creative_techniques": 17
+    }
+  },
+  {
+    "name": "Edward Rivera",
+    "total": 297,
+    "substantive": 270,
+    "substantive_pct": 90.9,
+    "avg_length": 112,
+    "reactions": 117,
+    "top_topics": {
+      "reference_inspiration": 21,
+      "genre_production": 13,
+      "guitar_production": 8,
+      "beat_making_drums": 8,
+      "bass_production": 6
+    }
+  },
+  {
+    "name": "cian riordan",
+    "total": 287,
+    "substantive": 255,
+    "substantive_pct": 88.9,
+    "avg_length": 136,
+    "reactions": 859,
+    "top_topics": {
+      "reference_inspiration": 23,
+      "vocal_production": 20,
+      "guitar_production": 17,
+      "production_workflow": 15,
+      "creative_techniques": 12
+    }
+  },
+  {
+    "name": "austenballard",
+    "total": 267,
+    "substantive": 243,
+    "substantive_pct": 91.0,
+    "avg_length": 189,
+    "reactions": 148,
+    "top_topics": {
+      "vocal_production": 56,
+      "songwriting_arrangement": 43,
+      "creative_techniques": 16,
+      "beat_making_drums": 15,
+      "sampling_libraries": 15
+    }
+  },
+  {
+    "name": "LAPhill",
+    "total": 260,
+    "substantive": 242,
+    "substantive_pct": 93.1,
+    "avg_length": 199,
+    "reactions": 464,
+    "top_topics": {
+      "arrangement_orchestration": 24,
+      "sampling_libraries": 23,
+      "reference_inspiration": 22,
+      "production_workflow": 18,
+      "midi_virtual_instruments": 17
+    }
+  },
+  {
+    "name": "ehutton21",
+    "total": 264,
+    "substantive": 237,
+    "substantive_pct": 89.8,
+    "avg_length": 143,
+    "reactions": 100,
+    "top_topics": {
+      "vocal_production": 33,
+      "sound_design_synthesis": 23,
+      "production_workflow": 23,
+      "reference_inspiration": 19,
+      "songwriting_arrangement": 16
+    }
+  },
+  {
+    "name": "spectrummasters",
+    "total": 250,
+    "substantive": 226,
+    "substantive_pct": 90.4,
+    "avg_length": 216,
+    "reactions": 118,
+    "top_topics": {
+      "beat_making_drums": 34,
+      "reference_inspiration": 26,
+      "songwriting_arrangement": 20,
+      "sampling_libraries": 17,
+      "vocal_production": 13
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 225,
+    "substantive": 215,
+    "substantive_pct": 95.6,
+    "avg_length": 171,
+    "reactions": 146,
+    "top_topics": {
+      "beat_making_drums": 30,
+      "sampling_libraries": 21,
+      "creative_techniques": 15,
+      "guitar_production": 15,
+      "reference_inspiration": 15
+    }
+  },
+  {
+    "name": "Rollmottle",
+    "total": 249,
+    "substantive": 215,
+    "substantive_pct": 86.3,
+    "avg_length": 132,
+    "reactions": 321,
+    "top_topics": {
+      "sound_design_synthesis": 18,
+      "reference_inspiration": 16,
+      "beat_making_drums": 16,
+      "creative_techniques": 14,
+      "songwriting_arrangement": 13
+    }
+  },
+  {
+    "name": "ALXCPH",
+    "total": 241,
+    "substantive": 210,
+    "substantive_pct": 87.1,
+    "avg_length": 159,
+    "reactions": 164,
+    "top_topics": {
+      "reference_inspiration": 21,
+      "creative_techniques": 15,
+      "beat_making_drums": 14,
+      "sampling_libraries": 14,
+      "sound_design_synthesis": 9
+    }
+  },
+  {
+    "name": "Adam Thein",
+    "total": 206,
+    "substantive": 186,
+    "substantive_pct": 90.3,
+    "avg_length": 181,
+    "reactions": 196,
+    "top_topics": {
+      "vocal_production": 20,
+      "sound_design_synthesis": 16,
+      "songwriting_arrangement": 15,
+      "midi_virtual_instruments": 15,
+      "production_workflow": 14
+    }
+  },
+  {
+    "name": "popaganda.",
+    "total": 209,
+    "substantive": 185,
+    "substantive_pct": 88.5,
+    "avg_length": 138,
+    "reactions": 247,
+    "top_topics": {
+      "reference_inspiration": 17,
+      "sound_design_synthesis": 9,
+      "production_workflow": 9,
+      "beat_making_drums": 8,
+      "guitar_production": 7
+    }
+  },
+  {
+    "name": "oaklandmatt",
+    "total": 137,
+    "substantive": 130,
+    "substantive_pct": 94.9,
+    "avg_length": 245,
+    "reactions": 386,
+    "top_topics": {
+      "vocal_production": 28,
+      "reference_inspiration": 16,
+      "sampling_libraries": 12,
+      "sound_design_synthesis": 10,
+      "creative_techniques": 9
+    }
+  },
+  {
+    "name": "Bryan DiMaio",
+    "total": 147,
+    "substantive": 128,
+    "substantive_pct": 87.1,
+    "avg_length": 96,
+    "reactions": 125,
+    "top_topics": {
+      "reference_inspiration": 18,
+      "songwriting_arrangement": 8,
+      "creative_techniques": 7,
+      "sampling_libraries": 5,
+      "beat_making_drums": 5
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 133,
+    "substantive": 127,
+    "substantive_pct": 95.5,
+    "avg_length": 164,
+    "reactions": 143,
+    "top_topics": {
+      "production_workflow": 12,
+      "sampling_libraries": 11,
+      "beat_making_drums": 11,
+      "midi_virtual_instruments": 9,
+      "creative_techniques": 9
+    }
+  },
+  {
+    "name": "chrissorem",
+    "total": 128,
+    "substantive": 111,
+    "substantive_pct": 86.7,
+    "avg_length": 136,
+    "reactions": 237,
+    "top_topics": {
+      "reference_inspiration": 14,
+      "songwriting_arrangement": 8,
+      "vocal_production": 7,
+      "creative_techniques": 6,
+      "arrangement_orchestration": 5
+    }
+  },
+  {
+    "name": "Rob Domos",
+    "total": 117,
+    "substantive": 107,
+    "substantive_pct": 91.5,
+    "avg_length": 166,
+    "reactions": 84,
+    "top_topics": {
+      "sampling_libraries": 11,
+      "beat_making_drums": 9,
+      "vocal_production": 7,
+      "arrangement_orchestration": 6,
+      "sound_design_synthesis": 6
+    }
+  },
+  {
+    "name": "Jeremy Klein",
+    "total": 102,
+    "substantive": 100,
+    "substantive_pct": 98.0,
+    "avg_length": 166,
+    "reactions": 78,
+    "top_topics": {
+      "reference_inspiration": 13,
+      "beat_making_drums": 11,
+      "genre_production": 9,
+      "vocal_production": 8,
+      "creative_techniques": 7
+    }
+  },
+  {
+    "name": "Eric Martin",
+    "total": 108,
+    "substantive": 99,
+    "substantive_pct": 91.7,
+    "avg_length": 148,
+    "reactions": 112,
+    "top_topics": {
+      "reference_inspiration": 11,
+      "bass_production": 8,
+      "beat_making_drums": 5,
+      "arrangement_orchestration": 5,
+      "guitar_production": 5
+    }
+  },
+  {
+    "name": "youngteam",
+    "total": 108,
+    "substantive": 97,
+    "substantive_pct": 89.8,
+    "avg_length": 108,
+    "reactions": 100,
+    "top_topics": {
+      "vocal_production": 8,
+      "reference_inspiration": 8,
+      "production_workflow": 7,
+      "creative_techniques": 7,
+      "beat_making_drums": 6
+    }
+  },
+  {
+    "name": "Felix Byrne",
+    "total": 110,
+    "substantive": 96,
+    "substantive_pct": 87.3,
+    "avg_length": 86,
+    "reactions": 92,
+    "top_topics": {
+      "production_workflow": 7,
+      "arrangement_orchestration": 5,
+      "vocal_production": 4,
+      "sound_design_synthesis": 4,
+      "songwriting_arrangement": 3
+    }
+  }
+]

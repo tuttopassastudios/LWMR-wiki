@@ -816,6 +816,80 @@ For each channel processed, record:
 
 ---
 
+### #production-talk
+
+- **Channel:** #production-talk (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** January 2022 – February 2026
+- **Messages:** 12,074 raw → ~10,823 substantive (>20 chars, non-bot, non-GIF/emoji-only) → ~4,578 keyword-categorized
+- **Unique authors:** 265
+- **Pinned messages:** 4
+- **Peak activity:** 2023 (4,851 messages)
+
+**Category Message Counts:**
+| Category | Messages |
+|----------|----------|
+| References & Inspiration | 994 |
+| Vocal Production | 812 |
+| Sound Design & Synthesis | 648 |
+| Songwriting & Arrangement | 634 |
+| Sampling & Sample Libraries | 603 |
+| Beat Making & Drum Programming | 593 |
+| Production Workflow | 581 |
+| Creative & Experimental Techniques | 525 |
+| Arrangement & Orchestration | 446 |
+| Genre-Specific Production | 384 |
+| Guitar Production | 359 |
+| MIDI & Virtual Instruments | 331 |
+| Bass Production | 268 |
+| Keys & Piano | 249 |
+| Music Theory & Harmony | 245 |
+
+**Pages created (5 topic):**
+- [[Songwriting and Arrangement]], [[Beat Making and Drum Programming]], [[MIDI and Virtual Instruments]]
+- [[Sampling and Sample Libraries]], [[Music Theory for Producers]]
+
+**Pages enriched (8):**
+- [[Sound Design in DAWs]] — production-talk synthesis discussion, Arturia bundle, synth bass; confidence upgraded medium → high
+- [[Vocal Mixing]] — vocal production perspective: tuning philosophy, Auto-Tune history, vocal producer role
+- [[Vocal Chain]] — vocal production workflow from BatMeckley and NoahNeedleman
+- [[Drum Mixing]] — drum programming/production perspective, varispeed technique, percussion layering
+- [[Low End Management]] — bass production context, 808 bass, varispeed low-end technique
+- [[Getting Started with Music Production]] — production workflow philosophy, creative instinct
+- [[Melodyne]] — extensive vocal tuning workflow from BatMeckley; confidence upgraded low → high
+
+**MOC created:** [[Production]] — new Map of Content for all production-related pages (Songwriting, Sound Design, Beat Making, MIDI, Sampling, Theory)
+
+**MOCs updated:** [[Mixing]], [[Workflow]] — added cross-links to new Production MOC
+
+**Channel summary:** [[production-talk Channel Summary]]
+
+**Identified experts:**
+- **Nomograph Mastering** (669 substantive, 85%) — References/inspiration, production workflow, creative philosophy
+- **Slow Hand** (651 substantive, 93%) — Sound design/synthesis (118 msgs), references, arrangement — highest avg message length (263 chars)
+- **NoahNeedleman** (518 substantive, 88%) — Vocal production, references, sampling — vocal producer with indie/major label credits
+- **BatMeckley** (404 substantive, 93%) — Vocal production (47 msgs), songwriting/arrangement, creative philosophy — worked with Dr. Luke, Rob Cavallo, Grammy-nominated; channel's vocal tuning authority
+- **Josh** (460 substantive, 88%) — References, sound design, vocal production
+- **Ross Fortune** (358 substantive, 93%) — Sound design, beat making, references
+- **cian riordan** (255 substantive, 89%) — References, vocal production, guitar production — highest reaction ratio (2.99 per msg)
+- **austenballard** (243 substantive, 91%) — Vocal production (56 msgs — most in category), songwriting/arrangement
+- **LAPhill** (242 substantive, 93%) — Arrangement/orchestration, sampling, orchestral MIDI programming authority
+- **spectrummasters** (226 substantive, 90%) — Beat making/drums, references, long-form analysis
+- **oaklandmatt** (130 substantive, 95%) — Vocal production, references, channel creator
+
+**Notes:**
+- This channel fills the **creative production gap** between recording (how to capture) and mixing (how to balance) — covering the creative decisions of what to record, how to arrange it, and how to shape the overall sound
+- Created a new **Production domain** with its own MOC and 5 topic pages — alongside existing Mixing, Recording, and Mastering domains
+- BatMeckley's vocal production stories (Dr. Luke, Rob Cavallo, Paris Hilton) provide rare insider perspective on major-label production workflow
+- Vocal Production (812 msgs) is the dominant technical topic — the vault's primary source for pitch correction philosophy
+- References & Inspiration (994 msgs) is the largest category, reflecting the channel's philosophical orientation
+- The channel's creative philosophy threads (artistic freedom, perfectionism, creative identity) represent content not found in any other processed channel
+- Activity peaked in 2023 (4,851) and moderated since: 2022: 1,727 | 2023: 4,851 | 2024: 3,285 | 2025: 1,753 | 2026: 458
+- Noise rate was only 10.4% (1,251 filtered / 12,074 total), indicating focused, substantive discussion
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -834,3 +908,4 @@ For each channel processed, record:
 | #mixing-talk | Aug 2021 – Feb 2026 | 48,084 | ~41,904 (~14,481 categorized) | 8 (+4 glossary) | 0 |
 | #newbie-questions | Feb 2021 – Feb 2026 | 9,859 | ~8,607 (~2,405 categorized, 1,173 Q&A pairs) | 2 (+6 glossary) | 0 |
 | #mastering-talk | Apr 2022 – Feb 2026 | 22,909 | ~19,806 (~6,466 categorized) | 4 (+2 glossary) | 0 |
+| #production-talk | Jan 2022 – Feb 2026 | 12,074 | ~10,823 (~4,578 categorized) | 5 | 0 |

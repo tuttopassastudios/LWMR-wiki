@@ -111,6 +111,24 @@ Many members route all vocals (lead, doubles, BGVs, ad-libs) to a vocal bus for 
 - Treating doubles/BGVs the same as the lead vocal — they need different processing
 - Using pitch correction as a crutch for poor tracking rather than re-recording
 
+### Vocal Production Perspective (from #production-talk)
+
+#production-talk adds 812 messages of vocal production discussion focused on the **creative/production side** rather than mixing:
+
+> [!quote] Source
+> **Author:** BatMeckley — **Date:** 2023-02-19 — **Channel:** #production-talk — 17 reactions (pinned)
+> "I would say it's not one or the other. I might do some big timing moves first, just to have the vocal 80% of the way there. Then I'll consolidate and drop into Melodyne. At this stage it's a lot more stretching and/or compressing notes, or more importantly PARTS of words."
+
+> [!quote] Source
+> **Author:** popaganda. — **Date:** 2025-01-02 — **Channel:** #production-talk — 14 reactions
+> "No matter what I'd be trying to build off a live performance. Vocals and guitar at the same time if possible, make sure the artist is comfortable enough to really deliver the way they did on their videos. Sometimes when artists get in the studio they get way in their heads."
+
+Key production-talk vocal insights:
+- **Vocal tuning is both pitch AND timing** — BatMeckley separates consonants from vowels in Melodyne for more natural results
+- **Auto-Tune Classic mode** was created after producers complained about Antares changing the sound between versions 5 and 7
+- **The vocal producer's job** is as much about artist management (making them feel "safe enough to be dangerous") as it is about technical skill
+- **Monitoring matters for production** — NoahNeedleman: "I want my artists to feel expensive when they're recording, so getting the mic and cue mix right is everything"
+
 ## See Also
 
 - [[Vocal Chain]] — signal chain for vocal recording and processing
@@ -118,6 +136,7 @@ Many members route all vocals (lead, doubles, BGVs, ad-libs) to a vocal bus for 
 - [[De-esser]] — sibilance control glossary
 - [[Compression Techniques]] — compressor topology and applications
 - [[Automation and Mix Moves]] — vocal automation techniques
+- [[Songwriting and Arrangement]] — vocal arrangement decisions
 
 ## Source Discussions
 
@@ -130,3 +149,9 @@ Many members route all vocals (lead, doubles, BGVs, ad-libs) to a vocal bus for 
 > **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
 > **Beginner vocal mixing context:** chrissorem (6 reactions): "Most people hear tuning/intonation better with a bass element in the mix. If I'm tuning multiple vocals, I tune the lead and mute other melodic instruments that might be distracting." BatMeckley (4 reactions): "Bounce all your vocals from beat 1. Make a stereo instrumental bounce. Tune and de-ess and re-consonant and time to your hearts content."
 > See also: [[Beginner FAQ#Vocal Production]]
+
+> [!quote] Discord Source
+> **Channel:** #production-talk — **Date Range:** 2022-01 to 2026-02
+> **Key contributors:** BatMeckley (47 vocal production msgs), austenballard (56 msgs), oaklandmatt (28 msgs), NoahNeedleman (42 msgs), popaganda. (vocal performance philosophy)
+> **Message volume:** 812 vocal production categorized messages
+> See also: [[production-talk Channel Summary]]

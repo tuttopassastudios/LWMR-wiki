@@ -158,6 +158,20 @@ See [[Gain Staging]] for the full explanation.
 
 ---
 
+## Production Philosophy (from #production-talk)
+
+#production-talk adds a creative production perspective to the "getting started" journey:
+
+> [!quote] Discord Source — NoahNeedleman (2023-10-31) — 14 reactions — #production-talk
+> "1) make sure you can trust your monitoring. 2) if you're recording real instruments, optimize your studio space for simplicity. 3) you don't need as many elements in the recording if each sound/performance is excellent on its own. 4) Chase the joy. If you find the joy in each part you're working on, that shines through performances. 5) remember that not everything needs to be done in a day."
+
+> [!quote] Discord Source — BatMeckley (2025-05-26) — 16 reactions — #production-talk
+> "Benny Blanco became successful with a folder full of songs at 120 bpm cause he didn't know how to change the tempo, and stacks of kick drums because he didn't know how to eq. When I'd ask him why he pretty much did anything it was always 'I dunno, man, it just sounds cool!'"
+
+The message for beginners: technical knowledge matters, but creative instinct and emotional impact matter more. Don't let the pursuit of "doing it right" stifle the playfulness that makes music compelling.
+
+---
+
 ## Related Pages
 
 - [[Beginner FAQ]] — organized Q&A covering all 15 beginner topic categories
@@ -168,12 +182,17 @@ See [[Gain Staging]] for the full explanation.
 - [[Sample Rate]] — sample rate selection
 - [[Music Business Pricing and Rates]] — pricing and career advice
 - [[Session Mindset and Engineering Philosophy]] — working with artists
+- [[Songwriting and Arrangement]] — song structure and arrangement techniques
+- [[Beat Making and Drum Programming]] — creating drum parts and beats
+- [[Music Theory for Producers]] — practical theory for production
 
 ---
 
 ## See Also
 
 - [[newbie-questions Channel Summary]] — full channel overview and expert list
+- [[production-talk Channel Summary]] — production discussion overview
 - [[Mixing]] MOC — mixing knowledge hub
 - [[Recording]] MOC — recording knowledge hub
+- [[Production]] MOC — production knowledge hub
 - [[Workflow]] MOC — workflow and career hub

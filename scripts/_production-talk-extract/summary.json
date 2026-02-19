@@ -1,0 +1,79 @@
+{
+  "total_messages": 12074,
+  "date_range": "2022-01-30 to 2026-02-18",
+  "substantive_messages": 10823,
+  "noise_filtered": 1251,
+  "unique_authors": 265,
+  "unique_messages_categorized": 4578,
+  "uncategorized": 6245,
+  "activity_by_year": {
+    "2022": 1727,
+    "2023": 4851,
+    "2024": 3285,
+    "2025": 1753,
+    "2026": 458
+  },
+  "categories": {
+    "songwriting_arrangement": {
+      "label": "Songwriting & Arrangement",
+      "count": 634
+    },
+    "sound_design_synthesis": {
+      "label": "Sound Design & Synthesis",
+      "count": 648
+    },
+    "sampling_libraries": {
+      "label": "Sampling & Sample Libraries",
+      "count": 603
+    },
+    "midi_virtual_instruments": {
+      "label": "MIDI & Virtual Instruments",
+      "count": 331
+    },
+    "beat_making_drums": {
+      "label": "Beat Making & Drum Programming",
+      "count": 593
+    },
+    "bass_production": {
+      "label": "Bass Production",
+      "count": 268
+    },
+    "vocal_production": {
+      "label": "Vocal Production",
+      "count": 812
+    },
+    "guitar_production": {
+      "label": "Guitar Production",
+      "count": 359
+    },
+    "keys_piano": {
+      "label": "Keys & Piano",
+      "count": 249
+    },
+    "genre_production": {
+      "label": "Genre-Specific Production",
+      "count": 384
+    },
+    "production_workflow": {
+      "label": "Production Workflow",
+      "count": 581
+    },
+    "music_theory": {
+      "label": "Music Theory & Harmony",
+      "count": 245
+    },
+    "arrangement_orchestration": {
+      "label": "Arrangement & Orchestration",
+      "count": 446
+    },
+    "creative_techniques": {
+      "label": "Creative & Experimental Techniques",
+      "count": 525
+    },
+    "reference_inspiration": {
+      "label": "References & Inspiration",
+      "count": 994
+    }
+  },
+  "pinned_count": 4
+}
