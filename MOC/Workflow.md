@@ -14,6 +14,13 @@ modified: 2026-02-18
 
 ---
 
+## Getting Started
+
+- [[Getting Started with Music Production]] — first steps, gear priorities, DAW selection, learning paths
+- [[Beginner FAQ]] — most common beginner questions with curated expert answers
+
+---
+
 ## Session Setup & Templates
 
 - [[Session Templates and Organization]] — templates, naming conventions, SoundFlow automation

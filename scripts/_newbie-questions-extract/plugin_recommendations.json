@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "1068784678879895562",
+    "author": "oaklandmatt",
+    "date": "2023-01-27",
+    "content": "Haha just relaying my experience. If you're sending to a mastering engineer it's a whole different conversation.\n\nAlways think about what you're trying to accomplish at any given stage. Then go after that goal. \n\nI used to spend too much time on sonics in writing sessions. I should have been solely focused on finding emotional magic. Now  I am just trying to inspire the artists and writers around me, I'll deal with the sonics later. Much better results.\n\nI also used to fully mix-as-I-go, which painted me into a corner with gain staging and eq. Now when I get to the end of the process, I often pull things back and rebuild my levels so there's headroom and I can make that exciting production translate.\n\nDifferent approaches for different parts of the process.",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045500000576217228",
+    "author": "Slow Hand",
+    "date": "2022-11-24",
+    "content": "I would rule out the Izotope production bundle (Ozone is fine). I think Izotope is the least musical and hit-or-miss of the options. It's not bad, but it's not as fun to use as the other options, and I think that has an effect on your results.\n\nBoth the FabFilter Mastering bundle and Soundtoys bundle are great and you wouldn't go wrong with either pick. But they occupy different niches: FabFilter is clean and surgical while Soundtoys is all about injecting vibe and coloration and doesn't include anything remotely surgical.\n\nI guess if you can only pick one I'd start with Soundtoys for the vibe and the way it would expand the sonic palette for your production work. Your DAW is going to have some perfectly capable EQ's and compressors to tide you over until you're ready for FabFilter.\n\nPut another way, your production work is upstream of your mixing work and will influence the sound of your records more.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1093436289681981473",
+    "author": "Ross Fortune",
+    "date": "2023-04-06",
+    "content": "Nailed it Will. Split mono is a step in my mix prep sequence. Efficient method goes like this:\n\nPT Downmixer stock plugin is the one for this (it collapses stereo channels to mono) - flip the phase of one side in the GUI and save that as your user default. If you insert your Downmixer on a faux stereo track, it\u2019ll immediately silence it, so you can happily split and delete what you don\u2019t need. \n\n(Check the meters though, sometimes ambience or other subtle stereo info isn\u2019t very audible unless cranked.)\n\nIf the stereo track contains slightly panned mono information, pushing/pulling either of the faders in Downmixer will quickly get it to cancel, and you can note how much extra gain you need to add or subtract when level matching in the final step (below). Obviously if it\u2019s deliberately panned info, you can either just leave the track stereo or match the pan position by ear (I prefer to do this because I like mono channels to behave like mono channels, and also half the CPU you\u2019d use on a stereo track).\n\nFinally, use clip gain to add 3dB to the resulting mono channel, and obviously pan it centre. This makes up for the level change according to default pan laws in Tools (-3dB).",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045501851275108433",
+    "author": "Rollmottle",
+    "date": "2022-11-24",
+    "content": "For production and mixing, Soundtoys all the way. For finishing, my money would go to FabFilter.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811412755331940382",
+    "author": "cian riordan",
+    "date": "2021-02-16",
+    "content": "Hi Rae, these are awesome headphones but -- like any closed back headphone -- it's going to be hard to get a real sense of how things are going translate in the real world..  especially when it comes to low end. Everything on headphones is going to sound clear and direct, when that may not be the case coming through speakers. Checking stuff on some decent monitors in a decent room -- or even in your car --  is always the best way to know if things sound off or not. If you're stuck with headphones, something open back like a Sennheiser 600 will give you a less-hyped, more honest picture of your mix. They're also much less fatiguing to work on for long periods of time! But even to this day with my nice setup, I'm always checking the low end in different places... In my car, I'll know within 10 seconds of listening if things are where they're supposed to be or not.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1225065345975451723",
+    "author": "Adam Thein",
+    "date": "2024-04-03",
+    "content": "Only maybe worth slowly collecting the most common ones if you want to open sessions from collaborators, but whatever works works!  Stock plugins are also stupid good in daws now.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1225091098884575253",
+    "author": "Rollmottle",
+    "date": "2024-04-03",
+    "content": "I don\u2019t think you can form a fully realized point of view without also understanding the what and why of what makes something an industry \u201cstandard.\u201d You have to level set yourself against the baseline first before making an informed choice to deviate. Free plugins might totally be the thing for you, but you don\u2019t know what you don\u2019t know yet.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1061459876024422441",
+    "author": "ALXCPH",
+    "date": "2023-01-07",
+    "content": "Not to overstep, but I\u2019m convinced it has to do with trying to keep the sound waves bouncing off the wall behind your speakers as in phase as possible. The further from the wall the bigger the delay before it combines with the forward moving sound waves.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313240921160286309",
+    "author": "Bryan DiMaio",
+    "date": "2024-12-02",
+    "content": "TDR Kotelnikov or the Analog Obsession ones are pretty dope!",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "857866246262882345",
+    "author": "oaklandmatt",
+    "date": "2021-06-24",
+    "content": "@Zack Hames yes! Play with short delays and short verbs and slaps with low pass eq. H3000 has some great stereoizing chorus type effects too. \n\nI just did a super dry vocal that had delay and verb like this. I used waves supertap with left and right slightly different but super short delay times. Almost phasing. Barely blended in at -20dB. Then I used Valhalla Vintage Verb on the small ambience setting at like 4%. It widens the vocal and gives it space without sounding at all \"wet\"",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045502618509783051",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "Also in general Izotopes upgrade pricing is pretty god awful - so if you are planning on getting everything eventually you will save a LOT by just saving up and buying their music production suite or everything bundle.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069326214646477000",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "I generated 10-second, 110 Hz square waves, as 32-bit .wav files at 44.1, 48, 88.2, 96, 176.4, 192 kHz\n\nSharing them here for anyone else who might find these useful.",
+    "reactions": 3,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1131665840853483660",
+    "author": "Edsel Holden",
+    "date": "2023-07-20",
+    "content": "Very similar to Cal - but a long time ago someone told me to seek out full Rez waves of songs and use a HPF and LPF to see where they sat things in the frequency spectrum. \n\nSome songs the cymbals will go away when you filter below 10k, others you will need to filter to 5-6k.\n\nDo the same on the lows filter and see what goes away. \n\nIt\u2019s very similar to what cal said but all you need is any EQ. And your listening for what goes away. I still do it sometimes. It\u2019s a great practice.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1284229709487411362",
+    "author": "Isaac Diskin",
+    "date": "2024-09-13",
+    "content": "Any basic digital multimeter that you can get at Harbor Freight, Home Depot etc will do the trick! If you generate tones (sin waves) in your DAW or with an external device you can measure AC voltages at the various points you are interested in, and calibrate if need be. It\u2019s important to understand what various decibel levels translate to in voltage, as that is what you would be measuring. For example, +4dBu = 1.228 Volts, and -10dBV = 0.316 Volts. But like the other answer said, unless you need to calibrate your outputs for a specific reason, you will be fine connecting various pieces of pro-audio gear as long as you pay attention to the gain staging and adjust gain as necessary so there\u2019s no clipping. And if you need to interface with a consumer level device you\u2019d probably be better off getting a bump-box or something of the like.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1293059404903616545",
+    "author": "cian riordan",
+    "date": "2024-10-07",
+    "content": "Your results will almost always be attributed to your skills! In this case, while I'd focus my attention on getting some reps in on various mixing projects, there's certainly room to grow in your equipment stable. Headphones are a great starting point and will likely continue to be useful down the road, but mixing on speakers helps you make things translate better to the real world (car & home stereos, public spaces, etc). So a pair of decent entry level monitors would be my next purchase. It will also prove useful for collaborating with other folks down the road as you can all hear the same thing from the same source.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "862277745214881802",
+    "author": "Zack Hames",
+    "date": "2021-07-07",
+    "content": "If there\u2019s going to be drums in the final, I always put a scratch drum track. No exceptions. Either with my korg drum machine or midi in daw with Steven slate drums or Battery. Luckily almost no one complains  because it\u2019s 100x better than playing to a fucking click!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "868412876111609866",
+    "author": "SoundOfPatrick",
+    "date": "2021-07-24",
+    "content": "The new Guitar specific module in izotope RX8 is pretty amazing for this @jessem",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "875750735294373928",
+    "author": "Zack Hames",
+    "date": "2021-08-13",
+    "content": "Honestly I just use Steven slate trigger 2. There may be better ones.\n\nIf you don\u2019t have one, you can make a beat map (ala pro tools) this way you can make your session grid line up to the drum performance itself. I\u2019d start there assuming the drums don\u2019t need to be edited performance wise, then you can drag and drop any individual samples audio files or use MIDI or any drum software instrument.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045502120847228988",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "What DAW are you in?  The reason I ask is that I work mostly in Ableton and Fabfilter Q3 was a huge game changer in workflow for me being able to resize the window and have more flexibility with curves and slopes over EQ Eight (the stock EQ).  I\u2019m not sure how the math works out but if I were starting fresh again I\u2019d rebuy the Soundtoys bundle and Fabfilter Q3.\n\nIf you need just Q3 the cheapest I found this year is https://www.jrrshop.com/fabfilter-pro-q, and use code GROUP to bring it down to around $107 USD",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1225065367307817061",
+    "author": "esquinalee",
+    "date": "2024-04-03",
+    "content": "If it sounds good\u2026 it is good. There\u2019s a lot out there that stock plugins won\u2019t do, or single 3rd party plugins that do what 3 or more stock plugs might, but I would maybe check out videos on some of the more common 3rd party plugin staples like Soundtoys & Fabfilter & Valhalla and suss out which ones give you colors and options you don\u2019t already have that you might like",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225066043136016515",
+    "author": "Adam Thein",
+    "date": "2024-04-03",
+    "content": "One other thing about paid plugins from large companies - you can count on Waves or UAD, Soundtoys, Izotope all updating their tools on newer OS.  Some (definitely not all) free plugs are made by people starting out in developing plugins and they might move on to other things.\n\nActually in the middle of this situation now where a single dev plugin was used on a track and I can\u2019t even buy the license anymore.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1235631723195269152",
+    "author": "hyanrarvey",
+    "date": "2024-05-02",
+    "content": "You really should do your self a favor and get slate trigger 2",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266023796574523402",
+    "author": "montrose recording",
+    "date": "2024-07-25",
+    "content": "my 2 cents is - its most definitely not the best!  its a great test in a known, real world space that can tell you alot about how you mix translates, and to a certain degree, how your monitoring situation is in your studio.  its a good test for getting out of the studio, off a screen and listening in a very very different environment physically and mentally.   i think lots of cars sound pretty bad - worth doing listening in any car situation before referencing your work just like you would in a new studio environment",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812274274513453079",
+    "author": "Deleted User",
+    "date": "2021-02-19",
+    "content": "Yeah, as long as the monitors translate for you, that sounds like the better option. With headphones often compromises have to be made, especially in the lower price brackets, so definitely try before you buy, and try formulating what you would want from a headphone(good bass, clear transients, more even/neutral response, etc. etc.)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "828108236821102612",
+    "author": "AlexLayne",
+    "date": "2021-04-03",
+    "content": "Izotope de clip. Will save your booty",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "835077210494074890",
+    "author": "Deleted User",
+    "date": "2021-04-23",
+    "content": "If you are just doing transposition, then protools time shift (audiosuite) is actually pretty good. izotope vocal synth is good if you wanna do weird stuff with it",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "868474961554202676",
+    "author": "peterlabberton",
+    "date": "2021-07-24",
+    "content": "iZotope or soothe, ruthlessly automating EQ or volume/clip gain, new strings, or just punching different chords and being really methodical while tracking. Between some combination of the above you should be able to address it!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1042819929495322655",
+    "author": "Will Melones",
+    "date": "2022-11-17",
+    "content": "It's difficult to see the line and not cross it, especially online. I'm naturally sarcastic, and I guess that translates to being amused by things that are offensive. You've shown yourself to be a really good sport, but this is the last place we should be bullying each other.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045510154839400498",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "You can snag Izotope Ozone Elements (super basic version) for free here https://www.jrrshop.com/izotope-ozone-elements\n\nThat includes the maximizer module but only with IRC I and IRC II modes, but that would be enough to get you started into trying an alternative limiter.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1057736985311191070",
+    "author": "LAPhill",
+    "date": "2022-12-28",
+    "content": "Are you looking for resources on writing/production, or mixing? Just like with the record side, there's so much noise from bedroom composers and people that have zero real-world experience. And as Ruairi is always saying, even the people with real success often can't teach what they know. Maybe I'm a bit cranky after an 8 hour delay at the airport yesterday, but Spitfire has gotten quite good at creating \"tutorial\" videos that are thinly veiled advertisements, and many of their libraries are the equivalent of one-knob plugins or CLA vocals. Selling paint-by-numbers solutions to na\u00efve kids who want to get into scoring (They're far from the only ones guilty of this). But to focus on some of the channels I think are actually worth their salt:\n\n8-Bit Music Theory: https://www.youtube.com/@8bitMusicTheory/videos\nCan be a bit basic at times, but he talks a lot about structure which, IMO, is becoming a lost art in modern scoring.\n\nAnne-Kathrin Dern: https://youtube.com/playlist?list=PLWJg1w7F3PKPbSpEF2YOejVjWAg-KcM3Z\nNot the biggest name out there, but she has a no-bullshit way of explaining things about orchestration and theory that is clear and concise. As far as \"teachers,\" I think she's a good one.\n\nAlan Meyerson Waves Sessions: https://youtu.be/h9jZqn5lnw4\nI hesitate to include this. I know for a fact that Alan swapped out a bunch of his go-to plugins to make everything a Waves product. I haven't watched this in awhile, but it's a good insight into how he sets up a big mix session and why he makes some of his decisions. He's also playing to the camera/audience some, so this is a your-mileage-may-vary recommendation.\n\nMcGowen Soundworks: https://www.youtube.com/@McGowanSoundworks/featured\nPhil knows his shit, and goes pretty deep breaking down a few actual mixes, which is pretty rare to find.\n\nIf I think of others, I'll report back. Hope that helps",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1093447712306888816",
+    "author": "Barbara",
+    "date": "2023-04-06",
+    "content": "Whenever I need to mix prep a session with by-default-stereo tracks, I use Stereomonoizer. When there are like 4 or 5 tracks like this, I think using a stock plugin to solve this works... But when there are dozens of tracks, Stereomonoizer is dumbproof and you can take a coffee while it deals with the problem",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1107809617477632171",
+    "author": "Nomograph Mastering",
+    "date": "2023-05-15",
+    "content": "The best \u201cauto EQ\u201d I\u2019ve heard is the De-resonate mode in Tokyo Dawn\u2019s Slick M EQ",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134564918142697504",
+    "author": "Zack Hames",
+    "date": "2023-07-28",
+    "content": "Bet; I don't usually commit compression on anything except vocals and MAYBE bass, so I just monitor drum bus or mix bus compression, then I'll do the mix with it on later since I don't usually need to do what you're saying. This is only at the legit studio, when I'm at home i just have my Slate Dragon!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1171863129081262233",
+    "author": "Joshua Riley",
+    "date": "2023-11-08",
+    "content": "There\u2019s a new Slate Digital plug called Infinity Bass. Does the same thing but a bit more versatile",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225073761049645169",
+    "author": "Josh",
+    "date": "2024-04-03",
+    "content": "I even went back to using a lot of waves stuff just because I used it  for so long, and then didn\u2019t update them haha. C6, CLA 76, RVOX, R Comp, and L1 are back in business on every song",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812263610633682984",
+    "author": "Deleted User",
+    "date": "2021-02-19",
+    "content": "To my ears M50s sound very congested, especially in comparison to their direct competition - Beyer 770s(I own both). The transients(which for me are absolutely crucial to hear when producing or mixing) are almost inaudible on the M50s, while decently audible on the 770s. I do not find the M50s or the 770s even close to \"well balanced\", they both are a bit too budget for that distinction(they both have extreme presence peaks at their respective frequencies). I know someone who is very happy with the Shure SRH940s and Shure 1840s for critical listening(same drivers, I think). The M50s and 770s are both pretty much unusable in the low end under 50-60hz for me, I don't feel they translate well there. A few mastering engineers use the Blue closed-back headphones as a low-end reference, they would probably be worth a try. Audeze stuff is pretty good for transient response, but more expensive.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "829332142328774676",
+    "author": "Zack Hames",
+    "date": "2021-04-07",
+    "content": "So I\u2019m not crazy! I went to Emotiva Stealth 8s. They don\u2019t make them anymore, nearly no one uses them either and not easy to find now so it\u2019s probably not a great rec, even though I love them. One is out of commission so I\u2019m using genelec 1032a\u2019s with sonarworks. I started working on genelecs when I got my new job, and genuinely my mixes translated 100% more on those and they\u2019re not even the best monitors. Sonarworks takes out the chunky low mid thing and adds more high end and low end which I like. It depends on the room/setup too. I think you can\u2019t go wrong with any upgrade from the Yamahas. I wouldn\u2019t buy genelec 1032s, they\u2019re just what my studio has.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "830795738350223440",
+    "author": "AlexLayne",
+    "date": "2021-04-11",
+    "content": "Of course. Also, I really think the UI of insight takes the cake. its fully modular. I know hawkeye is too but, maybe im just an old head who doesn't like change. And TBH izotope has always done right by me as a company",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "837067477832695869",
+    "author": "i am willie",
+    "date": "2021-04-28",
+    "content": "i was using a ton of waves stuff so",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "837372553973727243",
+    "author": "Eric Martin",
+    "date": "2021-04-29",
+    "content": "also, removing any additional distortion/clipping on the master will help translate better, as the cutting will impart a character to it, and the cutting engineer will do EQ before it hits the heads to control the level going onto the acetate.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "848012601178062903",
+    "author": "hendrick",
+    "date": "2021-05-28",
+    "content": "I have pretty much standard stuff, pro tools, ableton, slate, PA, uad, waves, soundtoys, etc etc...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848193982127407134",
+    "author": "AlexLayne",
+    "date": "2021-05-29",
+    "content": "hey dude! i haven't run in to a single comp only license. melodyne gives you two, same with auto tune and a few others. izotope works great as well. waves you jut have to make sure you move the license off one machine then on to the the other.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848212741084151848",
+    "author": "Josh",
+    "date": "2021-05-29",
+    "content": "Just learned you can load your waves licenses onto an external drive so you don\u2019t have to buy a second license when you max out your license relocation limit or whatever they call it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "857391230319984640",
+    "author": "hendrick",
+    "date": "2021-06-23",
+    "content": "class was led by jonathan wyner, president of AES and director of the education department at izotope",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "858183991697080351",
+    "author": "Rollmottle",
+    "date": "2021-06-25",
+    "content": "i think those apps for recalls are a lot of solution for a minor problem. my method is pretty guerilla. i master, so it's a bit different, but i like how simple this is and how little mental overhead there is. i have a white board slate i write the artist, track name and version on. then i snap a pic of it followed by all my gear.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "860429649540284456",
+    "author": "mixedbywong_my",
+    "date": "2021-07-02",
+    "content": "Fabfilter Pro Q-3 users; what's best practise for the spectrum analyzer tilt? there's a few options available to choose from. What are your usual go to settings ?",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "875741785962446878",
+    "author": "Zack Hames",
+    "date": "2021-08-13",
+    "content": "Also beyond \u201cfixing\u201d the best thing i ever learned for drum mixing was drum bus compression, and using saturation on close mics.\n\nMy usual chain is this:\nAll kick and snare mics get some sort of eq if needed. Then I\u2019ll put fab filter Saturn 2 and saturate the high end at around 700hz.\n\nThe I\u2019ll bus all the drums to an aux. then I\u2019ll usually do this:\nTape saturation (waves J37)\nParallel drum compression with a mix knob (fast release, slow attack) I use the kush audio AR-1, I used to use the waves abbey road mastering plugin. \n\nSometimes I\u2019ll use wavesfactory Spectre to boost highs and lows after all that. Maybe soundtoys Sie-Q to boost midrange.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "882063160926961755",
+    "author": "chadwahlbrink",
+    "date": "2021-08-30",
+    "content": "In regards to 32-bit, I try to stick with 32bit until Mastering. This is mainly out of an \"abundance of caution,\" but basically, it's theoretically possible to have rounding errors/quantization distortion (granted at like -128dB) when bouncing between the 32-bit processing within the DAW and other processing like izotope RX or even just bouncing stems from one person to another. Note - there is also a settting in pro tools to \"always use 32-bit for audiosuite processing\" for this reason! Also, you can just use a 24bit dither when you go from 32 to 24bit at mastering stage as needed (if you are providing the master).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "894789122164686869",
+    "author": "cian riordan",
+    "date": "2021-10-04",
+    "content": "Yo! Just record each into their own channel, then do the processing in the box. There are some easy M/S decoders (Waves S1, etc) or you could do it the old-school way.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "921498779763478609",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "\"Unlike compression, dynamic EQ affects the sound by dynamically changing the gain of an EQ band. Like compression, however, and using the threshold, it does this proportionally in response to the amplitude of the input signal.\"\n\nFrom Izotope website",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921506187487367239",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "I think the Izotope article explained it well though. Glad I found that. Only thing I could find on the topic.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "940298537495826453",
+    "author": "itaylerner",
+    "date": "2022-02-07",
+    "content": "Fabfilter has some phenomenal educational videos, including a three part guide to compression- highly recommend! Has great examples and solid explanations, huge help if you really take the time to watch, pause, rewind, internalize the information.\n\nhttps://www.fabfilter.com/video",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943648518600544276",
+    "author": "Maxim",
+    "date": "2022-02-16",
+    "content": "The issue isn't with the Mac though. Again Ableton is running great. I'll also add that some Native Instrument plugins aren't working at all (not major ones mostly FX). And if for some reason you want to install old 32 Bit plugins that's not going to happen either. Even with previous workarounds, they don't work anymore.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943847073479012363",
+    "author": "ALXCPH",
+    "date": "2022-02-17",
+    "content": "Izotope / goodhertz can play tricks on you. Id reccomend just using Rosetta mode for a little while longer until most plug-in companies have become more stable with the arm architecture.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943848702928379914",
+    "author": "Maxim",
+    "date": "2022-02-17",
+    "content": "Izotope works fine for me. Antares I only use through UAD (which works fine) but seems like their plugins aren't working in Native at all.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943848838958047292",
+    "author": "ALXCPH",
+    "date": "2022-02-17",
+    "content": "Does izotope work fine in native M1 mode for you? Mine will reset when opening a template in native \ud83d\ude2d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943849979422838795",
+    "author": "Maxim",
+    "date": "2022-02-17",
+    "content": "Yeah, I don't really use any EQs or Compressors by Izotope so if I had a crash and the settings reset I could surely dial in my Spectral Shaper quickly. The crash itself is what would slow me down.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943850338266542091",
+    "author": "ALXCPH",
+    "date": "2022-02-17",
+    "content": "Only crash I has was when copying  a multiple izotope plugins from one track to another(part of a vocal chain)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1033511424376455290",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-22",
+    "content": "- **More samples (slices) per second equals a better representation of the analog waveform.** Within half the band of the sample rate (say up to 22.05k for 44.1k) this is demonstrably not true. I know that is confounding, but digital and information theory is basically miraculous\n- **We can hear/feel/sense sounds above 20k.** We truly really cannot and if you experiment with significant energy above 20k you\u2019ll actually see problems creep in for electronics and speakers etc. Information above 20k is not our friend (space for harmonic information to live without aliasing back excepted)\n- **Working at multiples of 44.1k is better because the sample rate conversion will work better.** This used to be a little bit true a long time ago but hasn\u2019t been for a long time. Use the SRC in iZotope RX on it\u2019s stock preset to 44.1 and you are in pretty good shape\n- **Digital EQs work better at higher sample rates because of cramping.** Cramping was an esoteric problem with older digital EQs that looked bad on analyzers but never actually sounded very bad. It\u2019s a solved problem nowadays with most EQs.\n- **Video and film is at 48k so we must start there.** Yes film and TV still work at 48k (although YouTube specs 44.1 now) but I have sent a million tracks for sync at 44.1 and it gets dropped in with SRC and away we go",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1040782850707955742",
+    "author": "Ross Fortune",
+    "date": "2022-11-11",
+    "content": "While you\u2019re here @Slow Hand, where\u2019s the best place to post links to free plugins? T Racks Clipper free til 24th Nov",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045495386619514970",
+    "author": "conor // wbotm",
+    "date": "2022-11-24",
+    "content": "Alright two completely different options but I wanna see you all fight. Am I spending my black friday allowance on Ozone(or even the iZotope bundle) FabFilter Mastering Bundle, or Soundtoys bundle. Right now I've got both production and mixing work lined up for 2022 so both would be used",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1045503669099040788",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "Big agree for me - think I honestly could live without any other FabFilter plugs but couldn\u2019t do it without Q3 anymore (and 100% of my mixes wouldn\u2019t recall anymore lol)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069284316900765776",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "It seems like your square wave trick should be a best practice, since it's definitely not just master bus PDC that can throw things off. The other person's effects, or their sample rate, or working across DAWs could all contribute to misalignment.\n\nWhat's your method for doing the square waves? Is there a particular plugin you like for generating the tones? Is there a specific 'low frequency' that works best?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069291000855527504",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "Do you think it would make sense to set up a template with a MIDI instrument set to play eighth-note sine waves at a given frequency in the pre-roll, or is entrusting the job to an instrument asking for trouble? I'm thinking of that as a possible quick way to have a sync track available at all times across LPX, PT and Ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1070328306987180042",
+    "author": "austenballard",
+    "date": "2023-02-01",
+    "content": "The reason I referred to the sidechain stuff is because a vocal producer I used to work with would, in similar situations, use an instance of Waves Vocal Rider on each channel, sidechained to one another, to 'even it out'",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1104937946131468361",
+    "author": "austenballard",
+    "date": "2023-05-07",
+    "content": "Izotope stuff is great for giving you exactly the controls you need and nothing else imo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1104964712292167815",
+    "author": "LAPhill",
+    "date": "2023-05-07",
+    "content": "Beyond looking at graphs, or visualizers. Something I learned from my time at Hans\u2019 was not to look at the performers when you\u2019re recording. It\u2019s so easy to see the enthusiasm of someone singing, or 100 members of the orchestra playing away as the conductor waves his arms around, and think you\u2019ve got it. Only to go listen later and find the take was lackluster.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1106348624373366854",
+    "author": "bobby k",
+    "date": "2023-05-11",
+    "content": "got an Izotope RX question. I have RX-10 Advanced and need to help a government translator isolate dialogue from rough footage that's over a decade old. The editing is just for internal purposes and won't go anywhere. It's arrest footage caught on hidden cameras, so yea the recording is pretty bad. never thought i'd be doing something like this lol but it's for a family friend.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1159906709431660645",
+    "author": "Jeremy Klein",
+    "date": "2023-10-06",
+    "content": "i want so badly for izotope to support that product, but i just cant use it nowadays knowing that in probably a very short period of time, it wont even run on modern computers. hahaha its barely running now",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159936561606033529",
+    "author": "Deleted User",
+    "date": "2023-10-06",
+    "content": "If you registered with iLok dongle, then you may want to try moving it to computer local license. I had issues with some of the iZotope stuff and the support team said specifically Trash and some other plugins don\u2019t work with iLok dongles anymore",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159947068887027843",
+    "author": "kylem",
+    "date": "2023-10-06",
+    "content": "Kush audio, soundtoys, metric halo, auto tune, soothe izotope and PSP show no cloud avail on my computer. Maybe because I'm on an older OS? Haven't updated plugs in a looooong time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159948116175356017",
+    "author": "Maxim",
+    "date": "2023-10-06",
+    "content": "I heard Waves used to be expensive!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159962815407325214",
+    "author": "Edward Rivera",
+    "date": "2023-10-06",
+    "content": "People complain about waves and PA sales atm but after 7 years out of the music business, without my old licenses, getting back in by paying 30 bucks per plug-in was a _breeeeeze_",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1171840447207981077",
+    "author": "river",
+    "date": "2023-11-08",
+    "content": "other than programming your own subs, what thing would you do to add an octave to a bassline? so it translates better on smaller speakers",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1171877478306938961",
+    "author": "LAPhill",
+    "date": "2023-11-08",
+    "content": "(no Waves over here)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1171881694106746910",
+    "author": "LAPhill",
+    "date": "2023-11-08",
+    "content": "There was a time years ago that I got annoyed with their upgrade pricing, and had alternatives I liked better for most things anyway. But I'm an outlier, Waves is great. MAXX Bass is the main thing I still miss, honestly.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1195767091278643241",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-01-13",
+    "content": "What is the difference between an EQ and a filter? When doing lowpass stuff (especially when automated) I sometimes use an eq (like fabfilter pro q3) or a filter (fabfilter volcano) and I\u2018m not really sure why I\u2018m grabbing one over the other in any given situation \nIs a filter just an eq u use slightly differently or is there more to it?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1199282002902388797",
+    "author": "! Andy !",
+    "date": "2024-01-23",
+    "content": "Yep that's the same for me - I used to \"mix as a go\" which translated into get down the rabbit hole mixing & loose sight of the actual production/writing element when I was doing my own stuff. Defo defining what kind of session your doing has been a super important thing for me \ud83d\ude42",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1222647193198923857",
+    "author": "BoozleBAM",
+    "date": "2024-03-27",
+    "content": "Is a unit that becomes noisy/ squealy when the  phantom power is turned on an issue? Will that translate into the recorded signal?? I don't thiiiiink I can hear it in the track and I'm pretty sure it's just a noisy unit kinda thing?? I'm using an old Roland mmp2 for the spidif out and going into my tascam interface so as to get two more channels digitally. If problematic, I suppose I'll be looking to get some external phantom power units, right?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225063025493672039",
+    "author": "BoozleBAM",
+    "date": "2024-04-03",
+    "content": "This has been on my mind lately, so I just figured I should run it across: I was being mentored (mixing) by this guy who I respect tremendously. He was always telling me that I need to replace my plugins (have been using free plugins for the longest) and suggested that I start with Waves and some of the UAD offerings. So, I went ahead and downloaded all the Waves counterparts (UAD wouldn't work on my computer for some reason) to my stable of free plugins and did a mix that way. At first I really liked it, but then the sound of the Waves stuff began to wear on me for some reason. That's the only way I can describe it - The sound started to wear on me. So, now I'm back to using my free plugins and liking mixing again. All that to say: Is there any reason I shouldn't use free plugins?? I have zero knowledge of what's going on \"under the hood\" of all this stuff. Zero technological prowess in that regard whatsoever. The only way i know how to tell if something is \"better\" than the other is by feeling, I suppose. So, yeah. And all these paid plugins, I mean... it's a lot of money. Thanks, ya'll.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225074899673026612",
+    "author": "Nick Stetina",
+    "date": "2024-04-03",
+    "content": "We\u2019re on a similar path right now. I\u2019ve filtered all of those Waves plug-ins back into regular use recently, except for L1. No shade there, just been partial to the flexibility and control in GHz Faraday Limiter. Almost always 20:1 then just adjusting just attack, release and blend. Great GUI and metering.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225151332068098159",
+    "author": "BoozleBAM",
+    "date": "2024-04-03",
+    "content": "I'm glad you mentioned that. I ran my little \"Free plugin dilemma\" across my very intelligent bass player brother the other day, and he basically said the same thing - \"Well, most of the people that use those plugins are probably expected to use them by certain clients. They're probably working with a lot of different people...\" I am not working for/ with anybody in a heavy mixing capacity as of yet. This whole journey has been to simply get my own work to the level of production that I want. Hell, I never even wanted to ever own a microphone let alone mix my own stuff, but here I am - However many tens of thousands of dollars and man hours later...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1225151978472996895",
+    "author": "BoozleBAM",
+    "date": "2024-04-03",
+    "content": "My process of \"becoming a mixer\" and developing my own palette of tools that works for me has essentially been: 1. Download every free reverb plugin I can find. 2 Play around with all those plugins and see what sticks. It's actually been really fun and quite rewarding. Instead of going to the movies, I download free plugins. lol. Most of them never get used. I probably have 10 - 15 that I keep coming back to after downloading I don't know how many thousands...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1235808986704384020",
+    "author": "Deleted User",
+    "date": "2024-05-02",
+    "content": "Ah I actually get this. But it\u2019s very easy to workaround by investing in MPE keyboard. MPE allows you to put vibrato on keys with your fingers as opposed to mod wheel vibrato that is shaped like triangle waves",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1262853141616001144",
+    "author": "BoozleBAM",
+    "date": "2024-07-16",
+    "content": "The roalnd Quad Capture I think sounds absolutely excellent - My first real interface that my bro bought me some many years ago... I'd hate to go back to it because the 6i6 is just so bloody feature rich, but if I have to, I will - My mixes translated seamlessly when mixing through that thing... Comping drums soon! yay!!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263832617258586206",
+    "author": "rawssx",
+    "date": "2024-07-19",
+    "content": "also isn\u2019t a mic and a preamp also the industry standard? but d4vd made a billboard no.1 (banger) on his iphone recorded thru his earphone\u2019s mic and still makes/records and releases songs just thru his phone using bandlab. Goes to show a good song is a good song and if one knows how to mix and knows what sounds good, thats the end. At the end of the day, music is a medium to translate feelings, and whatever works for you is the best.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266002463702384702",
+    "author": "Talking_Wire",
+    "date": "2024-07-25",
+    "content": "Newbie and audio question:\n\nWhen you\u2019re listening to music in a 4 door sedan\u2026 what\u2019s happening to the sound waves? \n\nDo we do the car test bc it\u2019s the worst audio or the best?\n\nI\u2019ve come this far and I\u2019m too scared to ask haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1271937471814438964",
+    "author": "Eric Martin",
+    "date": "2024-08-10",
+    "content": "I use the plugin alliance one, and the old avid plug, both work well, maybe don\u2019t sound perfect but it\u2019s distortion",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274767305817198623",
+    "author": "Zack Hames",
+    "date": "2024-08-18",
+    "content": "Here\u2019s gain staging in a nut shell: don\u2019t clip. In pro tools I try to keep all my faders at 0 or below. Seems to play nice and I don\u2019t ever go back at the end of my mix to push everything down.\n\nMake sure you aren\u2019t clipping within plugins either. Fabfilter pro-Q 3 is notoriously nasty sounding when clipped.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1280466814026911796",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-03",
+    "content": "Start with a fresh slate on a format you choose rather than whatever they give you",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1280539328426020894",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-03",
+    "content": "best to start with a clean slate",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1288963632591409252",
+    "author": "bobby k",
+    "date": "2024-09-26",
+    "content": "I know we've discussed this before, but what are some good work arounds for the silicon native vs. Rosetta trouble in Pro Tools? I have a couple favs that run really well on my M3 max when in Native, but are prone to crashing/stalling sessions when in Rosetta. Then vice versace, a few favs that aren't yet available in native, so I've loaded them as VST's with something like Waves's \"StudioRack\" but that's admitedly not my favorite option...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295609932074455141",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "I\u2019m fascinated with phase and waves . I expect this might all be familiar to you but it seems there\u2019s some handy info about phase and audio here https://mycourses.aalto.fi/pluginfile.php/666520/course/section/128564/Jon%20Fagerstr%C3%B6m_1929997_assignsubmission_file_AAT_Seminar_paper_Phase_Equalization_JF_FINAL.pdf?time=1558421096226#:~:text=Phase%20equalizers%20are%20filters%20that,response%20of%20a%20given%20system.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295610318994804768",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "Do you have izotope eq ? There\u2019s a setting in the preferences that says something like \u201cshow all curves \u201c click on it and it adds a time display into the graphic on the gui",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295610860101832744",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "It\u2019s an interesting tool to be able to slide between eq types and not have to switch them as in FabFilter .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295616514891710486",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "I think this interest is a natural progression for many of us . I\u2019m a science grad , electrician and above all a  musician . Long term probably the real driving force for my love and learning in engineering is my musical side and wanting to understand waves . Audio and electrical engineering and their marriage and understanding of one to inform the other  is probably my main fascination in life these days (along with the maths and physics of it ) .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1308921255625228390",
+    "author": "Zack Hames",
+    "date": "2024-11-20",
+    "content": "Also, if the music is supposed to be listened to loud\u2026.do some EQ moves with the speakers up a bit. I find EQ moves translate better when I mix with some decent volume. Mixing quiet makes everything so out of balance for me especially low end and high end",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313238736464773281",
+    "author": "Jemody",
+    "date": "2024-12-02",
+    "content": "Honestly I just played around with stock plugins since those usually have everything you need",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1341084289441202208",
+    "author": "Josh",
+    "date": "2025-02-17",
+    "content": "And just because they\u2019re dark doesn\u2019t mean the high end isn\u2019t analytical. I could finally hear exactly what my de-esser was doing and low passing became more important. But as far the \u201cprofile\u201d of the high end, it rarely translates for me if Im sent a session where I have to really sculpt the high end material in it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1376289919827443742",
+    "author": "BoozleBAM",
+    "date": "2025-05-25",
+    "content": "I have a question: I'm interested in creating some \"ambient\" or more \"instrumental\"/ experimental soundscapes. The only thing is that I HATE using keyboards - Synths, keyboards, just NOT_MY_THING. Don't ask me why, but my instruments need to have some \"vibrato\"/ variation element to them; guitars, bass, drums, etc - \"real\" instruments... Anybody got recs for things I can experiment with to really create some more wild sonic landscapes? I tried using one of those guitar \"synth\" pedals, but those are still restricted in the way they interact with or translate the vibration of the strings -still mostly clicking in-between \"droning\" sounds, more or less.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1393639487346839572",
+    "author": "EliHeathMusic",
+    "date": "2025-07-12",
+    "content": "What are you using to create your custom RX shortcuts? I've been considering stepping deeper into the soundflow/streamdeck world but want to make sure I'm doing everything I can with my kensington and keyboard first. Does izotope have a way to make your own shortcuts or is it a third party thing?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416101664368234516",
+    "author": "masteredbyjack",
+    "date": "2025-09-12",
+    "content": "It\u2019s hugely arrangement depending how things translate",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  }
+]

@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "927051207258816573",
+    "author": "cian riordan",
+    "date": "2022-01-01",
+    "content": "Agreed -- be critical of everything. Be critical of things that are expensive for the sake of being expensive. Things that are just  instagram ads shilling to newbies. Critical of  Greg Wells pandering to whatever his base is. But recommending a 4k converter based on 'audible conversion quality' isn't helpful if the consumer doesn't have a million other ducks in a row first -- room treatment, adequate monitoring, proper gainstaging, etc. Jon has that figured out, so it makes sense for him. But when people come into a forum with questionable knowledge and background in music production asking what's the best converter, I think it's fair to ask some prying questions before just making blanket recommendations on what one person heard or not. I have plenty of semi-OK stuff that still gets used on the regular, and plenty of expensive gear that I would happily toss out of my workflow. They're all just tools. And whether its bougie DW Fearn or a black-friday Acustica plugin, , if it works for your workflow and gets you results you're happy with, then its worth whatever money you're willing to pay for it.",
+    "reactions": 23,
+    "attachments": 0,
+    "is_pinned": true,
+    "is_expert": true
+  },
+  {
+    "id": "1068784678879895562",
+    "author": "oaklandmatt",
+    "date": "2023-01-27",
+    "content": "Haha just relaying my experience. If you're sending to a mastering engineer it's a whole different conversation.\n\nAlways think about what you're trying to accomplish at any given stage. Then go after that goal. \n\nI used to spend too much time on sonics in writing sessions. I should have been solely focused on finding emotional magic. Now  I am just trying to inspire the artists and writers around me, I'll deal with the sonics later. Much better results.\n\nI also used to fully mix-as-I-go, which painted me into a corner with gain staging and eq. Now when I get to the end of the process, I often pull things back and rebuild my levels so there's headroom and I can make that exciting production translate.\n\nDifferent approaches for different parts of the process.",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "989647146275975278",
+    "author": "BatMeckley",
+    "date": "2022-06-23",
+    "content": "I would open up the uad console, go over to line inputs, check for cue, then chuck the interface out the window of a moving vehicle. \n\nHardware inserts not their forte unless you love phasing or time aligning manually",
+    "reactions": 12,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036785475878387802",
+    "author": "Slow Hand",
+    "date": "2022-10-31",
+    "content": "It's a big topic, but gain staging is about finding the optimal amount of gain at every stage of the recording and mixing process.\n\nGood gain staging allows you to get the best fidelity out of a recording by preventing things from creating unwanted distortion or amplifying unwanted noise. **OR** if you are *seeking* some distortion and compression it's about turning up the gain enough to give you the amount that you're seeking from your tools.\n\nGain staging is something to be considered at all steps of the production process. For example:\n\n*1. How loud is an amplifier turned up in the room? Is the microphone being blow out by it?\n\n2. How high is the gain on a microphone preamp and is it at risk of clipping if the performer plays loudly?\n\n3. Is the gain so low that when I turn a signal up later on the noise floor will rise with it?\n\n4. If I'm recording to tape, am I recording quiet enough that it won't saturate the signal, or do I want for the signal to slam the tape and be saturated?\n\n5. How loud is an individual channel in a DAW? Is it making the channel clip?\n\n6. How loud is a signal that's being sent into a piece of hardware or a plugin? Am I distorting the circuitry at all?\n\n7. Is my signal coming in so hot that it makes a compressor react way too hard?\n\n8. How loud is the entire track I'm mixing? Is the limiter crushing the dynamics in an unwanted way? Or am I hitting it just with just enough level to get a certain flavor of pumping and clipping?\n\n9. Is my final mix going to hit digital zero and create unwanted clipping?*\n\nSo gain staging is not a single thing, but a series of choices that are made every step of the way around how you manage the \"voltage\" of your signals. Together these choices all add up to a mix that \"breathes\" well and is free of excessive or unwanted distortion.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134159001718902826",
+    "author": "NoahNeedleman",
+    "date": "2023-07-27",
+    "content": "My take, after listening, was that a ME should have no problem working on the non limited mix. I heard the clipping but it wasn\u2019t ugly. There are lots of things that go into making a record, and a little clipping here and there isn\u2019t gonna be the difference in a song hitting or not. \n\nBut also- allowing yourself to be curious without being fearful... Taking someone\u2019s note and asking, without judgment, if there\u2019s something you might\u2019ve missed, is worthwhile.\n\nDeeper still, and I\u2019m still working this out: taking the blame and taking the credit are the same thing, I think. Admitting you were wrong can be a sort of superpower, and all the sting and shame disappear and all you\u2019re left with is the learning and growing and relationship building. Walls go down on all sides and it becomes a team effort again. \n\nIt\u2019s real easy to let ego ruin a good feeling. Being able to say \u201cshit what did I miss?\u201d is wayyyy easier than saying \u201cbut I already said it was good so i can\u2019t go back on it\u2026\u201d it takes longer to get there sometimes, but in the end it\u2019s the path of least resistance. \n\nBBQ Sauce.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1195922281864626276",
+    "author": "NoahNeedleman",
+    "date": "2024-01-13",
+    "content": "Organize, retitle, color code, group, quick gain staging/leveling to get all the loudest parts of the song hitting around -3db, import any templates I wanna work from. All the things I\u2019d have my assistant do if I wasn\u2019t my own assistant.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "879589857813479485",
+    "author": "cian riordan",
+    "date": "2021-08-23",
+    "content": "1) Yes! All MPDI-4 mic pres. Signal chain would have been Mic -> Pre -> UTA Console Line In -> Pro Tools.\n\n2) I\u2019m pretty sure this would\u2019ve been a Frankenstein. Most likely Eric\u2019s Sonor birch kick drum with a Remo Black Dot on it. Almost certainly Vistalite toms\u2026 and this sounds like a Bell Brass snare.\n\n3) Room mics are placed probably 20 feet away, spaced wide, pointed at the kit. Eric would always point the room mics away from the drums with the cardioid null towards the drum kit, but I found I got more direct, punchy sounds with it facing the drums. Chamber mics would\u2019ve been a foot apart, pointed 45 degs out\u2026 sort of intentionally phasey to make them wider.\n\n4) Yeah, you\u2019re onto it. The overheads are intentionally wide and close to the cymbals. The mono mic and close mics are doing the heavy lifting with the drums and the L/R OHs are almost just cymbal spot mics with some kit stereo information peppered in.\n\n5) Saturation is a combination of driving the UTA pres, clipping the line input of the console, and trimming things back with the faders. Might\u2019ve been an LA-2a on the snare with no compression, just crapping out the tubes.\n\nSorry wish I woulda taken pictures of this session. Dave Elitch was the drummer and he\u2019s a fucking monster.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1028826904100356148",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-09",
+    "content": "Because now you KNOW that if you hear clipping when an artist or producer plays you something from their phone that it\u2019s in the source, NOT in your rig",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1257411941148921936",
+    "author": "LAPhill",
+    "date": "2024-07-01",
+    "content": "Speaking of the evolution of the trap kit, Wynton Marsalis has a great talk on the matter: https://www.youtube.com/watch?v=u1jnbeKxf7I",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1284229709487411362",
+    "author": "Isaac Diskin",
+    "date": "2024-09-13",
+    "content": "Any basic digital multimeter that you can get at Harbor Freight, Home Depot etc will do the trick! If you generate tones (sin waves) in your DAW or with an external device you can measure AC voltages at the various points you are interested in, and calibrate if need be. It\u2019s important to understand what various decibel levels translate to in voltage, as that is what you would be measuring. For example, +4dBu = 1.228 Volts, and -10dBV = 0.316 Volts. But like the other answer said, unless you need to calibrate your outputs for a specific reason, you will be fine connecting various pieces of pro-audio gear as long as you pay attention to the gain staging and adjust gain as necessary so there\u2019s no clipping. And if you need to interface with a consumer level device you\u2019d probably be better off getting a bump-box or something of the like.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1334536916602716252",
+    "author": "BoozleBAM",
+    "date": "2025-01-30",
+    "content": "Are you saying that the instrument ins wooould... omit the need for the external DI bos??",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472375459420311644",
+    "author": "Brian Reynolds",
+    "date": "2026-02-14",
+    "content": "There a great line in John Mayer album notes (remember them?) on Heavier Things. \"This album would of gotten done faster if not for the smoke breaks. I don't smoke. But I loved the chats.\" I'm paraphrasing.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "822911707344535642",
+    "author": "oaklandmatt",
+    "date": "2021-03-20",
+    "content": "i don't know about usb 500 series boxes, but having an A+ preamp into the line input on the apollo will likely be an improvement on the apollo preamps (which are actually not bad though). \n\nps, this is what i do with my undertone pres into my apollo x16",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "829294348105023488",
+    "author": "antoniohannamusic",
+    "date": "2021-04-07",
+    "content": "Agree with this, also, one thing for 'live sessions\" is that by the time Cameras have filmed 5 x takes to get coverage it's often no longer strictly 'live' obviously there are exceptions. For location recordings though, Isolation is absolutely key, if everyone can play with IEM's or is happy to wear headphones then I would normally DI everything, Mic up a drumkit and give the singer an SM7B having them sing directly at the drummer (obviously not always possible) then everyone else, bass, keys, guitar, DI, pick an amp sim / keys plugin and get them to do multiple passes (to a click if possible). Not trying to be prescriptive just my approach FWIW.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848413616939335690",
+    "author": "Josh",
+    "date": "2021-05-29",
+    "content": "Yo so my twin actually broke and I had a crazy ass noise floor. Got my arrow and it disappeared. I haven\u2019t met a single person with a broke Apollo.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "972936566873927771",
+    "author": "alex_epton",
+    "date": "2022-05-08",
+    "content": "Do a quick balance first. With everything in. Don\u2019t spend more than 15 mins on this. Check it on your aura tones too or whatever small alt speakers you use. Then put your two buss clipping/ limiting /any EQ you think you might need. Adjust this stuff til it sounds good and you\u2019re hitting your target level. Get it as close as you can without touching your individual tracks. Then start dealing with little stuff on individual elements: Resonances. Masking. vocal sibilance. boomyness etc\u2026 needless to say you wanna sit down and tackle this with fresh ears. Your balance is probably the single most important thing you\u2019re gonna do as a mixer. So do editing /cleaning clicks and vocal tuning on a different day",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1204482345789296671",
+    "author": "NoahNeedleman",
+    "date": "2024-02-06",
+    "content": "Also every house you go to will have a gang of these cables in a closet somewhere",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1284184786285494342",
+    "author": "Nomograph Mastering",
+    "date": "2024-09-13",
+    "content": "We are trying to find good operating levels between the noise (very low in modern gear) and clipping",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1334526673353441381",
+    "author": "Bryan DiMaio",
+    "date": "2025-01-30",
+    "content": "yeah if you're using a DI box you use a mic preamp after it",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348011145348251769",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-08",
+    "content": "if you need to hear not drums when you're recording guitar, just mute em",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348013887232020522",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-08",
+    "content": "time to go out of your comfort zone man, practice recording guitars to drums",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1379627690398580777",
+    "author": "BoozleBAM",
+    "date": "2025-06-03",
+    "content": "Indeed, Sir. Maybe it was like, \"This bass you're laying down is TOO hot, Boozle. The worlds not ready for it...\"",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "837064952958287912",
+    "author": "Deleted User",
+    "date": "2021-04-28",
+    "content": "I don\u2019t recall which one it is, but there was a clip about this where Jon talks about it. Most of us just use clip gain to lower everything. You don\u2019t really need a vu meter for this. Just create enough headroom so you can make bold decisions without clipping",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848332323405430785",
+    "author": "Zakhiggins",
+    "date": "2021-05-29",
+    "content": "compression would definitely bring up the noise floor",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1077627505365757982",
+    "author": "BatMeckley",
+    "date": "2023-02-21",
+    "content": "In fairness, I have this same issue with my B&O headphones. The gain staging gets tricky to the point where I\u2019m not using them for anything serious sadly.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274827012367974480",
+    "author": "Eric Martin",
+    "date": "2024-08-18",
+    "content": "love that, I\u2019ve been doing pulsar mu 1.5db of compression max, but then soft clip with standard clip and the clipping I don\u2019t pay attention to \ud83d\ude06",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274842934394491004",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-18",
+    "content": "Where we end up on a given subgroup or mix bus or channel pre or post a plug in depends on recording levels and a whole bunch of other stuff",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1334534814786912266",
+    "author": "Bryan DiMaio",
+    "date": "2025-01-30",
+    "content": "Well, it all depends on what gear you have and/or want to use.\n\nIf you have a DI box, an outboard preamp you want to use, and an available line input on your interface yes.\nIf you have a DI box and an interface with built in mic preamps but no outboard preamp, do that. If you have an interface with an instrument input but no DI box and no outboard mic preamp do that.\n\nSome outboard preamps even have a DI input on it that sounds pretty good, but without knowing your exact setup idk what to advise. Based on the above info though you should be able to make that choice.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347416397944324106",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "Here goes\u2026\nMillion ways to skin this cat. I\u2019ll give you food for thought.\n\n1. At least double track. My personal goal, is to get the sound to be as awesome and huge and perfect with 1 pair of guitar tracks doubled, with 1 mic on an amp. That\u2019s the ideal scenario for me. That said There are people that sum 4 mics down to 1 signal on a mixer and it sounds amazing.  \n\n2. The more performances  you add of the same part, the more blurry it will sound.if you need different textures, consider recording a DI so it can be blended in with your amp in any manner of your choice, either reamping, distorting with a plugin, whatever. (Check phase)\n\n3. I like when the left and right are *subtly* different, no drastically different. You hear \u201cthe left and right being different is what makes something wide\u201d\nThis is true. But I loathe when it\u2019s so different it feels lopsided.\n\nHow do we address this? \n\n-double track using the same guitar so the tuning and intonation is most similar \n\n-change the amp head but keep the same cabinet/speaker so the overall EQ is similar but my the gain structure is different\n\nIf you use 2 different guitars, consider the scale lengths. This will change subtle intonation things, for better or worse.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1399840114884214784",
+    "author": "el",
+    "date": "2025-07-29",
+    "content": "yo gang. any idea how you get this kind of clipping sound?  https://www.youtube.com/watch?v=F8loVhlwP9M",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472081356627640542",
+    "author": "masteredbyjack",
+    "date": "2026-02-13",
+    "content": "Another way to see this, at least the harmonics that clipping adds, is considering a simple sin wave vs a square wave. Read into the harmonics created (it\u2019s just wave theory). But it\u2019s especially clear in synthesis in that case.\n\nOf course musical applications are much more complex, but that\u2019s why clipping (squaring off the top of a rounded waveform) adds harmonics\n\nThat\u2019s what people mean when they say it spreads the energy across the spectrum. In the case of a sin wave, you have a single fundamental. At the far other end, you have a square wave which has harmonics all up the spectrum of frequency",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "817081390176665620",
+    "author": "hendrick",
+    "date": "2021-03-04",
+    "content": "do we have vocal producers in here? I'm working with an artist that is from a spanish speaking country but their songs are in english. what techniques do yall recommend to improve pronunciation when singing?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "818963040266747937",
+    "author": "Slow Hand",
+    "date": "2021-03-09",
+    "content": "Generally speaking, steel string guitars are more common in pop music. They've got that jangly, biting, tone. Possibly because that tone can cut through a dense arrangement easier or be more aggressive. Nylon strings are associated more with classical performance or something like flamenco, but nylon strings can certainly find their way into pop music too. 2000s RnB/Hip Hop was all about that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "819635972273602580",
+    "author": "Zack Hames",
+    "date": "2021-03-11",
+    "content": "Is there a best practice for running audio through another mic preamp to get some coloration? Or will it not make as much of a difference Line In vs mic in? I feel like this is a simple thing to know. I\u2019m asking because I\u2019m curious if running audio through my UTA MPDI-4s will give me the same or some of the coloration as when I record with it. Maybe @oaklandmatt or @cian riordan have an answer for this?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "822912743187284018",
+    "author": "David Fuller",
+    "date": "2021-03-20",
+    "content": "Line level and mic level are very different signals, and depending on the Apollo, some entirely bypass the mic preamp on the line input, others just pad it down to a lower level.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "827586282716266546",
+    "author": "mixedbywong_my",
+    "date": "2021-04-02",
+    "content": "Here\u2019s what I\u2019m experiencing on a project . It\u2019s a musical type album almost like Hamilton that sort of vibe. All the vocals I\u2019m getting for every song is recorded without an outboard mic pre or compressor from a C414 to an audient ID4\u2019s mic input . Prob is even when the tracks are not clipping in levels but they all sound like there\u2019s some small level of clipping going to the AD converters .  And I doubt the vocalists has decent microphone techniques singing in. Seeing that the vocals are supposed to sound kinda warm n not as polished , Even with some EQ moves, the vocals are still sounding like there\u2019s some 3rd harmonic sounding saturation on them.  Anyone experienced this before ? Would love to hear anything that\u2019ll help it sound better . \ud83d\ude05",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "829296217711181855",
+    "author": "antoniohannamusic",
+    "date": "2021-04-07",
+    "content": "Not a plug but on the live recording thing, this is an example of the DI everything method, the band wanted this constant moving video so we faked a dolly / track with me walking in circles with a gimbal and a DSLR, All instruments DI/Kemper except for drumkit and vocals, we did 3 x takes full band then for safety I had the lead singer do a one take over the best live playthrogh, this gave me the option of having a completely isolated vocal for the end where the drums get a bit hectiv : https://www.youtube.com/watch?v=P-v_S5sOZYE",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "836274601662873671",
+    "author": "Zack Hames",
+    "date": "2021-04-26",
+    "content": "Speaker as Sub kick question:\n\nI can\u2019t seem to get any signal when I try this with a studio monitor, but a pair of headphones or a guitar cab as a microphone works flawlessly.\n\nI\u2019ve tried it two different ways:\n\nSpeaker cable or xlr  or headphone -> Avalon U5 DI input or input of mic preamp.\n\nSo when i use a xlr or trs to a mic preamp from a studio monitor, I just get a low buzz with no additional transients from the drums. \nDo I need to use a reverse wired balanced cable? I\u2019m having a hard time finding a prescriptive answer for this.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "837064973002735616",
+    "author": "Zakhiggins",
+    "date": "2021-04-28",
+    "content": "If its for your own stuff - I'd definitely reccomend exporting your stems first (if you mess with the input gain when you've plug ins on, it'll change how the plugins effect the audio)\nSo export them to keep things the same as you had, put them in to a new session and just clip gain everything down.\nMatt and Jon actually did an episode on gain staging",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "837372553973727243",
+    "author": "Eric Martin",
+    "date": "2021-04-29",
+    "content": "also, removing any additional distortion/clipping on the master will help translate better, as the cutting will impart a character to it, and the cutting engineer will do EQ before it hits the heads to control the level going onto the acetate.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "837378032200450068",
+    "author": "Eric Martin",
+    "date": "2021-04-29",
+    "content": "oof, I have one full closet. \ud83d\ude06",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "839245984420200458",
+    "author": "Slow Hand",
+    "date": "2021-05-04",
+    "content": "Gotcha. Generally speaking, effect pedals don't interface directly with a computer or plugins (although some can). Usually they can only be recorded as audio by plugging them into your audio interface and recording the audio as you perform it. I see that this one has a *MIDI In/Out*. That means it can probably receive *tempo* information (so that it synchronizes with other programs) and maybe some *program changes* that can tell it when to change presets.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "839246369293467658",
+    "author": "Eric Martin",
+    "date": "2021-05-04",
+    "content": "I use pedals on productions and mixes all the time, my Appgee Ensemble has a DI IN AND OUT on the front of the box so it\u2019s real easy",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "839268064817446962",
+    "author": "peterlabberton",
+    "date": "2021-05-04",
+    "content": "Exactly. Say you\u2019re using line out 1-2 for monitoring, you could use line out 3 to feed the reamp/pedal(s), and then just whatever input you want/whatever your DI is on. If you\u2019re in Pro Tools you can setup a hardware insert, though you\u2019d have to use the same ins and outs (i.e. output 3, input 3).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "839609395947634688",
+    "author": "Deleted User",
+    "date": "2021-05-05",
+    "content": "plus, most daw\u2019s internal processing is 32bit floating point and the summing is done in 64bjt floating point. I don\u2019t see much reason to record 32bit -audio files- though, other than the fact that clipping isn\u2019t an issue anymore. Because the daw processes them in floating point anyways it would be only taking up the hard drive space. I think in earlier protools (i believe before version 10) wasn\u2019t like that so they had to go through that process. It isn\u2019t necessary now anymore. I only started using PT from version 12 so I don\u2019t know what it was like before the floating point became something we take for granted by default",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "842188371488145409",
+    "author": "thejadenmejia",
+    "date": "2021-05-12",
+    "content": "I usually just record vocals! Most artists that come in are artists bringing in mp3s. Sometimes I\u2019ll record electric and acoustic guitars and I\u2019ve tracked drums before. I usually do an hourly rate, but I find downsides to that method at times. My vocal chain is pretty good and I\u2019m adding a Sony C800G to my mic locker. I\u2019ve had recording experience for 4 years. Started when I was 15 and mentored under a local engineer. I have been charging $50/per hour. And I like your idea of the recording-mixing deal. Even still, I\u2019m just at a loss on what to charge for mixing and recording. \ud83d\ude2d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848271726873411655",
+    "author": "chris_donlin",
+    "date": "2021-05-29",
+    "content": "I record a lot of acoustic guitar, and it seems like no matter of treated the space is that I\u2019m recording, i always end up with a high noise floor. I\u2019ve recorded with dynamic mics, ribbons, and condensers - condensers being the least problematic. I don\u2019t get how some acoustic recordings are dead quiet with a super low noise floor",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848279008335888406",
+    "author": "David Fuller",
+    "date": "2021-05-29",
+    "content": "And also what's your room's noise floor?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "848371974158024714",
+    "author": "Rob Domos",
+    "date": "2021-05-29",
+    "content": "If it\u2019s the hissing kind of noise that you get more of when you switch from condensers to dynamics and ribbons, then it\u2019s not the kind of noise that is coming from the room. \n\nIn rooms the main things you would be concerned about would be reflection (which you fix with treatment) and mechanical noise from things like computer fans, clocks, etc. and condenser mics would pick those kinds of sounds up more, not less. \n\nAny unison pre in the Apollo should be plenty low noise to not bother you on your condenser mics. I agree with others that not using any unison pre will make the noise floor lower, but I disagree with them in that I think using the unison pres is a pretty good idea often. \n\nThat said, if you\u2019re struggling with noise, definitely try not compressing on the way in because compressors are only going to raise the noise floor. \n\nOn dynamic mics and ribbon mics, you can decrease your noise floor pretty considerably by picking up a cloudlifter and throwing that in the chain. \n\nIf you do all of the above and still have a high noise floor then either the Apollo is broken (which is pretty unlikely), or your microphone is picking up mechanical noise from your air conditioning, computer fan, refrigerator, etc. if those are the issue, then tackle the issue there. Turn off the A/C, turn off the fridge, turn off the LED lights, etc and see what you hear.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "857997853912858706",
+    "author": "mixedbywong_my",
+    "date": "2021-06-25",
+    "content": "Is there anyone who'd help me listen to a vocal recording and tell me whats wrong with it ? been working with a long time collaborator and i keep getting vocals that sounds a bit too clipped but they're not actually clipping when i look at the waveforms. is it possible if i pm someone the clip if they're be kind enough to have a listen .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "868582479508955146",
+    "author": "Ian",
+    "date": "2021-07-24",
+    "content": "So not quite a music question but ive been editing twitch vods and they are super quiet since I have to upload to YouTube. I can push the clip gain in the video software all the way up and not clip before I bring it into protools for final limiting. I still end up around -20 LUFS before limiting which means I need about 6 LUFS to bring it to YouTube 's -14 standard. So my question is what strategies with gain staging etc would you recommend so that im not having the limiter clamp too much when I go to do final export?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "875840086166622249",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "Template:\nI\u2019ve attached a slimmed down version of my mix template with all of the drum bussing. This has evolved over many years and has taken many forms, but it\u2019s really just a good starting point for me and speeds up my workflow quite a bit. I\u2019ve got three main busses that feed into a master drum buss. \u2018DRUM SUB\u2019 is my uncompressed (or lightly compressed) buss. \u2018DRUM PAR\u2019 is my heavily compressed buss, and \u2018DRUM DIST\u2019 is my parallel distortion buss. I don\u2019t necessarily always use these, but having them ready to go makes it easier to quickly audition different ideas. Sometimes I\u2019ll duplicate one or two of them to get another flavor involved. Again, everything to taste. \n\nAlso in the template are some very basic aux\u2019s I find myself using often. There are two parallel SansAmp busses. I have two because often times if I use one on the kick drum, it rarely works for the snare drum, so I have a second one ready to go. There\u2019s also a \u2018SNARE SLAP\u2019 and \u2018SNARE GATE VERB\u2019 that rarely get used but if I need to inject a little mojo, they\u2019re a good starting point.\n\nThe \u2018D SUB TRIM\u2019 is just a master fader controlling everything going into the bussing, so if I get a little overzealous with level, I can manage the gain staging quickly without having volume automation grouped. These three (sometimes more) busses then feed into the final \u2018DRUM MSTR\u2019 , where I\u2019ll do final overall EQ tweaks and level adjustments.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "877768378591367168",
+    "author": "Zack Hames",
+    "date": "2021-08-18",
+    "content": "Speaking of grand piano\u2026what mics do you guys like to use? I\u2019m planning on trying a stereo set up for more basic piano sounds and some sort of mono mic I could make distort or make fit into a different part of the mix. This in context of a ROCK band.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "877818985054367755",
+    "author": "jantrit",
+    "date": "2021-08-19",
+    "content": "Depending on what you\u2019re looking for there are so many choices. My usual go to has been 414ebs one on the high strings and one towards where the lower and middle strings meet, both kinda following the angle of the piano body. This never fails to get a great sound. If you can take the lid off try an aea r88 diagonally across the body one side pointing to the high strings one side pointing towards the low and mids, this has been one of the most natural sounds I\u2019ve EVER gotten from a piano. It just feels so real and right. You can also try some other great stereo mics like the sm69 on cardioid for both caps. Used to stick that in a similar position as the 88 with the lid on the big stick and then blanket the whole thing to fuck. You could get amazing separation even with drums in the room and it still sounded natural. There\u2019s also the humble 57!!! Don\u2019t sleep on those if you\u2019re after a very direct and contained sound you can get a couple of those on it and get exactly what you\u2019re after.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "900971691918897212",
+    "author": "Deleted User",
+    "date": "2021-10-21",
+    "content": "Does anyone do remote production? Not the kind of workflow where you just send beats and have recording back and forth, but more involved type of holistic production. I\u2019ve been trying to do it, but it hasn\u2019t been working out for me. Especially vocal production. I feel like the most ideal scenario would be traveling but that\u2019s not always possible. So it feels like the next best thing would be finding good vocal producers in the local area. But what if the budget is tight and that is not possible either? I definitely do think teaching artists how to record themselves is going to be beneficial and that wouldn\u2019t be difficult. The problem is in vocal delivery and just getting the vibe of the whole music right. On my end, it\u2019s definitely possible to do live streams and have the artist give me active feedback. But it doesn\u2019t work the other way around, nor it\u2019s not gonna be easy to quickly record vocal ideas while doing this either. The real time magic of collaboration would face technical obstacles in remote settings. So I wondered if anyone has found some kind of solution to this.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921504760710987816",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "If you imagine a waveform with peaks you can gain the peaks down. You can compress them (where they are \"squeezed\" together in my mind) or you can do things like hard clipping where the peak is shaved off.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "955951611811880960",
+    "author": "sloth",
+    "date": "2022-03-22",
+    "content": "Hello people,sorry if the the thread could've been chosen better but here goes.Recently I've listened back to the episode of lwmr about gain staging and there was a mention of faders sounding different when not at unity gain  and I wondered if that really is the case as I've been forced upon,from when I started learning about mixing from my mentor,to  mix with faders.I hate to be a doubting Thomas but can someone bring some insight on this subject,personally I like the faders at zero approach a lot more as it seems like a cleaner work environment.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "989640262194200576",
+    "author": "Maxim",
+    "date": "2022-06-23",
+    "content": "Anyone have experience using an Apollo interface with hardware? I\u2019m having a bunch of issues setting up analog inserts. \n\nI have a cable plugged in on a \u201cLine Out\u201d and a cable connected on the Output of the Hazelrig VLC1 (set to line) going back in through a line input but there\u2019s no sound coming in or out \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1007477039139405906",
+    "author": "niko.wav",
+    "date": "2022-08-11",
+    "content": "Hey everyone! I\u2019m just beginning to take mixing more seriously so I just went back and watched the LWMR about Gain Staging to begin mixing some demos I\u2019m working on. After watching , I had a question I was hoping someone could help me answer! \n\n    1.    Throughout the live Matt & Jon talked about how it\u2019s helpful to bring every track down to somewhere around -6db in order to give enough headroom when mixing. It sounds like the goal is to build back up perceived volume through exciters and saturation, but are the loudest tracks staying at -6db post-mixing? Or, is the goal to get the fundamental parts of the song (kick, vocal, snare, bass, etc..) closer to 0db after adding these different plugins (saturators, exciters) that affect the output?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1028811300819718154",
+    "author": "Zack Hames",
+    "date": "2022-10-09",
+    "content": "As long as you\u2019re not clipping it\u2019s good either way.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1028826647153094686",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-09",
+    "content": "6) Check Apollo input for clipping, and choose either +4 or -10 on that basis",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036776755500961894",
+    "author": "emre",
+    "date": "2022-10-31",
+    "content": "Hey guys, really really newbie question but i am struggling so much that i need to ask. What is gain staging and how can i do it properly ? I know the basics like noise floor, clipping over 0 but there are so many different information out there I just can't tell which is right. Some say you need -6 db of headroom blablabla but i watch Jon Castelli or any other mix engineers mixing they are mixing to 0 and loud af. It feels like im doing something wrong and but i don't know what im doing wrong if that makes any sense. Would love to hear how you guys approach it and would love to learn from you. Thanks.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1036777232787583016",
+    "author": "emre",
+    "date": "2022-10-31",
+    "content": "And i keep hearing the ''Oh i can push me mixes really loud cuz my gain staging is so good''",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1036783458342666270",
+    "author": "cian riordan",
+    "date": "2022-10-31",
+    "content": "This is a very broad question with many different answers, but I think the easiest way to sum up the concept of \u2018gain staging\u2019 is simply figuring out what level every \u2018device\u2019 is expecting and/or which level is ideal to get the results you want. These \u2018devices\u2019 can be a plugin, a piece of hardware, an A/D/A converter, an auxiliary bus, a mix bus, etc.\n\nIn analog world\u2026 there might be fathomable difference when a compressor or amplifier receives -10dBVU vs +10 dBVU. Accounting for these differences would be considered gain staging \u2014 and you\u2019d be looking for what gets the ideal sound out of your box.\n\nIn digital world\u2026 some plugins may react similarly and others may not care if you\u2019re sending -6dBFS or -0.01dBFS. It\u2019s usually case by case as there are myriad plugins. You also need to consider what level the plugin is sending signal out \u2014 as this will affect how the next plugin processes the audio, or how much headroom it has to work with. Let\u2019s say I\u2019m sending signal out of a compressor plugin into an EQ plugin \u2014 and lets say I\u2019m using the compressor to beef up mean volume of the signal and then I want to EQ some more low end into the signal after the fact. Well, I\u2019m going to be adding gain in the compressor and then the level going into the EQ will be hotter than originally intended. Id want to trim down the output of the compressor (or the input of the EQ) so you have headroom to be able to boost those frequencies without clipping the output of the EQ. In a 32-bit floating mixer like Pro Tools, these issues become less audible as the mixer has higher headroom than its indicating, but you never actually know \u2014 and it\u2019s best to just stick to the parameters that you have control over. If you were to do this same function with an analog compressor and EQ, there would be very noticeable distortion if you didn\u2019t stage the gain properly.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036783489053372476",
+    "author": "cian riordan",
+    "date": "2022-10-31",
+    "content": "Sometimes gain staging is just managing the signals going to an auxiliary bus or a master fader. If you\u2019ve got everything summing into - say - an aux bus in pro tools, and that aux bus is clipping, then that will be audible distortion going into the next gain stage. It may sound good, it probably doesn\u2019t \u2014 so its something to account for earlier down the chain. If you\u2019re going into a master fader in pro tools, and your signal is over 0dBFS, you can simply turn down the master fader, and it is actually turning down all the signals going to it, not just the output. This is useful because you can then throttle the input to your first plugin in the chain \u2014 say a limiter or maximizer. It\u2019d be a shame to have a fancy clipper on your master bus, only to be clipping the signal in the chain before even getting to it.\n\nIt\u2019s a bit of a scattershot answer to a scattershot question, but the reality is that everything affects everything in audio. And having your head wrapped around signals levels going in and out of things will help you make faster decisions and help you troubleshoot quickly when things aren\u2019t sounding quite right.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036786319973691434",
+    "author": "Slow Hand",
+    "date": "2022-10-31",
+    "content": "Matt and Jon did an entire episode on this a while back. Listening to this may help give you a more intuitive understanding of how and when we think about gain staging and what you can do when it's right.\n\nhttps://www.livewithmattrad.com/episodes/17?rq=gain%20staging",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1068767640253890610",
+    "author": "austenballard",
+    "date": "2023-01-27",
+    "content": "It wouldn't really matter what you send him technically speaking, but I'm guessing it sounds better with whatever processing you've got going on. So I'd just leave it on",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1107810763386667038",
+    "author": "bobby k",
+    "date": "2023-05-15",
+    "content": "ah super interesting. will check it out but not exactly what I was asking about. the AI adobe thing somehow \"synthesizes\" the sound of the speaker/singer's voice in a super convincing way to eliminate background noise, digital lossy stuff and any other artifacts. i don't get it, but it's cool as hell.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134148389550964782",
+    "author": "AJ",
+    "date": "2023-07-27",
+    "content": "Got sent the quieter version last night. After seeing the clipping data from the previous one, I decided to send the quieter version to the same ME after all. At the end of the day, I just want to serve the song. So if I missed the best way to do that, I would rather learn this way.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1134151226943086652",
+    "author": "AJ",
+    "date": "2023-07-27",
+    "content": "Noah also mentioned being curious about if the producer/the mixing engineer/myself aren't the best or if it's the ME being difficult. While I really liked the sound of the mix as is,  I also have reason to trust my ears the least (inexperience). The clipping data made me realize that there could be something I'm missing by going with this one. If I wind up hating the change I'll just go back to using the initial one despite the clipping data. That way I at least see what the alternative winds up being. This ME did mention that he was willing to work on the mix as is, but how he framed it leads me to believe it might not be a good fit if I go with that version.  I definitely Trust Noah's ear though, and his messages give me the reassurance to walk if need be. If I need to walk, I also now know who to hit up to use that initial version.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1178188089764610190",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "are you using the mic pre or the DI on the 273?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178189240627122247",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "yes, but how are you getting in to the 273? you mentioned a TRS to XLR adapter, but the XLR on the 273 is the mic input. TRS to TRS Line In on the back of the 273 with the Line button on the front pressed in should get you signal back at Ableton (TRS Line Out from 273 to TRS Line In on the Evo)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178190395616800939",
+    "author": "! Andy !",
+    "date": "2023-11-25",
+    "content": "yep i've just tried (again) using the Trs-trs signal. So at the moment the flow is - output 3, Trs - Line input TRS,   Line output Xlr- Line inout(4) TRS. Still getting the same result",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1179849236024664145",
+    "author": "Rob Domos",
+    "date": "2023-11-30",
+    "content": "Speaking as someone who does have an Apollo in my studio desk (half of my friends do too), David is right and it doesn\u2019t matter much at all what he uses. What does matter is what priorities would lead to that purchase decision and if you have those same priorities. What works best for one engineer here is not what works best for the next. But pretty much everything works well enough these days.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1181113378312302613",
+    "author": "spectrummasters",
+    "date": "2023-12-03",
+    "content": "@john are you familiar with killshot\u2019s YT channel ? I feel it speaks to the sort of questions you\u2019re asking ? (Shows the screen type stuff ) . This episode with teezio is a whole \u201cshows the screen \u201c special . I\u2019m also a CB/teezio fan and one of the rnb/trap engineers on here , so I\u2019d consider myself pretty familiar with Bainz and teezios general workflows having studied their work a bit myself . I\u2019ve not been in the same room as them as the mods you\u2019ve been speaking to have tho  , and beyond these shows the screen videos \u2026\u2026I believe Matt\u2019s LWMR vids with teezio and Bainz are more insightful with respect to the why , rather than the what \u2026..\nHappy to chat on all this with you , and if necessary help you to feel like you\u2019ve built a voxal chain you\u2019re happy wirh for these genres",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1182209483137622077",
+    "author": "shaunobi",
+    "date": "2023-12-06",
+    "content": "Oh really? Super cool! Get thee to his Discord server\u2026 it\u2019s all endless posting about MuMetal shielding these days\u2026 he\u2019s dropped the noise floor on his rack gear incredibly low via endless tinkering and it is glorious. Love that guy, so generous with his knowledge",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1185011326007922768",
+    "author": "Zack Hames",
+    "date": "2023-12-14",
+    "content": "You could probably kill it by simply putting even just blankets on the offending wall(s).\n\nBasically put stuff on the walls, clap, and if you no longer hear flutter, you did it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1196196501119053975",
+    "author": "lystell",
+    "date": "2024-01-14",
+    "content": "IF it\u2019s doable/good idea .\nWould be able to split signal after VLC and get a DI and the other goes to power amp -> cab",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1196232313420386364",
+    "author": "Slow Hand",
+    "date": "2024-01-14",
+    "content": "Speaking of B15's, has anyone tried this? It's been catching my eye and I'm considering it. It's an SVT and B15 amp/cab sim: https://shop-us.ampeg.com/hardware/sgt-di/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1227342901185347705",
+    "author": "cian riordan",
+    "date": "2024-04-09",
+    "content": "Oh fuck yea, MM forever! I usually just trim the input of my final limiter (almost always the Ozone maximizer) 5dB and call it a day. All of the compression/limiting/clipping thats happening on various busses beforehand stay the same. I try to not lean on the final limiting stage to heavily in building the 'loudenss' of the mix, but I know that's not the case for everybody. If there was an instance where it was really part of the sound, I'd just leave it and send it off. Any mastering engineer worth their salt should be OK working with whatever you send them. If there are glaring issues, they're likely to bring it up... but most mixers I know don't even peel back the limiter a little... so the loudness is fully baked into the mix.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1235751341469728859",
+    "author": "Deleted User",
+    "date": "2024-05-02",
+    "content": "I\u2019ve never owned a full rig, I was gifted a really nice oscillator but it\u2019s just sitting there lol \ud83d\ude02 I do plan on putting the together at some point, but I\u2019ve lost interest in Modular synth world because of the cost efficiency. \n\nOne modular rig can be as expensive as 251- I think 251 will make me more money than modular strictly speaking of cost efficiency",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1254827624681705573",
+    "author": "h3x",
+    "date": "2024-06-24",
+    "content": "Also speaking to the rx things, ive used rx but inly the declick module in audio suite as i mix. Do u have any tips for how to incorporate a more robust rx workflow to start? I havent used rx extensively so it may be a new tool for me to master which excites me for sure",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256652557695320209",
+    "author": "Rollmottle",
+    "date": "2024-06-29",
+    "content": "the goal here is to raise the bar of the discourse, not lower it. we have our fun and indulge in our own brand of idiocy at times, but you would know when you cross over the line if you slowed down and grokked the vibe of this server before speaking.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266070595704193064",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-25",
+    "content": "Like a little low ceiling closet under a stairs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267833703879409727",
+    "author": "BoozleBAM",
+    "date": "2024-07-30",
+    "content": "I would agree with you generally speaking. Yeah.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1271927857702240318",
+    "author": "bobby k",
+    "date": "2024-08-10",
+    "content": "Anybody know of a good alternative to UAD Raw for a RAT emulation (or broadly speaking just a good fuzz plugin)? It\u2019s pretty much the only UAD plugin I use anymore..works sweet in parallel if you haven\u2019t tried it out.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1272984823086055507",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-13",
+    "content": "Easy for me, the above is my start point. I think Soft Clipping is a bad idea in mastering so it\u2019s hard clip only here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274594723734093894",
+    "author": "BoozleBAM",
+    "date": "2024-08-17",
+    "content": "I think I need to get better with gain staging, too. I basically... don't do it. I try to make sure my master bus doesn't go above  -2. That's basically my idea of gain staging.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274767305817198623",
+    "author": "Zack Hames",
+    "date": "2024-08-18",
+    "content": "Here\u2019s gain staging in a nut shell: don\u2019t clip. In pro tools I try to keep all my faders at 0 or below. Seems to play nice and I don\u2019t ever go back at the end of my mix to push everything down.\n\nMake sure you aren\u2019t clipping within plugins either. Fabfilter pro-Q 3 is notoriously nasty sounding when clipped.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274767406044286987",
+    "author": "Zack Hames",
+    "date": "2024-08-18",
+    "content": "Gain staging mattered a lot back in tape days for noise floor. Less of an issue now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274769541129572444",
+    "author": "spectrummasters",
+    "date": "2024-08-18",
+    "content": "Like Zak Higgins said the other day about clipping",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274787006748033125",
+    "author": "Zack Hames",
+    "date": "2024-08-18",
+    "content": "Not clipping. I don\u2019t care as long as it\u2019s not clipping before processing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274812580514365481",
+    "author": "spectrummasters",
+    "date": "2024-08-18",
+    "content": "Ya , fwiw : I like (in Logic Pro ) faders at zero , peaking at -8 in the channels . Touch the faders for balance . Usually peak about -3 in sub groups  buses . Sub group master faders all at -5 from start of mix . Usually ending up about -2 peak in masterbus , 2 bus comp threshold / input gain will adjust to what this number is to get the 3 db peak max I\u2019m looking for usually",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1276227621730127884",
+    "author": "h3x",
+    "date": "2024-08-22",
+    "content": "Hey guys! Can someone give me a good way to do performance mixes for an artist? One of the artists i work with is going on tour and need to export some performance mixes for him. Never done it before so didnt know how to do it if weve gotten the songs mastered and also dont wanna undo the gain staging of stuff. Anything helps! Thanks!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1279865560645238876",
+    "author": "BoozleBAM",
+    "date": "2024-09-01",
+    "content": "Please tell me if this should be in Newbie Questions or Recording talk - I hate to misplace stuff. Anyway. I have a question about recording guitars: I have a bunch of songs that fluctuate a lot dynamically. Live, I use three or four clean boosts to drive my amp into different levels of distortion (jcm 800). The last time I did a record, I just did it as though i was playing live - just hitting the boosts along with the click when the song went into the different sections. It worked fine, but I've had many working engineers tell me that's NOT the way to do it. Rather, I should have recorded each section that has a different level of distortion/ intensity on its own, so that way I can have more control over the mix and end up with cleaner transitions, potentially... I'm just curious how people here may have handled such a thing. Not that it's important, probably, but I'll add that I don't use any volume or tone controls on my guitars - just humbucker straight to jack. I control all the dynamics with my pedals and strumming hand. Thanks.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1284180350607818753",
+    "author": "centonomic",
+    "date": "2024-09-13",
+    "content": "thanks for the help. Looking to learn because pro and consumer/balanced and unbalanced  levels have confused me for years but Basically I want to feel confident in understanding plugging my Motu Ultralight mk5 into various things. I know it\u2019s a big topic. I want to connect numbers on spec sheets with hands on measurements. every time i try to read up and make sure i\u2019m not clipping a hifi amp with a \u201cpro\u201d interface for example, i come away more confused",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1289560292233183305",
+    "author": "spectrummasters",
+    "date": "2024-09-28",
+    "content": "Mixing strategies for guitar band music : \n\nI\u2019m v familiar with effective gain staging and transient / tone shaping of composite parts of a mix  for rnb and hip hop \u2026..however not so for the relationship between rythm guitars and vocals in guitar bands music . I wondered if the vets had developed any simple guiding principle about this particular relationship when finding a good balance . The guitar as an instrument is presenting me with a lot of questions about masking and level relative to the vocal , it sits so close/ across many of  the vocal Hz . How do ya ll approach this interplay . Are you scooping  700 - 2 kHz for example to make space for the vocal ? Etc etc . And this is for rhythm guitars only . \n\nI started as a guitar player in a band so I totally see the guitarists view on music , but I left guitar bands in my teens and am only returning to this music now as a mixer moving into new genres from club /rnb / hip hop background . Recurring dilemma : Drums bass and guitar no vocal , the mixes bang . Put the vocal in . Guitar and vocals aren\u2019t speaking together . Drums bass and vocal no guitar , mixes are banging .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1312409590956294236",
+    "author": "Jemody",
+    "date": "2024-11-30",
+    "content": "But that could be my lack of experience speaking here",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1334523570566594651",
+    "author": "BoozleBAM",
+    "date": "2025-01-30",
+    "content": "Howww... is everybody recording DI bass?? Last time I think I just went XLR out of my Radial Passive DI Box into the front of my interface, but I dooonn't... think that's right? Maybe I had some type of additional preamp going??  It was a little noisy if I remember correctly. Surprisingly, after 30 mins of Youtube I couldn't find a straightforward tutorial. Everything involved an amp or a PA or something else weird...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1334527666212048979",
+    "author": "Bryan DiMaio",
+    "date": "2025-01-30",
+    "content": "Some interfaces have a DI built in either on a combo jack (but you have to tell it to use the hi Z input) or as a separately labeled instrument input but since you already have a separate box might as well use it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1334533930392752159",
+    "author": "BoozleBAM",
+    "date": "2025-01-30",
+    "content": "So, is it DI box into preamp into... interface??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1348015038119804938",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-08",
+    "content": "okay so now practice recording guitars etc to drums",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1354131655329185904",
+    "author": "Kodiak Studio (Marius)",
+    "date": "2025-03-25",
+    "content": "By the way, all of the golden age stuff I've tried sounds incredible. I recently got their stereo ribbon as a R88 wasn't quite in budget and it never disappoints. 550\u20ac vs 2800\u20ac here in Germany. The R88 might sound better, but 5x better? At that point, \"not so great\" build quality and/or quality control is to be expected and okay (in my mind).\n\nGenerally speaking: mid tier-priced stuff is the most disappointing, in my experience. Most of the time, \"buy nice or buy twice\" rings true when the price difference is around 2x. But 5 stereo ribbons for the price of 1? That's how you do Atmos right, baby",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1354230156754944211",
+    "author": "itaylerner",
+    "date": "2025-03-25",
+    "content": "Doing some writing/recording but will record some when I get a chance! Reading through old convos I was reminded how important it is to go line in from preamp into the Apollo so I switched and that definitely helped",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1371620726481883186",
+    "author": "BoozleBAM",
+    "date": "2025-05-12",
+    "content": "Hey, gang. Little bit of a dilemma here: I'm recording bass for my album. On song seven, and I looked at my little clip-on delta lab tuner and noticed that the number was at 439 and not 440. I have no idea if I've been recording to 439 this whole time or if I just bumped the little down arrow while I was clipping it on just now or what, but - Is there an easy, free-ish way I can see what I've recorded my bass at?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1376953412163338262",
+    "author": "BoozleBAM",
+    "date": "2025-05-27",
+    "content": "No I don't have a DI box, but I am super intersted in this...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1378675473818718308",
+    "author": "L U K E",
+    "date": "2025-06-01",
+    "content": "Nope, I live in a small village with very few musicians let alone people who know how to record their instruments \ud83d\ude29 I do know a producer, but he only plays keys",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1379290830678003774",
+    "author": "Gabriel Tyranny",
+    "date": "2025-06-02",
+    "content": "I\u2019m working on all the songs simultaneously and in a non-linear fashion as I follow the flows of what I gravitate towards each day. \n\nI like to make things in batches as I dedicate full days to a flow. Sometimes I spend a full day juggling the lyrics of multiple songs, or producing many concepts, or mixing, or recording vocals for multiple tracks. \n\nThe upfront work for making this was a lot, but now that it\u2019s made it\u2019s more like \u2018okay done with recording\u2019 then open this to move it over for reference when I sit down the next day in case I forget what stage a given song is at.\n\nIt was definitely convoluted to setup, but I agree and appreciate yalls sentiment that not having it bog me down is #1, cus it serves no purpose if it adds friction or distraction to the song making progress.\n\nI will move forward focusing on the end result and only use this as an invisible tool to help me meet my deadline - Thank you everyone!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1407258862930759740",
+    "author": "louisvie",
+    "date": "2025-08-19",
+    "content": "I remember Jon saying how he got Billie to hit -10 LUFS because he wanted to, or Cian making the St-Vincent record go from quiet-ish to -4 LUFS at times. \n\nThe ME comes along to finish it, make it all feel and/or sound a little better, work on album continuity,  transitions, fade outs, QC, and during this, volume rides, clipping, limiting. I'm sure it varies 100% depending on each project.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1439353213542207588",
+    "author": "BoozleBAM",
+    "date": "2025-11-15",
+    "content": "It's not just full, is it? Or are you speaking  about a general \"slowness\" in operating?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1439395672355770460",
+    "author": "Bryan DiMaio",
+    "date": "2025-11-15",
+    "content": "I don\u2019t have personal experience with this specific unit but in general yeah, I keep mine in a closet lol. Many HDDs all spinning away have a certain amount of noise, but the utility is worthwhile. Since all you really need to have connected to it is an Ethernet cable though, it can be anywhere else in the building and the cabling is cheap",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1471334380323602464",
+    "author": "cian riordan",
+    "date": "2026-02-11",
+    "content": "I love being able to gain up a mic pre on a console to where its saturating or clipping, and then trim the level back with the fader before it hits the computer",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472036664099733577",
+    "author": "nick",
+    "date": "2026-02-13",
+    "content": "Clipper question:\n\nI was watching Jon castelli mix on just for the record and he put a clipper on a track and then followed it up with a transient designer adding attack. What is  the thought process behind that move? What\u2019s the reason for clipping off the front end and then adding it right back?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472039474090479760",
+    "author": "kidcutler",
+    "date": "2026-02-13",
+    "content": "I believe the theory is that it isn\u2019t just clipping it\u2019s spreading that energy out across a broad band, beefing it up then adding back the attack that was lost",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472083946698444800",
+    "author": "masteredbyjack",
+    "date": "2026-02-13",
+    "content": "To illustrate a good example of the difference and why (guessing) Jon would want to clip rather than do this (which would control the transients as you describe)\n\nIf you use a long look ahead, call it a limiter with a long look ahead. That will let the processor know about the transient well before it hits the GR circuit, thus avoiding distortion/harmonics (of course there still could be some artifacts). But even though there will be samples at the threshold, it won\u2019t be a straight line waveform as if you clipped it. It is pushing the waveform down. The waveform itself is actually changed still, so it is not exact but it\u2019s different than clipping.\n\nA clipper just squares it off. Hence harmonics.\n\nThis is why you can limit/compress an instrument like piano, which has a tendency to hear distortion easily, when clipping it would be a disaster (unless you are going for that)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472248280913285321",
+    "author": "spectrummasters",
+    "date": "2026-02-14",
+    "content": "Orange clip is an attempt at simulating FL . Kazrog Kclip in crisp is attempting to simulate clipping lavry gold .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  }
+]

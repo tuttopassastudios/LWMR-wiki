@@ -1,0 +1,932 @@
+[
+  {
+    "id": "1266067039806554196",
+    "author": "oaklandmatt",
+    "date": "2024-07-25",
+    "content": "For the second question, the \"car test\" is a staple mostly because both sonically and psychologically, the car is a great counterbalance to the context and precision of the studio. \n\nThe car is also the place most people used to listen to the most music as a fan. It still is for many, but I say \"used to\" because a lot of people's #1 music listening environment outside of a studio is the phone/ headphones/ AirPods. \n\nSo my \"car test\" is now AirPod max headphones walking around my neighborhood in LA or taking the tube in London. \n\nBut the car also has its advantages because it's noisy and imperfect and NOT isolated like the studio and headphones. You can't listen as precisely in a car, which often tells you very quickly whether you can hear the important parts of your song (can you hear the vocal? Does the low end feel good?).",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811412755331940382",
+    "author": "cian riordan",
+    "date": "2021-02-16",
+    "content": "Hi Rae, these are awesome headphones but -- like any closed back headphone -- it's going to be hard to get a real sense of how things are going translate in the real world..  especially when it comes to low end. Everything on headphones is going to sound clear and direct, when that may not be the case coming through speakers. Checking stuff on some decent monitors in a decent room -- or even in your car --  is always the best way to know if things sound off or not. If you're stuck with headphones, something open back like a Sennheiser 600 will give you a less-hyped, more honest picture of your mix. They're also much less fatiguing to work on for long periods of time! But even to this day with my nice setup, I'm always checking the low end in different places... In my car, I'll know within 10 seconds of listening if things are where they're supposed to be or not.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1340675454268473458",
+    "author": "Bryan DiMaio",
+    "date": "2025-02-16",
+    "content": "Also better monitoring might just take you from point A to B quicker. IME if I have to mix on closed backs it ends up being a slower process even if the end result may be similar as to open backs",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1341409400794910781",
+    "author": "Adam Thein",
+    "date": "2025-02-18",
+    "content": "Swapping headphones feels like getting a new prescription on your glasses after several years.  The signatures can be so wildly different and it typically takes me 6-8 weeks of listening to them regularly to get well adjusted.  I wouldn\u2019t recommend switching out monitoring in general mid-project - better to use what you know and get to the finish line than to suddenly add a lot of doubt to the work.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1153384313069506600",
+    "author": "cian riordan",
+    "date": "2023-09-18",
+    "content": "There's some standards that are useful -- outs over ins, normalling strategy... that type of stuff. Really comes down to what you're trying to achieve. If you're operating a big tracking studio, then you want that workflow in mind: tie lines normalled to mic pres, mic outs normalled to A/D inputs, D/A outs normalled to monitor controller & headphone boxes, etc. If you're in a mixing room (like me), I have things setup so outboard gear is accessible via hardware inserts through patchbay normalization. As for labelling, I've been using my own spreadsheet system that I find more useful than patchbay labelling software. Here's an example of my setup from last year:",
+    "reactions": 3,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1293059404903616545",
+    "author": "cian riordan",
+    "date": "2024-10-07",
+    "content": "Your results will almost always be attributed to your skills! In this case, while I'd focus my attention on getting some reps in on various mixing projects, there's certainly room to grow in your equipment stable. Headphones are a great starting point and will likely continue to be useful down the road, but mixing on speakers helps you make things translate better to the real world (car & home stereos, public spaces, etc). So a pair of decent entry level monitors would be my next purchase. It will also prove useful for collaborating with other folks down the road as you can all hear the same thing from the same source.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811440510668505109",
+    "author": "1ggy",
+    "date": "2021-02-16",
+    "content": "https://thehomerecordings.com/open-back-headphones-for-mixing/   check this out",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "829294348105023488",
+    "author": "antoniohannamusic",
+    "date": "2021-04-07",
+    "content": "Agree with this, also, one thing for 'live sessions\" is that by the time Cameras have filmed 5 x takes to get coverage it's often no longer strictly 'live' obviously there are exceptions. For location recordings though, Isolation is absolutely key, if everyone can play with IEM's or is happy to wear headphones then I would normally DI everything, Mic up a drumkit and give the singer an SM7B having them sing directly at the drummer (obviously not always possible) then everyone else, bass, keys, guitar, DI, pick an amp sim / keys plugin and get them to do multiple passes (to a click if possible). Not trying to be prescriptive just my approach FWIW.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "944328710641823775",
+    "author": "Eric Martin",
+    "date": "2022-02-18",
+    "content": "I see a lot of the Telefunken M80, I started using a beyer M88 TG, the pattern is super tight and it sounds tuned nice for my voice.\n\nIt all depends on the performance style, if there\u2019s a live band, size of the stage if there\u2019s a live band.\n\nWe tried a KSM8 with my live pop/rock band and the size stages we play on are too small for it to work, it always captures too much drums, switched to a 58 and everything cleaned up better.\n\nIf it\u2019s for you, go to a store where you can hear yourself singing into the mic through a PA, not through headphones, that will help you determine if it sounds good.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1170430911054094346",
+    "author": "cian riordan",
+    "date": "2023-11-04",
+    "content": "I\u2019ll use quick car trips or time on headphones while traveling to dig in outside the studio. Always nice perspective when it\u2019s possible.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1184030951324536832",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "I used to do a lot of M/S and I was on headphones. Once I started using speakers I realized why people don\u2019t use M/S as often as I was\n\nthings got better once I started monitoring on speakers and stopped using M/S",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1217669833978548295",
+    "author": "LAPhill",
+    "date": "2024-03-13",
+    "content": "If you're doing any kind of office or flex space, be very up front about what you'll use the room for. They're not going to have much isolation, and other people renting aren't going to necessarily want to put up with it during business hours. I had a couple friends do that, and they had to use headphones during the day until everyone left. They were fine with it, but it would've been a real drag for me. (Also limiting in terms of when you can have client playbacks, vocal sessions, etc.)",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266362955801301064",
+    "author": "Edward Rivera",
+    "date": "2024-07-26",
+    "content": "Listen to it without headphones. Listen to it while doing something else. While in another room. While cooking.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1338585680690806835",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-10",
+    "content": "No noise issues with headphone level feeds",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1340673892695543820",
+    "author": "cian riordan",
+    "date": "2025-02-16",
+    "content": "No right answer with headphones\u2026 everyone responds differently to them. It\u2019s all about results\u2026 if you can make things that sound good outside of your studio, then you\u2019re on the right track.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347421765533700097",
+    "author": "BoozleBAM",
+    "date": "2025-03-06",
+    "content": "I\"m gonna think about this - I also favor tracking with the monitors and sans headphones, but I'm good with traking on my Sennheisers. I basically know what's going on with them.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1384626870225735701",
+    "author": "hyanrarvey",
+    "date": "2025-06-17",
+    "content": "Head in control room cab in live room if not possible headphones and amp in room lol",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1413615301358129323",
+    "author": "Colin Althaus",
+    "date": "2025-09-05",
+    "content": "Just one opinion - I've spent quite a bit of time on the Sennheiser 58X (similar to the 650s) and recently moved to the Airpods Max. That family of Sennheisers are on the better end of wired / open-back headphones for sure, but I never got to the point of trusting them fully for mix translation. I experimented a bit with adding an Oratory EQ (using RME Room EQ on my interface) and that improved them quite a bit - much less of a mental adjustment when switching back to my Genelecs. The Airpods Max to me sound similar to the EQ-corrected Sennheisers, but with a more extended low end. Also the noise cancellation is great (love switching it on while mixing FOH!) I've started mixes on them and had very few translation surprises when switching back to monitors, albeit I still don't trust them enough to finish a mix yet.  For the price I think it's actually a great deal for what you get, considering Audezes are at least 2-3x the cost and  still need EQ to sound their best imho.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811431859757514803",
+    "author": "1ggy",
+    "date": "2021-02-16",
+    "content": "I use DT 880 Pro's. They're super comfortable, semi open back, and have a pretty flat feq response curve (ie accurate/true representation of the mix). And, not at a bad price.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812274274513453079",
+    "author": "Deleted User",
+    "date": "2021-02-19",
+    "content": "Yeah, as long as the monitors translate for you, that sounds like the better option. With headphones often compromises have to be made, especially in the lower price brackets, so definitely try before you buy, and try formulating what you would want from a headphone(good bass, clear transients, more even/neutral response, etc. etc.)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1077627505365757982",
+    "author": "BatMeckley",
+    "date": "2023-02-21",
+    "content": "In fairness, I have this same issue with my B&O headphones. The gain staging gets tricky to the point where I\u2019m not using them for anything serious sadly.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1079607975020343396",
+    "author": "Felix Byrne",
+    "date": "2023-02-26",
+    "content": "rocket man is just mixed as if the whole atmos setup was headphones",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1121981389852643408",
+    "author": "cian riordan",
+    "date": "2023-06-23",
+    "content": "I wouldn\u2019t know about these free Manny headphones if it weren\u2019t for the discord, so I wouldn\u2019t discount it.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266362559783505971",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Went through the album three times yesterday with headphones on and wrote down the exact moments I felt need fixing. I'm just such a bone head with this DAW stuff, and a little obsessive,  so basic things like \"should i use a this thing or a that thing\" turn into big issues for me.",
+    "reactions": 1,
+    "attachments": 3,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267603103817924648",
+    "author": "xico1702",
+    "date": "2024-07-29",
+    "content": "Hi folks! I'm looking to buy my first pair of studio monitors. I choose the Kali Audio IN-8 2nd Wave. I saw the website and they were two colours, black and white. The white ones are cheaper than the black ones (18 euro difference). I'm not a person who cares a lot about the colours (as long as it's not too extravagant). Do you have any experiences that you want to share about this topic? \ud83d\ude04 Thank you!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1338586905226252329",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-10",
+    "content": "Better to get a small cheap good headphone amp like topping or smsl and run a balanced signal to where you need it with a local amp",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1341457710289387643",
+    "author": "Edward Rivera",
+    "date": "2025-02-18",
+    "content": "Not quite. I\u2019d say closed back is a mini room - with all its quirks and characteristics. Open back  is like putting speakers on your head",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348065417066709065",
+    "author": "cian riordan",
+    "date": "2025-03-08",
+    "content": "If the drums are in time, and the parts are played correctly, then this all sounds like a headphone balancing issue to me. It takes real seasoned musicians to come in after a song has been built up and lay down drums that work. Doing drums and rhythm elements first just makes dollars and sense.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1413616363397976255",
+    "author": "kylem",
+    "date": "2025-09-05",
+    "content": "Will definitely take some getting used to, but definitely an upgrade. Finishing mixes in headphones is super tough, not sure any pair would change my opinion on that",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1436948586712793179",
+    "author": "BoozleBAM",
+    "date": "2025-11-08",
+    "content": "Next time, I think maybe strobe tuner (instead of clip on - even though the delta labs one is insanely accurate when compared to my strobe tuner. I did run tests) and maybe do something a bit different with the levels in my headphones, but yeah... hopefully what I did is enough.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811411391810371594",
+    "author": "rae",
+    "date": "2021-02-16",
+    "content": "I\u2019ve got a Q regarding my headphones... I bought a pair of Audio Technica ATH-M50s at the beginning of 2020 and was recommended them for mixing/critical listening as they are  reviewed as \u2018well balanced\u2019 and were in my price range. However, I delivered a mix to a teacher and he stated that there was an error with low end in my headphones that was coming through in the mix (I re mixed it on the monitor on campus to test if it was an error on my behalf or the headphones). \nI was wondering what people\u2019s thoughts are on this, if anyone has used these headphones or had similar issues with other headphones and maybe how to combat this \ud83d\ude42",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811415964313845790",
+    "author": "rae",
+    "date": "2021-02-16",
+    "content": "Legend! Thank you Cian. Interesting about the open back headphones - I\u2019ve been told to stay away from them for recording ofc because of bleed but never thought of them in a mixing sense - I\u2019ll do some research on it tho, thanks again!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811438406835765258",
+    "author": "rae",
+    "date": "2021-02-16",
+    "content": "Is it a matter of preference for closed/open/semi open back headphones or are there distinguishable differences?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811439031187537930",
+    "author": "i am willie",
+    "date": "2021-02-16",
+    "content": "i'm in a small untreated room and i typically mix on headphones, should i invest in speakers or stick with headphones?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811439809377468436",
+    "author": "i am willie",
+    "date": "2021-02-16",
+    "content": "ill take a look at open backs soon, i'd assume that good monitors in an untreated room wont really do too much",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812263610633682984",
+    "author": "Deleted User",
+    "date": "2021-02-19",
+    "content": "To my ears M50s sound very congested, especially in comparison to their direct competition - Beyer 770s(I own both). The transients(which for me are absolutely crucial to hear when producing or mixing) are almost inaudible on the M50s, while decently audible on the 770s. I do not find the M50s or the 770s even close to \"well balanced\", they both are a bit too budget for that distinction(they both have extreme presence peaks at their respective frequencies). I know someone who is very happy with the Shure SRH940s and Shure 1840s for critical listening(same drivers, I think). The M50s and 770s are both pretty much unusable in the low end under 50-60hz for me, I don't feel they translate well there. A few mastering engineers use the Blue closed-back headphones as a low-end reference, they would probably be worth a try. Audeze stuff is pretty good for transient response, but more expensive.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812336119454105671",
+    "author": "Josh",
+    "date": "2021-02-19",
+    "content": "I have the ATH-R70x and it\u2019s very much the same thing. The mid range is very clear but low and high end is a jumbled mess. Only reason I still have them is because I don\u2019t like working on headphones and they\u2019re super lightweight and comfortable to wear",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "812588318159405087",
+    "author": "Deleted User",
+    "date": "2021-02-19",
+    "content": "Interesting that that also plagues Audio-Technica's higher-end model! Fair enough, I just stick to my DT770s but am looking to upgrade sometime in the future(I use mostly headphones during pre-production)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "828752263219642399",
+    "author": "Zack Hames",
+    "date": "2021-04-05",
+    "content": "Are they doing headphones or no monitoring or what?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "829357231942270978",
+    "author": "AlexLayne",
+    "date": "2021-04-07",
+    "content": "For me I know my room and I end up mixing bass just a wee bit hot, having a low shelf of 1.5db at 60 really helps my car translation and headphones",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "836274601662873671",
+    "author": "Zack Hames",
+    "date": "2021-04-26",
+    "content": "Speaker as Sub kick question:\n\nI can\u2019t seem to get any signal when I try this with a studio monitor, but a pair of headphones or a guitar cab as a microphone works flawlessly.\n\nI\u2019ve tried it two different ways:\n\nSpeaker cable or xlr  or headphone -> Avalon U5 DI input or input of mic preamp.\n\nSo when i use a xlr or trs to a mic preamp from a studio monitor, I just get a low buzz with no additional transients from the drums. \nDo I need to use a reverse wired balanced cable? I\u2019m having a hard time finding a prescriptive answer for this.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "836302955120427058",
+    "author": "cian riordan",
+    "date": "2021-04-26",
+    "content": "Just to clarify, the studio monitor you're trying this with  is passive, correct?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "853695861095268412",
+    "author": "Deleted User",
+    "date": "2021-06-13",
+    "content": "I have a 1/4\u201d headphone extension cable that only gives me one side and when I move jack around closer to the opening it gives me the other side for a second but never both sided together. What may be the cause of problem here and how could I fix this?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "944325898344210492",
+    "author": "David Fuller",
+    "date": "2022-02-18",
+    "content": "Any of the various handhelds from Sennheiser, Shure, sometimes Audio Technica, etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1077405370319917056",
+    "author": "rae",
+    "date": "2023-02-20",
+    "content": "hi all, i'm looking for recommendations on wireless over ear headphones for general music listening on the go as my airpods have seen better days. i was wondering if anyone has any recommendations? part of me wants beats headphones (solo or studio) but ive heard that they arent worth the hype",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1077630331173228576",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-21",
+    "content": "Yep, these headphones are so reliant on trick DSP that they cannot operate without so like modern DSP speakers you have to go through AD > DSP > DA if you feed them an analog signal",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1077682176583270512",
+    "author": "rae",
+    "date": "2023-02-21",
+    "content": "The Sony headphones you mentioned in this are those the xm4/xm5\u2019s? Does anyone know if those are decent too or are max\u2019s the way to go?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1113589381538787379",
+    "author": "NoahNeedleman",
+    "date": "2023-05-31",
+    "content": "Thing about the Apollo is that it does so much more than console or dsp for plugs. It\u2019s i/o, monitor controller, headphone output, and the unison tech for compressors & amp modeling on the way in is pretty great.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1124116894744596551",
+    "author": "Bryan DiMaio",
+    "date": "2023-06-29",
+    "content": "It\u2019s supposed to have really insane specs in terms of mic pre performance and ADC/DAC specs and headphone stuff. I\u2019m stressing to the design engineer I\u2019ve been talking to that the drivers have to be stable for it to be taken seriously. The price target is like under $200 though so it should be interesting",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1127966730308821023",
+    "author": "Eric Martin",
+    "date": "2023-07-10",
+    "content": "Swap speaker in the same cab, cab sounds different, closed vs open is huge on stage but I haven\u2019t done a good side by side on the recorded end to hear the same speaker in a similarly sized open vs closed back on recording",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1184029662184222800",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "are you using headphones by any chance?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184031180996223037",
+    "author": "river",
+    "date": "2023-12-11",
+    "content": "I produce mostly on headphones",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1185255040009633833",
+    "author": "Rob Domos",
+    "date": "2023-12-15",
+    "content": "Just reading through what you and @river were talking about and I\u2019d like to balance this perspective out a little bit.\n\nWhile I\u2019d agree that things like midside EQ can make things sound strange in a way I don\u2019t like, I\u2019m not shying away from decoupling the mids from the sides in general or saying M/S = Bad. Turning down the M channel on elements that I want to have be more background surrounding elements with a plugin like CenterOne is actually one of my most common mix moves and it sounds great.\n\nA good friend of mine who has made one of my favorite mixes of all time constantly talks about his use of M/S processing. I don\u2019t do much M/S other than levels and stereo imagining, but my boi does regularly and he sounds great. \n\nAll that to say: River,  It\u2019s worth being careful and listening to what could be getting fucked up in your midside processing, I wouldn\u2019t be M/S EQing personally, and you should generally only do M/S moves with speakers and generally not with headphones, but that doesn\u2019t mean that you should shy away from M/S all together if it sounds really good to you. Lots of great engineers are using it all the time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1208621944715616316",
+    "author": "Rollmottle",
+    "date": "2024-02-17",
+    "content": "and additional nearfields down near the subs for some reason",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1222748350559027301",
+    "author": "BoozleBAM",
+    "date": "2024-03-27",
+    "content": "Picked up two of these online: https://www.guitarcenter.com/Nady/SMPS-1X-Phantom-Power-Supply-Black-1274034485587.gc Gonna test em out asap. I can't hear the squealing through my headphones, but the fact that it's happening at all is enough to set my ocd off.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1246943091089346592",
+    "author": "BoozleBAM",
+    "date": "2024-06-02",
+    "content": "Anyone know how I can replace the curly, springy, nightmare cable of my Sennheiser HD280 pro headphones with a normal, straight, sane cable? Thnx.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1247613072072376341",
+    "author": "BoozleBAM",
+    "date": "2024-06-04",
+    "content": "Thanks! Think I'm just gonna snip it and solder in a cable from an old pair of AT headphones... Should work?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1247613746470457394",
+    "author": "chrissorem",
+    "date": "2024-06-04",
+    "content": "Might work for a bit but soldering headphone cables never worked for me. If you do you\u2019ll need to strength that spot with some heat shrink. The rubber jacketing in headphones don\u2019t like high heat. And the wires are very thin. It will definitely be a weak point in terms of durability",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1247614182791057459",
+    "author": "BoozleBAM",
+    "date": "2024-06-04",
+    "content": "I've got a bit of heat shrink here. Also, contacted Sennheiser. The cable is a super heavy and coiled/ springy cable by design - more than just an old kinky cable. Total pita.",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1247614419463176242",
+    "author": "chrissorem",
+    "date": "2024-06-04",
+    "content": "Oh yeah I know those headphones! I have a bout 15 broken ones haha! Word! Good luck",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1257300629068714005",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "I'm curious: Does anyone here have any insight into the drum sound on Foo Fighters \"My Hero?\" It's a really wild drum sound. Whenever I'm driving and that song comes on the radio it always piques my interest... I've been sifting through a few different reference tracks recently, and I just listened to it on headphones for the first time. They do some really wild stereo stuff with the drums in the intro and the chorus - You can hear it really pronounced on headphones. It's actually a little disconcerting hearing the cymbals basically mirroring each other in the left and right like that - and the snare, too. The cymbals also have a very pronounced \"BWEEESHHH...\" sound. It's a very unique sound... I suspect there were a lot of room mics going on in that sound, but of course I have no idea. Anyway, would love to hear from anyone who might know.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1262443171887976581",
+    "author": "BoozleBAM",
+    "date": "2024-07-15",
+    "content": "i'm now monitoring through a 6i6, which enables me to use two sets of speakers, but I have to go into focusrite control in order to \"toggle\" back and forth. It has two independant headphone jacks, though, so that's nice... I'd like to avoid going into the focusrite control - saw that the presonus one can do three sets of speakers and 4 headphones... Pretty nifty - $150 approx for a  V1.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1262444998079811626",
+    "author": "BoozleBAM",
+    "date": "2024-07-15",
+    "content": "The thing I'm not getting about the unit (looking right now) - it doesn't seem to have independent volume controls for the headphones, no??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266070535213944887",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-25",
+    "content": "As an aside it\u2019s easy to diss the stereo in your average accord or Camry or whatever but as a thought experiment imagine taking your fancy \u201cperfect\u201d studio monitors into a box that size and how they would sound",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1293058533096685649",
+    "author": "vostral",
+    "date": "2024-10-07",
+    "content": "Thanks for your sharing! I'll consider investing my acoustic treatment before upgrading my audio interface. One more question if you don't mind: I'm using DT770 to mix, and i know that headphone isn't dependent on the treatment of the room. So if my mix still sound not right, that could only be attributed to my mixing skill right??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295080822528933958",
+    "author": "Dereck Blackburn",
+    "date": "2024-10-13",
+    "content": "I thought it had something to do with the Harman Curve. https://headphonesaddict.com/harman-curve/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295411115513348299",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "I\u2019ve noticed some of that hifi speaker phase concern leak over to the pro audio studio monitor world recently as well which is interesting",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295559202596585504",
+    "author": "David Fuller",
+    "date": "2024-10-14",
+    "content": "Nah, the Harman Curve is a headphone tonality preference curve. Not much to do with why mids get cut a lot",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1325016135745405031",
+    "author": "BoozleBAM",
+    "date": "2025-01-04",
+    "content": "Hmm... Okay. This is fair. I did notice it in both headphones and my monitors...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1338572417764823051",
+    "author": "Johnny I",
+    "date": "2025-02-10",
+    "content": "I need a headphone extension cable....will be coming out of the headphone out of an interface w a good headphone amp. Will the legnth or thickness of the cable affect quality? I can get a long 25 or 50 ft 1/8\" male to 1/8\" female, or a 1/4\" cable that's thicker. Also, will there be any tone loss if I use a Y splitter at the headphone output at the interface so I can turn 1 output into 2?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1338585856730071091",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-10",
+    "content": "There can be capacitance issues on long runs, which can on occasion destabilize a headphone amp",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1338586777329340458",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-10",
+    "content": "I wouldn\u2019t do a long run like this at headphone level",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1338587077906006147",
+    "author": "Nomograph Mastering",
+    "date": "2025-02-10",
+    "content": "And no problem to split the headphone signal to two headphones, but be aware that if they are not the same they can play at different levels depending on impedance",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1338588108048044094",
+    "author": "David Fuller",
+    "date": "2025-02-10",
+    "content": "For a single set of headphones I agree about a local headphone amp with a balanced line level signal",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1340457947712720957",
+    "author": "BoozleBAM",
+    "date": "2025-02-15",
+    "content": "Any distinct advantages to mixing on open back vs closed back headphones? Anything I might be being short sighted about and possibly missing? Got some really nice open back cans the other day (akg k701). They sound absolutely SUPERB, but I'm not super into the whole open back experience if I'm honest.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1340461502791942296",
+    "author": "cian riordan",
+    "date": "2025-02-15",
+    "content": "Pros and cons, like anything else. Open back tend to have a more neutral response\u2026 almost closer to being on speakers. Less fatiguing. Downside is lack of isolation from outside world, lack of low/high end \u201chype\u201d. Neither are a panacea and both will have their issues with translation to the outside world. I can mix in headphones because I\u2019ve mixed in good sounding rooms as built up good practices - with good results - for 20 years. But it isn\u2019t my ideal. I would almost always trust a decent sounding \u2014 even unideal room before solely relying on them.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1340521744682844190",
+    "author": "BoozleBAM",
+    "date": "2025-02-15",
+    "content": "May I ask: Why do these headphones sound so sensationally, phenomenally better than my cheap-mid grade Sennheiser and ATH closed backs?? Like, what are the actual mechanics going on?? Everything just sounds... excellent. I feel like I can hear freqs I've never heard before, and there is a clarity that's just so charming. I'm not the hugest fan of them for mixing, but they sound just fantastic. Wondering if I might want to hang onto them just for that reason alone.",
+    "reactions": 0,
+    "attachments": 2,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1340659168180441128",
+    "author": "BoozleBAM",
+    "date": "2025-02-16",
+    "content": "I don't like the fact that i can hear the outside world with them so clearly (the open back thing), but I'll give them a shot on a new mix this week. Really feel em out a bit more. You're right.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1340825884998893670",
+    "author": "Josh",
+    "date": "2025-02-16",
+    "content": "Hey sorry just briefly scrolling through. It took me months to get used to my NDH 30s and I trust them more than anything. I still don\u2019t like doing any entire mix on them because headphones are strange, but having something I trust completely that fits in a backpack is worth its weight in gold IMO. Planning on getting the 20s to make vocal tracking easier",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1341390197534752880",
+    "author": "BoozleBAM",
+    "date": "2025-02-18",
+    "content": "For me, I got so used to my triangle of headphones and monitors - It's like I know exactly what's going on when I listen to something on them. I got to that point, so i'm familiar with what it means to be *familiar* with something, if that makes sense. All of a sudden with these AKGs, I can hear all this clarity I never really heard before - a totally different world, really, and I just kind of... don't really fw it right now?? Ha. I'm just like... I don't have the energy to get involved in this new AKG world. LIke, now I'm gonna be making all these different mixing moves or something? Which world is correct? My mixes are translating fine already... @NoahNeedleman",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1341398799490220116",
+    "author": "BoozleBAM",
+    "date": "2025-02-18",
+    "content": "Plus, I'll add - I just don't get the open back thing. To me, it's like, why don't I just use speakers? Headphones, by definition, are closed back to me. Just the way my brain works?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1341420388227350640",
+    "author": "montrose recording",
+    "date": "2025-02-18",
+    "content": "bc an open back headphone can act more like a speaker and takes the room out of the equation",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347419298016006268",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "My fav guitar mics from brightest to darkest \n\nsm57 for classic, biting, bright, aggressive guitars \nmd441 for huge but smooth high end\nbeyerdynamic m160 for extra mids or smoother highs \nRCA 74B for fender style amps \nColes 4038 for extra bright or harsh amps",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347421464902766713",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "@BoozleBAM I find the headphones can be fatiguing and lie about your tone, if you\u2019re able to monitor your amp through your speakers in front of pro tools I find that to be more confidence inducing and less \u201cwhat the fuck is this\u201d later",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347421528920297532",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "But I\u2019ve done 1000\u2019s of recordings in the same room as the amp with headphones",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348060891723075705",
+    "author": "BoozleBAM",
+    "date": "2025-03-08",
+    "content": "I will absolutely do this, Bryan. Thank you. I was using the same headphones to track bass and such as i did before (which is somewhat perplexing), but i will experiment with levels absolutely. Thank you.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1348079267547713699",
+    "author": "BoozleBAM",
+    "date": "2025-03-08",
+    "content": "If it's a headphone monitoring issue, how would i go about addressing that?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1398061895377883167",
+    "author": "itaylerner",
+    "date": "2025-07-24",
+    "content": "What is the drummer listening to in his headphones when tracking drums first? just a click? click + demo?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1413588437583265932",
+    "author": "baccwardshead",
+    "date": "2025-09-05",
+    "content": "Hey guys! Heard a lot about this community. Sorry for the ChatGPT post but English is not my native language. Tried searching a lot about this by looking at \"headphone rec\" and \"hrtf\" but I'm getting even more confused, just craving a stable monitoring system for me. Hope this is not too newbie of a question.\n\nI\u2019m an intermediate mix engineer \u2014 normally mix on Yamaha HS8s but I\u2019ve been travelling a lot lately, and I\u2019m craving a stable monitoring solution I can rely on while on the road. I actually love how the ATH-M50x sound, but they\u2019re not giving me the translation I need for mixing. I tried Beyer DT-990 and disliked the sound. Thinking about getting Sennheiser HD650 \u2014 should I pair it with a headphone amp even though I already have an Apollo Twin? HD650 + amp might be pricey, or would AirPods Max 2 be a reasonable travel/monitoring/critical mixing alternative? Clients send notes that confuse me with the M50x (rare on the HS8s) \u2014 it\u2019s only ~10% of the time but I want that gone. Any recommendations?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1413637575922679960",
+    "author": "Colin Althaus",
+    "date": "2025-09-05",
+    "content": "I'm with Kyle, would never choose to finish a mix on headphones, but if I had to have one pair for the task it would be the Airpods!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1413637681073754254",
+    "author": "Colin Althaus",
+    "date": "2025-09-05",
+    "content": "I think also the curve will be more familiar to you coming from M50s which are very scooped, where the Sennheiser is more mid focused",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1464099207001673923",
+    "author": "BoozleBAM",
+    "date": "2026-01-22",
+    "content": "Right, yes, I can totally see that! That was one of the mics I tried out but it didn't quite work for me - Next closest to the 57 for moi was the Sennheiser e945. That mics' not too bad, but like so many others, it seemed to capture too much of my \"pfffbts snffff\" mouth and nasal noises - I think my deviated septum exacerbates some of these, unfortunately. lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1464332833676988641",
+    "author": "BoozleBAM",
+    "date": "2026-01-23",
+    "content": "So, I've tested this a lot. The wording might sound weird: If I have the click track \"too loud\" in my headphones, I end up adapting with my drumming and my drumming kind of sucks a little bit - I end up compensating with my hits subconsciously because Im' kind of letting the click track \"hit\" for me. If that makes any sense. The way I can get around this is by having the click so that I can barely hear it. Only thing is, my drumming can be a little... less tight this way, and some measure of beat detective might have to be invoked at some point, if you get what I'm saying...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  }
+]

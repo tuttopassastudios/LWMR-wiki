@@ -43,3 +43,13 @@ In #mixing-talk, LUFS is discussed within the broader loudness and gain staging 
 - [[Dolby Atmos and Immersive Audio]]
 - [[Reference Mixing and Translation]]
 - [[Mix Bus Processing]]
+- [[Loudness Normalization]]
+
+## Beginner Context (from #newbie-questions)
+
+"How loud should my master be?" is one of the most common beginner questions. The expert guidance from #newbie-questions:
+
+> [!quote] Discord Source — LAPhill (2023-07-26) — 18 reactions (pinned in #newbie-questions)
+> "This is such an important lesson to anyone following along who's either a mixer or especially a mastering engineer. You can send someone spiraling with doubt based off of one comment."
+
+See [[Beginner FAQ#Mastering Basics]] and [[Loudness Normalization]].

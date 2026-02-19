@@ -106,3 +106,8 @@ Several community members use sliding scale approaches:
 > **Channel:** #biz-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** oaklandmatt, ehutton21, mixedbywong_my, cypress
 > **Message volume:** ~800+ messages on pricing and rates
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **"Should I work for free?" context:** cian riordan (16 reactions): "I would rather be slammed busy mixing below my ideal rate than making a higher rate doing less work." NoahNeedleman (10 reactions): "I work free and at low rates a lot, but always with the caveat that I might not be as fast. Good Fast Cheap — usually gotta pick two." Adam Thein (6 reactions): "This doesn't have to be an all in thing — challenge yourself to keep the 40 hour job and work on music for 15-20 hours a week on top of that."
+> See also: [[Beginner FAQ#Career & Learning]], [[Getting Started with Music Production]]

@@ -125,3 +125,8 @@ Many members route all vocals (lead, doubles, BGVs, ad-libs) to a vocal bus for 
 > **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
 > **Key contributors:** NoahNeedleman, ehutton21, Jeremy Klein, chrissorem, cian riordan, Ross Fortune, BatMeckley, oaklandmatt
 > **Message volume:** 2,741 categorized messages
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Beginner vocal mixing context:** chrissorem (6 reactions): "Most people hear tuning/intonation better with a bass element in the mix. If I'm tuning multiple vocals, I tune the lead and mute other melodic instruments that might be distracting." BatMeckley (4 reactions): "Bounce all your vocals from beat 1. Make a stereo instrumental bounce. Tune and de-ess and re-consonant and time to your hearts content."
+> See also: [[Beginner FAQ#Vocal Production]]

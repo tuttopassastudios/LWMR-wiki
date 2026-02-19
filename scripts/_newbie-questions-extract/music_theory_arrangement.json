@@ -1,0 +1,2272 @@
+[
+  {
+    "id": "1197235659736350882",
+    "author": "BatMeckley",
+    "date": "2024-01-17",
+    "content": "This is fantastic fantastic advice.\n\nI\u2019d take it a step farther and say it doesn\u2019t even have to be just an acapella. A great writers block technique is to just a drop a song you dig into your DAW and start building on top of it. Lay down drums, maybe a counter melody. Now pull the original song out and you\u2019ve got a new song with the scaffolding of a hit. Very useful trick.",
+    "reactions": 24,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1194414566629724191",
+    "author": "oaklandmatt",
+    "date": "2024-01-09",
+    "content": "Introduced to Eric \"through a friend\" smh",
+    "reactions": 14,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1272838506712141834",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-13",
+    "content": ".\nAssuming we're talking about fairly typical rock, pop and Hip Hop then this 3 part strategy covers a lot of ground\n\n1) Make sure the EQ is as balanced as you can get it - most of your perceived loudness comes from the arrangement and mid range focus (2k to 8k). Too much low end will sound bad when you limit. Make sure the relationship between 80, 160 and 320 makes sense (think of them a little like fundamental, 1st and 2nd harmonic).\n\n2) Consider shaving snare transients (and maybe kick transients) with a clipper. This spreads that peak energy harmonically across the spectrum, keeping energy, hiding in the noisey nature of snares and lets the limiter work less hard (I like SIR Standardclip - $25, great metering and responds intuitively)\n\n3) Pro-L2 on the settings below is a great start point for clean and predictable limiting, raising input gain until you get the desired level",
+    "reactions": 12,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1185727875979157504",
+    "author": "Rollmottle",
+    "date": "2023-12-16",
+    "content": "I have a couple distinct phases of my workflow. The \u201ctechnical\u201d phase let\u2019s call it, is all about letting my brain objectively search for the very specific kinds of things that are distracting within the mix at hand. This is much more of a thinking and corrective process than it is a feeling one, even though feeling and taste is 100% involved. This part of the process is to get the mix on a more solid foundation if needed.\n\nThe next phase is where I want to actively NOT be thinking at all. This is why I do the first part separately. I want to be FEELING the music in this phase and not be taken out of it by the vocal resonance at 1.8k at 1:35 in the bridge. I want to turn that part of my brain off so I can focus on the music, the feeling, the lyrics, the intent, the song and try to find where (or if) I can elevate or reveal or better frame the heart of what\u2019s there. This is meant to be the flow state, moving intuitively and viscerally based on what\u2019s coming out of the speakers. This is where efficiency in toolset matters -- where an extremely efficient human-computer interaction matters, where knowing your tools cold matters. I want to reduce latency between feeling and move and I don\u2019t want anything to get in my way. \n\nSo to answer your question: I think about ways to continue to be able to access and preserve that crucial flow state during the time where it matters the most. And it can manifest a million ways that aren\u2019t directly related to mastering at all: taking a walk, working out, doing a J, listening to a new record, checking Discord, unplugging, whatever. And yes, sometimes it also means refining my template or my Streamdeck shortcuts or creating a new preset.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "964610700058193970",
+    "author": "samvalentine",
+    "date": "2022-04-15",
+    "content": "For mixes I'll save a different version every bounce. Tracking I'll save based on significant arrangement decisions, different days recording, different artists or instruments - really depends.\nBut noooo I'll really only use save copy in if I'm sending a session off to someone. Check out save as - it just creates a new ptx file in the same session folder. Doesn't duplicate all of your audio files etc. Shortcut is command control s on mac",
+    "reactions": 10,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1127701062288146483",
+    "author": "cian riordan",
+    "date": "2023-07-09",
+    "content": "When you\u2019re at the shop, Just make sure you play the intro to Stairway, Enter Sandman, *and* the solo from Santeria on it to be sure.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1103605053220200448",
+    "author": "Ross Fortune",
+    "date": "2023-05-04",
+    "content": "Totally with @Adam Thein, I can\u2019t do too much of any one thing in a row. If all I\u2019m doing is mixing, I want to be recording. If all I\u2019m doing is recording, I want to be writing. I\u2019m happiest when my weeks have a bit of everything. \n\nIncidentally though, songwriting has been a surprising source of mix work - would recommend. If we\u2019re at my place, people get to come and see the space, and when the rough mix from a day\u2019s writing sounds good, it inspires confidence in the mix work.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1296238755522543636",
+    "author": "Eric Martin",
+    "date": "2024-10-16",
+    "content": "had a breakthrough tuning a vocal today, hardly ever tune vocals or use melodyne, finally got a handle on actually splitting the notes \ud83e\udd26\ud83c\udffc to be more effective using the s and t shortcuts",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1459003426741555271",
+    "author": "BatMeckley",
+    "date": "2026-01-08",
+    "content": "To second matt, most everyone I\u2019ve seen who had a great \u201ccome up\u201d started because someone liked a record they did with a small shitty unknown band. My first real big break came from helping out with and swapping songs with a college buddy, who then managed to get a record deal, and I got to come up and help a little bit and meet with their producer. After a brief stint in Australia in another band, like Matt Rad, I relentlessly (but respectfully) kept reaching out to the producer to see if there was any toilets I could clean or any help at all I could give him, or even if he was just available for a quick lunch and could I play him some bands I was working on.  After a couple months he brought me in and taught me melodyne saying \u201cif you get good at this you\u2019re going to own a house someday\u201d. \n\nThis post is coming from inside the house. \n\nI think the mistake a lot of people make is they reach out hoping that someone can help them, and not with the intent of how they can help the person they\u2019re reaching out to. I never planned to be Vocal Producer to the Stars \u2122\ufe0f but it turned out it was a job that needed to be done that other people didn\u2019t want to do, and I started to get passed from big name producer to bigger name producer, and then I got enough clout to actually be the middle sized name producer. But it starts with going \u201chey, what do YOU need\u201d and not \u201chey can you help ME\u201d",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "964615366166863914",
+    "author": "sethearnest",
+    "date": "2022-04-15",
+    "content": "I do a Save-As at any point in a production or mixing phase that I think \u201cthis feels really great to me right now in this moment\u201d and/or if I do some sort of major change to arrangement, massive tonal change, etc. I\u2019ll also print that version to use as my new \u201cref\u201d as a mix comes together. Sometimes you make one decision then head down a cascade of changes from that one decision. Sometimes it\u2019s great; other times you go back to the previous \u201cthis feels great to me in this moment\u201d version and realize your cascade is a disaster. \n\nLike @samvalentine , Save Copy In is only for sending sessions for me.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1118325789813903382",
+    "author": "cian riordan",
+    "date": "2023-06-13",
+    "content": "If you have this option \u2014 assuming you can conjure some kind of musical true north for the band \u2014 it will be hugely valuable to the end result, as well as your experience in the studio. Great productions come from great arrangements, and the sooner you can get in and get your hands dirty, the better the results.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1298665623089582163",
+    "author": "chrissorem",
+    "date": "2024-10-23",
+    "content": "Strange I find most people hearing tuning/intonation better with a bass element in the mix. If I\u2019m tuning multiple vocals, I tune the lead and mute other melodic instruments that might be distracting. Then tune  doubles to the lead, tune  the harmony with the lead, tune the  doubled harmonies to the tuned harmony and so on. I try to move fast not worrying about it being perfect and I then solo all the vocals together the see how they feel or put them back in the mix. As I\u2019m working on the song if something feels off I\u2019ll scope it out then. For me It\u2019s very easy to get into a hyper tuning mode where everything sounds like it needs tuned if I obsess over it. I find it better to do a broad stroke pass and fine tune things as needed",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1345256974366806090",
+    "author": "cian riordan",
+    "date": "2025-02-28",
+    "content": "So! @BoozleBAM! I took a gander and you\u2019re in pretty good shape! I think you\u2019re going to hit some sonic limitations with the quality of your signal path and the cymbals you are using, but the drums sound pretty good and the space you\u2019re in isn\u2019t terrible. Some notes:\n- Your cymbal mic'ing approach might be a little overly comprehensive. Its nice to have spot mics on each cymbal, but might be worth trying a more traditional overhead approach. It\u2019ll help get a more natural image of the kit and will likely free up some microphones for other spot positions on the drum set or in the room.\n- Your kick drum sounds like a basketball. Theres a few things you can do with tuning, but I would firsttry having some dampening inside. If you like them sounding wide open, then consider taping some felt or paper towels to the inside of the drum shell, at least half way around the interior circumference of the shell. It\u2019ll help quash that bouncing basketball sound.\n- Your snare sounds beefy! Obviously, its going to be song and arrangement dependent, but on its own it sounds like you could voice it a little higher to get it to crack a little more.\n- If you free up some mics by simplifying your cymbal setup, consider having a mic at the \u2018crotch\u2019 position\u2026 picking up the center of the kit. It can be useful for anchoring the mono signal of the drums and gives you something nice to potentially squash or distort down the road.\n- Your room mics sound pretty good with the right EQing!",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1194391615490506852",
+    "author": "cian riordan",
+    "date": "2024-01-09",
+    "content": "I started getting serious about recording while I was in college (studying chemistry). I was playing bass in a band at the time and I was the only one that had any sort of decent recording equipment. I found myself being the guy recording all of the band's demos before we went into a 'proper studio'. Eventually, we realized my demos were sounding better than the ones we paid other people to record! Meanwhile, I started assisting (for free) at a local small recording studio and met a really great mentor. The studio was small and its business was mostly weekend warrior type stuff \u2013 nobody really notable. That being said, it was a working studio \u2013 and booked almost 6-7 days a week. The producer was the big fish in the small pond and had a great repeat clientele. Most of the music was not my cup of tea \u2013 but this proved to be a good thing as I was exposed to all sorts of different styles and it allowed me to be comfortable in genres of music which I normally wouldn't gravitate towards. It just made me comfortable around music and musicians in general.\n\nOnce I graduated and decided I wasn't going to use my chemistry degree, I ended up helping the producer build a bigger studio complex from the ground up. I learned an insane amount of stuff during this period \u2013 whether it was researching which Pro Tools system we would need to helping design the wiring layout to actually implementing it all. Ultimately, after months of hard work (and lots of borrowed money) the studio was complete and it was ready for business. I worked here for 2 years or so until I got introduced to Eric Valentine through former Street To Nowhere guitarist Matt Radosevich in Los Angeles. He needed a new full-time assistant and so I hopped at the opportunity and moved to LA \u2013 leaving behind the studio and crew I helped build (they're still going today and they're doing great).",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": true,
+    "is_expert": true
+  },
+  {
+    "id": "1180987200226205796",
+    "author": "cian riordan",
+    "date": "2023-12-03",
+    "content": "Tuning drums to the key of the song can sound amazing if you have the time and diligence to manage it \u2014 very difficult if it\u2019s a one person operation. Also I\u2019d rather a Tom have its own pitch in drum universe than being slightly sharp or flat to something in the key \u2014 that will sound even more distracting.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1197087408680878121",
+    "author": "Slow Hand",
+    "date": "2024-01-16",
+    "content": "**Other ideas:**\n\nCall and response between the players.\nGive the players big unison hits that they can land on together.\nEverybody takes a big rest.\nEverybody takes a big rest except one player.\nEverybody plays the melody in unison.\nHocket the melody between players.\nSwap roles among the players (Guitar plays like a drummer, drummer plays melodically, bassist sings).\nCounterpoint.\nPlay dynamically.\nDynamics that rise or fall over two or more bars.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348071071621976064",
+    "author": "cian riordan",
+    "date": "2025-03-08",
+    "content": "But please take my advice: tracking everyone only to click without the influence of the other elements in the production is not a recipe for cohesion\u2026 but only disjointed arrangements.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1349082874225233920",
+    "author": "Eric Martin",
+    "date": "2025-03-11",
+    "content": "To paraphrase @Nomograph Mastering: When your ambition/expectations outweigh your ability, hire it out until your ability match or exceed tour expectations.\n\nMixing can take years worth of reps to get good at, it\u2019s better to hire someone and release something you\u2019re proud of while you learn how to do it yourself.\n\n-OR-\n\nrelease the things so that you can truly understand where your current ability is, hindsight is the best scale for quality",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1399325458041929768",
+    "author": "lystell",
+    "date": "2025-07-28",
+    "content": "Sure, you\u2019re probably right. I\u2019d like to add some thoughts if it\u2019s ok though. \nI thought it might be healthy to ask the question why I make music? What in making music is the most exciting to me? What Outcome am I expecting?\nI too enjoy many parts of making music and I wanna be better at all of them. I do though have to remind myself that people spend their life learning time and effort to play only one part of the process, say bass.\nWhat are my expectations? Am I fine with making a finished record, regardless how it turns out (I\u2019m satisfied with the fact that I did all of it). Or do I have the expectation that the drum part to be NFL, the mix to be Wimbledon or the lyrics to be Dylan. Then I have to be either be patient enough to know that it will likely happen when I\u2019m old and grey, or that I maybe should focus on fewer tasks. \nWriting melody, lyrics, singing, playing guitar, recording/engineering, mixing\u2026.. That\u2019s a lot of abilities/capacities to learn/explore. A long the road you will have many needs being met. Consolation, support, validation, love, and more. An online forum can be a wonderful thing. In this case an extraordinary thing. It can\u2019t though meet all your needs and replace the presence of humans around you. One small example is the phenomenom that it only takes for a person to enter the room when you\u2019re working on something and instantly, even without words you know suddenly what you feel about it yourself. \nIt\u2019s a challenge to cooperate but learning and doing is most often more effective and fun doing it together. \nI have got the best advice in this forum. That doesn\u2019t equal that I will write the best song tomorrow.\nI\u2019m trying to be aware of my expectations. Of this forum, of myself, the process, the outcome..\nEmbracing the contribution of others is a wonderful feeling. Play the part you enjoy the most.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1410016061750902917",
+    "author": "oaklandmatt",
+    "date": "2025-08-26",
+    "content": "Also: A great vocal warm up from a great vocal coach will do a lot of things physically for your instrument, plus you're essentially learning the fundamentals of scales and runs. This will replace the thing you're already doing, while covering a lot more ground.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1410389475242283098",
+    "author": "gatewoodsensei",
+    "date": "2025-08-27",
+    "content": "When you sing, you want to be as relaxed as possible. The moment it starts to feel like it hurts STOP. Breathing correctly also helps. When you breathe in, push your stomach out. You\u2019re effectively getting the air into your diaphragm which is where you want the power to come from. When you breathe in, kinda do it like you\u2019re yawning. That opens up the back of your throat (pause). Ideally you want your throat to act as a channel that your voice comes out of. If you look in the mirror while you sing, there\u2019s this little bulge in your throat (like an Adam\u2019s apple) - that\u2019s your larynx. You wanna keep that either centered or moving down. You\u2019ll notice if you start singing and you\u2019re straining, it\u2019ll start moving up, closer to your chin. That\u2019ll eventually hurt your voice.\n\nSorry if that\u2019s a lot. I have more lol but I just wrote what I could off the top of my head.\n\nEdit: oh yea! When you\u2019re warming up, do lip trills or hum into a straw! Like a 5 note scale going up and down. Starting from the bottom of your range to the top (before I starts to hurt).  That gets the sound to what\u2019s called the \u201cmask\u201d of your face. That also takes the stress off of your throat when you sing.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416103375405322261",
+    "author": "oaklandmatt",
+    "date": "2025-09-12",
+    "content": "In addition to the advice here, you might want to jump on #\ud83e\udd1dcollab-talk talk and ask if there's anyone willing to give you mix feedback. I'm sure you'll get some takers and you can send stuff to folks in the DMs. \n\nAs @masteredbyjack says, loudness is more of a perception that you achieve in the arrangement and mix than the LUFS number. Learning how to treat sounds to make them feel loud is a big part of loudness.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "810262249184034856",
+    "author": "Eric Martin",
+    "date": "2021-02-13",
+    "content": "room tone and proximity effect are why.\n\nIf you have a great sounding room you can back off the mic and you\u2019ll introduce room tone, or the sound of the room into the mic\u2019d bleed.\n\nIf you have a dead room you can back off with this happening less, there will still be some sound there, but less.\n\nA lot of studio mics are used with the Cardioid polar pattern depending on the source and what sound you need for the recording, getting closer to the mic can introduce more low end from what\u2019s know as proximity effect, this can exaggerate the way the lows are heard from the source on a record.\n\nIf you find yourself EQing out low end, maybe back off the microphone a bit and experiment with how far and hear how much room gets introduce as you add more preamp gain when you do this.\n\nIt\u2019s a choice, and a decision, learn why you like it and where.\n\nOmni mics have little to no proximity effect, figure 8 also have some proximity effect, use this to your advantage.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "854749688053628939",
+    "author": "sethearnest",
+    "date": "2021-06-16",
+    "content": "Agree with above that the \"T\" should be the downbeat in most circumstances. Depending on a large list of caveats (tempo, singer, producer, rest of arrangement etc etc), you could also extend the \"s\" and make it a part of the rhythmic interest of the hook as a pickup to the downbeat. Extend it earlier to the & of 4 of the previous bar so it'd be | / / / , sssss | TAY",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "862469711644065842",
+    "author": "oaklandmatt",
+    "date": "2021-07-07",
+    "content": "I usually get a backbeat or 4 on the floor going, even if it's subtle. But I've had a lot of great songs written to just that, then drums are built around it later. tbh if you have that and you're having trouble getting drums to work later, it's usually not because you didn't get proper drums in there. If the song is great and there's a basic beat, you're pretty much set. a simple backbeat goes a long way.\n\nAs I've said before, I think the two essential parts of a song are not actually piano/vocal or guitar/vocal but instead beat/vocal. chords are obviously important, usually. But melody against rhythm is primarily what people move to and remember. if you can sing and clap it, you've probably got something.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "926978242848637009",
+    "author": "cian riordan",
+    "date": "2022-01-01",
+    "content": "If anything an external clock on a single converter will introduce more jitter because of coax cables than using a decent internal clock.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1043665582001762325",
+    "author": "Zach Hughes",
+    "date": "2022-11-19",
+    "content": "I\u2019ve found there are two types of artists (with some in between for sure) but generally 1) wants to co-produce, be involved, has a vision and taste 2) doesn\u2019t have a clue and will defer defer defer to everyone else, doesn\u2019t have a vision, and can\u2019t commit. 2 can be frustrating to work with but if I\u2019m working with that kind of artist I will take the song as far as I can on my own without the artist. Generally they want me to do the heavy lifting. When that kind of artist is in the room they aren\u2019t really contributing and I get distracted and am less efficient. Once I have something to share I\u2019ll bring the artist in and give them the opportunity to steer the song in whatever direction, change the arrangement, nix parts or ideas etc\u2026 if I\u2019m working with artist 1) I want them there whenever I\u2019m working on the song. There\u2019s immediate feedback. Usually way easier to work for me this way.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1057644736971817061",
+    "author": "Ross Fortune",
+    "date": "2022-12-28",
+    "content": "**Orchestral/Scoring**\n\nSpitfire Audio - obviously focusing on their own products, but they are excellent and the tutorials are made by real life working composers, with interviews, studio tours and workflow suggestions - https://www.youtube.com/@spitfireaudiollp\n\nSpitfire\u2019s Christian Henson - as above, but from his own account - https://www.youtube.com/@ChristianHensonMusic\n\nJunkieXL (Mad Max Fury Road, Hans Zimmer proteg\u00e9) walks through projects, gear setup, music theory, professional practice stuff - https://www.youtube.com/@junkiexlofficial",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1197085127231164427",
+    "author": "Slow Hand",
+    "date": "2024-01-16",
+    "content": "What are you doing for chords? A common pitfall of static arrangements is getting locked into the same four bar chord loop. Sometimes you've got to break out of that. Start there, even if it's as simple as telling a different story with your chords over eight bars versus four bars.\n\nPlay with the harmonic rhythm of your chord changes. Some very basic examples:\n1. Instead of a single chord every measure, alternate between one chord per measure and two chords per measure.\n2. Hold on a single chord for six measures and then do a cadence with a quick succession of chords on bars seven and eight.\n3. Take your progression and play it at half the speed (a four bar progression becomes an eight bar progression).\n\nI know you said you're just making beats right now, but chords or a melody are going to inform and motivate your \"players\" and show them what to do. There needs to be some \"meat\" to the song for them to react to. If you don't like the melody you can mute it later. But give your \"players\" something to react to.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1345057227207086240",
+    "author": "Ross Fortune",
+    "date": "2025-02-28",
+    "content": "Of course depends on the tempo, part, sound of the drums, aesthetic of the track - but a few things that have worked in different scenarios for me:\n\nCreate the impression of some distance to walls by sending snare (start there, maybe add other mics) to a short stereo delay. Often something like 90ms on one side, 120ms on the other. Feel it out on one side, then add some time to the other.\n\nTry adding some fake distance to your existing room mics with a simple delay with no feedback (there\u2019s a Steve Albini drum video on YouTube where he demonstrates this). You can delay both sides equally, or solo one side, delay it til it feels good/sounds cool, then do the other. Anything from 12ms-around 23 seems to work. From there things start to become more like a slap, but than can be cool too.\n\nSmash up your existing rooms a bit, or a lot. Omnipressor, Devil Loc, UAD Zener, decapitator, Rough Rider (free), Arousor/Distressor in nuke, Lo-Fi. \n\nSend to a gated verb - Cian shared a drum session a while back with a short VintageVerb preset that\u2019s often useful. RMX16 Non-Lins can be good too, although it\u2019s easy to bring things into 80s territory this way.\n\nSend to a short room verb like ocean way, SP2016, Pro-R, Valhalla Room, Raum. Sometimes from close mics, sometimes from overheads, sometimes just slapping it straight on room mics. A little distortion (Decapitator, Devil Loc) after is often helpful.\n\nWith all of these solutions, the thing that seems to help them gel with the rest of the real kit is drum bus processing - compression and/or saturation.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "829240644400054302",
+    "author": "oaklandmatt",
+    "date": "2021-04-06",
+    "content": "@mixedbywong_my +1 to this. also, getting a vocal to sit right is often about making space for it. arrangement, eq, etc in the other elements in your mix are super important. what's fighting the vocal? often if you solve that, the vocal will sit nicely without too much work",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "934885955855331348",
+    "author": "Slow Hand",
+    "date": "2022-01-23",
+    "content": "I can write you up a quick explanation and exercise of how to derive chords that \"fit\" with a given key or scale. I'm a little busy at the moment, but if I don't come back to this in the next day or so and you're still searching feel free to DM me.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "934889785397481604",
+    "author": "Zack Hames",
+    "date": "2022-01-23",
+    "content": "I should have been more specific - it\u2019s good to run each scale up 2 octaves and back down with both hands 1 octave from each other.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1043698644332855376",
+    "author": "ALXCPH",
+    "date": "2022-11-19",
+    "content": "With the stuff I work on, vocal is always priority nr 1. A good song with a shitty production 10/10 times beats a shitty song with a sick production. I always prefere to just put down some drums/groove and/or some chords or a melody, then get the general vocal vibe and produce around it. So many vocalist will get distracted by productions that are too finished or busy.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1057774974548578414",
+    "author": "sethearnest",
+    "date": "2022-12-28",
+    "content": "Much like any pop mix's arrangement or whatever -- I can always tell on orchestral stuff I'm mixing if the composer knows (or intuits) orchestration well or not.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1179113961313009824",
+    "author": "Adam Thein",
+    "date": "2023-11-28",
+    "content": "The only other observation I have for standalone is that for me it almost never detects the tempo correctly so I always manually add the BPM before I import audio, but I have no idea if that prevents these weird issues or not \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1203511001547407360",
+    "author": "SoundsLikeJoe",
+    "date": "2024-02-03",
+    "content": "Double M/S is by default a Quadraphonic matrix output. LRLsRs.  Quad files are an odd format, but you can scale them to a standard SMPTE surround file. L R C Lfe Ls Rs....   but use audio black in C and LFE imo. You could push LR to C and all to LFE but you might lose mono compatibility with folddown. \n\nDispite what they say...   Don't over bloat your deliverable with everything and the kitchen sink. It's sort of unnecessary if you include the natural matrix output of the format. Preserving the Quad output in a standard SMPTE poly wav would be the cleanest thing.  Just make sure you're also using UCS metadata formats.  These days that's a big feature for sound designers.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1226457146758004737",
+    "author": "oaklandmatt",
+    "date": "2024-04-07",
+    "content": "One of the reasons I think this way is because anytime you EQ something, you are introducing phase shifts around either side of the frequency you're using. I find low end to be particularly sensitive to phase shifts. Phase shifts blur sound slightly, which is particularly bad for the low end instrument that you want to be punchy and full. \n\nWhile EQ may boost your overall low end, often times you are losing punch and clarity at the same time.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1260683269049942107",
+    "author": "BatMeckley",
+    "date": "2024-07-10",
+    "content": "For me the biggest boost to my workflow was getting off the smart tool in pro tools, and using the other buttons on the Kensington track ball to access the different tools. (Both in pro tools and in melodyne actually). \n\nSo I have BTT assigning different taps (two finger 3 finger 4 finger, and some double taps of those) mostly to switching through the cursor tools.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263839709369470998",
+    "author": "gatewoodsensei",
+    "date": "2024-07-19",
+    "content": "This headache that you\u2019re running into is what i mean when i say fl falls short in these categories, as it doesn\u2019t have comping. How many drum tracks are there? When\u2019s the deadline? If it\u2019s not that many, download protools intro. And If it\u2019s cool, I\u2019ll walk through comping with you on a zoom or something. \n\nI understand how frustrating this is because i was exactly where you are.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1275803781832900773",
+    "author": "lystell",
+    "date": "2024-08-21",
+    "content": "I totally agree. I have a lot experience trying to bring a song from start to finish and have been in probably every pothole out there. \n\nThe workflow/mindset that has made the biggest difference to me, is kind of forgetting about mixing (like parallel this and that, automation or even buses) for the writing/recording part of the process. \nFocusing solely on arrangement. Record as good as you can those parts you think does the song well. \nArrangment and balance gets you so very far. \nThen it\u2019s a good idea to tidy up the project and prepare it for next phase. \nAgreeing that it\u2019s a good idea to leave the song for a while and when you decide to mix, you listen with a mixing mindset. Like what can be enhanced, cleaned up, sound designed etc.\nWhat I see as a luxury in this way of doing, is that you can always add or remove stud that you suddenly feel.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1276371468053119048",
+    "author": "hendrick",
+    "date": "2024-08-22",
+    "content": "if you can only send one stereo bounce the best way for me is just asking the artist what they wanna hear live. some folks want me to mute all the lead vocals in the verses but leave them for the hook. others just want the instrumental. others will want just background vocal all the way thru",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345257213823946843",
+    "author": "cian riordan",
+    "date": "2025-02-28",
+    "content": "Cymbals:\n- These were honestly the toughest part of the sound. I ended up bussing all your cymbal mics and treating them as a set. I found myself hunting for a place to pull back the high-mid harshness but introduce some of the airy sizzle. The tape machine plugin I used helped a bit with this (Studer A800 with the HF calibration dialed up a bit)\n- Also these were the only mics that needed the phase to be flipped! Everything else added up nicely.",
+    "reactions": 2,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348013252042424412",
+    "author": "hyanrarvey",
+    "date": "2025-03-08",
+    "content": "For me if I were you. I\u2019d have done it like this\n\n1.scratch out the song with programmed drums and focus on making sure the click track is right. Do as many tempo changes and push and pulls till it feels right. Map out the song to where it feels exactly how you want it. Do minimal programming to get the idea\u2019s across you don\u2019t have to go wild with velocities. Since your a drummer you should know what your playing and it\u2019ll make it way easier\n\n2. Track rthym guitars and bass and comp them while you track \n\n3. Track vocals\n\nEither tune em your self or comp them like crazy whatever makes you happy \n\n4. Track leads \n\n5. Track drums \n\n6. Mix it",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1392206914883948715",
+    "author": "BatMeckley",
+    "date": "2025-07-08",
+    "content": "So, for pro tools I assign the three extra buttons for each one of the tools, and then chording the top two buttons gives me multitool in the instances that\u2019s useful.  \n\nThen my left hand is on asdfg for fades and moving the boundaries of clips (WAY faster than multi tool to just click in the middle of a region or at the zero crossing of an audio file and hitting A)\n\nAfter a few days it should become pretty intuitive and automatic. Like anything else, it\u2019ll take a second to adjust, 2 steps back, 3 steps fwd style.\n\nAnother perk of using melodyne standalone is assigning the trackball buttons for the note tune, cut notes, note length, and the chords for vibrato and note length tools. Makes melo WAYYYY faster.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1410033878743388262",
+    "author": "Beck Nebel",
+    "date": "2025-08-26",
+    "content": "Scales and exercises are all good and cool, but singing along to actual songs, finding where your voice feels good, and recording it is where I think you\u2019ll actually find something. Singing into a mic and trying different tones, distances, effort levels will all help you get more comfortable with your voice.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452627319918432257",
+    "author": "Bryan DiMaio",
+    "date": "2025-12-22",
+    "content": "so you hook it up to a monitor, keyboard, and mouse like any other desktop",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "835087733751283713",
+    "author": "Zakhiggins",
+    "date": "2021-04-23",
+    "content": "I second little alter boy. The formant knob on it is great if you don't wanna change the key of the song but still wanna make the vocal sound pitched down",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "862751871336841226",
+    "author": "oaklandmatt",
+    "date": "2021-07-08",
+    "content": "yes sung or rapped. but the vast majority of songs from 1950 until now have a backbeat or some other basic 4/4 rhythmic element that completes the polyrhythm. these rhythms act as an anchor for the melody. so to answer the original question, ive found it super valuable to have something like that in there when writing. especially if what the OP is asking is how to find solutions for programming drums later.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "868474961554202676",
+    "author": "peterlabberton",
+    "date": "2021-07-24",
+    "content": "iZotope or soothe, ruthlessly automating EQ or volume/clip gain, new strings, or just punching different chords and being really methodical while tracking. Between some combination of the above you should be able to address it!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875840204815106058",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "Process/Theory:\nI see lots of people\u2019s previous responses say they begin with getting the overheads to sound great and then start blending in close mics. If the drums were recorded by someone who knew what they were doing, with a good sounding kit, in a nice room \u2014 this would be a wonderful way to approach things. However 90% of the time that\u2019s not the case with tracks that come my way. So I\u2019m solving fro two problems \u2014 making the drums:\n1) The foundational rhythm element. It doesn\u2019t matter how good tonally your drums sound, they need to fill specific duties to carry the rhythm of the song. This is usually problem solving with phase within the elements of the drum set and then mostly getting the kick and snare to sit right around the rest of the instruments. Literally getting the right transients in the right frequency ranges \u2014 agnostic of \u2018tone\u2019 and \u2018vibe\u2019.\n2) The sense of space for the mix. The drums are a huge part of this\u2026 and the foundation for the aesthetic of a mix. Is it a tight space? Big verby snare? This is all great, but will rarely deal with this stuff until #1 is taken care of. So my process starts with close mics.\n\nAfter poking around and listening to the close mic various options to get a sense of what I\u2019m working with, I\u2019ll start with getting everything in phase. Solo the kick drum mics and get those in phase with each-other. If they don\u2019t add up, I\u2019ll start playing with HP filters at various Q\u2019s to try and get things closer. You\u2019d be surprised what you can get away with even when things are even 90 degrees out. Then, I\u2019ll start introducing more spot mics (snare, toms, HH) and start getting things in focus with just phase flips. By the time you get to the overheads and rooms, you should have all the spot mics in phase with each-other so then you can get a better sense of how the overheads are going to play into the game.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "878008572041130065",
+    "author": "Rollmottle",
+    "date": "2021-08-19",
+    "content": "Talk to your friendly neighborhood ME. This is what they'll do. Would advise to not be too precious about this as it's a relative crapshoot when it comes to streaming, especially where overlapping is involved. On the vinyl version, by all means go for it. But when it comes to the streaming version, sometimes letting the songs be the songs is the best you can do without introducing hiccups or weird shit in a playlist context.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "888788447165317210",
+    "author": "Josh",
+    "date": "2021-09-18",
+    "content": "Being that I grew up in metal, and then switched to pop, all of those years of learning how to play deathcore were wasted as I couldn\u2019t even tell you what the fuck I was playing. I\u2019d recommend just learning new songs to start. That\u2019ll get your brain working differently. And then learning different chord voicings. That\u2019s what I\u2019m on right now.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "888793342438166540",
+    "author": "ALXCPH",
+    "date": "2021-09-18",
+    "content": "I agree mostly with this! I\u2019ve been playing instruments for 20 years and have made a living from it. If you want to get good, it is aactually pretty easy and anyone can do it with the right mindset and patience(key word here). Firstly stop playing on and off, just play as often as you can preferably every day if not every other day.  Stop worrying about scales chords and theory, and just play. Learn as many songs as you can, like really learn them. Your ear will get better at picking up details, like groove and technique over time, so just learn the songs as good as you can and then move one to the next. Try and make it through a 1000 songs over the next few years. You don\u2019t need to remember them, just get through them and move on. You will pretty quickly start recognising patterns in music and realise most music is made up of the same few combinations of chords notes and so on. At this point I would recognise learning some theory, so that you will be able to name those musical patterns be it cadences, notes, chords, extensions and so on.  Then depending on what with your playing. This next bit is super important. If you don\u2019t care about playing in bands or performing for people then you can do this whole thing by your self. But if you want to play with real people on a stage or a basement then you need to spend time playing with people as much as you can. Learn some songs go to a jam session either at a local pub, church or what ever you have in your city. Having friends who play is also great as you might be able to get a chance to play with them regularly, maby even make a band. When learning a song, make sure you can play it all the way through with either a metronome or a drum track before moving on. Video taping also helps to be able to get an objective look/listen to your playing so you will know, what you need to be mindful of. \n\nKeith Jarrett the pianist learned one 1000 songs the first year for a restaurant piano gig before he was known or good.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "889561291977543750",
+    "author": "Alessandra Morris",
+    "date": "2021-09-20",
+    "content": "I can easily get super distracted  so I started playing songs I liked that had technical stuff i haven\u2019t learned yet. So because I loved the song I would push myself to learn the new chords etc. Kinda trick my brain into it\ud83d\ude02",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "980450099652067338",
+    "author": "ehutton21",
+    "date": "2022-05-29",
+    "content": "it means a lot that you chimed in, and honestly i had never thought of it that way. i think it\u2019s easy to perceive a sense of superiority in others in a space  where we all work so hard to convince people that there\u2019s nothing we don\u2019t know. \nagain, sorry if i hijacked the intro questions channel (i figured i may not be the only one who has or will be in this position). but genuinely, thanks a bunch to everyone engaging. you\u2019ve got no idea how much it\u2019s helped.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1005990299337773156",
+    "author": "oaklandmatt",
+    "date": "2022-08-07",
+    "content": "I love (trying) to explain this because it always makes me think of new things to try.\n\nYou can stereoize a sound using lots of techniques, the main three being pitch, delay, and phase. Often times your favorite plugins will do combos of these, so flipping the phase on one side will sometimes kill some of your wideness.\n\nIt's worth doing a google, but something like a flanger is simply duplicating the signal and micro delaying one of them at a variable rate. So the duplicated signal might oscillate between 2-20 milliseconds, which makes that crazy flanger sound. If you take that duplicated signal and run it through an aggressive filter (which will introduce some phase shift) and that's what a phaser is. \n\nYou can play with multiple duplicate signals, flipping phase on one side and getting wild effects. You can play with pitch on the delayed signal and start getting an effect we call \"chorus.\" But of course, each of these types of effects are just combinations of fundamental ways to manipulate audio. Many combos are possible!\n\nHooray sound design!\n\nAlso, I would love @Slow Hand to correct and expand, since I know he (and many others on here) are REAL sound design nerds.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1006253634616561794",
+    "author": "Will Melones",
+    "date": "2022-08-08",
+    "content": "Oh yeah, for sure. It\u2019s easy to overdo it, and satisfying enough that sometimes you don\u2019t know in the moment.\n\nUltimately you can be 100% in the right speaker or 100% in the left speaker, and pushing beyond that is tempting the gods. As far as I can conceive it, any process that attempts to widen a signal that\u2019s already entirely decorrelated must have the potential to reintroduce some correlation. Thinking again of the ping pong delay, is there really anything wider than that?\n\nI was doing a lot of M/S mix buss widening stuff a few years ago, and I realized that it could do some pretty weird shit to panned vocals and the like. While it feels like you can just \u2018turn up the sides\u2019, you\u2019re really doing something unnatural to the center, too, and the relationship between channels. Like you\u2019re choosing select bits of a sound to turn up, but only the bits of that sound that don\u2019t have anything in common with the other speaker. This is a lot of rambling just to say that there\u2019s clearly a point of diminishing returns, and maybe the solution is to pan something else less wide to create contrast.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1057736985311191070",
+    "author": "LAPhill",
+    "date": "2022-12-28",
+    "content": "Are you looking for resources on writing/production, or mixing? Just like with the record side, there's so much noise from bedroom composers and people that have zero real-world experience. And as Ruairi is always saying, even the people with real success often can't teach what they know. Maybe I'm a bit cranky after an 8 hour delay at the airport yesterday, but Spitfire has gotten quite good at creating \"tutorial\" videos that are thinly veiled advertisements, and many of their libraries are the equivalent of one-knob plugins or CLA vocals. Selling paint-by-numbers solutions to na\u00efve kids who want to get into scoring (They're far from the only ones guilty of this). But to focus on some of the channels I think are actually worth their salt:\n\n8-Bit Music Theory: https://www.youtube.com/@8bitMusicTheory/videos\nCan be a bit basic at times, but he talks a lot about structure which, IMO, is becoming a lost art in modern scoring.\n\nAnne-Kathrin Dern: https://youtube.com/playlist?list=PLWJg1w7F3PKPbSpEF2YOejVjWAg-KcM3Z\nNot the biggest name out there, but she has a no-bullshit way of explaining things about orchestration and theory that is clear and concise. As far as \"teachers,\" I think she's a good one.\n\nAlan Meyerson Waves Sessions: https://youtu.be/h9jZqn5lnw4\nI hesitate to include this. I know for a fact that Alan swapped out a bunch of his go-to plugins to make everything a Waves product. I haven't watched this in awhile, but it's a good insight into how he sets up a big mix session and why he makes some of his decisions. He's also playing to the camera/audience some, so this is a your-mileage-may-vary recommendation.\n\nMcGowen Soundworks: https://www.youtube.com/@McGowanSoundworks/featured\nPhil knows his shit, and goes pretty deep breaking down a few actual mixes, which is pretty rare to find.\n\nIf I think of others, I'll report back. Hope that helps",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1057770616587026452",
+    "author": "LAPhill",
+    "date": "2022-12-28",
+    "content": "Absolutely. It helps to be mixing the caliber of compositions he works with. Orchestration is a mixing art unto itself.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1070338418980159518",
+    "author": "Will Melones",
+    "date": "2023-02-01",
+    "content": "Hmm I\u2019ve always handled this with the subtlest amount of fader automation I can get away with. Just enough of a dip on the sustained note so the focus shifts to the incoming line, and the lyrics are intelligible, but without making the first line trail off (unless that\u2019s the desired effect).\n\nI think of those musicals where there\u2019s a big chorus and everyone\u2019s singing different counter lines on top of one another. It\u2019s like a chaotic puzzle, but what you realize is that the lyrics to the counter lines are all lines you\u2019ve heard earlier in the show. So your brain can fill them in without really listening, and the arranger\u2019s job is to use a spotlight to continually move your focus to the most important melody at any given moment.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1076672557027184670",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-18",
+    "content": "I think Mike\u2019s not talking about the panning or very placement being tempo synced, he\u2019s talking about the reverb length",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1103333065285189692",
+    "author": "Ross Fortune",
+    "date": "2023-05-03",
+    "content": "I think you said it well there @Edward Rivera \n\nIt extends all the way back into songwriting and production too",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104935742842613831",
+    "author": "Adam Thein",
+    "date": "2023-05-07",
+    "content": "or like thinking about masking in arrangements where stuff is built up, my brain is coded for the note values first before frequencies",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1105204235236286534",
+    "author": "peterlabberton",
+    "date": "2023-05-08",
+    "content": "Check out Ethan Gruska\u2019s album Slowmotionary\u2014is the piano sound at all like that? If so I\u2019d use that as a North Star. Or Phoebe Bridgers Punisher. Knowing Noire a bit I imagine it might be that real rolled off kinda vibe. When I\u2019ve mixed stuff like that, I do a combo of aggressively attenuating the boominess, and using Spectre/Neutron exciter/Saturn to get as much life out of the midrange as I can before things start getting crunchy or harsh. Then you gotta also just remember that it was the sound they chose and you need to respect that. So it\u2019s a balance.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1117537681770033283",
+    "author": "lulu lemon",
+    "date": "2023-06-11",
+    "content": "There\u2019s no way I know of where you can undo after you\u2019ve switched back to edit mode because Melodyne does a new analyzation based on your edits every time you leave Note Assignment Mode. There\u2019s nothing you can\u2019t undo in Note Assignment Mode after exiting it, either, though. If you don\u2019t want to have to deal with both at the same time, I would recommend going through the whole track in Note Assignment Mode first and figuring out any note detection discrepancies and then start tuning.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1118325069962293258",
+    "author": "Deleted User",
+    "date": "2023-06-13",
+    "content": "It\u2019s the former, I\u2019ve never produced a band before but I was told it\u2019s a good idea to attend rehearsals to make sure arrangement\u2019s good and it\u2019s ready to be tracked",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1121936327735259196",
+    "author": "Deleted User",
+    "date": "2023-06-23",
+    "content": "Mixing and mastering can mess up carefully crafted arrangements/recordings. In order for someone to give it a go with you, it would take some level of trust that they won\u2019t be getting back a fucked up mix. \n\nI\u2019m a producer that occasionally mix for others, and I found it the easiest to get in on earning people\u2019s trust by offering other things first. Record them, or tune vocals for them and then let them know you also mix. People are more likely to record with someone they don\u2019t know yet than to have someone they don\u2019t know mix or produce their stuff.\n\nAs a producer, I\u2019d deny free offers from new mixer to mix what I\u2019m working on unless I have heard their work and I like them. I\u2019ve had people ask if I need mixing and offered through their relationship with the artists- it always came back fucked\u2026 at least so far. So try to get in with producers through offering other stuff like engineering in writing sessions. Comp and tune the demo vocals you got from the writing session, if you do a great job they\u2019ll more likely to give it a go with you. Don\u2019t ask too early, make sure you build a good rapport with them first. Vocal tuning can fuck things up just as bad as mixing, so try to find things where you can just do it (e.g. you just recorded vocals for someone) over asking people if they need their vocals tuned.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1154849673538961439",
+    "author": "Will Melones",
+    "date": "2023-09-22",
+    "content": "I think for music in general it\u2019s a little more clear cut. Get an instrument, play it with other people, start a band, get private lessons if you can, start more bands. Introducing the computer makes it messy.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1163845027882082406",
+    "author": "Adam Thein",
+    "date": "2023-10-17",
+    "content": "Life savers - caution though that if you have something like Melodyne plugin and add or remove time the audio stored within the memory of the plugin will not be edited, so render anything like that to audio before editing time",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1172118952516796477",
+    "author": "Edward Rivera",
+    "date": "2023-11-09",
+    "content": "Correct ! I'll usually reach for rbass first and depending on the part, tempo, interaction with kick...either stick with that or realize it's Lo-Air that's more appropriate",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1179113408860270735",
+    "author": "Adam Thein",
+    "date": "2023-11-28",
+    "content": "Figured it out!  If you enter the Tempo Editor, the option becomes available.  Try Options -> Show Tempo Editor -> Edit Tempo, then while in the Tempo Editor you can use the \"Set Bar 1 To Start of File\"",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256670256634531984",
+    "author": "BoozleBAM",
+    "date": "2024-06-29",
+    "content": "I know that you're probably joking around here, but I once had a half an hour long conversation with Steve Albini about how to get the most converters for the least amount of money (We were talking about line-ins and stuff because at the time I was searching for a unit that let me hook up more external pres than what I've got now. Anyway...). What a truly humble man. Really - I'm so inspired by him. He left such a lasting impact on my entire approach to ALL OF THIS...",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1270561858612625510",
+    "author": "Felix Byrne",
+    "date": "2024-08-06",
+    "content": "after like 20 minutes the melodyne glaze\u2122\ufe0f sets in",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1272643070168531005",
+    "author": "cian riordan",
+    "date": "2024-08-12",
+    "content": "The notch mode on those EQs is really special and I know of no software that reintroduces the parametric band or shelf back in 180deg out.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1289596875867029557",
+    "author": "Eric Martin",
+    "date": "2024-09-28",
+    "content": "Are these heavy electric guitars, acoustics, cleanish electrics, rhythms playing cowboy chords, rhythms playing power chords?\n\nAll these things make a big difference for me in how I treat them. Leaving things lopsided can actually help the intensity and vibe for me, as long as it\u2019s musically supported.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1312179044741283920",
+    "author": "Chad Rodgers",
+    "date": "2024-11-29",
+    "content": "Bit of an aside (still bus related) and not sure if this is the best way of doing it, but I tend to route all musical elements (non-drums and percussion) to a bus, all drums and percussion to a second bus, and all vocals to a third bus. \n\nI then have a further bus where I bring the musical elements together with the drums and perc, so \u201cinstrumental\u201d.\n\nAnd then my final bus which I label \u201call\u201d that pushes through to the mix bus.\n\nThis way I have plenty of options for automation, levelling, compression, and even FX like whacking EchoBoy or the Echorec on it and going nuts for transitions and bridges etc.\n\nIt\u2019s possibly not the best way of doing it but it works great for me at the mo. My template for writing / prod and mixing is just set up that way now.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347416397944324106",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "Here goes\u2026\nMillion ways to skin this cat. I\u2019ll give you food for thought.\n\n1. At least double track. My personal goal, is to get the sound to be as awesome and huge and perfect with 1 pair of guitar tracks doubled, with 1 mic on an amp. That\u2019s the ideal scenario for me. That said There are people that sum 4 mics down to 1 signal on a mixer and it sounds amazing.  \n\n2. The more performances  you add of the same part, the more blurry it will sound.if you need different textures, consider recording a DI so it can be blended in with your amp in any manner of your choice, either reamping, distorting with a plugin, whatever. (Check phase)\n\n3. I like when the left and right are *subtly* different, no drastically different. You hear \u201cthe left and right being different is what makes something wide\u201d\nThis is true. But I loathe when it\u2019s so different it feels lopsided.\n\nHow do we address this? \n\n-double track using the same guitar so the tuning and intonation is most similar \n\n-change the amp head but keep the same cabinet/speaker so the overall EQ is similar but my the gain structure is different\n\nIf you use 2 different guitars, consider the scale lengths. This will change subtle intonation things, for better or worse.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348011540799815702",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-08",
+    "content": "like it's not like you're pinging people repeatedly and out of nowhere to ask them which guitar picks they like to use when they play minor scales",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1354134996134396065",
+    "author": "Brian Reynolds",
+    "date": "2025-03-25",
+    "content": "Everything in my studio is hooked up to run thru my pedal board. With a flick of switch or cable switch at a jhs ab pedal, it's the guitar cable, poly d, or computer send. With the synth cables tie into just the stereo run. So much fun!! Allows you to perform to the unique stacked effects quickly",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1372258694263476306",
+    "author": "Eric Martin",
+    "date": "2025-05-14",
+    "content": "if the bass is playing a third make sure you\u2019re tempering the tuning, and \u201cin tune\u201d third is not melodyne or autotune \u201cin tune\u201d\n\nunless you can choose tempered tunings that I\u2019m not aware of yet in my novice use of either of these.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1416102289126588548",
+    "author": "masteredbyjack",
+    "date": "2025-09-12",
+    "content": "But shooting for a certain lufs number is a bad time (not saying you are). Arrangement, vocal level, overall eq all play a big role in perceived loudness.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472983763997818961",
+    "author": "Rollmottle",
+    "date": "2026-02-16",
+    "content": "Some plugins can not report latency accurately or consistently to the DAW and can introduce audible artifacts because the processed signal isn\u2019t aligned with the unprocessed signal.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472987888848338976",
+    "author": "SawyerM",
+    "date": "2026-02-16",
+    "content": "I tune first. But I'm doing melodyne so it's a bit different. Generally though I like to have a clean input for them as distortion can get weird with tuning",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "818963040266747937",
+    "author": "Slow Hand",
+    "date": "2021-03-09",
+    "content": "Generally speaking, steel string guitars are more common in pop music. They've got that jangly, biting, tone. Possibly because that tone can cut through a dense arrangement easier or be more aggressive. Nylon strings are associated more with classical performance or something like flamenco, but nylon strings can certainly find their way into pop music too. 2000s RnB/Hip Hop was all about that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "822915869767499846",
+    "author": "David Fuller",
+    "date": "2021-03-20",
+    "content": "My setup I have a secondary AD/DA hooked into my interface via AES just for my analog stuff, but if I hadn't gone for an interface that's 2 in/2 out in analog then I wouldn't have needed it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "823210212604379147",
+    "author": "joebegalla",
+    "date": "2021-03-21",
+    "content": "Hey dude! I think you\u2019re absolutely right to approach it that way. I would suggest that you adequately communicate that you just want the producer to add stuff and not completely change everything that you\u2019ve done. As long as you communicate, you should be fine. As for the mix engineer, when I\u2019m mixing for a client I never make production or arrangement changes unless the client tells me too, or if they\u2019re in the room with me. The mix engineers that I\u2019ve liked the least have made production changes when I haven\u2019t asked them to. As long as you communicate exactly what you want, you\u2019ll be good! Hope this helps.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "839245984420200458",
+    "author": "Slow Hand",
+    "date": "2021-05-04",
+    "content": "Gotcha. Generally speaking, effect pedals don't interface directly with a computer or plugins (although some can). Usually they can only be recorded as audio by plugging them into your audio interface and recording the audio as you perform it. I see that this one has a *MIDI In/Out*. That means it can probably receive *tempo* information (so that it synchronizes with other programs) and maybe some *program changes* that can tell it when to change presets.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "842098133709095012",
+    "author": "oaklandmatt",
+    "date": "2021-05-12",
+    "content": "\"buyouts\" def exist. Ghost producers, large songwriting fees to give away publishing, etc. Not crediting you as a mixer seems like a bad precedent to set though. Hard to say. Whenever you accept something like, you're devaluing your work and credibility in the long run (with this client and also with yourself). So it's hard to know the right answer, but I rarely do this, even when I was starting out. Just a bad precedent.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "848193982127407134",
+    "author": "AlexLayne",
+    "date": "2021-05-29",
+    "content": "hey dude! i haven't run in to a single comp only license. melodyne gives you two, same with auto tune and a few others. izotope works great as well. waves you jut have to make sure you move the license off one machine then on to the the other.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "854483502622834729",
+    "author": "hendrick",
+    "date": "2021-06-15",
+    "content": "got a question for those obsessed with hitting hard on the downbeat. rn i got the start of a hook with the word \u201cstay\u201d. how do i make the word lock in with the downbeat?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "857126397662461972",
+    "author": "cian riordan",
+    "date": "2021-06-22",
+    "content": "I would tell them there's a few things to consider when pressing vinyl:\n1) Mastering is especially important as it\u2019s the real bridge between the music and the mechanical production of the record. I had the great pleasure of mastering a few records for vinyl with Doug Sax (give him a google) and there\u2019s a lot more to the process than modern mastering for digital services. They will actually cut the acetate disc which will be what manufacturers use to make the metal stamper that actually molds the records. A lot of thought goes into this process such as the width of the grooves to accommodate bass frequencies, etc. If you want a good sounding record, there\u2019s no way around working with a seasoned professional.\n\n2) Side lengths are important, as is track order. The more music you put on a side of vinyl, the less fidelity it will have as a whole. There will be sacrifices in the manufacturing to accommodate all of the music, so it\u2019s best to keep your side lengths under 20 mins. Closer to 15 mins per side is ideal sonically, but sometimes that means doing double records and that just gets expensive. Also the order in which the tracks play on each side plays a part. The songs at the beginning of the side have more bandwidth and less distortion\u2026 it basically diminishes the closer you get to the center. Whatever the last track on the side is will just sound worse. It\u2019s a flaw in the medium\u2026 so think about that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": true,
+    "is_expert": true
+  },
+  {
+    "id": "858142497338818570",
+    "author": "hendrick",
+    "date": "2021-06-25",
+    "content": "does anyone keep a settings log when working on a project? pics/screenshots/excel sheet for gear/plugin settings? this is something i've never had to worry about but I was introduced to the idea recently.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "860512799696224266",
+    "author": "oaklandmatt",
+    "date": "2021-07-02",
+    "content": "it's possible but challenging. there are definitely scales besides major and minor that work in pop songs (\"pop\" meaning anything that gets popular). but if you don't have good experience and/or a decent grasp of music theory, it's tough to not make it sound weird. it's a bit like doing tempo changes or odd time signatures: mostly it sounds crazy to a mainstream music audience, but if done just right, it can be unique and amazing.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "860580982075686933",
+    "author": "Slow Hand",
+    "date": "2021-07-02",
+    "content": "Yeah. There are lots of theoretical explanations for different scales/modes that would work, but you're probably better off just using your ear. If it sounds good, it is good. Go for it!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "861673506911420436",
+    "author": "ALXCPH",
+    "date": "2021-07-05",
+    "content": "Personally i wouldn\u2019t Think too much about it. Singing in the key of a song is something we know works and are accustomed to. Kind of like using steel for a car frame. You could make one out of cardboard, but what would it accomplish? Polytonality isn\u2019t really something that makes sense to a lot of people if you\u2019re in the business of popular music.  But if you\u2019re purposefully trying to go left field and straying away from what most people in western music is accustomed to! Then be all means go nuts! Try something like A Major over Bb Major it\u2019ll make your teeth grind!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "862540363629723648",
+    "author": "Eric Martin",
+    "date": "2021-07-07",
+    "content": "the melody implies rhythm, if it doesn\u2019t, that\u2019s the problem IMO.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "887132775596060763",
+    "author": "hendrick",
+    "date": "2021-09-13",
+    "content": "this is great insight y\u2019all i really love the different schools of thot here @oaklandmatt @cian riordan @David Fuller @Zack Hames @sethearnest \n\nas some of you saw in #\ud83e\udd1dcollab-talk i got some live drums recorded so i wanted to explore the possibilities for the sounds i can get. i just got out of a AES conference with a huge audio engineer and i noticed he doesn\u2019t use gates at all and only mimics the gate work on toms by manually cutting the audio clips and fading out to taste. the other mics were completely open (recorded at capitol studio B). another interesting trick from the track he was showing was that for the intro of the song he made the drums mono and then opened them up for the chorus! super cool approach. i feel inspired so i figured y\u2019all would dig this info too",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "926965480214908930",
+    "author": "KushKadett",
+    "date": "2022-01-01",
+    "content": "maybe not a newb question but I thought it was really interesting what Jon said in regards to distortion of converters. I noticed something similar by experimenting with different clocks on my rather cheap interface. \nOne being the internal clock and the other a high quality Antelope Isochrone clock. The minute I hooked it up I was able to monitor a lot louder without it having the feeling of hurting my ears- the increase in clarity was immediate. \nSo It seems to be the case that this subtle (intermodulation?) distortion literally hurts our ears and can make people go deaf. 40 of Drake was saying something similar, so I'm wondering if there's more to this.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "933833049295163452",
+    "author": "sloth",
+    "date": "2022-01-20",
+    "content": "Hello people,sorry if the channel that I am writing on is a bit off topic but I wanted to ask if there is someone willing to have a talk about chord progressions, namely the more jazzy sounding stuff for like r&b/neo-soul or just harmony in general,I feel like im kind of running against a wall at the moment with my methods just practicing chord inversions/diatonic chords/scales.I might be at fault for not putting them in any \"real\" musical context except for playing them in kind of a janky manner.Also really curious of any piano exercises  you guys are willing to share.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "934873784081612870",
+    "author": "KushKadett",
+    "date": "2022-01-23",
+    "content": "to expand on this: what is the best way of learning piano and music theory? I feel overwhelmed by all the options on youtube. Any specific course that is good?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "934878393097396294",
+    "author": "Zack Hames",
+    "date": "2022-01-23",
+    "content": "Just a place to start - learn and practice all of the scale modes (Ionian, mixolydian, aeolian etc) and basic chords. (Major, minor, augmented, diminished, etc) \n\nFrankly you can start with just basic 3 note chord and expand to bigger chords and inversions. I am by no means an expert but I am a long time guitarist with 0 theory that learned theory via piano playing so hopefully this might give you a very basic direction rather than something overly technical.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "934881974768775208",
+    "author": "KushKadett",
+    "date": "2022-01-23",
+    "content": "i wanna be able to play chords over a key of song and it \"fitting\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "934882065831329833",
+    "author": "KushKadett",
+    "date": "2022-01-23",
+    "content": "i'm not quite sure why some chords sound better and fit more than others if that make ssense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "934886698201014314",
+    "author": "Slow Hand",
+    "date": "2022-01-23",
+    "content": "One thing I'll say right now is that it's important to have a good fingering technique, so that you can move around quickly and fluidly. It's going to be the foundation of your technique and I wouldn't skimp on this step. I would seek videos of people who will explain strategies for fingering major scales in each key. It's a little tiring, but repeating these fingerings until you're very comfortable with them is a necessary step to building your facility.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "934929592169431060",
+    "author": "oaklandmatt",
+    "date": "2022-01-23",
+    "content": "(in addition to all the other great advice about scales and other skill and dexterity building exercises)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "952847230593798164",
+    "author": "herbie",
+    "date": "2022-03-14",
+    "content": "i just have all my monitors hooked up to a power strip and just use that shut it off rather than using the on and off buttons on the back",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "994426697879388214",
+    "author": "XclusiveMoney",
+    "date": "2022-07-06",
+    "content": "Hey guys,\nI\u2019m a beginner using Abelton 10 suite. I\u2019m having issues trying to sync different tracks with different bpms. Is there any way I can do this quickly ? Also I want to know how to put the clip sample box in the bottom left of the interface.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1020797300982939709",
+    "author": "joshua_wav",
+    "date": "2022-09-17",
+    "content": "hey y\u2019all i could use some advice on how to deal with revisions. i don\u2019t like charging or setting limits but some artists i\u2019ve been working with have been asking for mix changes / arrangement changes months after it got approved and sent to mastering. i had one song where all the drum samples were replaced with live drums, the bass and guitar was recut and a bunch of backgrounds got sent in over the course of 6 months. where do you draw the line on changes like that? i feel like i\u2019m living inside of the ship of theseus thought experiment \ud83d\ude2d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1033511469448437780",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-22",
+    "content": "__**TLDR**__ - So what to do practically in the real world? If I had a super fast and stable computer I would record, produce and mix at 96k. It\u2019s subtly better in every way and you can introduce any of the \u201cdesirable\u201d problems from lower sample rates at will. BUT BUT BUT\u2026.if there was even the tinniest chance that the rig would hiccup, or my drives would not access fast enough, or that I would have a glitch in a real session then I would absolutely start at 48k.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1033514339849744435",
+    "author": "David Fuller",
+    "date": "2022-10-22",
+    "content": "I don't consider it a good idea to work above 96 though, as you'll start introducing junk from switching power supplies, class D amps, noise shaping from D/A and A/D, etc into the program material. At lower sample rates it's effectively rolled out by extremely steep AA filters",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1043585811326709831",
+    "author": "Zach Hughes",
+    "date": "2022-11-19",
+    "content": "Would be curious to know this too @josephmossbridge",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1043694638625730580",
+    "author": "Deleted User",
+    "date": "2022-11-19",
+    "content": "I don\u2019t disagree with you, it\u2019s definitely a common workflow in rnb hip hop and it\u2019s how it\u2019s done more often than not. But even then, rappers write verses with pen and rnb writers can sing on their own to write a song. The way I\u2019ve been going about it is I ask if they have any lyrics at least- with people I have encountered the answer is almost always no. So as a producer, I don\u2019t really have any context to work with. And I\u2019ve tried- many times they end up really disconnected contextually even though they may sound right. \n\nIf they are putting out a lot of volume that they just prefer to get halfway there then it\u2019s a different story, but new artists with no music out yet or a few singles or one EP out having no lyrics or song on them is why I feel the way I do about \u201csend me a beat\u201d situation.\n\nMy perspective may not be as informed because haven\u2019t gotten to work with a good rapper yet. Some of the people that I have tried to work with that insist on this approach don\u2019t know how to work with fitting words into a bar unless they have drums.\n\nSame with RnB- I like to work with keys or guitar in the room and build together from ground up. But my experience has often been people just don\u2019t know what they want or don\u2019t know how to write on their own. \n\nMy frustration is- \u201ccan you at least tell me what\u2019s on your mind?\u201d. Whatever works, works. But if they don\u2019t have any thematic vision then I can barely see it working out \ud83d\ude26",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1044334663252062298",
+    "author": "Zach Hughes",
+    "date": "2022-11-21",
+    "content": "Yo so I recently upgraded to Melodyne Studio and am trying out the integration in Pro Tools. I used to have Melodyne 4 and in the standalone app you could click on a note and it would play the pitch as you hold and drag. This is NOT happening in pro tools and I miss it. Does anyone know if that's a feature that can be turned off and on or does it just not work that way in Pro Tools?\n\nupdate: it's working on my harmonies but not lead vocal track for some reason\n\nupdate 2: it started working and I don't know why haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1049849361946902578",
+    "author": "itaylerner",
+    "date": "2022-12-06",
+    "content": "Recorded some vocals in 48k and just got instrumental stems in 441 - do i downsample the vocal or upsample all stems?  \ud83d\udc40 and on a scale of 1-10 how much does it matter",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1057737700221923438",
+    "author": "Ross Fortune",
+    "date": "2022-12-28",
+    "content": "That\u2019s super, thank you!\n\nLooking for all of the above - prod, eng, mix stuff I can to a decent extent verify myself, but I\u2019m relatively green in the composition world so it\u2019s great to hear your take on it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069343185727402156",
+    "author": "Deleted User",
+    "date": "2023-01-29",
+    "content": "the dead space issue seems to happen in both logic and ableton. And I found printing click track helpful because I can make sure it\u2019s lining up in the daw after exporting the vocal files. I\u2019m working on a rubato-ish track with more classical time feel and I printed click track to double check the tempo map I imported from a midi file, correcting issues only took me 5 mins. \n\nBoth Ableton and Logic seem to bounce tracks with extra few ms in the beginning of the song and if you print click (separately) you can figure out how far off it is and just match to that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1076671323482361977",
+    "author": "skeed",
+    "date": "2023-02-18",
+    "content": "anyone know how to achieve and set this kind of effect up? im confused on how hes able to have the panning \"tempo\" synced https://youtube.com/shorts/pMdb4szzuGg?feature=share",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1079597583393099796",
+    "author": "ehutton21",
+    "date": "2023-02-26",
+    "content": "That has introduced some",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1091034623556989028",
+    "author": "hyanrarvey",
+    "date": "2023-03-30",
+    "content": "Its gets so hard to play when it gets like to 18 bpm",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104941641464303636",
+    "author": "austenballard",
+    "date": "2023-05-07",
+    "content": "Okay here\u2019s an example I\u2019m on right now. I have a distorted electric. Lowest note it\u2019s playing is the G on the E string in a G major chord. The gunk below it is just getting in the way of the bass guitar. Not sure I want to leave that in",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1105182632972664944",
+    "author": "Zack Hames",
+    "date": "2023-05-08",
+    "content": "Could be instrument / arrangement for sure. If you have the midi maybe you could try other sounds in its place just to see",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1117500139737731252",
+    "author": "Barbara",
+    "date": "2023-06-11",
+    "content": "Ok, I have a question for Melodyne jedis:\n\nTunning metal vocals at the moment and I'm in constant need to change between Note Assignment Mode and Edit Mode.\nWhat happens is that once I leave NAM and switch to EM, if I want to undo something on the NAM, I can't. Even if I don't make any changes on the EM.\n\nHas anyone found this shituation? Do you know if there is any workaround for this?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1118327327189905528",
+    "author": "Adam Thein",
+    "date": "2023-06-13",
+    "content": "I\u2019ve never done this before but I\u2019d probably try and keep it foolproof simple unless there\u2019s a savvy person in the band - FaceTime/zoom on a phone with the camera pointing at the band will do or even a video capture they can send you for comments.  Should be good enough to give arrangement and performance notes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1118327882771615835",
+    "author": "Deleted User",
+    "date": "2023-06-13",
+    "content": "my concern is if it\u2019s going to distort the fuck out of the iphone mic or if it would be good enough for me to actually hear the arrangement. \n\nprobably should just give it a try and see if I can hear everything. My experience doing rehearsals and recording them has been either the drums will distort the fuck out of the whole recording or I can\u2019t hear the voice, etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1118329148176355368",
+    "author": "Deleted User",
+    "date": "2023-06-13",
+    "content": "Very likely going to have to do this as well. They wanted me to do synths and strings- but I\u2019m thinking the rest of the rhythm sections need to make enough room for those so I definitely have to check out what they\u2019re doing with the arrangement",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1124115941983256647",
+    "author": "Rollmottle",
+    "date": "2023-06-29",
+    "content": "they're introducing a pro audio brand? lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1127764946558668911",
+    "author": "Zack Hames",
+    "date": "2023-07-09",
+    "content": "Not exactly. But pickups make the biggest difference tone by a long mile. \n\nLike others have said, if a guitar plays well and feels good to you, then go for it and then put nice ass pickups in it, and you\u2019re golden. \n\nOther big \u201csound\u201d considerations are scale length,  bridge style/material and nut material. Not to mention the strings themselves. \n\nLighter guitars actually resonate / have more sustain usually, for obvious physics reasons that people ignored for a long time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1137097967619293316",
+    "author": "Rollmottle",
+    "date": "2023-08-04",
+    "content": "ehhh...how are you monitoring the stereo out of your mix via AES if the monitor outs of the Lynx are going to the PMCs? or are you saying the PMC's are hooked up via AES from your Lynx?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1146110369576792064",
+    "author": "el",
+    "date": "2023-08-29",
+    "content": "Right now it's just spec writing days w independent artists - in the past I would have artists come to me to write with then give them w a demo and move onto fee arrangements when they want to go forwards with a track",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1154815321811730492",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2023-09-22",
+    "content": "What would you consider the best beginner online music education for contemporary music making and methods? If you had a child who wanted to get into making music via online classes, where would you send them and why?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1154848775483949166",
+    "author": "Joel \"Roomie\" Berghult",
+    "date": "2023-09-22",
+    "content": "It is the question I get asked by both kids and their parents constantly - while there might not be a single answer, perhaps there's some above-average high signal-to-noise resources that could be good starting points.\n\nIf I answer this question vaguely and send a kid 100 pages into a random Gearspace thread on songwriting, I'll feel like I failed them \ud83d\ude05",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163591792919330896",
+    "author": "river",
+    "date": "2023-10-16",
+    "content": "Copy is CTRL C \nPaste is CTRL C\nUndo is CTRL Z\nRedo is CTRL Y\nCreate a new audio channel is CTRL T (I think)\nCreate a new MIDI channel is CTRL SHIFT T (I think)\nCreate a new clip is CTRL SHIFT M while highlighting an area on the arrangement\nTo join clips together it's CTRL J\nTo group audio effects together it's CTRL G\n\nTo toggle automation view on the arrangement it's A (\"Computer Keyboard\" must be disabled in order to toggle.)\nTo toggle \"Computer Keyboard\" (this enables you to play notes on your typing keyboard), it's M\n \nTo save it's CTRL S (SAVE OFTEN!!)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163593260934123580",
+    "author": "river",
+    "date": "2023-10-16",
+    "content": "I love 0, very useful on the arrangement",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163593802376826900",
+    "author": "Maxim",
+    "date": "2023-10-16",
+    "content": "No more listening to the whole darn midi pattern when you only want to hear one chord/note",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1166798486738579547",
+    "author": "Zakhiggins",
+    "date": "2023-10-25",
+    "content": "Forgive me if it\u2019s obvious, but why in the pro tools Melodyne do the blobs sometimes randomly not move when on other tracks they do?",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1179085083064418314",
+    "author": "Barbara",
+    "date": "2023-11-28",
+    "content": "Sorry to interrupt another issue, but I wasn't sure where to address this question...\n\nMelodyne standalone folks (looking at you @BatMeckley \ud83d\udc40), I am tunning a chunk of vocals and backing vocals for an album and when I export them, they don't align with the original file.\n\nI am aware the audio file has changed and I've been messing with the time and pitch of some parts. What worries me is that some of the files that I didnt touch also don't align. I've exported them referencing the range of the instrumental track and ive also exported them using \"entire length\" as a reference. It always seems to happen. I've never had this happening to me, or I didn't notice.... Have you encountered this before? Is there an obvious workaround for this that I'm not getting?\n\nThanks!!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1179092849392885865",
+    "author": "Adam Thein",
+    "date": "2023-11-28",
+    "content": "Are they at the wrong tempo now or are they offset?  I've had issues before when I drag and drop in files into Standalone where Melodyne won't put them at 0:00, so I've started always using the Import Audio function. \n\nI think there's a way to realign the start of the grid in Melodyne to match 0:00 in the audio file but I'm having trouble figuring out how.  I see there's an option under Edit -> Tempo -> \"Set Bar 1 To Start of File\" but it's always greyed out for me if anyone knows how to use that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1179095487450726400",
+    "author": "Barbara",
+    "date": "2023-11-28",
+    "content": "They are just offset, the tempo is correct",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1180987933092745287",
+    "author": "BoozleBAM",
+    "date": "2023-12-03",
+    "content": "And yeah - I definitely pay close attention to the pitch of my drums, but I certainly don't tune them to the key of the song. Maybe I should try that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184031869466066964",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "There\u2019s a lot you can do with just panning and arrangement. I\u2019d recommend starting there and then reaching for imaging tools when it calls for it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1196692044614209607",
+    "author": "! Andy !",
+    "date": "2024-01-15",
+    "content": "changed my whole view on songwriting",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1197075340724547675",
+    "author": "Deleted User",
+    "date": "2024-01-16",
+    "content": "A couple questions about beatmaking/overdub workflow\n\nI\u2019m mainly making beats at the moment, meaning there is no song yet. I want to get good at more dynamic arrangement with linear development than vertical development (same instrumentation evolving with flowing energy vs parts in and out). I want it to have elements of interplay like a band playing in a room together, but fake it by overdubbing. \n\nI know dynamics can be achieved through taking things in and out or playing with different progressions/rhythm or moving octaves. From subtle to not so subtle changes. \n\nOne solution I could think of is writing one instrument part at a time with the goal of developing the arc. But this comes with the challenge of vertical movement\n\nI\u2019m not sure if I have clearly explained what my issue is, but my process usually goes like this. \n\n1) I have one or two elements looping together\n2) I pick up an instrument and search for ideas as it\u2019s looping\n3) once i have a solid idea, I\u2019ll start  recording and improvise around the idea \n4) take has tons of mistakes, playing wrong notes and off timing. I pick some parts out and then drop them in. \n\nNow the problem is I can get some cool ideas and happy accidents, but it\u2019s not usable yet. And it\u2019s hard to figure out where I should drop these little bits and pieces because there is no context (aka vocal). And without context, I don\u2019t know how I can move with intentions that will inform me what the next move is.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1197088204617154572",
+    "author": "Deleted User",
+    "date": "2024-01-17",
+    "content": "Harmonic Rhythm bit is definitely helpful. I don\u2019t explore this often enough outside of #1. \n\nI think I naturally gravitate towards vamp like progressions. I want to break out of it though and have chords that tell stories rather than just feelings. \n\nBecause of the vampy- nature of a lot of chord progressions I end up with, the first chord of new section and coming back around is something i find myself having trouble with consistently",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1197097592652304457",
+    "author": "Slow Hand",
+    "date": "2024-01-17",
+    "content": "**Some More (cause you've got me thinking):**\n\nKick off the song with a bang.\nWrite a deliberate introduction. (This is big. It will give your record propulsion, confidence and purpose instead of dropping the listener into the middle.)\nEnd the record in a conclusive and unmistakable way.\n\nEverybody plays as soft as they can.\nEverybody plays as loud as they can.\nThe louder you play the simpler the part has to be.\nThe softer you play the faster the part has to be.\n\nRole play. Choose an emotion/mindset and embody that as the player: melancholy, furious, chaotic, childlike, meek.\n\nInstrumental fills every few bars.\nTake a solo. A short one.\nMake some noise!\n\nListen to your song at different tempos.\nDo a dramatic speed up or slow down - This will show you new aspects of your groove.\n\nUnexpected part entrance.\nIntro solo before the band enters.\n\nOnly two instrumental parts allowed. Be minimal and sparse.\nWrite a melody starting with the kick pattern.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1197718178676080650",
+    "author": "shaunobi",
+    "date": "2024-01-18",
+    "content": "I follow a similar approach when doing blue-sky producing - I'll prep song I like beforehand, splitting them into stems using UVR (which uses the best machine learning algos like Demucs v4 to split tracks). When people get there, I then play just the drums, or whatever, and we start layering other stuff on top of them. I speed it up, slow it down, use various parts, cut and paste - basically just to get something that inspires me during composition. Later, I'll come back with real musicians and actually record it, but this is a pretty powerful demo creation method, for me at least. Kinda fun to un-mute the OG track at the end and be like \"yeah, it's been Interpol this whole damn time :)\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1209980739177812018",
+    "author": "NoahNeedleman",
+    "date": "2024-02-21",
+    "content": "Music is a bridge between minds, and we are bridge builders.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1210012864065179648",
+    "author": "bobby k",
+    "date": "2024-02-21",
+    "content": "is there an indispensable pitch shifting plugin for going an octave up or down? melodyne is crushing it, just takes that extra minute. curious if anything else competes.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1210015925042946088",
+    "author": "bobby k",
+    "date": "2024-02-21",
+    "content": "i should have clarified looking for something that can handle triads or more, like full chords the way melodyne is able to!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1219320403093098558",
+    "author": "hendrick",
+    "date": "2024-03-18",
+    "content": "in case this has been brought up before pls lmk but... what does it usually look like when you start to earn a meaningful back end on big songs you have producer/songwriting credits on? do you need management to get that money? what's the whole process like after the music is released? can someone ELI5?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1219324316399698063",
+    "author": "Adam Thein",
+    "date": "2024-03-18",
+    "content": "I'd get in touch with a music lawyer who can help you make sure you have everything in place to collect all your back end - there's a lot of revenue sources you'll want to make sure you are collecting from.\n\nOften you'll have had a producer agreement in place and a letter of direction that will be sent to the distributor/label so that if you have points on the master you'll be paid directly from them.\n\nYou'll also need to have a PRO/Publisher in place to collect songwriting royalties, and many folks have in place a publisher deal or publisher admin deal to collect those royalties on your behalf in exhange for a % of your royalty.  In my case I am set up with BMI in the US as my PRO and Publisher and have an admin pub deal with Sentric to collect in territories outside the US.\n\nAlso you'll want to be set up with SoundExchange to collect digital performance royalties (SiriusXM, iHeart, Pandora).  This often also involves the letter of direction that is kicked off with your producer agreement.\n\nI'm probably forgetting something but I'd highly recommend talking with a music lawyer to get things set up and working for you.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254824184966807695",
+    "author": "NoahNeedleman",
+    "date": "2024-06-24",
+    "content": "Compressing like this introduces a new set of problems with esses & breaths, so its tradeoffs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1257300629068714005",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "I'm curious: Does anyone here have any insight into the drum sound on Foo Fighters \"My Hero?\" It's a really wild drum sound. Whenever I'm driving and that song comes on the radio it always piques my interest... I've been sifting through a few different reference tracks recently, and I just listened to it on headphones for the first time. They do some really wild stereo stuff with the drums in the intro and the chorus - You can hear it really pronounced on headphones. It's actually a little disconcerting hearing the cymbals basically mirroring each other in the left and right like that - and the snare, too. The cymbals also have a very pronounced \"BWEEESHHH...\" sound. It's a very unique sound... I suspect there were a lot of room mics going on in that sound, but of course I have no idea. Anyway, would love to hear from anyone who might know.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1257301553572745246",
+    "author": "Edward Rivera",
+    "date": "2024-07-01",
+    "content": "Intro was recorded in the garage of Grandmaster Recorders",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1257302864330620989",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "There is sooo much crossover in the drum sound - I know when you record with stereo overheads there's always a little bit of hearing the right crash on the left side and vice versa, but it really feels very exaggerated in the case of this song. Especially in the chorus and intro - there sounds to me like there was definitely some intentional mix decisions going on there...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1257398357417132156",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "Sure, sure. Right - I'm just asking for curiosities sake. It's a new technique that's been introduced to me. And I'm always interested in the mechanics of a sound - how it came to be.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1258810849242517535",
+    "author": "bobby k",
+    "date": "2024-07-05",
+    "content": "I'll take this to biz talk if it belongs there, but it genuinely feels like a newbie question so here it goes. \n\nhow the hell do you get a label to send you your royalties? I've been on a month+ long quest running in circles with UMG's \"royalty support\" or whatever it's called, and they have been impressively unhelpful. Trying to chase down an imaginary dollar amount on 20+ songs I've produced, or at least speak to the person who's like tracking that information & recoupment and all that to get like any sort of window into what's going on. Artist's mgmt and A&Rs have kind of been dead-ends. Anybody have a good UMG person they'd be comfortable doing an intro? Or any tips otherwise?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1260642155760713789",
+    "author": "BoozleBAM",
+    "date": "2024-07-10",
+    "content": "I need to check out some of these options - see which one I dig the ergonomics of the most. DEF need a new sitting arrangement/ desk setup, too. Lord have mercy...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263583159711436851",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "so you set the BPM in reaper the same as your audacity click and you cant get things to line up?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263587813933191249",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "seems like something is set up wrong - maybe the clips are set to warp? and as you're changing the BPM it's also changing the length of the stems\n\nie: you drag the 80bpm stems into a 120BPM session\ntry to change the session stems to 80BPM and your drums get warped to 60or whatever the math would be",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263590679112585296",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "Really not sure why stuff isn't lining up in reaper - it's a constant bpm?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263594654792814592",
+    "author": "spectrummasters",
+    "date": "2024-07-18",
+    "content": "Logic will analyse everything in a session if ya tell it create a session tempo track for ya and I wonder if you can import that  id be tempted to go rogue and edit off grid . Used to have to do it with my mpc drums stems cause Akai clock drifts. In logic This would be the process you\u2019re needing if I\u2019m understanding your goal . https://youtu.be/cEDaa-C02EI?si=-Fn15MKrzDfDQ4gl",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263595637845393508",
+    "author": "rawssx",
+    "date": "2024-07-18",
+    "content": "What was the time signature you recorded it on? @BoozleBAM ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263597245907996769",
+    "author": "rawssx",
+    "date": "2024-07-18",
+    "content": "It should be same in both daws for you to have everything on grid. i.e if you recorded the drums on a 4/8 grid and you drag the stem to a different daw, you have to have the project time signature at 4/8 for you to have it on grid in the second daw. normally it would be at 4/4 so that could be the confusion",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263598727130513410",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "I just want to know if he\u2019s seeing a grid at all in reaper that\u2019s in the right BPM\u2026",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263598991489372311",
+    "author": "rawssx",
+    "date": "2024-07-18",
+    "content": "i smell the issue being the project time signature",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263603459073118248",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Yes - Seeing grid in Reaper at exact same bpm as my Audacity click, but the sounds are not lining up. Researching bullshit to ameliorate the situation Reaper tonight. At the hibachi counter atm.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263603621392814152",
+    "author": "rawssx",
+    "date": "2024-07-18",
+    "content": "Bro i am telling you its that time signature issue",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263603852473536673",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "So you have a grid, at the right BPM. You import your drums and your printed click track, all files the same length, same start, same end, yes?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263609881731268678",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Not time signature or bpm issue, but thank you. That was my initial thought, as well. It's something with the setup in Reaper.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263614867705958411",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I use it to track (stability. Especially on my ancient laptop), and mix (bridge) and auto mute (ears and me being stupid). But I am completely out of the water when it comes to all things editing.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263714958215217314",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "No offense taken whatsoever! - I started out recording in Audacity like everyone else. I find Audacity to be excellent for pre pro because the click track feature and the time stretch feature are so incredibly malleable, and with many of my songs switching bpms all over the place, I rely on both of those features heavily during the initial crafting stage. Combined with their \"bpm markers plugin\" you're cutting and pasting and sliding around like no ones business. Audacity really is so, soo good for so many things. Many downsides, but for laying down scratch tracks nothing I've used compares. I could go further, but won't for the sake of brevity - and I don't want to get flamed. lol.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263850287723188338",
+    "author": "BoozleBAM",
+    "date": "2024-07-19",
+    "content": "I've been trying to download Pro Tools intro for the past hour and AVID keeps on saying \"Sorry for the inconvenience, but something has gone wrong and we are working quickly to fix it. Please try back later.\" I'm apparently unable to make a new account, too... Does AVID do this sometimes?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263850712576819253",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-19",
+    "content": "Also looks like Intro limits you to 8 audio tracks, jsyk",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266352809138327554",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Okay, soo... Thank you to everyone who's been patiently assisting me - the bonehead - through all this drum editing and DAW shit and whatever else. Update: I was able to successfully download protools intro after several days of not being able to for some reason. During the interim, when I was waiting for avid to be nice to me, I figured out how to 1. Make the grid in Reaper line up with the click tracks that I imported from Audacity - Halleluia. OMG. I have been trying to do that forever. 2. Slip Edit in Reaper and Cubase 3. Use Stretch Markers in Reaper and nudge around little pockets of sound. Now, I have a TRUE and UNIQUE disdain for Reaper. I think it's unintuitive, I think it's cumbersome, I shudder to think of all the time I spent fiddling around with this Nerd-god of a fucking daw when I could've been soaring along in Cubase or Protools, and I'm honestly so, soo sick of it, but... as I'm sitting here with my Dell Lattiude laptop from 2013 with its 8 gigs of ram, trying to install Pro Tools Intro for the 5th time (wheel spinning for minutes on end and then just spontaneously shutting down), I'm thinking to myself, \"Is there any reason I shouldn't just dig my heels into Reaper and finish up this one album with it??\" There are some things I like about Reaper, and the fact that I now preeeetty much know what I need to in order to finish things out, I mean... I've got some serious technological limitations over here. Pro tools intro took 3 hours to download and I'm not even able to install it on my computer. Reaper runs fine (so does Cubase LE4)... I hate it, but I mean... This is where I'm at... Thank you, All.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266362006445756500",
+    "author": "Edward Rivera",
+    "date": "2024-07-26",
+    "content": "As for this, I\u2019ve used these two methods together; I\u2019ll slip edit things where they need to be, and use time stretching to bridge the inevitable gaps made in the audio (like extending cymbal hits to the next beat)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266618738019532854",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Dude, I 100% want to jump into protools right now - but my computer can't handle it. Took me days to even download it and my computer WILL NOT install it for some reason - and that's only the intro version... Everything is already tracked in Reaper and I'm like, so close and already familiar with mixing in it. I mean... it's just where I'm at... working with what I've got going already...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267112236686643256",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "I think... I thiiink... The problem with making a new click in Reaper and tracking along to it from here on, is that many of my songs switch bpms throughout. For example, one of the songs that I have this problem with is 136, 160, 180, 108, 118... When I'm making the grid and stacking these tempos, things can get problematic - things can get cumulatively more off timing wise... I'm gonna have to dive in and see... I might just have to... keep tracking to the fucky click?? I'm gonna have to dig in and really see, I guess...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267126661560795156",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "You should be able to add tempo changes in reaper",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267131588458577971",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "https://www.soundonsound.com/techniques/tempo-mapping",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267134359203483759",
+    "author": "Iwan Morgan",
+    "date": "2024-07-28",
+    "content": "If it\u2019s any consolation I googled then downloaded a 120 bpm click a few weeks ago as the Pro Tools Click wasn\u2019t working, and even the downloaded file was not consistent. Luckily spotted it before tracking to it. But, this kind of stuff happens all the time, the main thing is to build a strategy into your practice which expects it to happen and then zero in on ways to make it less likely to happen or at least have the tools to fix things.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267267823751925850",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "Gaslight your DAW, do the tempo map if you want to make the grid into what the performance is and then track and edit everything to that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267269536466473004",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "The way you put that is just so perfect... lol - I'm looking up how to do that in Reaper right now. Also, I *just got done sifting through all the sessions and looking over all the clicks with a microscope to see how bad it all is. Avg time that the click is \"off\" is 7-8 milliseconds (the clicks with the \"every other one on the grid\" phenomenon...) Also, some of the songs that switch bpms throughout - some of those bpm sections line up with the grid in Reaper and some do the \"every other\" thing. So, I'm just saying that to say it, I guess. I may... I may live... lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267270783248371793",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "If you like how it sounds, either don\u2019t use the grid or tempo map it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267577350032195707",
+    "author": "bobby k",
+    "date": "2024-07-29",
+    "content": "or imagine using melodyne in this context",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1270560401721135156",
+    "author": "Slow Hand",
+    "date": "2024-08-06",
+    "content": "Yeah. It's remarkable how the swing or swagger of a good vocal performance will make a stiff-as-a-board instrumental arrangement sound like it's grooving so hard. And it is! Music is magic.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1271047448571412553",
+    "author": "yaldaram",
+    "date": "2024-08-08",
+    "content": "And other specific courses too like melodyne, editing poor drums etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1279867767788535890",
+    "author": "BoozleBAM",
+    "date": "2024-09-01",
+    "content": "I\"m not quite understanding this - If I play through it live, how can I / what would be the purpose of separating sections down the road? I.e. chorus, verse, bridge, etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1289612094924390473",
+    "author": "spectrummasters",
+    "date": "2024-09-28",
+    "content": "Wonderful thanks Eric . In this case heavy extended power chords in sync with the bass line , which is pinning down the same sort of a \u201cpulse \u201c rythm rather than a intricate staccato deal",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1290748090562908306",
+    "author": "BoozleBAM",
+    "date": "2024-10-01",
+    "content": "One downstairs in the drum room hooked up to the interfaces. and one upstairs in my mixing room.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295774392466280508",
+    "author": "tinkerjef",
+    "date": "2024-10-15",
+    "content": "I think the test I want would be 2 tracks of pink noise, 1 untouched, and the other has phase shifts introduced. Then see if anyone can hear the difference",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295774737775067216",
+    "author": "tinkerjef",
+    "date": "2024-10-15",
+    "content": "Yeah so for example I introduce a 1ms delay at 100hz in pink noise",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295774959963996246",
+    "author": "tinkerjef",
+    "date": "2024-10-15",
+    "content": "You can introduce phase shifts without changing amplitude (granted u do need to pull some tricks to achieve this)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1297609304379097281",
+    "author": "itaylerner",
+    "date": "2024-10-20",
+    "content": "I still don\u2019t understand how you guys use Melodyne in standalone instead of in the daw, gotta do some YouTube research",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1297640002695462953",
+    "author": "EliHeathMusic",
+    "date": "2024-10-20",
+    "content": "For manual de-essing do you prefer using Melodyne over clip gain and RX? Or do you do multiple passes using different tools over the course of working on a production/mix?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1297658081270042759",
+    "author": "itaylerner",
+    "date": "2024-10-20",
+    "content": "ohhh that's right - it's cause I'm stuck on Melodyne Editor and I need Melodyne Studio to have multiple tracks in there. Really gotta send it on that, doing harmonies / backgrounds without it is comical.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1302829196636061768",
+    "author": "T1NGA",
+    "date": "2024-11-03",
+    "content": "There\u2019s another thing I \u2018ve been thinking lately which is tuning with autotune, not talking about the graph mode but the advanced tab for the chromatic mode in which you can remove some notes from the scale.\nHow often do you find yourselves doing this ? \nIs there a way to nail it everytime ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1319965340746121256",
+    "author": "spectrummasters",
+    "date": "2024-12-21",
+    "content": "Thank you Edward . I totally follow what you\u2019re saying there . With regards to polarity \u2026..I\u2019m feeling confident in making the correct choices , and yes the delay lines / nudging tracks on close mics feels like I\u2019m staring into the abyss . I\u2019m happy with the sound of the kits I\u2019ve been working on lately , but they are ok to feel \u201clive \u201c and a bit looser . I\u2019m anticipating wanting to get that super tight really punchy / dialed in kit sound I hear on some contemporary records at the moment. Can one achieve that without nudging / delay lines I suppose is what I\u2019m pondering ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1344952683181903904",
+    "author": "louisvie",
+    "date": "2025-02-28",
+    "content": "Seems like it would get tweaked just like any setting, but I feel like I often see people stick to the default Pro-L 2 att/release. Maybe this is often a set & forget kind of thing for a lot of people ? Could it be that because of the small scale of the gain reduction, adjusting these there is not necessary ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347422770304389180",
+    "author": "BoozleBAM",
+    "date": "2025-03-06",
+    "content": "One thing I've been wondering a tiiiiiny bit about - I use a lot of clean boosts to push my amp into different levels of distortion; bridge chorous, etc. - I'm really a \"takes\"/ performance guy, so I kind of just like to do it as if I'm playing live... but some people have told me doing it in sections would yield a cleaner result. I... I'll probably experiment with that for 10 mintues. Or, eh - fuck it. WHo's got time for that?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347620270797619240",
+    "author": "hyanrarvey",
+    "date": "2025-03-07",
+    "content": "But also like not everything has to be double tracked. Maybe it\u2019s a chill verse with just drum and bass and the only guitar is like a little chord thing off to the right.  That classic saying if everything is wide then nothing is wide. Contrast makes the guitar huge",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347622848113414205",
+    "author": "hyanrarvey",
+    "date": "2025-03-07",
+    "content": "Sometimes you gotta tune to chord positions instead of just open strings or harmonics. Cause intonation is a bitch",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348010251319906365",
+    "author": "BoozleBAM",
+    "date": "2025-03-08",
+    "content": "IF I had taken the vocals more seriously when I did all those \"scratch tracks\" I would have an album by now, but a lot of those parts I was just humming or whispering or whatever because I was thining \"these will all be replaced\" anyway. So, yeah... The guitars and the bass are all times stretched to smitherenes, too, from getting things to the right tempo for the drums, so it will be nice to dial those things in and play them at the right tempo from the beginning.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1348013740678971524",
+    "author": "Felix Byrne",
+    "date": "2025-03-08",
+    "content": "the groove you're playing guitar to in your head against the click probably isn't anything similar to the one you played the drums against that click even at the same BPM",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1348014593770786867",
+    "author": "hyanrarvey",
+    "date": "2025-03-08",
+    "content": "You probably recorded the drums to a click track and the tempo wasn\u2019t correct",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348014894129217719",
+    "author": "BoozleBAM",
+    "date": "2025-03-08",
+    "content": "NO, no, no - The tempo that the drums were recorded to WAS correct. It took me a long time to get there, and I had to do many versions, but the drums are recorded to the correct tempo - It's the guitars, bass and vox that are time stretched to hell in back. I had to do that to figure out how fast/ slow the drums needed to go.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1348072479402360943",
+    "author": "cian riordan",
+    "date": "2025-03-08",
+    "content": "You don\u2019t think other people write music and know the arrangements?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1349072924186775594",
+    "author": "BoozleBAM",
+    "date": "2025-03-11",
+    "content": "I've spent years and yearas songwriting, but my mixing and perhaps some production stuff, as we all know is in some ways severely lacking. Definitely ready to sign up for some mentorship in real life wherever I can, really.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1349081336735862824",
+    "author": "BoozleBAM",
+    "date": "2025-03-11",
+    "content": "I would love to do both - At least have the skills to. If I had to prioritize one, it would absolutely be to be fully independent in making my own music; fulfilling my vision with as little outsourcing as possible... But I do have a real love for colaborating and producing/ songwriting for people, so I would really, really love to do more of that on a professional scale.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1354131153069543564",
+    "author": "Bryan DiMaio",
+    "date": "2025-03-25",
+    "content": "I hooked up a whole stereo guitar pedal loop for mixing just because of that first bit, it's inspiring and fun to use",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1372265917932765245",
+    "author": "Josh",
+    "date": "2025-05-14",
+    "content": "Come on now we don\u2019t have money for the fancy melodyne",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1372266798862434304",
+    "author": "sinaigimenez",
+    "date": "2025-05-14",
+    "content": "Is that a go-to technique for you when working with live bass? I assume you wouldn't use it with synth bass\u2014unless we're talking about analog synths, right?\nI imagine it's genre-dependent as well.\nAlso, what's your favorite tool for that\u2014Melodyne or Auto-Tune?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1375280475349844139",
+    "author": "diamndsdancin",
+    "date": "2025-05-22",
+    "content": "is there a term for little melodies that start at the end of a chord progression and go into the first chord again? like a riff or something that kind of brings everything together without it sounding like a basic chord progression if that makes sense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1385768862800154716",
+    "author": "Ross Fortune",
+    "date": "2025-06-20",
+    "content": "Do you have pro tools? You can set up PT Audio Bridge (like Blackhole) as an output from any daw, set it as the audio input in QuickTime screen record then monitor system audio through your interface. \n\nIf you need to record system audio and daw audio simultaneously one of the other suggests above would probably be better.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1387992095607885884",
+    "author": "hyanrarvey",
+    "date": "2025-06-26",
+    "content": "Doubt you\u2019ll hear it over chords or riffs",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1387997175476387901",
+    "author": "BoozleBAM",
+    "date": "2025-06-26",
+    "content": "You can't hear it over chords at all. You're right.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1392537772824199311",
+    "author": "James Cronier",
+    "date": "2025-07-09",
+    "content": "re: melodyne, it reminds me of what I did for RX. The numpad under my right hand has the processing options I use 95% of the time. select, process, move on. it takes about 10mins for me to do an RX pass on a lead. I'd imagine tuning can't be quite *that* fast but the stupid right click smart tool setup in melo has gotta be one of the slowest things I regularly use.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1398001284438691851",
+    "author": "cian riordan",
+    "date": "2025-07-24",
+    "content": "Guitars first makes more sense if you don\u2019t have parts fully written. Having the chord voicing laid out before writing bass parts is very useful.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1398061826586968236",
+    "author": "cian riordan",
+    "date": "2025-07-24",
+    "content": "I used to play quite a bit of bass and found it was always more fun to weave in fun lines after the chords had been laid out.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1398351503814692874",
+    "author": "LAPhill",
+    "date": "2025-07-25",
+    "content": "Maybe it becomes too much of an intro-to-audio thing, in which case there's plenty of that already out there. But I trust the big brains here more than most other available authorities.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1410005616663068806",
+    "author": "Yu Justin K",
+    "date": "2025-08-26",
+    "content": "As purely an instrumentalist at the moment, I'm trying to expand the sounds I can get in my productions with singing (mainly supporting artists with BGVs/vocal pads/doubling etc.).\nMy voice and tone is very weak to support artists in most styles at the moment, so I'll be starting from ground 0 in my practice routine.\nSo far, I've been practicing going up and down scales with a met (half-time and full-time), using different syllables thru the scales, and singing long tones with different syllables.\n\nDoes anyone have sources and or advice for a beginner to strengthen their singing voice?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416101664368234516",
+    "author": "masteredbyjack",
+    "date": "2025-09-12",
+    "content": "It\u2019s hugely arrangement depending how things translate",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1437161521888235591",
+    "author": "Zack Hames",
+    "date": "2025-11-09",
+    "content": "And if you\u2019re not double tracking with the same scale length guitar it can get squirrelly quick. \n\nAlso, the tuning and time discrepancies is what makes it sound huge.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1437163050439545024",
+    "author": "BoozleBAM",
+    "date": "2025-11-09",
+    "content": "Actually, I'm glad you brought that up! I did notice the tuning discrepancies during the more \"plucked out\" parts, but during the strumming/ chordal parts - with distortion, especially - things sounded HUGE, and the intonation problems were not noticible at all. I actually went back and did some takes really making sure to watch the tuning, and although the tuning was better, those takes didn't sound nearly as huge (As well as just the performance not being there.)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1450872522944938025",
+    "author": "DarrenB",
+    "date": "2025-12-17",
+    "content": "I'm a big Tidal fan.  It's been my main choice since introduciton (2014-5 maybe?).  Their suggestion algo is getting better but still not Spotify good.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452627170743554144",
+    "author": "BoozleBAM",
+    "date": "2025-12-22",
+    "content": "it looks absolutely amazing - And you just hook up a monitor, or... (watching a video now) - You can hook it up to your laptop?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472988382245159085",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "okay, that was my intuitive thought too. melodyne made sense too, or maybe a hybrid of melodyne and a pitcher doing less work overall after.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  }
+]

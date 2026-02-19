@@ -14,6 +14,13 @@ modified: 2026-02-17
 
 ---
 
+## Getting Started
+
+- [[Getting Started with Music Production]] — first steps, gear priorities, learning paths
+- [[Beginner FAQ]] — common beginner Q&A with expert answers
+
+---
+
 ## Session Preparation & Organization
 
 - [[Recording and Tracking Workflows]] — DAW ranking for tracking, latency, comping, backup, remote collaboration

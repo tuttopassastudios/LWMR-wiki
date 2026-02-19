@@ -198,3 +198,8 @@ If you're breaking a single sampled instrument out ac...*
 > **Key contributors:** Zack Hames, Bryan DiMaio, Josh Bowman, Ross Fortune
 > **Message volume:** ~80 messages on folder philosophy, Finder sidebar trick, split mono import, and multitrack delivery
 > See also: [[pro-tools Channel Summary]]
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Beginner session setup context:** Zack Hames (5 reactions): "Think of a pro tools session file as 'directions' for all the parameters and files. So you can save a million project files without consequence or space issues." Beginners frequently ask about basic session organization — track naming, color coding, and template creation. See [[Beginner FAQ#DAW Workflow]].
+> See also: [[newbie-questions Channel Summary]]

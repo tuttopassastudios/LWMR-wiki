@@ -217,3 +217,8 @@ The setup channel provides real evidence of budget-friendly studio solutions:
 > Channel: #gear-talk
 > Matches: 843
 > Key contributors: Zack Hames, Josh, David Fuller, Eric Martin, Nomograph Mastering, cian riordan, hyanrarvey, Rollmottle, Bryan DiMaio, NoahNeedleman, BatMeckley, chris_donlin, Adam Thein, Slow Hand
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Beginner gear priority context:** First interface/mic recommendations for beginners. cian riordan (23 reactions, pinned): "Be critical of things that are expensive for the sake of being expensive. Things that are just instagram ads shilling to newbies." BatMeckley (18 reactions, pinned): "Most decent mics CAN get you where you want to go, they just take a little different approach." oaklandmatt: "There's no gear that will make you a better musician or engineer."
+> See also: [[newbie-questions Channel Summary]], [[Getting Started with Music Production]], [[Beginner FAQ]]

@@ -262,6 +262,58 @@ The #mixing-talk channel (48,084 messages, August 2021 – February 2026) is the
 
 ---
 
+## #newbie-questions — Top Contributors
+
+The #newbie-questions channel (9,859 messages, February 2021 – February 2026) is a **beginner-focused Q&A channel** with an unusually high expert participation rate — 54% of substantive messages come from verified experts. A "substantive" message is >20 characters, non-bot, non-GIF/emoji-only.
+
+> [!warning] Expert Credibility
+> BoozleBAM is the most active poster (1,098 substantive messages) but is a dedicated learner, NOT an advice source. Only contributors listed below are verified experts.
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 1 | **BoozleBAM** *(learner)* | 1,098 | 1,323 | 83% | 147 |
+| 2 | **Nomograph Mastering** | 599 | 678 | 88% | 94 |
+| 3 | **cian riordan** | 478 | 530 | 90% | 195 |
+| 4 | **Bryan DiMaio** | 371 | 429 | 86% | 94 |
+| 5 | **Zack Hames** | 325 | 345 | 94% | 192 |
+| 6 | **hyanrarvey** | 301 | 425 | 71% | 69 |
+| 7 | **Rollmottle** | 277 | 321 | 86% | 134 |
+| 8 | **David Fuller** | 236 | 271 | 87% | 83 |
+| 9 | **NoahNeedleman** | 230 | 257 | 89% | 159 |
+| 10 | **spectrummasters** | 203 | 227 | 89% | 167 |
+
+### #newbie-questions — High-Impact Contributors (11–25)
+
+| Rank | Contributor | Substantive Messages | Total Messages | Substantive % | Avg Length |
+|------|-------------|---------------------|----------------|---------------|------------|
+| 11 | Slow Hand | 182 | 199 | 91% | 285 |
+| 12 | Adam Thein | 172 | 196 | 88% | 202 |
+| 13 | Eric Martin | 146 | 148 | 99% | 169 |
+| 14 | Edward Rivera | 140 | 165 | 85% | 119 |
+| 15 | ALXCPH | 137 | 157 | 87% | 202 |
+| 16 | BatMeckley | 131 | 146 | 90% | 243 |
+| 17 | bobby k | 115 | 127 | 91% | 196 |
+| 18 | peterlabberton | 114 | 120 | 95% | 250 |
+| 19 | oaklandmatt | 103 | 111 | 93% | 284 |
+| 20 | Ross Fortune | 90 | 98 | 92% | 233 |
+| 21 | chrissorem | 82 | 95 | 86% | 124 |
+| 22 | Will Melones | 77 | 78 | 99% | 155 |
+| 23 | LAPhill | 67 | 71 | 94% | 233 |
+| 24 | Gerhard Westphalen | ~30 | — | — | — |
+| 25 | Jonathan Jetter | ~25 | — | — | — |
+
+### #newbie-questions — Community Overview
+- **262** unique contributors posted in #newbie-questions
+- **9,859** total messages (February 2021 – February 2026)
+- **~8,607** substantive messages (87.3%)
+- **54%** of substantive messages come from verified experts — the highest expert participation rate of any channel
+- **Eric Martin** and **Will Melones** share the highest substantive rate (99%)
+- **Slow Hand** has the highest average message length (285 chars) — detailed educational explanations
+- **cian riordan** has the highest total reactions (1,203) — most valued contributor by community response
+- The top 10 contributors account for roughly **42%** of all substantive content
+
+---
+
 ## See Also
 
 - [[Processing Log]] — extraction methodology and coverage stats
@@ -270,3 +322,4 @@ The #mixing-talk channel (48,084 messages, August 2021 – February 2026) is the
 - [[nerd-talk Channel Summary]] — #nerd-talk channel overview
 - [[monitoring-talk Channel Summary]] — #monitoring-talk channel overview
 - [[mixing-talk Channel Summary]] — #mixing-talk channel overview
+- [[newbie-questions Channel Summary]] — #newbie-questions channel overview

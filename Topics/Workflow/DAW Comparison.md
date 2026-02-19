@@ -134,3 +134,8 @@ Ok folks. I’ve been investigating the potential loss in fidelity around each o
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Ross Fortune, ALXCPH, Slow Hand, Adam Thein, mixedbywong_my, oaklandmatt
 > **Message volume:** 912 categorized messages (246 from identified experts)
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **"What DAW should I get?" context:** One of the most asked questions in #newbie-questions. Expert consensus: it doesn't matter much — pick one and learn it deeply. Ross Fortune (8 reactions): "Solidarity with my pro tools brothers and sisters who find themselves in Logic and keep recording every time they try to zoom out." 283 DAW workflow messages categorized from beginners asking about DAW selection.
+> See also: [[Beginner FAQ#DAW Workflow]], [[Getting Started with Music Production]]

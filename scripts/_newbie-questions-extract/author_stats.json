@@ -1,0 +1,799 @@
+[
+  {
+    "name": "BoozleBAM",
+    "total": 1323,
+    "substantive": 1098,
+    "substantive_pct": 83.0,
+    "avg_length": 147,
+    "reactions": 135,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 78,
+      "daw_workflow": 56,
+      "career_learning": 30,
+      "gear_recommendations": 27,
+      "music_theory_arrangement": 25
+    }
+  },
+  {
+    "name": "Nomograph Mastering",
+    "total": 678,
+    "substantive": 599,
+    "substantive_pct": 88.3,
+    "avg_length": 94,
+    "reactions": 781,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_basics": 27,
+      "troubleshooting": 26,
+      "file_management": 20,
+      "career_learning": 17,
+      "mixing_basics": 12
+    }
+  },
+  {
+    "name": "cian riordan",
+    "total": 530,
+    "substantive": 478,
+    "substantive_pct": 90.2,
+    "avg_length": 195,
+    "reactions": 1203,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 29,
+      "file_management": 23,
+      "mixing_basics": 22,
+      "career_learning": 22,
+      "music_theory_arrangement": 17
+    }
+  },
+  {
+    "name": "Bryan DiMaio",
+    "total": 429,
+    "substantive": 371,
+    "substantive_pct": 86.5,
+    "avg_length": 94,
+    "reactions": 261,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 24,
+      "file_management": 23,
+      "daw_workflow": 14,
+      "career_learning": 10,
+      "gear_recommendations": 8
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 345,
+    "substantive": 325,
+    "substantive_pct": 94.2,
+    "avg_length": 192,
+    "reactions": 199,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 22,
+      "gear_recommendations": 17,
+      "mixing_basics": 16,
+      "daw_workflow": 12,
+      "recording_basics": 9
+    }
+  },
+  {
+    "name": "hyanrarvey",
+    "total": 425,
+    "substantive": 301,
+    "substantive_pct": 70.8,
+    "avg_length": 69,
+    "reactions": 250,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 15,
+      "daw_workflow": 10,
+      "music_theory_arrangement": 6,
+      "career_learning": 5,
+      "mastering_basics": 2
+    }
+  },
+  {
+    "name": "Rollmottle",
+    "total": 321,
+    "substantive": 277,
+    "substantive_pct": 86.3,
+    "avg_length": 134,
+    "reactions": 429,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_basics": 16,
+      "daw_workflow": 12,
+      "troubleshooting": 11,
+      "file_management": 11,
+      "career_learning": 10
+    }
+  },
+  {
+    "name": "David Fuller",
+    "total": 271,
+    "substantive": 236,
+    "substantive_pct": 87.1,
+    "avg_length": 83,
+    "reactions": 154,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_basics": 11,
+      "gear_recommendations": 9,
+      "troubleshooting": 9,
+      "file_management": 8,
+      "daw_workflow": 7
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 257,
+    "substantive": 230,
+    "substantive_pct": 89.5,
+    "avg_length": 159,
+    "reactions": 441,
+    "is_expert": true,
+    "top_topics": {
+      "mastering_basics": 15,
+      "mixing_basics": 13,
+      "troubleshooting": 13,
+      "career_learning": 10,
+      "gear_recommendations": 7
+    }
+  },
+  {
+    "name": "spectrummasters",
+    "total": 227,
+    "substantive": 203,
+    "substantive_pct": 89.4,
+    "avg_length": 167,
+    "reactions": 64,
+    "is_expert": true,
+    "top_topics": {
+      "mixing_basics": 25,
+      "troubleshooting": 8,
+      "career_learning": 7,
+      "mastering_basics": 6,
+      "recording_basics": 5
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 199,
+    "substantive": 182,
+    "substantive_pct": 91.5,
+    "avg_length": 285,
+    "reactions": 309,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 26,
+      "career_learning": 10,
+      "mixing_basics": 10,
+      "gear_recommendations": 10,
+      "music_theory_arrangement": 9
+    }
+  },
+  {
+    "name": "Adam Thein",
+    "total": 196,
+    "substantive": 172,
+    "substantive_pct": 87.8,
+    "avg_length": 202,
+    "reactions": 163,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 20,
+      "daw_workflow": 13,
+      "file_management": 13,
+      "career_learning": 9,
+      "gear_recommendations": 9
+    }
+  },
+  {
+    "name": "Eric Martin",
+    "total": 148,
+    "substantive": 146,
+    "substantive_pct": 98.6,
+    "avg_length": 169,
+    "reactions": 112,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 14,
+      "mastering_basics": 8,
+      "music_theory_arrangement": 6,
+      "mixing_basics": 6,
+      "file_management": 6
+    }
+  },
+  {
+    "name": "Deleted User",
+    "total": 151,
+    "substantive": 141,
+    "substantive_pct": 93.4,
+    "avg_length": 223,
+    "reactions": 71,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 11,
+      "mastering_basics": 9,
+      "gear_recommendations": 9,
+      "music_theory_arrangement": 9,
+      "career_learning": 8
+    }
+  },
+  {
+    "name": "Edward Rivera",
+    "total": 165,
+    "substantive": 140,
+    "substantive_pct": 84.8,
+    "avg_length": 119,
+    "reactions": 141,
+    "is_expert": true,
+    "top_topics": {
+      "mixing_basics": 4,
+      "career_learning": 4,
+      "gear_recommendations": 4,
+      "file_management": 3,
+      "music_theory_arrangement": 3
+    }
+  },
+  {
+    "name": "ALXCPH",
+    "total": 157,
+    "substantive": 137,
+    "substantive_pct": 87.3,
+    "avg_length": 202,
+    "reactions": 76,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 12,
+      "file_management": 12,
+      "mastering_basics": 7,
+      "mixing_basics": 5,
+      "career_learning": 4
+    }
+  },
+  {
+    "name": "Josh",
+    "total": 160,
+    "substantive": 135,
+    "substantive_pct": 84.4,
+    "avg_length": 112,
+    "reactions": 109,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 8,
+      "gear_recommendations": 6,
+      "mixing_basics": 5,
+      "career_learning": 5,
+      "daw_workflow": 5
+    }
+  },
+  {
+    "name": "BatMeckley",
+    "total": 146,
+    "substantive": 131,
+    "substantive_pct": 89.7,
+    "avg_length": 243,
+    "reactions": 539,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 13,
+      "mixing_basics": 8,
+      "career_learning": 7,
+      "file_management": 5,
+      "daw_workflow": 4
+    }
+  },
+  {
+    "name": "hendrick",
+    "total": 159,
+    "substantive": 129,
+    "substantive_pct": 81.1,
+    "avg_length": 99,
+    "reactions": 23,
+    "is_expert": false,
+    "top_topics": {
+      "gear_recommendations": 6,
+      "daw_workflow": 5,
+      "file_management": 5,
+      "music_theory_arrangement": 5,
+      "troubleshooting": 4
+    }
+  },
+  {
+    "name": "bobby k",
+    "total": 127,
+    "substantive": 115,
+    "substantive_pct": 90.6,
+    "avg_length": 196,
+    "reactions": 65,
+    "is_expert": true,
+    "top_topics": {
+      "daw_workflow": 9,
+      "troubleshooting": 7,
+      "career_learning": 5,
+      "gear_recommendations": 5,
+      "getting_started": 4
+    }
+  },
+  {
+    "name": "peterlabberton",
+    "total": 120,
+    "substantive": 114,
+    "substantive_pct": 95.0,
+    "avg_length": 250,
+    "reactions": 132,
+    "is_expert": true,
+    "top_topics": {
+      "gear_recommendations": 9,
+      "career_learning": 9,
+      "troubleshooting": 8,
+      "mastering_basics": 6,
+      "mixing_basics": 6
+    }
+  },
+  {
+    "name": "oaklandmatt",
+    "total": 111,
+    "substantive": 103,
+    "substantive_pct": 92.8,
+    "avg_length": 284,
+    "reactions": 290,
+    "is_expert": true,
+    "top_topics": {
+      "music_theory_arrangement": 11,
+      "mixing_basics": 9,
+      "mastering_basics": 9,
+      "troubleshooting": 9,
+      "career_learning": 8
+    }
+  },
+  {
+    "name": "austenballard",
+    "total": 110,
+    "substantive": 97,
+    "substantive_pct": 88.2,
+    "avg_length": 139,
+    "reactions": 53,
+    "is_expert": false,
+    "top_topics": {
+      "file_management": 10,
+      "career_learning": 6,
+      "plugin_recommendations": 5,
+      "daw_workflow": 3,
+      "mixing_basics": 3
+    }
+  },
+  {
+    "name": "river",
+    "total": 109,
+    "substantive": 95,
+    "substantive_pct": 87.2,
+    "avg_length": 97,
+    "reactions": 12,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 5,
+      "mixing_basics": 3,
+      "mastering_basics": 3,
+      "daw_workflow": 2,
+      "music_theory_arrangement": 2
+    }
+  },
+  {
+    "name": "Ross Fortune",
+    "total": 98,
+    "substantive": 90,
+    "substantive_pct": 91.8,
+    "avg_length": 233,
+    "reactions": 121,
+    "is_expert": true,
+    "top_topics": {
+      "gear_recommendations": 7,
+      "career_learning": 6,
+      "troubleshooting": 6,
+      "music_theory_arrangement": 6,
+      "mixing_basics": 4
+    }
+  },
+  {
+    "name": "Maxim",
+    "total": 97,
+    "substantive": 87,
+    "substantive_pct": 89.7,
+    "avg_length": 140,
+    "reactions": 17,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 12,
+      "daw_workflow": 12,
+      "mixing_basics": 10,
+      "plugin_recommendations": 6,
+      "file_management": 3
+    }
+  },
+  {
+    "name": "chrissorem",
+    "total": 95,
+    "substantive": 82,
+    "substantive_pct": 86.3,
+    "avg_length": 124,
+    "reactions": 186,
+    "is_expert": true,
+    "top_topics": {
+      "vocal_production": 4,
+      "troubleshooting": 2,
+      "monitoring_headphones": 2,
+      "career_learning": 2,
+      "mastering_basics": 1
+    }
+  },
+  {
+    "name": "Felix Byrne",
+    "total": 94,
+    "substantive": 80,
+    "substantive_pct": 85.1,
+    "avg_length": 82,
+    "reactions": 50,
+    "is_expert": false,
+    "top_topics": {
+      "daw_workflow": 10,
+      "troubleshooting": 7,
+      "file_management": 5,
+      "music_theory_arrangement": 4,
+      "mastering_basics": 2
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 78,
+    "substantive": 77,
+    "substantive_pct": 98.7,
+    "avg_length": 155,
+    "reactions": 66,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 4,
+      "mastering_basics": 4,
+      "file_management": 4,
+      "daw_workflow": 4,
+      "music_theory_arrangement": 3
+    }
+  },
+  {
+    "name": "LAPhill",
+    "total": 71,
+    "substantive": 67,
+    "substantive_pct": 94.4,
+    "avg_length": 233,
+    "reactions": 153,
+    "is_expert": true,
+    "top_topics": {
+      "career_learning": 11,
+      "troubleshooting": 5,
+      "plugin_recommendations": 4,
+      "file_management": 4,
+      "mastering_basics": 4
+    }
+  },
+  {
+    "name": "revolution",
+    "total": 76,
+    "substantive": 65,
+    "substantive_pct": 85.5,
+    "avg_length": 115,
+    "reactions": 5,
+    "is_expert": false,
+    "top_topics": {
+      "mixing_basics": 10,
+      "troubleshooting": 6,
+      "daw_workflow": 3,
+      "career_learning": 3,
+      "file_management": 2
+    }
+  },
+  {
+    "name": "! Andy !",
+    "total": 70,
+    "substantive": 64,
+    "substantive_pct": 91.4,
+    "avg_length": 120,
+    "reactions": 7,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 6,
+      "career_learning": 4,
+      "daw_workflow": 3,
+      "mixing_basics": 2,
+      "gear_recommendations": 1
+    }
+  },
+  {
+    "name": "mixedbywong_my",
+    "total": 74,
+    "substantive": 61,
+    "substantive_pct": 82.4,
+    "avg_length": 166,
+    "reactions": 25,
+    "is_expert": false,
+    "top_topics": {
+      "mastering_basics": 5,
+      "daw_workflow": 5,
+      "mixing_basics": 4,
+      "career_learning": 3,
+      "file_management": 2
+    }
+  },
+  {
+    "name": "ehutton21",
+    "total": 68,
+    "substantive": 59,
+    "substantive_pct": 86.8,
+    "avg_length": 188,
+    "reactions": 16,
+    "is_expert": true,
+    "top_topics": {
+      "troubleshooting": 6,
+      "file_management": 4,
+      "daw_workflow": 3,
+      "music_theory_arrangement": 2,
+      "mixing_basics": 2
+    }
+  },
+  {
+    "name": "Zakhiggins",
+    "total": 59,
+    "substantive": 56,
+    "substantive_pct": 94.9,
+    "avg_length": 153,
+    "reactions": 26,
+    "is_expert": false,
+    "top_topics": {
+      "file_management": 7,
+      "troubleshooting": 5,
+      "daw_workflow": 3,
+      "microphone_selection": 3,
+      "career_learning": 2
+    }
+  },
+  {
+    "name": "itaylerner",
+    "total": 64,
+    "substantive": 56,
+    "substantive_pct": 87.5,
+    "avg_length": 154,
+    "reactions": 14,
+    "is_expert": false,
+    "top_topics": {
+      "gear_recommendations": 7,
+      "troubleshooting": 7,
+      "file_management": 5,
+      "career_learning": 3,
+      "music_theory_arrangement": 3
+    }
+  },
+  {
+    "name": "AJ",
+    "total": 48,
+    "substantive": 47,
+    "substantive_pct": 97.9,
+    "avg_length": 250,
+    "reactions": 30,
+    "is_expert": false,
+    "top_topics": {
+      "mastering_basics": 9,
+      "troubleshooting": 3,
+      "recording_basics": 2,
+      "career_learning": 2,
+      "mixing_basics": 1
+    }
+  },
+  {
+    "name": "popaganda.",
+    "total": 50,
+    "substantive": 42,
+    "substantive_pct": 84.0,
+    "avg_length": 149,
+    "reactions": 90,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 3,
+      "gear_recommendations": 3,
+      "career_learning": 3,
+      "mastering_basics": 2,
+      "getting_started": 1
+    }
+  },
+  {
+    "name": "tinkerjef",
+    "total": 44,
+    "substantive": 42,
+    "substantive_pct": 95.5,
+    "avg_length": 144,
+    "reactions": 4,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 7,
+      "mixing_basics": 6,
+      "music_theory_arrangement": 3,
+      "acoustic_treatment": 1,
+      "monitoring_headphones": 1
+    }
+  },
+  {
+    "name": "masteredbyjack",
+    "total": 43,
+    "substantive": 39,
+    "substantive_pct": 90.7,
+    "avg_length": 289,
+    "reactions": 71,
+    "is_expert": false,
+    "top_topics": {
+      "mastering_basics": 11,
+      "troubleshooting": 7,
+      "career_learning": 5,
+      "mixing_basics": 3,
+      "file_management": 2
+    }
+  },
+  {
+    "name": "Matt Huber",
+    "total": 43,
+    "substantive": 38,
+    "substantive_pct": 88.4,
+    "avg_length": 84,
+    "reactions": 65,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 4,
+      "gear_recommendations": 3,
+      "mixing_basics": 2,
+      "career_learning": 1
+    }
+  },
+  {
+    "name": "M J",
+    "total": 50,
+    "substantive": 38,
+    "substantive_pct": 76.0,
+    "avg_length": 152,
+    "reactions": 11,
+    "is_expert": false,
+    "top_topics": {
+      "gear_recommendations": 5,
+      "acoustic_treatment": 2,
+      "getting_started": 1,
+      "troubleshooting": 1,
+      "mastering_basics": 1
+    }
+  },
+  {
+    "name": "tim adamson \ud83c\udde6\ud83c\uddfa",
+    "total": 39,
+    "substantive": 37,
+    "substantive_pct": 94.9,
+    "avg_length": 109,
+    "reactions": 28,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 1,
+      "gear_recommendations": 1,
+      "daw_workflow": 1
+    }
+  },
+  {
+    "name": "louisvie",
+    "total": 42,
+    "substantive": 32,
+    "substantive_pct": 76.2,
+    "avg_length": 160,
+    "reactions": 0,
+    "is_expert": false,
+    "top_topics": {
+      "getting_started": 4,
+      "mastering_basics": 4,
+      "troubleshooting": 2,
+      "music_theory_arrangement": 1,
+      "recording_basics": 1
+    }
+  },
+  {
+    "name": "JakeTB",
+    "total": 36,
+    "substantive": 32,
+    "substantive_pct": 88.9,
+    "avg_length": 172,
+    "reactions": 3,
+    "is_expert": false,
+    "top_topics": {
+      "getting_started": 4,
+      "gear_recommendations": 3,
+      "career_learning": 1,
+      "mastering_basics": 1,
+      "vocal_production": 1
+    }
+  },
+  {
+    "name": "rawssx",
+    "total": 51,
+    "substantive": 32,
+    "substantive_pct": 62.7,
+    "avg_length": 155,
+    "reactions": 12,
+    "is_expert": false,
+    "top_topics": {
+      "music_theory_arrangement": 4,
+      "mixing_basics": 2,
+      "career_learning": 2,
+      "daw_workflow": 2,
+      "getting_started": 1
+    }
+  },
+  {
+    "name": "Josh Bowman",
+    "total": 33,
+    "substantive": 31,
+    "substantive_pct": 93.9,
+    "avg_length": 283,
+    "reactions": 39,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 5,
+      "mixing_basics": 3,
+      "file_management": 2,
+      "gear_recommendations": 1,
+      "daw_workflow": 1
+    }
+  },
+  {
+    "name": "Zach Hughes",
+    "total": 32,
+    "substantive": 30,
+    "substantive_pct": 93.8,
+    "avg_length": 256,
+    "reactions": 24,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 7,
+      "music_theory_arrangement": 3,
+      "daw_workflow": 2,
+      "gear_recommendations": 1,
+      "mixing_basics": 1
+    }
+  },
+  {
+    "name": "cy (sigh)",
+    "total": 29,
+    "substantive": 29,
+    "substantive_pct": 100.0,
+    "avg_length": 384,
+    "reactions": 17,
+    "is_expert": false,
+    "top_topics": {
+      "troubleshooting": 5,
+      "mixing_basics": 2,
+      "gear_recommendations": 2,
+      "career_learning": 2,
+      "file_management": 2
+    }
+  },
+  {
+    "name": "KushKadett",
+    "total": 29,
+    "substantive": 28,
+    "substantive_pct": 96.6,
+    "avg_length": 140,
+    "reactions": 1,
+    "is_expert": false,
+    "top_topics": {
+      "music_theory_arrangement": 4,
+      "career_learning": 3,
+      "gear_recommendations": 2,
+      "mastering_basics": 2,
+      "file_management": 1
+    }
+  }
+]

@@ -1,0 +1,3312 @@
+[
+  {
+    "id": "875840389720981504",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "A tangent\u2026\n\nI\u2019m lucky to have spent many years in a great studio with lots of great drums & gear\u2026 not to mention being mentored by one of the great engineers of our time. Having this perspective is massively useful in mixing other peoples tracks, because I feel I have a north star of what good drums can sound like if they\u2019re recorded and performed properly. It used to be that my starting point for mixing drums were working with tracks that I had recorded myself\u2026 and most of the above problems were solved before the mix stage. These days, with smaller budgets and time constraints, its very rare that this is a possibility.\n\nI\u2019m including this drum tracking session from a few years ago that I recorded at Barefoot. It was for a project that Matt was producing that never saw the light of day. But we went all out with the drum setup in the big room, through the console, and had a great drummer. This might be useful for some people who have never gotten properly recorded drum tracks\u2026 to get a sense of how good thigns can sound before the \u2018mix\u2019 stage. These are the tracks that were printed into Pro Tools off of the console, and the three busses were prints of the outboard compressor busses we were using while monitoring. It\u2019s unlikely these busses would get used in mixing, but they\u2019re a good reference to what we were listening to in the room while we were tracking. But as you\u2019ll notice, the individual drum blend can stand on it\u2019s own two feet. Hopefully this is useful as well.\n\nThanks for coming to my Ted talk.",
+    "reactions": 15,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "979101765288984606",
+    "author": "BatMeckley",
+    "date": "2022-05-25",
+    "content": "This. 10% skill, 90% people actually wanting to be around you.\n\nNo matter how well you know compression or eq, if you\u2019re not in the room you can\u2019t make the music. I remember asking producers I\u2019d do whatever, clean toilets, coil cables. Just wanted to be in the room. It\u2019s actually how I ended becoming a vocal producer\u2026 a producer I admired didn\u2019t want to tune vocals anymore lol",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1451989576058146839",
+    "author": "BatMeckley",
+    "date": "2025-12-20",
+    "content": "Honestly, that line is a bit over blown. It\u2019s more \u201coh the chorus is louder, let\u2019s knock it back a click or two on the input so it doesn\u2019t distort\u201d\n\nWe were usually recording songs in fairly small sections, making sure to get the details right. There wasn\u2019t a lot of jedi like fader riding. On very rare occasions if I knew there was going to be a huge dynamic shift I\u2019d reach out and grab the output fader, but I can probably count on one hand how many times I\u2019ve had to do that.\n\nWe were fairly conservative on the 1176 on the way in, largely cause you can\u2019t un crunch a vocal that\u2019s been over compressed, but once the vocal was in PT it would be hit by just irresponsible levels of compression and limiting. Like goes against how virtually every \u201cexpert\u201d online would tell you how to do it. Most people would tell you the solo\u2019d tracks would sound bad, but as part of the song their impact is objectively unarguable",
+    "reactions": 13,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1272838506712141834",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-13",
+    "content": ".\nAssuming we're talking about fairly typical rock, pop and Hip Hop then this 3 part strategy covers a lot of ground\n\n1) Make sure the EQ is as balanced as you can get it - most of your perceived loudness comes from the arrangement and mid range focus (2k to 8k). Too much low end will sound bad when you limit. Make sure the relationship between 80, 160 and 320 makes sense (think of them a little like fundamental, 1st and 2nd harmonic).\n\n2) Consider shaving snare transients (and maybe kick transients) with a clipper. This spreads that peak energy harmonically across the spectrum, keeping energy, hiding in the noisey nature of snares and lets the limiter work less hard (I like SIR Standardclip - $25, great metering and responds intuitively)\n\n3) Pro-L2 on the settings below is a great start point for clean and predictable limiting, raising input gain until you get the desired level",
+    "reactions": 12,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036785475878387802",
+    "author": "Slow Hand",
+    "date": "2022-10-31",
+    "content": "It's a big topic, but gain staging is about finding the optimal amount of gain at every stage of the recording and mixing process.\n\nGood gain staging allows you to get the best fidelity out of a recording by preventing things from creating unwanted distortion or amplifying unwanted noise. **OR** if you are *seeking* some distortion and compression it's about turning up the gain enough to give you the amount that you're seeking from your tools.\n\nGain staging is something to be considered at all steps of the production process. For example:\n\n*1. How loud is an amplifier turned up in the room? Is the microphone being blow out by it?\n\n2. How high is the gain on a microphone preamp and is it at risk of clipping if the performer plays loudly?\n\n3. Is the gain so low that when I turn a signal up later on the noise floor will rise with it?\n\n4. If I'm recording to tape, am I recording quiet enough that it won't saturate the signal, or do I want for the signal to slam the tape and be saturated?\n\n5. How loud is an individual channel in a DAW? Is it making the channel clip?\n\n6. How loud is a signal that's being sent into a piece of hardware or a plugin? Am I distorting the circuitry at all?\n\n7. Is my signal coming in so hot that it makes a compressor react way too hard?\n\n8. How loud is the entire track I'm mixing? Is the limiter crushing the dynamics in an unwanted way? Or am I hitting it just with just enough level to get a certain flavor of pumping and clipping?\n\n9. Is my final mix going to hit digital zero and create unwanted clipping?*\n\nSo gain staging is not a single thing, but a series of choices that are made every step of the way around how you manage the \"voltage\" of your signals. Together these choices all add up to a mix that \"breathes\" well and is free of excessive or unwanted distortion.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045500000576217228",
+    "author": "Slow Hand",
+    "date": "2022-11-24",
+    "content": "I would rule out the Izotope production bundle (Ozone is fine). I think Izotope is the least musical and hit-or-miss of the options. It's not bad, but it's not as fun to use as the other options, and I think that has an effect on your results.\n\nBoth the FabFilter Mastering bundle and Soundtoys bundle are great and you wouldn't go wrong with either pick. But they occupy different niches: FabFilter is clean and surgical while Soundtoys is all about injecting vibe and coloration and doesn't include anything remotely surgical.\n\nI guess if you can only pick one I'd start with Soundtoys for the vibe and the way it would expand the sonic palette for your production work. Your DAW is going to have some perfectly capable EQ's and compressors to tide you over until you're ready for FabFilter.\n\nPut another way, your production work is upstream of your mixing work and will influence the sound of your records more.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1076684748564467722",
+    "author": "MikeMillerMixes",
+    "date": "2023-02-18",
+    "content": "Hey guys it\u2019s not the panning that\u2019s synced. It\u2019s the pre delay for the reverb. The sound is sent to pairs of objects that are mapped to points in the room and each one has a different predelay so that it moves the room.",
+    "reactions": 11,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1067199825273159841",
+    "author": "oaklandmatt",
+    "date": "2023-01-23",
+    "content": "Great responses above. One other thing to conceptualize is guitar amps. Many guitar amps have built in spring reverb. If you mic that amp with a single mic, that mono signal has the reverb as a part of it. When you pan that complete signal, it carries a kind of depth and character that is very different from a stereo reverb or even a separate send. \n\nMono elements with their own reverb can achieve an interesting spatial clarity that you can't get with eq or compression or whatever else you use to give elements their own place in a mix. I use it on all kinds of things from guitars to vocals to drums to whatever.",
+    "reactions": 10,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1093436289681981473",
+    "author": "Ross Fortune",
+    "date": "2023-04-06",
+    "content": "Nailed it Will. Split mono is a step in my mix prep sequence. Efficient method goes like this:\n\nPT Downmixer stock plugin is the one for this (it collapses stereo channels to mono) - flip the phase of one side in the GUI and save that as your user default. If you insert your Downmixer on a faux stereo track, it\u2019ll immediately silence it, so you can happily split and delete what you don\u2019t need. \n\n(Check the meters though, sometimes ambience or other subtle stereo info isn\u2019t very audible unless cranked.)\n\nIf the stereo track contains slightly panned mono information, pushing/pulling either of the faders in Downmixer will quickly get it to cancel, and you can note how much extra gain you need to add or subtract when level matching in the final step (below). Obviously if it\u2019s deliberately panned info, you can either just leave the track stereo or match the pan position by ear (I prefer to do this because I like mono channels to behave like mono channels, and also half the CPU you\u2019d use on a stereo track).\n\nFinally, use clip gain to add 3dB to the resulting mono channel, and obviously pan it centre. This makes up for the level change according to default pan laws in Tools (-3dB).",
+    "reactions": 9,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1155155802194194452",
+    "author": "Maxim",
+    "date": "2023-09-23",
+    "content": "It's basically just a plugin that has a bunch of functions in one (like EQ, compression, gate, filters). This workflow comes from the big consoles that you see (or used to see) in big studios.\n\nIt can still have its uses today to prevent decision fatigue with so many plugin options. \n\nThat said, I wouldn't get too caught up on what Serban uses or doesn't.",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1404233082818658454",
+    "author": "cian riordan",
+    "date": "2025-08-10",
+    "content": "Plug-in compressor gets you 99.99% there",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811350866401558540",
+    "author": "cian riordan",
+    "date": "2021-02-16",
+    "content": "Yes, I have my lawyer stipulate correct drum panning in contract before I even receive a session. I'm trying to run a professional operation over here.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811397222016745472",
+    "author": "oaklandmatt",
+    "date": "2021-02-16",
+    "content": "i love this question. i've been doing this for long enough that the cycles of how records sound has changed several times. so every few years i try and take some time to unlearn/relearn.\n\nthere's no good short answer, but i'd start with taking some time outside of mixing to just listen to records. whether you've done this before or not, get to know your speakers and your monitoring environment better than before. listen to your favorite records that you know well, and make some tweaks. you don't necessarily have to redo your whole setup, but listen to your speakers in slightly different positions, different settings on the back of the speaker, etc. and really dig into listening and enjoy yourself.\n\nthat's usually enough to make me think about mixes very differently (which ultimately means i get better when i re-incorporate most of the things i already know). but if you need more, just try and simplify. start a mixing by just leveling everything. clip gain and leveling and panning. then balance frequencies and compress (via compressor or saturator or limiter or whatever). basically, with fresh ears, go back to basics.\n\nnot sure if that will transform you into a new mixer, but that's an outline of an approach i use when i feel like i need a big talent upgrade",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": true,
+    "is_expert": true
+  },
+  {
+    "id": "940348216740806706",
+    "author": "Slow Hand",
+    "date": "2022-02-07",
+    "content": "One thing I'd add is the importance of matching your output levels so that the dry sound and the compressed sound are the same volume when you bypass the compression. Many compressors have have automatic volume compensation included and others will require you to adjust the makeup gain that comes after the compression.\n\nThe reason it's important is because when we're comparing the dry signal to the compressed signal, the louder of the two signals will always feel better to us. It's important to match the volume levels when comparing so that we're not fooling ourself into thinking a louder signal is better and we can hear the compression (or most effects) for what really is.",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1131635590660632787",
+    "author": "Calvin Lauber",
+    "date": "2023-07-20",
+    "content": "One of my fav ear excersizes is throwing a multiband compressor that will let you solo bands on your master/main output (compressor off, I like using gaffel, it lets you split the bands without imparting any actual processing), and listen to all of your favorite songs to see how the frequencies add up. What\u2019s important below 80, below 120, below 300, etc. I have learned just how different so many of my favorite tracks are balanced, and also learned to identify those frequency areas by ear much faster",
+    "reactions": 7,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921541927361450054",
+    "author": "Deleted User",
+    "date": "2021-12-17",
+    "content": "The biggest difference between multiband compression and dynamic EQ is having crossover filters vs EQ gain automation.  They may do similar things dynamic wise but the ways they select the areas to dynamically control are different.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1104942686248636529",
+    "author": "Bryan DiMaio",
+    "date": "2023-05-07",
+    "content": "The analog style plugins that don\u2019t have a FFT overlay are actually kind of dope for teaching people how to EQ using their ears rather than their eyes",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "879589857813479485",
+    "author": "cian riordan",
+    "date": "2021-08-23",
+    "content": "1) Yes! All MPDI-4 mic pres. Signal chain would have been Mic -> Pre -> UTA Console Line In -> Pro Tools.\n\n2) I\u2019m pretty sure this would\u2019ve been a Frankenstein. Most likely Eric\u2019s Sonor birch kick drum with a Remo Black Dot on it. Almost certainly Vistalite toms\u2026 and this sounds like a Bell Brass snare.\n\n3) Room mics are placed probably 20 feet away, spaced wide, pointed at the kit. Eric would always point the room mics away from the drums with the cardioid null towards the drum kit, but I found I got more direct, punchy sounds with it facing the drums. Chamber mics would\u2019ve been a foot apart, pointed 45 degs out\u2026 sort of intentionally phasey to make them wider.\n\n4) Yeah, you\u2019re onto it. The overheads are intentionally wide and close to the cymbals. The mono mic and close mics are doing the heavy lifting with the drums and the L/R OHs are almost just cymbal spot mics with some kit stereo information peppered in.\n\n5) Saturation is a combination of driving the UTA pres, clipping the line input of the console, and trimming things back with the faders. Might\u2019ve been an LA-2a on the snare with no compression, just crapping out the tubes.\n\nSorry wish I woulda taken pictures of this session. Dave Elitch was the drummer and he\u2019s a fucking monster.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104943853011738644",
+    "author": "LAPhill",
+    "date": "2023-05-07",
+    "content": "There are plenty of times that I\u2019ll use a high pass on or above the fundamental frequency, depending on context. If I have 5 instruments all playing the same note, then chances are some of them want to live in different parts of the frequency range (maybe strummy guitars are more about the transients and first harmonics, for example). \n\nAs everyone\u2019s saying, if it sounds good it is good, but I wouldn\u2019t overthink the note-to-frequency thing too much.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256644675213852795",
+    "author": "BatMeckley",
+    "date": "2024-06-29",
+    "content": "You\u2019re totally right. Here\u2019s me and a bunch of engineers. (It was too far to the eq to walk. Was grateful for their help)",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1276242984567836963",
+    "author": "jonmatteson",
+    "date": "2024-08-22",
+    "content": "I would recommend bouncing down a multi-track with all plugs, panning, fx, and master buss applied as well as an instrumental, instrumental with BGV\u2019s, and a lead accapella. Also include a full mix ref in that folder and that should be everything any MD would need to succeed. Bonus points if you have sub folders for everything and their instrument groups with good labeling!",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1279501860939497472",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-31",
+    "content": "A used Manley Core is worth checking out, a sleeper. A good friend designed it and I got to beta test and know the guts of it well. The pre and comp are really great, EQ solid for basic tone shaping on the way in",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1311360894403612833",
+    "author": "Zack Hames",
+    "date": "2024-11-27",
+    "content": "Watching how anyone else works has been the biggest thing for me. Eric valentines videos leveled me up in mixing tenfold.\n\nHanging out with friends who make records and seeing what they do. Using gear plugs or EQ moves I\u2019d never consider with success adds tools to your toolbelt",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1404217315440066631",
+    "author": "Slow Hand",
+    "date": "2025-08-10",
+    "content": "Perhaps eventually, but considering his budget, I'd prioritize monitoring or mics over some outboard because every DAW has a perfectly serviceable compressor already.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "810360882244354078",
+    "author": "NoahNeedleman",
+    "date": "2021-02-13",
+    "content": "Did this exact thing tonight on a hype vocal. Ended up 12 inches away with the u87 on Omni and compressing the shit out of it on the way in. Super cool way to put the hype man behind the lead without a bunch of itb work.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844002168452939827",
+    "author": "cian riordan",
+    "date": "2021-05-17",
+    "content": "First I'll think about what the tonal impact will be. There are particular compressors that automatically suck low or high end out of the signal... and for something like bass that can occupy a very crucial part of the low end, that could prove problematic. Usually if I'm compressing bass, it's to bring out the sustain of the low end. So I'll typically set the release & the makeup gain first first to a place where I like how the low end is holding out, then dial in the attack to taste (usually on the medium-to-slow side). Grabby compression on bass can be fun in very specific instances, but I often find it distracting and fatiguing.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "887140711709949962",
+    "author": "Lee Rouse",
+    "date": "2021-09-13",
+    "content": "Always cleaning toms up to the hits. Also doing some low pass filter automation on them over the sustain to get rid of bleed from the cymbals.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921518199592337508",
+    "author": "Rollmottle",
+    "date": "2021-12-17",
+    "content": "> Like compressing a signal for it to be \"even\" (not that I would use a compressor for that) vs. using something like clip gain to make the signal even.\n\nwhy wouldn't you use a compressor for that? that's what...they do?....clip gaining has the same effect, it's just manual and theoretically offers you more fine-grained control that a compressor wouldn't get you. you are still reducing the dynamic range in either scenario. you can draw volume automation on a signal that is identical to a theoretically transparent compressor's settings and the effect, sound, and dynamic range reduction should be exactly the same.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1067192907611775047",
+    "author": "Zack Hames",
+    "date": "2023-01-23",
+    "content": "I really like mono reverbs for:\n\n1. Vocal verb. It can just give the vocal it's own little space instead of spreading it out into the rest of everything in the sides. Just has a different feel, similar to \"Mono drums\" iMO.\n\n2. Panning a reverb hard to one side, opposite of a dry signal. I.E. Electric guitar or synth.\n\nAlso, I use mono -> stereo reverbs a lot because when I was learning, I used the Lexicon PCM-70 a lot which was mono input. It also just made sense to me...not sure it matters a whole lot though ultimately. That is an aside to your question.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1103327212918280232",
+    "author": "Edward Rivera",
+    "date": "2023-05-03",
+    "content": "Also, the each facet of engineering informs the other. I learned a lot about mixing from recording, vice versa, I learned a lot about compressors by fixing them, I learned a lot about reverbs and delays by learning about acoustics, you get me",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1228771867771273357",
+    "author": "masteredbyjack",
+    "date": "2024-04-13",
+    "content": "But don\u2019t you know we have better compression?? /s\n\nWild that this is still happening in 2024. If anything, I have had instances where I tell people NOT to take it off, and tell them why it\u2019s not better",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1289562151928987710",
+    "author": "NoahNeedleman",
+    "date": "2024-09-28",
+    "content": "Looking forward to other answers here, but considering that 700-2k is the so much of the sound of the electric guitar I\u2019m much less inclined to scoop there.  In fact if the guitars only lived 700-2k I bet your vocal would pop easily. (Hard to tell without source material of course.)\n\nBut, philosophically, it\u2019s way more about panning. You guitars can be huge if they\u2019re on the sides.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1308919946427764736",
+    "author": "Zack Hames",
+    "date": "2024-11-20",
+    "content": "Try:\n-compression on drum bus first before individual mics. I find compressing rooms on their own makes them sound small not big\n\n-time delay rooms to make the room seem larger. This is a big albini trick \n\n-don\u2019t be afraid to EQ the shit out of kick drum mics \n\n-don\u2019t be afraid to add a lot of low end to the snare \n\n-transient designers on close mics can make shit punchy",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313265435587903508",
+    "author": "Josh",
+    "date": "2024-12-02",
+    "content": "Aye @BoozleBAM something that helped me really understand the attack and release times on compressors when I was starting, especially on drums (transient heavy material). Load up your plugin. Pin the threshold and ratio. You should be essentially redlining the gain reduction meter. Now put your release time to the fastest option and move that attack time around and you\u2019ll hear exactly how the compressor is grabbing the source material. Once you like how it\u2019s grabbing, adjust the release time to taste, back down that ratio and threshold and you\u2019re off to the races. I still do this from time to time when I\u2019m trying a new compressor to understand what we have going on under the hood.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "857866246262882345",
+    "author": "oaklandmatt",
+    "date": "2021-06-24",
+    "content": "@Zack Hames yes! Play with short delays and short verbs and slaps with low pass eq. H3000 has some great stereoizing chorus type effects too. \n\nI just did a super dry vocal that had delay and verb like this. I used waves supertap with left and right slightly different but super short delay times. Almost phasing. Barely blended in at -20dB. Then I used Valhalla Vintage Verb on the small ambience setting at like 4%. It widens the vocal and gives it space without sounding at all \"wet\"",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "940298735487950948",
+    "author": "cian riordan",
+    "date": "2022-02-07",
+    "content": "I think starting out with a modern compressor with all the parameters available to you will be more helpful in learning the concept. That way you can really understand the idea of a threshold, different attack/release combinations, and and compression ratios. Once you can start to understand what you're hearing, then you can apply that to other compressors that might have more fixed variables (LA2a, etc). I've always found overdoing it when you're first getting the settings will help you understand whats going on.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "940341902039973958",
+    "author": "sethearnest",
+    "date": "2022-02-07",
+    "content": "You can also try to listen very quietly. What compression is doing to any given sound feels more noticeable to a lot of people when listening quietly.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1096655666275426395",
+    "author": "Rollmottle",
+    "date": "2023-04-14",
+    "content": "answer mu and they'll think you're talking about a compressor",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104928588978978836",
+    "author": "BatMeckley",
+    "date": "2023-05-07",
+    "content": "Nah that\u2019s cool imma keep high passing shit. Thanks tho.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1226495375263924255",
+    "author": "NoahNeedleman",
+    "date": "2024-04-07",
+    "content": "Pultec Qs, even at their narrowest settings, are pretty broad. Instead of reaching for eq first, try just turning it up.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256658288259498107",
+    "author": "Edward Rivera",
+    "date": "2024-06-29",
+    "content": "Is no one gonna tell me what\u2019s the best compressor ??",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267812103205556256",
+    "author": "Josh Bowman",
+    "date": "2024-07-30",
+    "content": "EQ is powerful! \n\nAre you making the moves with elements in solo or in the context of the mix? Try out both. Solo is easier to hear what your doing to the thing, but eqing the element in context of the song/mix makes it easier to hear if your killing the vibe. I'd guess most people will encourage in-context EQing for this reason.\n\nThe reaper EQ is likely not the issue. Experiment with all the diff filters and shapes for sure! Best way to learn is to try it out. \n\nAlso, eqing something and then undoing it later because it isnt better happens all the time while im mixing. Its great that you're double checking your moves later and trying to be objective about if its an improvement or not. Also- SOMETIMES its a boost not a cut thats needed. Too much bottom, maybe add some top or mids to balance it out instead of cutting bottom (just an example). See how that feels instead.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1298318140106608762",
+    "author": "BatMeckley",
+    "date": "2024-10-22",
+    "content": "My buddy Andrew puts a pretty heavy low pass on the instrumental while tuning, says it really helps, especially with groove. He does great work, works for him.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1345057227207086240",
+    "author": "Ross Fortune",
+    "date": "2025-02-28",
+    "content": "Of course depends on the tempo, part, sound of the drums, aesthetic of the track - but a few things that have worked in different scenarios for me:\n\nCreate the impression of some distance to walls by sending snare (start there, maybe add other mics) to a short stereo delay. Often something like 90ms on one side, 120ms on the other. Feel it out on one side, then add some time to the other.\n\nTry adding some fake distance to your existing room mics with a simple delay with no feedback (there\u2019s a Steve Albini drum video on YouTube where he demonstrates this). You can delay both sides equally, or solo one side, delay it til it feels good/sounds cool, then do the other. Anything from 12ms-around 23 seems to work. From there things start to become more like a slap, but than can be cool too.\n\nSmash up your existing rooms a bit, or a lot. Omnipressor, Devil Loc, UAD Zener, decapitator, Rough Rider (free), Arousor/Distressor in nuke, Lo-Fi. \n\nSend to a gated verb - Cian shared a drum session a while back with a short VintageVerb preset that\u2019s often useful. RMX16 Non-Lins can be good too, although it\u2019s easy to bring things into 80s territory this way.\n\nSend to a short room verb like ocean way, SP2016, Pro-R, Valhalla Room, Raum. Sometimes from close mics, sometimes from overheads, sometimes just slapping it straight on room mics. A little distortion (Decapitator, Devil Loc) after is often helpful.\n\nWith all of these solutions, the thing that seems to help them gel with the rest of the real kit is drum bus processing - compression and/or saturation.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1407446259039604806",
+    "author": "Calvin Lauber",
+    "date": "2025-08-19",
+    "content": "Mix like there isn\u2019t going to be a ME. It should be as wide/deep/bright/compressed/loud/etc as you want it to be, to the best of your abilities, before you hand it off",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416103859239256256",
+    "author": "oaklandmatt",
+    "date": "2025-09-12",
+    "content": "A lot of the conversation about saturation on the streams we did is useful if you already understand compression. Jon talked quite a bit about sometimes using saturation instead of compression, but that is actually a pretty subtle point because most things that Jon mixes **already have tons of compression on them**. So I would say using compressors and limiters is the best place to start with making sounds you've recorded FEEL loud without just turning them up.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1464274095641464852",
+    "author": "cian riordan",
+    "date": "2026-01-23",
+    "content": "Darrell\u2019s not always mixing what he records. And the simple remedy to this is to pan one of the sides in a bit to center the snare/kick in the image.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "835079605626208276",
+    "author": "Slow Hand",
+    "date": "2021-04-23",
+    "content": "However, I find I get the most natural/full-sounding results if I varispeed the audio recording down to the desired pitch/formant and then use a granular algorithm to compress the audio back to it's original, faster, playback speed. It's more labor intensive, but the results usually sound more natural to my ears than doing a granular pitch-shift down.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844000895582076928",
+    "author": "peterlabberton",
+    "date": "2021-05-17",
+    "content": "Annoying answer, but, it depends. (Ha! Stock answer for almost everything.) If the performance is uneven and really needs to be smoothed out, I might go for an 1176 at like 8:1 and catch loud parts. Then I might do a parallel comp (dbx 160, often), for more sustain and maybe snappiness. If certain notes are really poking out against others, as is often the case, I\u2019ll ruthlessly eq them so they are balanced with Pro-Q3, instead of trying to solve that with more compression.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844006526640717834",
+    "author": "peterlabberton",
+    "date": "2021-05-17",
+    "content": "Oh, echoing @cian riordan , the release feels especially important to me on bass gtr. I feel like it\u2019s one of the few instances where I would regularly go with a longer release (I\u2019m usually a big fast release dude). This would be if the bass is doing mostly whole notes, to get it to fill more of the measure. If I\u2019m being specific about attack time... I\u2019m usually (like almost always) getting the punch totally from the kick, so a faster attack usually feels pretty good to me, at least for the compressor not in parallel. And yes to the tonal change\u2014I feel like usually I end up wanting to cut low end and add some kind of aggression, so compressors that go in that direction work well for me.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875840355340259398",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "Now that the basics are happening \u2014 kick and snare are really standing on their own two feet and in a place to drive the song \u2014 I\u2019ll start bringing in other instruments in the mix and getting a sense of how things are adding up. Usually starting with bass, guitars, keys and finally vocals. Some people do vocals first \u2014 that\u2019s never worked for me. Once you have a balance of the track, you can start really incorporating some of the overheads and room mics to give the drums more dimension and flavor. If the engineer really fucked the dog with the recording \u2014 or the room just sounds bad \u2014 I won\u2019t spend too much time making them work\u2026 I\u2019ll just get to manufacturing something that sounds cool. This could be leaning into a spring reverb, or a fun delay, or using other creative reverbs to get the drums have the space you want. I\u2019m a big fan of un-natural sounding drums\u2026 distorted spring reverb panned hard left with a slap panned hard right? Why not! If someone serves you shit, shovel them ice cream.\n\nToms will literally be the last thing I work on. It\u2019s just a matter of seeing what\u2019s missing from the overall picture and filling in the blanks with the spot mics. I don\u2019t like to trim the regions because I might find that when I\u2019m gating, some of the bleed sounds good from the track. Sometimes, if the engineer did their job, the multi-mic recording will be really complete and will need the tom mics for the overall sound\u2026 so no gating at all. Again, all depends on what you\u2019re working with.\n\nOnce I move on with the rest of my mix, I\u2019ll find myself doing EQ moves on the drum buss and treating it more like one instrument to get other things happening in the mix\u2026 only doing small tweaks to the individual sounds.\n\nI hope this all makes sense?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876891115251466251",
+    "author": "Slow Hand",
+    "date": "2021-08-16",
+    "content": "Neat question. If you're mixing in two channels (L/R) the headroom should be the same no matter where you pan it (with some caveats which we'll get to). If you have a kick drum panned dead center coming in at -6dB on your digital meter it's going to be coming in at -6 in both the L channel and -6 in the R channel. Each channel has it's own independent headroom that doesn't affect the other (until we add a limiter with linked channels), so let's simplify things a bit and mute the R channel for now:\n\nNow you have your L channel with the kick panned \"center\" and the R channel is muted.  If you were to pan this kick to the hard left it would not affect the volume of the L channel at all. That's because the panning effect is created by subtracting gain from the R channel only. Making the kick sound like it's leaning to the left.\n\nNow there's one big element I've left out so far, and that's *pan law*. Ableton Live has a -3dB pan law. This means that sounds panned to the center are reduced by 3dB. Because if a sound is being played at the same volume by both the L and R channels then their voltage will combine to create a sound that is louder than intended. So all DAWs and mixers compensate for this added loudness by turning down the gain of sounds as they are panned closer to the center (and shared between both speakers).\n\nSince all modern DAWs and mixers have pan laws implemented, what happens when you now pan the kick hard left is that it ends up becoming 3dB louder than it was when it was panned in the center, because it is no longer being turned down by the pan law when it\u2019s centered.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943244611936198677",
+    "author": "samvalentine",
+    "date": "2022-02-15",
+    "content": "My take away from that segment, if I'm remembering correctly, was that Jon doesn't use clip gain for 100% of his dynamic control. Instead, he carefully clip gains each transient/syllable/word/phrase into his dynamic processing (e.g., compressor, saturation, limiter), giving him precise control over how hard he hits the limiter.\nI suppose another method to achieve similar results and that level of control would be to clip gain without processing, and then initiate a limiter (or your choice of dynamic processor) and automate the threshold and output to achieve the desired performance, but that seems like way more work to me.\nI think Jon's method works well and I've been using it myself for a while. It would be interesting to hear of alternative workflows from the rest of the community though!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "972936566873927771",
+    "author": "alex_epton",
+    "date": "2022-05-08",
+    "content": "Do a quick balance first. With everything in. Don\u2019t spend more than 15 mins on this. Check it on your aura tones too or whatever small alt speakers you use. Then put your two buss clipping/ limiting /any EQ you think you might need. Adjust this stuff til it sounds good and you\u2019re hitting your target level. Get it as close as you can without touching your individual tracks. Then start dealing with little stuff on individual elements: Resonances. Masking. vocal sibilance. boomyness etc\u2026 needless to say you wanna sit down and tackle this with fresh ears. Your balance is probably the single most important thing you\u2019re gonna do as a mixer. So do editing /cleaning clicks and vocal tuning on a different day",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997939727430860910",
+    "author": "Slow Hand",
+    "date": "2022-07-16",
+    "content": "Perhaps I can address your issue at the source with how you have your Ableton compressor set up:\n\nYou're saying that you cannot get your 808 to duck low enough each time the kick hits. The first thing that stands out to me is that you're using a soft ratio. You need to crank that ratio up to at *least* a 4:1 ratio, but you might be even better off with an 8:1 or higher ratio. You need a high ratio to get the deeper ducking effect that it seems you're seeking.\n\nUsing a soft ratio will never get you a big duck unless you have the threshold pulled all of the way down. And even then it's probably going to have issues recovering correctly after each duck.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045502120847228988",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "What DAW are you in?  The reason I ask is that I work mostly in Ableton and Fabfilter Q3 was a huge game changer in workflow for me being able to resize the window and have more flexibility with curves and slopes over EQ Eight (the stock EQ).  I\u2019m not sure how the math works out but if I were starting fresh again I\u2019d rebuy the Soundtoys bundle and Fabfilter Q3.\n\nIf you need just Q3 the cheapest I found this year is https://www.jrrshop.com/fabfilter-pro-q, and use code GROUP to bring it down to around $107 USD",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1070328862589845576",
+    "author": "NoahNeedleman",
+    "date": "2023-02-01",
+    "content": "If you don\u2019t want to get too creative- I would use a dynamic eq dip around the \u201cpresence\u201d frequencies, side chained to the vocal that comes in and overlaps it. \nSo vocal \u201cb\u201d comes in on top of vocal \u201ca\u201d and like 3-5k gets ducked a few db. Or maybe the very top would work better than 3-5k\u2026 depends on the vocal.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1131784904896684043",
+    "author": "CameronKuwada",
+    "date": "2023-07-20",
+    "content": "This is an exercise I came up with when I first started ear training: Take a bright snap (one that has freqs up to 20k) and put it in a song/beat. Make three copies of the snap track and put one snap on each track, each spaced apart equally in space. In the first, put a lowpass up to 2.5k, in the 2nd, back up lowpass to 5k, in third, back up to 10k, and in the last, no low pass. as you play this track and cycle through snaps, you'll start to hear the differences in the various ranges from 2.5k - 10k and beyond (assuming good monitoring), and also how the equal loudness curve works.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1195815677852925962",
+    "author": "Zach Hughes",
+    "date": "2024-01-13",
+    "content": "Might be helpful to think of an EQ as a tool that simply boosts or cuts gain at specific frequencies using different filter types (i.e. bell, notch, HP, LP, etc...). HPF is still an EQ move. Not wholly accurate to conflate the two though they are used synonymously at times. Context dependent. Filter could be describing the shape of the EQ move being made. But if I said hey filter out everything below 100hz vs hey EQ out everything below 100hz - I mean the same thing. Might be a little more nuance to the history of the language used I could be missing; perhaps someone else could fill in. I think volcano has some non-linear harmonic / saturation component to it but I'm not super familiar with that plug.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1226457146758004737",
+    "author": "oaklandmatt",
+    "date": "2024-04-07",
+    "content": "One of the reasons I think this way is because anytime you EQ something, you are introducing phase shifts around either side of the frequency you're using. I find low end to be particularly sensitive to phase shifts. Phase shifts blur sound slightly, which is particularly bad for the low end instrument that you want to be punchy and full. \n\nWhile EQ may boost your overall low end, often times you are losing punch and clarity at the same time.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1228872685522784257",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-13",
+    "content": "Widener, clipper, compressor, EQ - print it all",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254820989330657340",
+    "author": "Adam Thein",
+    "date": "2024-06-24",
+    "content": "Case dependent on song of course but generally 3 phases\n\n1) Clean - clean up obvious issues, noise, excessive low end, overly roomy, overly dynamic (sometimes completely raw like this might have 20-30db or higher swings in dynamic range between sections) clip gain\n\n2) Dynamics and EQ in track context - compress and EQ how you usually would for what's appropriate\n\n3) Stylize - effects, saturation, stylized EQ",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263738836437962782",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "Why you salty about your drum compressor mining a lil\u2019 bitcoin?",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274810905724452935",
+    "author": "Eric Martin",
+    "date": "2024-08-18",
+    "content": "I\u2019ve gotten track as to mix where faders at zero would blast you into the next time zone, which is why I always view waveforms at zero so I can visually see if I need to turn the clip gain down or not before even hitting go, I know I know I know, it\u2019s music, listen, but if I turn it down then I can fly through the session with clip gain key commands getting balance with the faders at zero and never touching the mouse until I really need to start manipulating things with EQ and compression.\n\nI always start a mix with just volume and panning, we can get really far with that",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1279484385124417660",
+    "author": "youngteam",
+    "date": "2024-08-31",
+    "content": "you could get a daking mic pre eq at that price (1k.) no compression but that would be my route",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1289594036688130109",
+    "author": "NoahNeedleman",
+    "date": "2024-09-28",
+    "content": "No mono\u2019ing lower frequencies. Eq\u2019ing gets easy when panning is right. Lower mids on the sides is actually great, helps add weight & width",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295774828141346816",
+    "author": "Bryan DiMaio",
+    "date": "2024-10-15",
+    "content": "it would be helpful to look into how EQ is made",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1312165594954596482",
+    "author": "Iwan Morgan",
+    "date": "2024-11-29",
+    "content": "Compress vocal and instrumental buses separately then feed both into another gentle compressor to coalesce.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1413615301358129323",
+    "author": "Colin Althaus",
+    "date": "2025-09-05",
+    "content": "Just one opinion - I've spent quite a bit of time on the Sennheiser 58X (similar to the 650s) and recently moved to the Airpods Max. That family of Sennheisers are on the better end of wired / open-back headphones for sure, but I never got to the point of trusting them fully for mix translation. I experimented a bit with adding an Oratory EQ (using RME Room EQ on my interface) and that improved them quite a bit - much less of a mental adjustment when switching back to my Genelecs. The Airpods Max to me sound similar to the EQ-corrected Sennheisers, but with a more extended low end. Also the noise cancellation is great (love switching it on while mixing FOH!) I've started mixes on them and had very few translation surprises when switching back to monitors, albeit I still don't trust them enough to finish a mix yet.  For the price I think it's actually a great deal for what you get, considering Audezes are at least 2-3x the cost and  still need EQ to sound their best imho.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416105246371090605",
+    "author": "oaklandmatt",
+    "date": "2025-09-12",
+    "content": "When Jon receives a song to mix, there is almost always a lot of compression on the individual stems, especially drums and vocals. So he does more subtle moves to bring out the best in each mix. If you're recording stuff yourself, you will likely want to add a lot of compression to get the same modern, perceived loudness.\n\nThe fundamental thing to know is that \"compression\" simply means \"reducing the dynamic range\" (aka \"compressing\" the range of volume of your sound ). This can be achieved with \"compressors\" as well as \"limiters,\" \"saturators,\" \"clippers,\" \"distortion,\" and a number of other types of effects that do it in different ways (and may add other sonic characteristics to your sound).",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1471515762626662462",
+    "author": "NoahNeedleman",
+    "date": "2026-02-12",
+    "content": "I got locked into 500 series while I was touring (for like 10 years,) and once I got my home studio setup I had everything hard wired, each mic had its own dedicated chain. All so I could work at the speed of my creativity focusing on parts & performance rather than capture & sonics. \n\nAbout 5 years in I was fast and savvy enough that I could let the Sonics play a bigger role without sacrificing momentum, so last year I installed a patch bay. Now just grabbing a mic to record takes a little longer, but I can do a lot more fun & creative work on the way in. \n\nSo even if you decided to go 500 series, I\u2019d argue that the modularity isn\u2019t as big of a selling point on a microcosmic level. \n\nIt might be worth thinking about the 500 series like a console, get yourself 8 Avedia Ma5s and do all your eq & compression in the box.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "809964956463792128",
+    "author": "Marshall",
+    "date": "2021-02-12",
+    "content": "A little pricey, but Fab Filter Pro C2 has every style of compression (8 different algorithms that emulate every popular type of compressor) + gives you the most control over your sound compared to every other compressor plugin on the market (as far as I know) for $179",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "823982386202017882",
+    "author": "kidcutler",
+    "date": "2021-03-23",
+    "content": "Put the ssl on, crank, and see what you like and what you don\u2019t, if the bass sounds sick now then when you remove the ssl go fuck w the bass, if its the vocal or a cymbal or synth or reverb go focus on that. Ozone exciter, spectre, newfangled saturate, little radiator have worked for me. If it\u2019s a time thing like mentioned, neutron transient designer decay/release has given me that tail I usually reach for a compressor to accomplish",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "828752106973560863",
+    "author": "cian riordan",
+    "date": "2021-04-05",
+    "content": "Hoo boy... live recording is such an anxiety hole for me. My only takeaway would be focus on isolation and flexibility and less on vibe. You can add that in later, but you can't isolate in post. I'm dealing with a live record at the moment and I can get the instrumentals to sound amazing, but the vocal mics are just bleed central and completely destroy the mix. Try super tight patterns on everything, Beta 58s on vocals if you can, & don't compress anything going into the computer.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844649567382405161",
+    "author": "Josh",
+    "date": "2021-05-19",
+    "content": "Just layer a sample with low end you like. If you don\u2019t want it to be too replaced just low pass it so you only get the thump.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848332323405430785",
+    "author": "Zakhiggins",
+    "date": "2021-05-29",
+    "content": "compression would definitely bring up the noise floor",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "857814484402831360",
+    "author": "Rollmottle",
+    "date": "2021-06-24",
+    "content": "lean more into it? compress the shit out of it, push it way forward, make it uncomfortably dry? (though IMO \"dry\" should never actually be \"100% zero effects\" and a client shouldn't be dictating the rules of my tools, as long as I get them what they're going for)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "868474961554202676",
+    "author": "peterlabberton",
+    "date": "2021-07-24",
+    "content": "iZotope or soothe, ruthlessly automating EQ or volume/clip gain, new strings, or just punching different chords and being really methodical while tracking. Between some combination of the above you should be able to address it!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875770982969778237",
+    "author": "jantrit",
+    "date": "2021-08-13",
+    "content": "There\u2019s no one size fits all 100% of the time but my process looks something like this. 1.Phase! As others have said picking one mic as a phase constant and then checking other mics against this can yield great results. I don\u2019t do a huge amount of mixing live drums that I didn\u2019t track but this is usually the single biggest improvement. 2. I start with the over heads and work from there, usually filtering a touch of low end but I really like to keep these as a full picture of the whole kit. 3. Subtle saturation, I find an instance of Saturn works wonders on some kicks and a lot of other drum sources. 4. Gating and compression, can work wonders to clean up a kick or snare, always checking to make sure that any processing is actually an improvement. 5. Additive eq, boost those pleasing freqs! I should note that 95% of this whole process happens while listening to everything, I don\u2019t usually solo any one element to do any of this (except to start the gating maybe)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "876889603255193640",
+    "author": "cian riordan",
+    "date": "2021-08-16",
+    "content": "If you have a mono sound on a mono track, it will sound mono. If you have mono sound on a stereo track, it will still sound mono. You can add delays, phasing, pitch shifting, etc to make it sound 'wide'... and yes, it will theoretically take up more space in the mix. As far as taking up more headroom, there's just too many variables to figure out there. But if you have the mono sound on a mono track, and the mono sound on a stereo track, with modern pan laws, they would both take up the same headroom.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876891144313774220",
+    "author": "Slow Hand",
+    "date": "2021-08-16",
+    "content": "So to answer your question, yes, a sound will technically take up more headroom when hard-panned (or spread), because the pan law makes it a little louder when panned to the extremes. However because this also makes the sound perceptually louder you\u2019re likely to turn the sound down a little bit to compensate for the boost in volume, thus buying you back the headroom you\u2019d have lost.\n\nI may have missed a few things. Other DAWs use other pan laws, and admittedly I'm not up to date on the minutiae of it all. So don\u2019t hesitate to amend, or correct me on this stuff, folks.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876891581712592916",
+    "author": "David Fuller",
+    "date": "2021-08-16",
+    "content": "Some DAWs like Pro Tools can actually change pan law. PT can do -2.5dB, -3dB, -4.5dB, and -6dB. Mixes sound different with different pan laws - and I'll bounce some stuff real quick to demonstrate.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "887097036283985970",
+    "author": "oaklandmatt",
+    "date": "2021-09-13",
+    "content": "the main thing is that in order to get that modern high-end attack from individual drums, you need to do a lot of eq boosting. this causes the cymbals that are picked up by the close mics to be super loud. if you gate those close mics (or even better: just mute the audio around each hit by hand) you have a lot more control with how much you can process and control those individual drums",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "940572428118155274",
+    "author": "Zakhiggins",
+    "date": "2022-02-08",
+    "content": "Also If you set the ratio to max and bring the threshold all the way down, it'll then become really obvious what attack and release are doing to the sound, so set them the way you like, then bring the ratio back, as you do that it'll be apparent what that's doing too - then set the threshold to taste and it'll be very obvious what your compressor is doing",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "941156314632060968",
+    "author": "ALXCPH",
+    "date": "2022-02-09",
+    "content": "I think it also him being super meticulous with clipgaining and eq automating the vocals to make the compressor work exactly as he intends and not as the recording dictates. You can get a much more open non clamped down vocal sound.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943255132055932939",
+    "author": "oaklandmatt",
+    "date": "2022-02-15",
+    "content": "@sloth the reason is use clip gain is so you're not relying on the limiter or compressor to level out the sound. rather, you're using the limiter or compressor for the SOUND it creates. if you want that super compressed sound (or even that lightly compressed sound) of an actual compressor or limiter, you'll often get better results if the signal going into it is evened out a bit. this used to be solved mostly by great mic technique, where a singer would lean back on big notes and whatnot. but these days by using clip gain to even out the sound before it hits your dynamic processing, you can actually more fully lean into the SOUND of the compressor or limiter that comes after it.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "998541808692895804",
+    "author": "sukhuno",
+    "date": "2022-07-18",
+    "content": "https://slynk.gumroad.com/l/duckbuddy there\u2019s also this free Max for live tool that does essentially what LFOtool does (volume shaping ducking etc) if you want more control vs a side chain compressor",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1006253634616561794",
+    "author": "Will Melones",
+    "date": "2022-08-08",
+    "content": "Oh yeah, for sure. It\u2019s easy to overdo it, and satisfying enough that sometimes you don\u2019t know in the moment.\n\nUltimately you can be 100% in the right speaker or 100% in the left speaker, and pushing beyond that is tempting the gods. As far as I can conceive it, any process that attempts to widen a signal that\u2019s already entirely decorrelated must have the potential to reintroduce some correlation. Thinking again of the ping pong delay, is there really anything wider than that?\n\nI was doing a lot of M/S mix buss widening stuff a few years ago, and I realized that it could do some pretty weird shit to panned vocals and the like. While it feels like you can just \u2018turn up the sides\u2019, you\u2019re really doing something unnatural to the center, too, and the relationship between channels. Like you\u2019re choosing select bits of a sound to turn up, but only the bits of that sound that don\u2019t have anything in common with the other speaker. This is a lot of rambling just to say that there\u2019s clearly a point of diminishing returns, and maybe the solution is to pan something else less wide to create contrast.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1024051647531450428",
+    "author": "cy (sigh)",
+    "date": "2022-09-26",
+    "content": "wait. wouldn't using a low pass also shift the phase? (assuming it's not in linear  mode)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1045506496118652989",
+    "author": "conor // wbotm",
+    "date": "2022-11-24",
+    "content": "Pro-Q3 is a lock for sure, very much need to get onto dynamic eq in particular I feel. Also @Adam Thein coming through with the discount code thank you so much!!!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1045577159126810684",
+    "author": "Nomograph Mastering",
+    "date": "2022-11-24",
+    "content": "Also think kotelnikov Beats Pro C handily for compression but DMG trackcomp might be easier",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1049945733769461800",
+    "author": "itaylerner",
+    "date": "2022-12-06",
+    "content": "SRCd the instrumental - needed to fly them into the recording session to start mixing but will need access to all the other takes. Good thing it mattered 0% lol. Breaking all the rules tonight whoops",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1070314652329836554",
+    "author": "ALXCPH",
+    "date": "2023-02-01",
+    "content": "Subtle eq moves can really make the overlapping help as well. Automate a little high or low end out as the new one comes in. Just on the overlapping part",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1076672557027184670",
+    "author": "Nomograph Mastering",
+    "date": "2023-02-18",
+    "content": "I think Mike\u2019s not talking about the panning or very placement being tempo synced, he\u2019s talking about the reverb length",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1077247398306394152",
+    "author": "spectrummasters",
+    "date": "2023-02-20",
+    "content": "Last time I looked on GS serbans  assistant  was being asked what\u2019s the magic frequency they take out of all their kick drums . Maybe that eq has the preset !!!!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1093391927073849445",
+    "author": "NoahNeedleman",
+    "date": "2023-04-05",
+    "content": "Try panning both sides to the middle and see what that does for you? Otherwise you can split into mono and gain match. Then if you\u2019re not sure you can always flip the phase on one to see how hard they cancel.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104933659028488234",
+    "author": "BatMeckley",
+    "date": "2023-05-07",
+    "content": "But I\u2019m well on record I don\u2019t really think most tracks need anything below 26hz, so when possible I just get that gunk out before it fucks with anything else further down stream. Luke\u2019s metric halo trick was every single drum track had a double high pass at like 35-39 (one didn\u2019t give him enough slope)",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1133953612876353606",
+    "author": "AJ",
+    "date": "2023-07-26",
+    "content": "They said the mix was too loud and compressed. This was because it reaches -5 LUFS in loudness and clips above 0 db. They said the bass was choked/the low end doesn't have room to grow. Ideally they would master to be -7 LUFS average with -6 LUFS at the loudest part of the song.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1134564918142697504",
+    "author": "Zack Hames",
+    "date": "2023-07-28",
+    "content": "Bet; I don't usually commit compression on anything except vocals and MAYBE bass, so I just monitor drum bus or mix bus compression, then I'll do the mix with it on later since I don't usually need to do what you're saying. This is only at the legit studio, when I'm at home i just have my Slate Dragon!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1182460579231834112",
+    "author": "Bryan DiMaio",
+    "date": "2023-12-07",
+    "content": "You could compress it with a universal tool",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1184029510388162581",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "to ruin stereo image?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184036322210484234",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "You can also utilize mono reverb and panning delays on opposite sides",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1187000295151124540",
+    "author": "Iwan Morgan",
+    "date": "2023-12-20",
+    "content": "Bertom EQ Analyser is free and works well for this. Putting this on to test my Thermionic Culture Fat Bustard EQ was really eye opening",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1227000412352155678",
+    "author": "CameronKuwada",
+    "date": "2024-04-08",
+    "content": "When working with a kick that doesn't have a lot of low end, I'll always mix in a sub sample (or just any low end heavy kick sample and low pass so its just lows) over doing heavy low end boosts with  EQ. Obviously, have to check phase between your kicks after",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1234811197702799451",
+    "author": "Ross Fortune",
+    "date": "2024-04-30",
+    "content": "@BoozleBAM It\u2019s sometimes cool to bus all of the room sample tracks (kick snare toms) and treat them collectively as if they\u2019re a pair of room mics, maybe smashy compression if that\u2019s the vibe.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1235556990726570045",
+    "author": "Edward Rivera",
+    "date": "2024-05-02",
+    "content": "Ive messed around with soothe 2 for a long time and can\u2019t for the life of me justify its purchase. What you\u2019re describing sounds like something in the 700 cycles range. You should be able to eq this out. But I imagine you\u2019re looking to eliminate it completely, can\u2019t, and start sucking more frequencies out with eq until the sound is completely neutered. Are you doing this in solo or inn the mix ?",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256241454570012803",
+    "author": "BoozleBAM",
+    "date": "2024-06-28",
+    "content": "There was/ is just the most ungodly-disgusting-nasty resonance at 790 on this particular kick. I'm the one who recorded it. I'm at fault. I don't know what the living freak I did wrong, but I didn't notice how horrifying it was until I was deep, deep into this album. After I'm done tracking, I'm gonna go in there and dissect the situation - I don't know if it's the head or just that I tuned in the perfectly horrible spot or if it's the drum itself or the mic placement or what, but as long as I basically turn the EQ of the 7b (that's what it was recorded with) into a beta 52, and then do a sharp dip at 790, it's passable... I absolutely HATE to EQ like this, preferring to be snobby and do it all with the mics, but sometimes, I guess, you gotta do what you gotta do... Will mess around with re-tracking/ putting new heads on and shit after I'm done with these initial takes... I could ramble on... Midwest represent!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256647523444199426",
+    "author": "Bryan DiMaio",
+    "date": "2024-06-29",
+    "content": "I think it\u2019s less about being turned away from basic questions and just more about helping us help you. If I asked \u201cwhat\u2019s the best compressor\u201d, I wouldn\u2019t receive many truly helpful answers because chances are there\u2019s a reason I\u2019m asking why, a problem I want to solve with X piece of gear. Providing context helps the answers give context because as Adrian said, there is no silver bullet. Just a framework of reps that help inform the decision that fits for whatever context you\u2019re in. Context is everything in music, otherwise we\u2019d only have one drum sound for everything.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1272675165725134868",
+    "author": "cian riordan",
+    "date": "2024-08-12",
+    "content": "FWIW, the whole all-pass, frequency specific phase adjustment feature of the UTA eq was a pleasant surprise after the inclusion of the -40dB notch feature. 15 years ago, to my knowledge, there were no hardware EQs that were able to pull this off -- so UTA marketed it as a nice bell and whistle for the console. I've used this feature exactly zero times and only saw Eric make use of it for product demonstrations.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274827012367974480",
+    "author": "Eric Martin",
+    "date": "2024-08-18",
+    "content": "love that, I\u2019ve been doing pulsar mu 1.5db of compression max, but then soft clip with standard clip and the clipping I don\u2019t pay attention to \ud83d\ude06",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295614181650993183",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "I think it\u2019s quite remarkable how much a 6db low pass up around 16 kHz can affect perception of a sound that\u2019s maybe sitting more in the 700 - 2 kHz range",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1312179044741283920",
+    "author": "Chad Rodgers",
+    "date": "2024-11-29",
+    "content": "Bit of an aside (still bus related) and not sure if this is the best way of doing it, but I tend to route all musical elements (non-drums and percussion) to a bus, all drums and percussion to a second bus, and all vocals to a third bus. \n\nI then have a further bus where I bring the musical elements together with the drums and perc, so \u201cinstrumental\u201d.\n\nAnd then my final bus which I label \u201call\u201d that pushes through to the mix bus.\n\nThis way I have plenty of options for automation, levelling, compression, and even FX like whacking EchoBoy or the Echorec on it and going nuts for transitions and bridges etc.\n\nIt\u2019s possibly not the best way of doing it but it works great for me at the mo. My template for writing / prod and mixing is just set up that way now.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1312333833370075226",
+    "author": "spectrummasters",
+    "date": "2024-11-30",
+    "content": "Niiice , yes my structure is very similar . Added , For programmed music , I have a separate kick bus , and I tend to keep live (eg moog and or p bass ) to their own bus and 808s to their own buses also . Kick and bass might arrive to one shared bus pre 2hus if I want to clip them pre 2 bus . Tend not to clip much anymore tho  . All my drums go into  three parallels (a clean a distortion and a comp ) and those are what arrive to the drum bus . It was cians article that educated me to just how much \u201ceq\u201d I can do this way via distortion . This was a real level up for me . \nI do the same thing for my kick and basses and include a blown out high passed parallel to feather in at the end to tickle the tweeters once I\u2019ve balanced the mix at the end .",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313238632995360800",
+    "author": "spectrummasters",
+    "date": "2024-12-02",
+    "content": "In programmed music you can shape adsr in the sampler of course, but compression allows us to do this also\n\nEmbrace it man , get a feel for it and then you\u2019ll have so much power to manipulate that pocket . Both of an instrument and its relationship to other instruments \u2026.and then between buses etc .",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313267402007380028",
+    "author": "Josh",
+    "date": "2024-12-02",
+    "content": "Of course! I would read all day about how compressors work but I could \u201chear\u201d what was actually happening and this immediately gives you a VERY obvious representation of what\u2019s happening.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1326388828549677158",
+    "author": "Matt Huber",
+    "date": "2025-01-07",
+    "content": "Of course  it depends on the track, but 99% of the time, I pan them hard left / right. That said, I\u2019m generally very close to LCR in my panning approach once I hit the chorus.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345098920556105842",
+    "author": "Ross Fortune",
+    "date": "2025-02-28",
+    "content": "Have fun! Yep, the compressor. I haven\u2019t used it in a minute, but I remember getting some intense sounds with high ratios and the faster end of the release dial.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1345100077839945808",
+    "author": "BoozleBAM",
+    "date": "2025-02-28",
+    "content": "Okay, excellent. Yes, I have that compressor and remember being very impressed with it the last time I took it our for a spin!",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347416397944324106",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "Here goes\u2026\nMillion ways to skin this cat. I\u2019ll give you food for thought.\n\n1. At least double track. My personal goal, is to get the sound to be as awesome and huge and perfect with 1 pair of guitar tracks doubled, with 1 mic on an amp. That\u2019s the ideal scenario for me. That said There are people that sum 4 mics down to 1 signal on a mixer and it sounds amazing.  \n\n2. The more performances  you add of the same part, the more blurry it will sound.if you need different textures, consider recording a DI so it can be blended in with your amp in any manner of your choice, either reamping, distorting with a plugin, whatever. (Check phase)\n\n3. I like when the left and right are *subtly* different, no drastically different. You hear \u201cthe left and right being different is what makes something wide\u201d\nThis is true. But I loathe when it\u2019s so different it feels lopsided.\n\nHow do we address this? \n\n-double track using the same guitar so the tuning and intonation is most similar \n\n-change the amp head but keep the same cabinet/speaker so the overall EQ is similar but my the gain structure is different\n\nIf you use 2 different guitars, consider the scale lengths. This will change subtle intonation things, for better or worse.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1398361496773197947",
+    "author": "LAPhill",
+    "date": "2025-07-25",
+    "content": "\"Effortlessly choose and understand the tool\" seems like a great goal though, no? Another great one was your quick breakdown of different compressor types, and why one might choose them.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1404216021199355925",
+    "author": "Brian Reynolds",
+    "date": "2025-08-10",
+    "content": "Outboard compressor could be a great tool for a drum arsenal",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416102289126588548",
+    "author": "masteredbyjack",
+    "date": "2025-09-12",
+    "content": "But shooting for a certain lufs number is a bad time (not saying you are). Arrangement, vocal level, overall eq all play a big role in perceived loudness.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1451952089159700530",
+    "author": "chrissorem",
+    "date": "2025-12-20",
+    "content": "I can\u2019t speak for Dr Luke,  @BatMeckley might be able to chime in here.  In my experience, on some occasions I have to ride the input gain between a verse or chorus if there is a large dynamic difference. I\u2019d rather split that up if it\u2019s an option for the singer but if it\u2019s a live take you have to do whatever is necessary to make it sound great. Sometimes attenuating the output gain. Sometimes  i have my hands on the compressor input and output and I\u2019m attenuating both. I like a 176 compressor for this as it\u2019s  very forgiving in gain reduction. If I can\u2019t manage any of the above I mult the vocal and have one safety track with the gain trimmed to a safe spot",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1464228980470059100",
+    "author": "BoozleBAM",
+    "date": "2026-01-23",
+    "content": "I have a question, Team: I have been watching drum micing videos of this gentleman (Darrell Thorpe) when I'm alone and weeping in the middle of the night, and he has said repeatedly that he has no consideration for keeping the snare in the middle of/ equidistant from the overheads. I have found, however, that if I don't have the snare exactly the same distance from the overheads, that I can distinctly hear the snare pulling to one side or the other - no matter how much I high pass - and this bothers me. Is this gentleman doing some type of post processing trickery to minimize the snare in the overheads, or is he simply working on a genre of music where this \"pulled\" snare sound doesn't really matter, or...? Throw in that mono in the middle and my infantile mixing mind is fd... Thanks.",
+    "reactions": 1,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1464556007882620981",
+    "author": "spectrummasters",
+    "date": "2026-01-24",
+    "content": "I actually have sat with a mix up recently wondering for ages about how I\u2019m meant to pan the snare mics for exactly the same reason , totally overthinking it . \nI hit up the drummer like bro , can you please tell me exactly where you had your drums placed and drew a diagram . I stared at it for ages thinking about phase , the speed of sound , logic about surely why I must not pan the snare mics centre if the snare was left of centre when tracked . Paralysed mate \ud83e\udd23 . It still bothers me . Coming from producing and mixing programmed music \u2026.these are the real  naked lunch moments transferring to mixing real drums \ud83e\ude98",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1464631517748789585",
+    "author": "BoozleBAM",
+    "date": "2026-01-24",
+    "content": "When I said \"strongest,\" I was referring to phase relationships, I think; there's a moment when I'm moving the ride along the panning spectrum and it seems to \"lock\" in place - this, for me, happens to correllate with where the mic is standing in physical space when it gets recorded, but yeah - sometimes I'll move the mics to other places and that sounds good, too. It's just something I noticed - that' \"lock in.\"",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1471193703346475146",
+    "author": "chris_donlin",
+    "date": "2026-02-11",
+    "content": "I\u2019m late to this but if you\u2019re still looking, I\u2019ve been rocking the avedis ma5 > serpent splice/buzz essence and have been extremely happy. If you\u2019re recording different artists I\u2019d avoid the eq for simpler recall but if it\u2019s just you, 550a would also be my choice",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472249277014343834",
+    "author": "spectrummasters",
+    "date": "2026-02-14",
+    "content": "Eric valentine talks a lot about the use of distortion and compression for his drums and I love the way he approaches transient control through distortion into compression . Well worth watching his mixing drums YT video if you haven\u2019t seen it",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "810336126833131530",
+    "author": "Seanhmusic",
+    "date": "2021-02-13",
+    "content": "Sonalksis SV-316Mk2 Compressor. Incredible compression!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811342294384246794",
+    "author": "Zack Hames",
+    "date": "2021-02-16",
+    "content": "Interesting concept. Is that because Left and Right are subjective to the perspective you want to mix from? (Drummer vs crowd)\n\nDrum pan perspective is a fun debate in it of itself haha.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811389466241269820",
+    "author": "i am willie",
+    "date": "2021-02-16",
+    "content": "i need help to unlearn everything, feel like i dont know how to mix, anyone have tips",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "823931012761255956",
+    "author": "i am willie",
+    "date": "2021-03-23",
+    "content": "anyone know how to get the sound of an ssl compressor from a saturator?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "823948605810409562",
+    "author": "David Fuller",
+    "date": "2021-03-23",
+    "content": "You wouldn't. The compression artifacts are timing dependent.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "827586282716266546",
+    "author": "mixedbywong_my",
+    "date": "2021-04-02",
+    "content": "Here\u2019s what I\u2019m experiencing on a project . It\u2019s a musical type album almost like Hamilton that sort of vibe. All the vocals I\u2019m getting for every song is recorded without an outboard mic pre or compressor from a C414 to an audient ID4\u2019s mic input . Prob is even when the tracks are not clipping in levels but they all sound like there\u2019s some small level of clipping going to the AD converters .  And I doubt the vocalists has decent microphone techniques singing in. Seeing that the vocals are supposed to sound kinda warm n not as polished , Even with some EQ moves, the vocals are still sounding like there\u2019s some 3rd harmonic sounding saturation on them.  Anyone experienced this before ? Would love to hear anything that\u2019ll help it sound better . \ud83d\ude05",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "833442863378858053",
+    "author": "mixedbyKerim",
+    "date": "2021-04-18",
+    "content": "Ive been playing around with mic distance when recording artists and got a pretty dead room, 6-8 inches away sounds a little too boomy, a foot away is what ive been rockin with, but i find myself still having to remove 3-5 db below 550...is this normal? I never recorded in any other space and just been trying to figure shit out as i go...chain is 87ai-twinfinity- warmaudio EQP- WA76 - WA2a (no reduction) - drawmer EQ ....i set up my patchbay where i record a processed and unprocessed signal just incase too",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "837372553973727243",
+    "author": "Eric Martin",
+    "date": "2021-04-29",
+    "content": "also, removing any additional distortion/clipping on the master will help translate better, as the cutting will impart a character to it, and the cutting engineer will do EQ before it hits the heads to control the level going onto the acetate.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "843994764860063804",
+    "author": "Zack Hames",
+    "date": "2021-05-17",
+    "content": "How do you approach compression on Electric Bass? How you think about Attack and release for bass, compressor choices, etc. I feel like I\u2019m always trying random things for every mix and haven\u2019t found anything particularly amazing.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844534934294233099",
+    "author": "Zack Hames",
+    "date": "2021-05-19",
+    "content": "How can I get better low end from my kick drum? \n\nMy usual setup is a D112 right outside the hole pointing at the batter, then either a tube condenser or rn a Warm Audio 47 fet, a few feet away pointing at the kick, low passed at 50-100hz and delayed maybe 150-300ms to get the low end nice and full and make some sort of phasing miracle happen. \n\nI am so close to getting the sound I want, it just sounds a little less thick and a little less rock solid than what I am chasing. What am I missing? What can I try?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844625166818607114",
+    "author": "peterlabberton",
+    "date": "2021-05-19",
+    "content": "@Zack Hames I\u2019d also add to the above to not be afraid to just go for it with an eq. Bus all the kick tracks together, and use a high pass with a high q and boost until it hits right. Depending on the drum/recording and how you want it to hit in the mix, I often find a good spot between about 60 and 80 hz that has good weight and punch, and just boost by adjusting the q to taste.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "844632621458653244",
+    "author": "peterlabberton",
+    "date": "2021-05-19",
+    "content": "I haven\u2019t tried that in years\u2014maybe I could get it to work better now, but I couldn\u2019t consistently make that work. I know I mixed a few songs that use this, though! I\u2019ve become more and more into using eq as I described above to manufacture or tune a weighty kick sound instead of the gated sine move. In addition to/instead of the above, I sometimes duplicate the kick track, and low pass, make the q resonant, and tune the frequency so it works well in the song. Then, blend back into the drums, and play with phase until it all adds up nice.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "846571817090547753",
+    "author": "longstoryshort",
+    "date": "2021-05-24",
+    "content": "what are you guys SLAMMING drums with on the bus?  i make house and love to have a very clean kick - some of these compressors chew my kick up, but i kind of need it to run in with the bus to get me the groove.  any suggestions on a good way to slam my bus without ruining my low end or phase?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "846578943216713758",
+    "author": "Zack Hames",
+    "date": "2021-05-24",
+    "content": "My favorite right now is the Kush Audio AR-1. Also anything with a mix knob can really save the transients and also add the depth and punch and aggression of a bus compressor.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "846611402063347743",
+    "author": "longstoryshort",
+    "date": "2021-05-24",
+    "content": "that's fair, i do sidechain this way often for some of the hats/percs.  can always run it out of the bus - i do like the way compression sounds on all of the drums together in parallel, but maybe that should change?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "847059621256495125",
+    "author": "$$C Z00BOY",
+    "date": "2021-05-26",
+    "content": "Not sure if this is helpful for you, but I\u2019ve really learnt over the last year.. getting the kick in tune and the decay, release in time with the song with help from an adsr in a sampler (i use maschine) will really get you there 90% ! might sound boring around all gear talk but the drums will def smack hard and keep all that fat low end intact! Also with the right adsr setting you can get punch, tightness and control of a kick a compressor wouldn\u2019t be able to get \ud83d\udd25\ud83d\ude80 \nand if you still want more energy or aggression , instead of using parallel compression, send the kick parallel to a buss with some saturation to bring out some tone followed with a limiter might be worth a try!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "847068396742901801",
+    "author": "$$C Z00BOY",
+    "date": "2021-05-26",
+    "content": "and to add to the groove you want from a compressor , incase your question totally flew over my head and you\u2019re already doing the things i said.... I\u2019d give the TrackComp from DMG Audio a go. It got ssl, 2500, zenner, and all this classical compressor plus their own Mega Clean Models, up to x16 over sampling and dry wet, endless attack and release options and a super easy to use SC circuit and a wet/dry knob to save you a parallel send! It\u2019s personally the only compressor I use and been for over a year now! \ud83d\ude4c",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "848371974158024714",
+    "author": "Rob Domos",
+    "date": "2021-05-29",
+    "content": "If it\u2019s the hissing kind of noise that you get more of when you switch from condensers to dynamics and ribbons, then it\u2019s not the kind of noise that is coming from the room. \n\nIn rooms the main things you would be concerned about would be reflection (which you fix with treatment) and mechanical noise from things like computer fans, clocks, etc. and condenser mics would pick those kinds of sounds up more, not less. \n\nAny unison pre in the Apollo should be plenty low noise to not bother you on your condenser mics. I agree with others that not using any unison pre will make the noise floor lower, but I disagree with them in that I think using the unison pres is a pretty good idea often. \n\nThat said, if you\u2019re struggling with noise, definitely try not compressing on the way in because compressors are only going to raise the noise floor. \n\nOn dynamic mics and ribbon mics, you can decrease your noise floor pretty considerably by picking up a cloudlifter and throwing that in the chain. \n\nIf you do all of the above and still have a high noise floor then either the Apollo is broken (which is pretty unlikely), or your microphone is picking up mechanical noise from your air conditioning, computer fan, refrigerator, etc. if those are the issue, then tackle the issue there. Turn off the A/C, turn off the fridge, turn off the LED lights, etc and see what you hear.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "858106228101349416",
+    "author": "Eric Martin",
+    "date": "2021-06-25",
+    "content": "also, the Relab Dev 480 essential AMB setting can sneak in if you keep it really dark like filter everything over 2k out, I find that people don\u2019t want to \u201chear\u201d reverb when they say dry, but that doesn\u2019t rule out room tone and that short ambience. There\u2019s room sound everywhere, I bet if you smashed that vocal with a compressor you\u2019d get room tone unless it was recorded in a totally dry small booth",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "868404184498700340",
+    "author": "jessem",
+    "date": "2021-07-24",
+    "content": "Any tips for getting rid of guitar string squeaks? Ive tried eq and clip gain but I cant do it without ruining the guitar. I've tried playing it without sliding but it really ruins the vibe. Tried recording with different mic positions and it didn't work. Would really appreciate help!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "875741785962446878",
+    "author": "Zack Hames",
+    "date": "2021-08-13",
+    "content": "Also beyond \u201cfixing\u201d the best thing i ever learned for drum mixing was drum bus compression, and using saturation on close mics.\n\nMy usual chain is this:\nAll kick and snare mics get some sort of eq if needed. Then I\u2019ll put fab filter Saturn 2 and saturate the high end at around 700hz.\n\nThe I\u2019ll bus all the drums to an aux. then I\u2019ll usually do this:\nTape saturation (waves J37)\nParallel drum compression with a mix knob (fast release, slow attack) I use the kush audio AR-1, I used to use the waves abbey road mastering plugin. \n\nSometimes I\u2019ll use wavesfactory Spectre to boost highs and lows after all that. Maybe soundtoys Sie-Q to boost midrange.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875840086166622249",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "Template:\nI\u2019ve attached a slimmed down version of my mix template with all of the drum bussing. This has evolved over many years and has taken many forms, but it\u2019s really just a good starting point for me and speeds up my workflow quite a bit. I\u2019ve got three main busses that feed into a master drum buss. \u2018DRUM SUB\u2019 is my uncompressed (or lightly compressed) buss. \u2018DRUM PAR\u2019 is my heavily compressed buss, and \u2018DRUM DIST\u2019 is my parallel distortion buss. I don\u2019t necessarily always use these, but having them ready to go makes it easier to quickly audition different ideas. Sometimes I\u2019ll duplicate one or two of them to get another flavor involved. Again, everything to taste. \n\nAlso in the template are some very basic aux\u2019s I find myself using often. There are two parallel SansAmp busses. I have two because often times if I use one on the kick drum, it rarely works for the snare drum, so I have a second one ready to go. There\u2019s also a \u2018SNARE SLAP\u2019 and \u2018SNARE GATE VERB\u2019 that rarely get used but if I need to inject a little mojo, they\u2019re a good starting point.\n\nThe \u2018D SUB TRIM\u2019 is just a master fader controlling everything going into the bussing, so if I get a little overzealous with level, I can manage the gain staging quickly without having volume automation grouped. These three (sometimes more) busses then feed into the final \u2018DRUM MSTR\u2019 , where I\u2019ll do final overall EQ tweaks and level adjustments.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875840262885228637",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "I'll gate everything with the Pro-G. Usually as tight as I can while sometimes automating threshhold to make sure ghostnotes don't get lost. I'll peel back the ratio once I have everything triggering properly to let some bleed in to taste. Sometimes I'll only gate 2-3 dB to just get something to pop. Sometimes its in a vaccum.\nI will very rarely compress individual drum mics. And I pray that the recording engineer didn\u2019t either. I like most of my compression to come from the busses. It sounds more natural to my ear and allows you to get away with a more compressed, exciting sound than just whacking the close mics. I\u2019ll find at the beginning my drum mixes will be very \u2018pokey\u2019 \u2014 I want each drum to sound explosive and over the top. That way when i start compressing them, they maintain their transient quality when they start getting dynamically reduced.\n\nI\u2019m always cutting tons of 250-350 out of the kick drums and trying to manufacture any attack with saturation instead of EQ. Having a SansAmp or a Saturn plugin adding high end always sounds more natural to me than just additive EQ. I\u2019m always very wary of the 2-5khz region, and find even-order harmonics are the best bet to fill in the blanks there.\n\nI tend to like my snare drums warm, so often low-shelving down the super low end and keeping the 150-300 \u2018boosh\u2019 intact. I try to avoid using HPF on drum mics because at this point, things should be relatively in phase, so if I put a filter on, it\u2019s going to throw the whole kaboodle off whack. Shelves are your friend here. And same as with the kick drums re: adding high end \u2014 I\u2019m wary off adding the snap in the 2-5khz range, I\u2019ll try and have the body of the snare drum really singing so I only have to add a little bit of top end, often above 5khz just for some air.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876232135567101972",
+    "author": "Eric Martin",
+    "date": "2021-08-14",
+    "content": "do you time align these compressor tracks post tracking? Would you use one or all three in a mix?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876895834812350535",
+    "author": "David Fuller",
+    "date": "2021-08-16",
+    "content": "https://www.dropbox.com/sh/hrzoebnmpbuj0re/AACj8A6BC2eICC8IMm-pQaUna?dl=0 All the same mix, only change was pan law.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876912555455553536",
+    "author": "mixedbywong_my",
+    "date": "2021-08-16",
+    "content": "Do most modern consoles use -4.5dB pan law?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "876914977393500221",
+    "author": "mixedbywong_my",
+    "date": "2021-08-16",
+    "content": "Ah no worries ! In theory, would diff pan laws would actually affect how different a mix might sound if it\u2019s summed to mono ? Say if one mix is done with -3dB vs a -4.5dB one ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "887318069368750131",
+    "author": "Lee Rouse",
+    "date": "2021-09-14",
+    "content": "The bleed profile on them is super subtle and they have really great transient response. I don\u2019t tend to need to really compress or eq them heavily either.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921493426858524743",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "Bit random but do dynamic EQs just slide the gain up or down in relation to a threshold or are they actually compressing and expanding the incoming signal/frequency(s)?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921497362847899688",
+    "author": "Slow Hand",
+    "date": "2021-12-17",
+    "content": "If I understand your question correctly, there is no difference between what you've described. Compression and expansion are simply turning the volume up or down. Dynamic EQ is no different aside from the fact that it's limited to a specific frequency.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "921497923500507156",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "Hmm, I always saw compression and volume as 2 different things. One just compresses the signal \"making smaller\" and the other just gains it with volume. Would probably be easier to describe with a drawing. Might be the same thing and I'm just envisioning words differently though.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921498293660446750",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "Otherwise wouldn't multiband compression be the same as dynamic eq?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921498779763478609",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "\"Unlike compression, dynamic EQ affects the sound by dynamically changing the gain of an EQ band. Like compression, however, and using the threshold, it does this proportionally in response to the amplitude of the input signal.\"\n\nFrom Izotope website",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921499457718210580",
+    "author": "Zack Hames",
+    "date": "2021-12-17",
+    "content": "Compression is knocking level down at a certain threshold. Dynamic EQ can be used to compress or expand very specific EQ ranges at a certain threshold. It's like super focused multiband compression with the ability to expand or compress.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "921501885624627240",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "I view compression as \"squeezing\" sound together if that makes sense. So I didn't understand the use of Dynamic EQ if it's just compression that you can set like an eq. But if it's just a workflow thing that's cool I guess.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921501895376396358",
+    "author": "oaklandmatt",
+    "date": "2021-12-17",
+    "content": "i actually don't know what this means. maybe someone on here can come explain. \"gain movement\" is \"more transparent than compression\" doesn't make sense to me. seems like the same thing.\n\nother than that dynamic eq and multiband compression are essentially the same. there are multiband compressors that will split the signal into multiple bands by default, so you're gonna get some phase shift between the bands, even if you're not compressing. but some plugins you can disengage the bands so depending on the plug-in architecture, you'd presumably not be getting the phase shift if you're turning off the band splitting",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "921503194125836388",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "Yeah to me visually it makes a lot of sense that there is a difference between the two in terms of processing. But the different use cases seem pretty obvious too:\n\n\"If you want to attenuate a specific \u201cproblem\u201d frequency or small range of frequencies, a dynamic EQ would be your best bet. The option to have narrower bands allows for this kind of focused attenuation.\n\nConversely, if you\u2019re trying to control larger areas of the frequency spectrum, a multiband compressor works well. Also the non-linear way a compressor attenuates signal can add character to a signal. If you don\u2019t need the surgical control, but want some subtle sonic coloration, a multiband compressor can be a better choice than a dynamic EQ.\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921503360211898368",
+    "author": "Slow Hand",
+    "date": "2021-12-17",
+    "content": "@Maxim I think I understand your question a little better now. I believe you're thinking of compression as both A) reducing the volume and B) applying make-up gain. To achieve this with a dynamic EQ you have to set the amount of gain reduction but then you *also* need to boost the volume of that EQ band (like it was makeup gain, which it is).\n\nDid I understand correctly?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "921504420594851883",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "No, I'm thinking more in terms of dynamic range. Like compressing a signal for it to be \"even\" (not that I would use a compressor for that) vs. using something like clip gain to make the signal even. Both get you a similar result but with a different sound in the end. \n\nI was wondering if this applies to Dynamic EQ as well. As I see an EQ as a gain tool for certain frequencies.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "921504760710987816",
+    "author": "Maxim",
+    "date": "2021-12-17",
+    "content": "If you imagine a waveform with peaks you can gain the peaks down. You can compress them (where they are \"squeezed\" together in my mind) or you can do things like hard clipping where the peak is shaved off.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "940297878927192175",
+    "author": "sloth",
+    "date": "2022-02-07",
+    "content": "Hello guys,quick question about trying to get used to the sound of compression.I was wondering what would be most effective for hearing the \u201cconcept\u201d,for lack of better terms, of reducing the dynamic range  between trying to get used to one single plugin or shooting it out with multiple plugins ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "940298537495826453",
+    "author": "itaylerner",
+    "date": "2022-02-07",
+    "content": "Fabfilter has some phenomenal educational videos, including a three part guide to compression- highly recommend! Has great examples and solid explanations, huge help if you really take the time to watch, pause, rewind, internalize the information.\n\nhttps://www.fabfilter.com/video",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "940764637295673345",
+    "author": "cian riordan",
+    "date": "2022-02-08",
+    "content": "Everything should be identical if the gain-staging is all setup properly. Obviously, it's nice to have access to individual items (cutting EQ on an instrument b/c its clashing w/ vocals, etc) but there's beneficial aspects to this workflow as well (limiting your options, DSP use-age, etc).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943849979422838795",
+    "author": "Maxim",
+    "date": "2022-02-17",
+    "content": "Yeah, I don't really use any EQs or Compressors by Izotope so if I had a crash and the settings reset I could surely dial in my Spectral Shaper quickly. The crash itself is what would slow me down.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "955955123836825601",
+    "author": "cian riordan",
+    "date": "2022-03-22",
+    "content": "I think there's been a lot of talk on the streams about making volume adjustments w/ clip gain vs fader adjustments -- and there's a lot of food for discussion there. Having tracks get leveled out before hitting processing chains can have real advantages and can make things easier when it comes time to mix, as you're not worried about compressors or distortion plugs overreacting.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "991943217933201408",
+    "author": "David Fuller",
+    "date": "2022-06-29",
+    "content": "oh the EQ design is *totally* different between the two. Constant Q (E) vs proportional Q (G) on the mid bands, shelf/bell switches for HF and LF (E) vs x3 and/3 switches for the mid band frequency controls (G)... plus the filters are never actually disengaged on the E, at least on the original brown knob version.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "991944895994535936",
+    "author": "David Fuller",
+    "date": "2022-06-29",
+    "content": "the E EQ is a bit more useful as a general purpose EQ to me where the G is more specialized use for me",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "992075805284896848",
+    "author": "Josh Bowman",
+    "date": "2022-06-30",
+    "content": "I always preferred the black knob e\u2026. For whatever reason that one does what I want especially when carving low@mids on the blue knob. Back in the day when I had the options and was working on a 4K, if I wanted color eq I\u2019d just patch in a 1081 etc and the ssl e was great for a utility eq that is quick and easy to use. I also like having the bell switch instead of the multiplier on the high and low \ud83e\udd37\u200d\u2642\ufe0f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997889105235017808",
+    "author": "benigma",
+    "date": "2022-07-16",
+    "content": "Hey all, got a question about sidechaining in Ableton, specifically kicks and bass/808s. I normally just use a generic compressor when sidechaining with a soft ratio, no attack/short release, and pretty low threshold (-18 to -24) and it usually works pretty well. Sometimes however the compressor alone isn't enough to dip the 808 and allow the kick to punch through cleanly. I was going to try using F6 instead, but I can't figure out how to sidechain the kick signal itself into F6 (in Ableton at least). Any tips?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997896140647301243",
+    "author": "Adam Thein",
+    "date": "2022-07-16",
+    "content": "Should just be two steps:\n\nOn 3rd party plugins in live that allow sidechaining, you should see this little Sidechain menu show up.  So this should look really similar to the sidechain settings in the stock compressor. (1st picture)\n\nNext, inside the plugin there should be an option to change the source of the sidechain to \"external\" from default internal.  With the stock Ableton plugins this happens automatically when you engage the sidechain but for 3rd party you have to add it manually.  I don't have F6 but looking up an image of the plugin it looks like the option is in the bottom right (2nd picture).\n\nIf that doesn't work then I'm not sure what's going wrong.",
+    "reactions": 0,
+    "attachments": 2,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "997901246272913590",
+    "author": "benigma",
+    "date": "2022-07-16",
+    "content": "Ah I see, it's strange because F6 has the option for sidechaining but the bottom right button only activates it and doesn't give an option for which track to route from. It also doesn't have that sidechain tab like the stock compressor or Pro-Q 3 does, so I might have to figure out another way \ud83d\ude29",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "998629138615259136",
+    "author": "sukhuno",
+    "date": "2022-07-18",
+    "content": "Doesn\u2019t live 10 have sidechain abilities? Have you tried F6 in both VST and au? If it still doesn\u2019t, TDR nova has a sidechain ability and I know I used it on live 10 to do eq band ducking",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1005800064498810960",
+    "author": "Gazing Wrmth | Mixes & Masters",
+    "date": "2022-08-07",
+    "content": "Is there a proven way to train your ears to hear for clashing frequencies in a mix?\nLike,Right Now,i eq to give precidence to a certain instrument over the other but still i would not able to tell that what region of frequency is clashing without looking at the frequency spectrum.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1014575875938848819",
+    "author": "Gazing Wrmth | Mixes & Masters",
+    "date": "2022-08-31",
+    "content": "Can someone please explain me in detail what he is doing to create front to back panning with reverb here?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1014578850035945502",
+    "author": "NoahNeedleman",
+    "date": "2022-08-31",
+    "content": "That\u2019s actually super useful way of describing it. I\u2019ve never heard it called \u201cfront to back panning.\u201d\n\nHe\u2019s literally Pushing something further back in the soundstage with a little reverb. You can do that with eq, panning, or reverb. I use D-Verb to do it all the time. \n\nTbh I was amazed by this concept until I got a good monitoring setup and could actually hear it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1018966302251036754",
+    "author": "Josh",
+    "date": "2022-09-12",
+    "content": "Their EQ is the best sounding notch ever btw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1033511284295077938",
+    "author": "Nomograph Mastering",
+    "date": "2022-10-22",
+    "content": "- **Higher sample rates reduce aliasing.** There is effectively no difference between 44.1 and 48k here but a meaningful difference at 96k and above. Aliasing is caused by non linear processes like distortion, and dynamics processing (compressor or limiter). Lots online about what it is and why it happens but you can sum it up by saying it\u2019s an inharmonic, digital sounding hash that can feel bright but in a kind of ugly way (but remember sometimes ugly is good)\n- **Higher sample rates reduce the impact of Anti Imaging and Anti Aliasing filters in AD to DA converters.** Filtering is necessary for accurate capture and replay of analog signals, and it in the early days of digital it used to be a real challenge. Now it\u2019s basically a solved problem, but if you are doing acoustic music, with delicate transient information there is still a small but real advantage to higher rates\n- **Higher sample rates reduce overshoot and inter sample peaks on limiters.** This really only matters if you are sending your loud mixes directly to release, otherwise your mastering girl or guy should handle that",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036783458342666270",
+    "author": "cian riordan",
+    "date": "2022-10-31",
+    "content": "This is a very broad question with many different answers, but I think the easiest way to sum up the concept of \u2018gain staging\u2019 is simply figuring out what level every \u2018device\u2019 is expecting and/or which level is ideal to get the results you want. These \u2018devices\u2019 can be a plugin, a piece of hardware, an A/D/A converter, an auxiliary bus, a mix bus, etc.\n\nIn analog world\u2026 there might be fathomable difference when a compressor or amplifier receives -10dBVU vs +10 dBVU. Accounting for these differences would be considered gain staging \u2014 and you\u2019d be looking for what gets the ideal sound out of your box.\n\nIn digital world\u2026 some plugins may react similarly and others may not care if you\u2019re sending -6dBFS or -0.01dBFS. It\u2019s usually case by case as there are myriad plugins. You also need to consider what level the plugin is sending signal out \u2014 as this will affect how the next plugin processes the audio, or how much headroom it has to work with. Let\u2019s say I\u2019m sending signal out of a compressor plugin into an EQ plugin \u2014 and lets say I\u2019m using the compressor to beef up mean volume of the signal and then I want to EQ some more low end into the signal after the fact. Well, I\u2019m going to be adding gain in the compressor and then the level going into the EQ will be hotter than originally intended. Id want to trim down the output of the compressor (or the input of the EQ) so you have headroom to be able to boost those frequencies without clipping the output of the EQ. In a 32-bit floating mixer like Pro Tools, these issues become less audible as the mixer has higher headroom than its indicating, but you never actually know \u2014 and it\u2019s best to just stick to the parameters that you have control over. If you were to do this same function with an analog compressor and EQ, there would be very noticeable distortion if you didn\u2019t stage the gain properly.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036812355234975744",
+    "author": "ehutton21",
+    "date": "2022-10-31",
+    "content": "I wrote in my notes from the Bainz episode that the way each guest/mixer talks about gainstaging the various tracks of a mix, it definitely is the mixer\u2019s version of a \u201cbusiness mission statement,\u201d which @Slow Hand alludes to with the idea of talking about how one choice ripples to inform all of our other decisions. Gainstaging sets the record up to show off its best qualities\u2014and are those qualities in the low end of a booming bass synth and the natural silky quality of the vocalist, or maybe you want the mid range to feel really detailed yet cohesive and warm. \n\nUnderstanding this, for me, made the finishing process that Jon talks about make sense. Level setting inherently overlaps with the kind of decision making process of EQing, which is something you can probably understand best from this clip of Bainz talking about how he can get a vocal to be so upfront in his mixes because he\u2019s surgical in what he keeps in there. The way I understood it, he\u2019s cleaned up the vocal a ton, set the levels of his tracks by what feels important to bring to the forefront for the listener, and then he uses those levels to inform his EQ moves throughout.\n\nhttps://www.instagram.com/tv/CkSeHgrosyx/?igshid=YmMyMTA2M2Y=",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036814183649517578",
+    "author": "ehutton21",
+    "date": "2022-10-31",
+    "content": "What Jon talks about doing with headroom, for me, didn\u2019t make sense until I heard what Bainz said in different incarnations on different occasions. \n\nBy turning everything down 6 DBs midway through or near the end of the mix process, and then slowly pushing levels up to set your \u201cbalance\u201d and then taking an EQ and using it very deliberately, you get a real gut check on \u201chave I been deliberate with what I\u2019m emphasizing for the listener.\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045297221798731806",
+    "author": "mixedbywong_my",
+    "date": "2022-11-24",
+    "content": "I was today years old that I realised how good and quick high/low shelving eq is for mixing/mastering . \ud83e\udee1\ud83e\udee1\ud83e\udee1 \nThat is all.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1066403756591292508",
+    "author": "ALXCPH",
+    "date": "2023-01-21",
+    "content": "I\u2019d gladly pay a little more if the previews could be set to stream the files with out data compression",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1070301850315784222",
+    "author": "austenballard",
+    "date": "2023-02-01",
+    "content": "Vocal producers of the Discord (cc @BatMeckley , @NoahNeedleman, please & thank you \ud83d\ude4f ) what's the preferred way to handle overlapping lead vocal lines? Automate by hand? Sidechained Vocal Rider? Sidechained low-ratio compression? Something else?\n\nI have a vocal with a lot of places where the next line starts while the vocalist is still holding a long note over from the previous one, trying to get it sounding as clean as I can",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1070313098122113054",
+    "author": "ALXCPH",
+    "date": "2023-02-01",
+    "content": "My first option would always be to see if it was possible to sing it differently. If thats not possible, i would try to differentiate the two Lines where they overlap, maybe an eq or pan automation? Could be one disappears into the back with verb while the next one stays dry? If its still fucked, maybe just try and volume automate/shorten one of the lines. \n\nIt really all depends on the song, and the importance of those Lines.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1070314097696051302",
+    "author": "ALXCPH",
+    "date": "2023-02-01",
+    "content": "You could let the ending of one pan out 10-20% during the word that over laps, while the the new sentence starts 10-20% out and pans inward",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1070314105942061066",
+    "author": "austenballard",
+    "date": "2023-02-01",
+    "content": "panning might be the best idea now that you suggest it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1076671323482361977",
+    "author": "skeed",
+    "date": "2023-02-18",
+    "content": "anyone know how to achieve and set this kind of effect up? im confused on how hes able to have the panning \"tempo\" synced https://youtube.com/shorts/pMdb4szzuGg?feature=share",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1077033713340264511",
+    "author": "Rollmottle",
+    "date": "2023-02-19",
+    "content": "Now I know what the \u201cEqualize\u201d preset does.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1093390148730900530",
+    "author": "skeed",
+    "date": "2023-04-05",
+    "content": "Hey guys I had a quick question. I just realized I got sent an 808 with the tiniest bit of panning on it (they sent it stereo also) does anyone have any recommendations or experience of how they went about this? See pic for reference.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1096650560708546570",
+    "author": "austenballard",
+    "date": "2023-04-14",
+    "content": "thank you! Nothing is too basic when you're me lol\neverything I know about EQ has been learned on the job\nI feel like I probably should have watched a tutorial like this at some point but never did, oop\n\nbetter late than never",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1096829706210377799",
+    "author": "Josh Bowman",
+    "date": "2023-04-15",
+    "content": "Open to being wrong but I\u2019ve definitely thought I heard a clear difference in certain situations when eqing two mics on the same source, or, a parallel bass chain. Sometimes when I flip the eq to linear the low end gets better/more cohesive sounding between the main bass and the parallel processing etc. not sure I can tell a difference on a single  source when flipping between the modes though.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1104932885984727060",
+    "author": "BatMeckley",
+    "date": "2023-05-07",
+    "content": "But yeah, low shelf with a high pass. But also I was kinda kidding. At the risk of sounding pedantic, thats the move I do if I need it to sound like a low shelf with a high pass.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1104933214843306084",
+    "author": "BatMeckley",
+    "date": "2023-05-07",
+    "content": "Don\u2019t let me or especially anyone who\u2019s trying to separate you from your money tell you to not high pass or what Q you\u2019re supposed to use. If it feels good to you, that\u2019s what you should do. (Seriously))",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1105155584220733641",
+    "author": "yaldaram",
+    "date": "2023-05-08",
+    "content": "Hey everyone! I have a question. \n\nMy friend is streaming live piano-vocal performance on twitch and also wants to release some piano songs on streaming platforms and I decided to help her to mix them. There\u2019s just a Kontakt LA Noire and thats it. \n\nThe thing is I found them almost impossible to mix. Some of the notes are extremely boomy, distorts small devices like laptops and phones, and because there are no information except that low mid range, when I do subtractive EQ it\u2019s almost as same as lowering the volume of the whole thing. \n\nI am really confused, has anyone mixed a virtual instrument piano track? I don\u2019t know if it\u2019s me not capable of mixing them or it\u2019s just the instrument/pianist problem.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1113589381538787379",
+    "author": "NoahNeedleman",
+    "date": "2023-05-31",
+    "content": "Thing about the Apollo is that it does so much more than console or dsp for plugs. It\u2019s i/o, monitor controller, headphone output, and the unison tech for compressors & amp modeling on the way in is pretty great.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1133954165987610725",
+    "author": "Deleted User",
+    "date": "2023-07-26",
+    "content": "or if they just think the mix itself is too compressed in general, that\u2019s not what mastering engineer should be dealing with. if they don\u2019t like the mix, just pass it up",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1133971408863637574",
+    "author": "cian riordan",
+    "date": "2023-07-26",
+    "content": "I think there's a real difference between the qualitative element of mixing and mastering where EQ is this or that, compresion is to much/too light, etc \u2014 and the quantitative \u2014 a technical element to what we all do. And there's just going to be situations where one person might be working with a deeper skillset. If this is occuring in the production/engineering phase, I think creative decisions can steamroll the technical bullshit.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134504858137919498",
+    "author": "Adam Thein",
+    "date": "2023-07-28",
+    "content": "Huh yeah I understand - but for what I\u2019m using it for I don\u2019t need anything above nyquist personally, I\u2019m just using it as an effect not for tracking\n\nTo be clear my use case is in mixing/post production - running tracks captured at 44.1 or 48k most often, using tape for compression/color/distortion and then bringing back in digitally at the same sample rate as the session.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134516218594865193",
+    "author": "Zack Hames",
+    "date": "2023-07-28",
+    "content": "This has been huge for me using more outboard in the last year. I just record it. If I don\u2019t, then I\u2019m probably not using it, save a mix bus compressor I\u2019m running as a hardware insert.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1134528287855624304",
+    "author": "Eric Martin",
+    "date": "2023-07-28",
+    "content": "If I only Mixed or Mastered and had a compressor that was just always inserted on the MixBuss and not changed I would definitely do that, but everything for me serves multiple purposes and I just hate recalling back settings if I don\u2019t have to",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1137094261368696984",
+    "author": "JONESY",
+    "date": "2023-08-04",
+    "content": "Hello everybody! The Sweetwater engineers could not help me with my situation so I am here for a last ditch effort <3haha. I was curious to the best way to route my current setup for recording and mixing.   VLC PRE > compressor>RME UCX II > Lynx Hilo > PMC speakers. I have RME connected to the PC through USB then the hardware loop (pre+comp) running in and out of the hilo then using spidf coax to connect to and from the RME. Monitor outs of hilo are running to the PMC 6-2s  and lastly using AES to monitor the stereo out of mix . My small brain still can't get things to work properly this way. I'm assuming its user error somewhere in the software routing? Any input would be extremely appreciated. Thank you for your time<3",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1144356319541866648",
+    "author": "lystell",
+    "date": "2023-08-24",
+    "content": "This is probably a dumb question. If I want to record a mono source and use a tube stereo compressor. Should I be worried about only using one channel at a time? I'm thinking mileage on the tubes etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1144356992631193672",
+    "author": "cian riordan",
+    "date": "2023-08-24",
+    "content": "Things like runtime, heat, power-on shock will have big effects on the life of a tube... way more than normal usage. I would 100% not be concerned with this... compress away.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1144360768440119356",
+    "author": "lystell",
+    "date": "2023-08-24",
+    "content": "Very nice to put my mind at ease about that. Compress I will. Thanks",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1155185853824508044",
+    "author": "Deleted User",
+    "date": "2023-09-23",
+    "content": "OK thanks ! \nBut i wonder what they mean by \"channel strip\" , does it mean he puts the plugin on EVERY track that he mixes (and then he uses this tool to eq,compress...etc each individual track).\nOr is it more a plugin that he puts on the master bus and everything goes into it ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1158695961191792661",
+    "author": "GaspardMurph",
+    "date": "2023-10-03",
+    "content": "So if I low pass a kick down to 150, any attack I hear is either the speaker / port or some upper harmonic happening ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1158696159683018803",
+    "author": "Nomograph Mastering",
+    "date": "2023-10-03",
+    "content": "Basically yes, but low pass have a slope so you\u2019re still hearing some higher stuff",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1159844807393431552",
+    "author": "bobby k",
+    "date": "2023-10-06",
+    "content": "does anybody know of any preset packs for trash2 (or a similar plugin) that would have the distortion/EQ curves to classic consoles, pres, compressors, etc?...wouldn't this be useful?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1172119179168579714",
+    "author": "Edward Rivera",
+    "date": "2023-11-09",
+    "content": "But tbh, eq goes a long way",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178188424608485416",
+    "author": "! Andy !",
+    "date": "2023-11-25",
+    "content": "not at the moment - I'm using the line out on the back so i can use the eq on it to affect audio signals within the daw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184009503218335784",
+    "author": "river",
+    "date": "2023-12-11",
+    "content": "I always feel like I'm ruining the stereo image when I wanna crush some stuff without m/s",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184030325890883664",
+    "author": "river",
+    "date": "2023-12-11",
+    "content": "That's why I love mid side, I can focus the balance between mono and stereo image better.\n\nI think the question I'm trying to ask, is there anything I'm missing out on when using M/S Vs L/R?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1184031869466066964",
+    "author": "Deleted User",
+    "date": "2023-12-11",
+    "content": "There\u2019s a lot you can do with just panning and arrangement. I\u2019d recommend starting there and then reaching for imaging tools when it calls for it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1185255040009633833",
+    "author": "Rob Domos",
+    "date": "2023-12-15",
+    "content": "Just reading through what you and @river were talking about and I\u2019d like to balance this perspective out a little bit.\n\nWhile I\u2019d agree that things like midside EQ can make things sound strange in a way I don\u2019t like, I\u2019m not shying away from decoupling the mids from the sides in general or saying M/S = Bad. Turning down the M channel on elements that I want to have be more background surrounding elements with a plugin like CenterOne is actually one of my most common mix moves and it sounds great.\n\nA good friend of mine who has made one of my favorite mixes of all time constantly talks about his use of M/S processing. I don\u2019t do much M/S other than levels and stereo imagining, but my boi does regularly and he sounds great. \n\nAll that to say: River,  It\u2019s worth being careful and listening to what could be getting fucked up in your midside processing, I wouldn\u2019t be M/S EQing personally, and you should generally only do M/S moves with speakers and generally not with headphones, but that doesn\u2019t mean that you should shy away from M/S all together if it sounds really good to you. Lots of great engineers are using it all the time.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1185264194929573980",
+    "author": "river",
+    "date": "2023-12-15",
+    "content": "I rarely do M/S EQ moves, but I am always EQing gently so they're usually safe moves.\n\nThank you for the advice about doing M/S with speakers. This is a thing I had not thought about!! Stereo vs binaural is something I forget about sometimes",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1185264426039906434",
+    "author": "David Fuller",
+    "date": "2023-12-15",
+    "content": "FWIW, when I end up using m/s eq it's for problem solving",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1185991490565066913",
+    "author": "Zack Hames",
+    "date": "2023-12-17",
+    "content": "If I wanted to analyze what a hardware EQ was doing, like an EQ curve, what programs do I need? I see plugin doctor being thrown around but I don\u2019t know if that works for hardware. \n\nI want to know exactly what the SSL EQ on our console is doing, just for science/fun/curiosity.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1186000677655290007",
+    "author": "Matt Huber",
+    "date": "2023-12-17",
+    "content": "Ozone Match EQ is excellent",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1186069474076524656",
+    "author": "Gerhard Westphalen",
+    "date": "2023-12-17",
+    "content": "If you feed the EQ something like noise or a sine wave (can do it using the generator in REW) then you can watch it live with the RTA in REW but it's not as nice as plugin doctor which shows you the frequency response changing live",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1195767091278643241",
+    "author": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "date": "2024-01-13",
+    "content": "What is the difference between an EQ and a filter? When doing lowpass stuff (especially when automated) I sometimes use an eq (like fabfilter pro q3) or a filter (fabfilter volcano) and I\u2018m not really sure why I\u2018m grabbing one over the other in any given situation \nIs a filter just an eq u use slightly differently or is there more to it?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1195911657268973619",
+    "author": "! Andy !",
+    "date": "2024-01-13",
+    "content": "even pretty simply. i.e Level balance -> clean up -> automation pass etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1200179099080077353",
+    "author": "lystell",
+    "date": "2024-01-25",
+    "content": "I watched the Eric Valentine video in which he showcased the UTEQ 500. I got very intrigued by how to analyze an eq move. Like if I want to \"replicate\" the hi shelf of a Maag EQ with something I have in disposial. Is it Plugin Doctor you use for this?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1200185122134163476",
+    "author": "lystell",
+    "date": "2024-01-25",
+    "content": "How about that! The distortion makes a lot of sense when you say it. I tried to replicate it by ear with another eq but something was missing. \nI'm thinking that something like saturation or transformer on Saturn would maybe get me something in that realm?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1200187284138504252",
+    "author": "Nomograph Mastering",
+    "date": "2024-01-25",
+    "content": "There are circuits with lots of complex non linear and interacting behaviors. MAAG/Nite EQ is not one of those and should be easier to model than most",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1200188478395269181",
+    "author": "Nomograph Mastering",
+    "date": "2024-01-25",
+    "content": "Let me say that I\u2019m not recommending modeling that EQ because I think it\u2019s great, I don\u2019t. Just noting that because you mentioned it it is easier to model than most",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1222759632515240007",
+    "author": "BoozleBAM",
+    "date": "2024-03-27",
+    "content": "I do like it thus far. I don't pan the mics hard R and L either, but rather at about 66 degrees, maintaining as much of the integrity of the kit image as possible. Makes a difference.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1226447850725048351",
+    "author": "BoozleBAM",
+    "date": "2024-04-07",
+    "content": "What does it mean when people say eq can be \"destructive\" to kick? I keep on hearing this. Because the only thing that I've found that works for my kick is to absolutely obliterate it with pulteq at 30hz and 5k. Sometimes even layering multiple pulteqs!  - That and taking a BIG scoop out of everything in and around 780hz. I'm experimenting with gating agressively in paralell, too. But, I digress a bit...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1227341336261431367",
+    "author": "Charlie Deane \"Hypn0.iRL\"",
+    "date": "2024-04-09",
+    "content": "What does your loudness look like for delivering to mastering? In the past when I spoke with my longtime engineer they told me they preferred that I don't even put a bus compressor on the print but now that I am branching out that seems to be an exception rather than a rule. Should also say that I recognized your name immediately, I had a chance to produce a mini mansions show some years ago and became a big fan of that band.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1227342901185347705",
+    "author": "cian riordan",
+    "date": "2024-04-09",
+    "content": "Oh fuck yea, MM forever! I usually just trim the input of my final limiter (almost always the Ozone maximizer) 5dB and call it a day. All of the compression/limiting/clipping thats happening on various busses beforehand stay the same. I try to not lean on the final limiting stage to heavily in building the 'loudenss' of the mix, but I know that's not the case for everybody. If there was an instance where it was really part of the sound, I'd just leave it and send it off. Any mastering engineer worth their salt should be OK working with whatever you send them. If there are glaring issues, they're likely to bring it up... but most mixers I know don't even peel back the limiter a little... so the loudness is fully baked into the mix.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1227352993301663796",
+    "author": "Nomograph Mastering",
+    "date": "2024-04-09",
+    "content": "The \u201csend me no bus compressor\u201d aesthetic (I have expensive ones!) thing is severely out of date",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254805320002306139",
+    "author": "h3x",
+    "date": "2024-06-24",
+    "content": "Anyone wanna share some tips on how u guys would go about mixing completely raw vocal recordings (no outboard pre or compression) straight into an apollo? Ive done this tons of times but would love to hear everyones workflows for this!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1254823001103401092",
+    "author": "NoahNeedleman",
+    "date": "2024-06-24",
+    "content": "This isn\u2019t for everyone, but a few big mixers like this technique. \n\nAfter you clean & clip gain, (RX is super helpful for plosives, mouth noises, de essing,) this is one of the only ways I know to take a vocal from raw to sounding like it was tracked well. \n\nThe concept is mostly about balancing a spitty compressor like an 1176 and a slower/warmer compressor like a Fairchild, and then bussing both of those to a new aux, then eq\u2019ing compressing saturating de essing like that was the vocal you weee given in the first place.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254823255961763940",
+    "author": "NoahNeedleman",
+    "date": "2024-06-24",
+    "content": "If you want vocals to sound expensive, COMPRESS THE SHIT OUT OF \u2018EM. \n\nYou don\u2019t wanna hear the pump, but you wanna hear every nuance in the performance.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254824184966807695",
+    "author": "NoahNeedleman",
+    "date": "2024-06-24",
+    "content": "Compressing like this introduces a new set of problems with esses & breaths, so its tradeoffs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256227734414168094",
+    "author": "BoozleBAM",
+    "date": "2024-06-28",
+    "content": "Anybody here eq the ever loving SHIT out of kick sometimes?? I'm talking massive scoops. Like, -10db at 794hz with a very wide curve... Like, really digging and scooping massively... And big scoop out of 300 with equally massive curve and sometime even layering eqs. I know this is terrible...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256240757887598672",
+    "author": "BoozleBAM",
+    "date": "2024-06-28",
+    "content": "I recorded the kick with a 7b and I'm basically turning that neutralish eq curve into a beta 52... Big scoop out of 300 and then a \"boost\" with the band pass at 3k. Mine's got a particularly bad resonance and 790 that I've gotta deep notch... I should upload a screen shot...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256242012147941416",
+    "author": "BoozleBAM",
+    "date": "2024-06-28",
+    "content": "Appreciate you saying this! And - While I favor doing everything with the mics, and eqing generally as little as possible, I've seen tons of pros do all kinds of massive - absolutely massive - shifts with EQ and compression to get what they want. I am going to have to dissect this setup when I'm done tracking drums (on the last song and I don't want to fuck with things now...), however. As I was mentioning above, this kick has the most absolutely SINISTER resonance at 790hz that is trying to fuck up the party, and I'm not sure if it's the head or the kick itself or what...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256478194903810181",
+    "author": "rawssx",
+    "date": "2024-06-28",
+    "content": "Go kiss the compressor",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1256478948267790367",
+    "author": "cian riordan",
+    "date": "2024-06-28",
+    "content": "Compress like you mean it, man.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1257391547813593179",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "Did you hard pan the shakers L and R? Quad tracked?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1257392694204825661",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "Just everything - The flamming (the two drum kits playing at the same time), the panning, the strong stereo sounds reflecting in L and R. It's just... a very wild and unconventional sound to me...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1257393676636917882",
+    "author": "BoozleBAM",
+    "date": "2024-07-01",
+    "content": "Oh, I get what you're saying completely. It's so counter to what I'm used to - and the drum sound I've tried to curate for myself. Like, I NEVER heard of two drums until this morning when I watched the video breakdown of that song! Also... I think as a drummer I tend to listen to things a little less objectively - because I imagine the snare should always be dead center, kick should be dead center - 18 crash on the right 16 on the left and so on and so forth. This track definitely challenged my concept of what a recorded drum kit \"should\" sound like - and mostly where it should sit in the mix. Panning and everything...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263717051730497627",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I would honestly still be using Audacity if it weren't for the huge drawback of it not being able to track more than 2 channels at once (and, Audacity imparts some type of compression onto all of it's incoming signals, I heard, which is also not cool...). Unbelieveable drawback... When it was time to upgrade to a DAW for multi-tracking a few years ago, I got online and all the nerds were saying that Reaper was the DAW G.O.D., so I went with Reaper. Have regretted it ever since. lol. I basically use it as a tape machine. I am very, very bad with Reaper. The End.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263832617258586206",
+    "author": "rawssx",
+    "date": "2024-07-19",
+    "content": "also isn\u2019t a mic and a preamp also the industry standard? but d4vd made a billboard no.1 (banger) on his iphone recorded thru his earphone\u2019s mic and still makes/records and releases songs just thru his phone using bandlab. Goes to show a good song is a good song and if one knows how to mix and knows what sounds good, thats the end. At the end of the day, music is a medium to translate feelings, and whatever works for you is the best.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267799633850011799",
+    "author": "BoozleBAM",
+    "date": "2024-07-30",
+    "content": "1. Why is it so easy to just absolutely NEUTER a track with eq? Like, I'm hearing things in the drums that I want to cut - 390hz or whatever, guitars too - and every time I pull some of it out, it sounds better, but I lose the impact, and the song doesn't move along as well as it did before. So I always end up just putting it back in... I've mainly been using Reaeq - Reapers stock parametric EQ, but I'm wondering if I need something different? Do I need to start messing with different eq slopes and shapes and whatnot??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267829974765801492",
+    "author": "BoozleBAM",
+    "date": "2024-07-30",
+    "content": "The fader is the first thing I reach for. If anything, my main concern is that I'm doing too little with my mixes - Hence my concern with the EQ thing...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267832043643998249",
+    "author": "BoozleBAM",
+    "date": "2024-07-30",
+    "content": "Here's what I'm kind of dealing with now, though - I watched this the other day: https://www.youtube.com/watch?v=Iqmsb6BqeRU&t=2s It was a really great peak inside a professionals process for me. The way this guy sends things out and compresses the drums bus, like... he's constantly weaving the sounds through all this gear. I've been wondering how people produce that incredible sound for a while now and this is my first view of a real mix. Like, my stuff is NEVER going to sound like that - The process... I can see how he created such depth, but I mean... my mixes are WAAYYY far off from this. lol. It's encouraging and discouraging at the same time - Sobering to see. The gear and the weaving in and out, I mean... it makes a difference... Like, he's got that EXTRA shit going on...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1270561271535767594",
+    "author": "PKirk",
+    "date": "2024-08-06",
+    "content": "Haha totally. There\u2019s gotta be a name for it. Its everything. Caffeine levels. compression can totally change everything too. You\u2019re always gonna be chasing the rabbit",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1272665810443440171",
+    "author": "Nomograph Mastering",
+    "date": "2024-08-12",
+    "content": "Equilibrium has sub modes for each type - and in low and high pass modes there are all pass versions. That and an overall polarity flip if needed will give you the behavior you need",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274524171539316766",
+    "author": "BoozleBAM",
+    "date": "2024-08-17",
+    "content": "Just curious: I've been watching videos and reading about utilizing submixes the past few days. As far as I can tell, there isn't much of a reason to use them other than maybe saving on cpu by reducing the amount of plugins, or maybe if you want to make a general eq move or something, which i don't really find myself doing very often. Basically an old technique that was carried over from the analog days of people having limited channels... Am I missing something here?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274824747024384093",
+    "author": "spectrummasters",
+    "date": "2024-08-18",
+    "content": "On average I\u2019d say 1.5 db peak gr reduction of the mix is happening in neutron compressor , on the 2 bus just for a little control  and it\u2019s 50% dry/wet .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1279450856709816321",
+    "author": "bobby k",
+    "date": "2024-08-31",
+    "content": "A very good friend is asking for a preamp/channel strip recommendation that is an entry level option and sounds great. I think budget is like $1k, would love to have EQ and compression in it. I\u2019ve suggested the LA610 from UA as well as JoeMeek VC1Q. Anything else you guys are fond of in that lane? I suppose 500 series could be a consideration too.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1281277428328562778",
+    "author": "lystell",
+    "date": "2024-09-05",
+    "content": "This might be a dumb question. If I have a dual channel-tube compressor/limiter. Should one be weary of using only one side for recording purposes? I\u2019m thinking difference in tube lifespan etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1289566043009712192",
+    "author": "spectrummasters",
+    "date": "2024-09-28",
+    "content": "Thank you Noah . I follow what you\u2019ve said there about the 700-2khz area being so much of the sound \u2026..which is where I\u2019m having this \u201cdilemma \u201c \u2026thank you also for the reminder re : panning . Cians mixes always educate me with respect to panning . I think it\u2019s time to listen again to some st Vincent and the Jane\u2019s addiction record . Thanks Noah for your ideas",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1289567025785602131",
+    "author": "spectrummasters",
+    "date": "2024-09-28",
+    "content": "When you\u2019re panning them out wider are you mono ing the lower frequencies  / eq\u2019ing them m/s to keep the mix from getting lopsided and / or too much low end in the sides ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295331679698817045",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "hi all, new guy here, and I guess I have a pretty simple question, and might be kinda loaded, but what does absolute phase shift sound like?\n\nIve been learning a heck of a lot from the LWMR series on yt, and I've been approaching my mixing philosophy from the lens of an electronics designer.\n\nIt's pretty well accepted in the electronics/audio research world that absolute phase shifts aren't really audible, and that the moment audio is played in a space that has reflections, it's imperceptible. The only real way to hear a phase shift is to be in an anechoic chamber and play a specialized test signal (like a sine wave with timed phase shift pulses to create a slight warble)\n\nI get how on individual tracks if you EQ something, the phase shift can affect how that track interacts with another track when summed, but I often hear that for example, Jon puts a 16k boost then a 27k low pass on the master that creates a phase bump that he likes. Which theoretically shouldn't be audble... Shouldn't it be some other reason like the VT5 saturating a special way?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295403161443631205",
+    "author": "kidcutler",
+    "date": "2024-10-14",
+    "content": "Not sure if it answers the question but he also used the vintage eq from ozone for the same trick on vocals, the ozone doesn\u2019t go as high so i think it doesn\u2019t work on the mixbus but it may be a \u201cpleasurable\u201d phase thing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295405360374480982",
+    "author": "cy (sigh)",
+    "date": "2024-10-14",
+    "content": "there's are people way more versed on this but an absolute phase shift would be a polarity flip or 180 degrees. besides very specific filter types any EQ move is usually changing the phase to PART  of the signal to get the new freq response. it is not absolute \n\nEQ changes the phase to change the frequency (not the other way way around).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295405533393850472",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "Hmm I think if I were to reframe my question, is how come phase shift is said to be the reason behind so many things, when in reality, simple eq phase shifts aren\u2019t actually audible",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295406183905099826",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "Hmm well doesn\u2019t EQ change amplitude at a given frequency and the by product is a phase shift",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295408864501436527",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "Yeah this is what I was thinking as well on individual tracks. It\u2019s just say you EQ your master. Does the phase shift have anything audible to do with the sound? (Also thanks for the reply!)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295538444352753707",
+    "author": "NoahNeedleman",
+    "date": "2024-10-14",
+    "content": "Phase coherence as it relates to speakers vs how an eq shifts phase within a single track in mixing are two entirely different worlds. Not worth considering how they relate. \n\nFor what it\u2019s worth, I almost never pay attention to how an eq effect phase except for when filtering out low end, as it actually does create a resonant peak just above the filter point. \n\nOtherwise the only question that really needs answering is \u201cis this better for the track?\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295557550569296004",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "Hmm could you speak more to why they\u2019re completely different worlds? From my POV, phase shifts are phase shifts, they don\u2019t vary by what condition they\u2019re in. The xover in a speaker are filters that impart the same high and low pass phase shifts in an EQ (and hence the same phase response and group delay). But I digress, that wasn\u2019t my original question lol. Original question was whether phase shift from EQ on the master is audible?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295558287357640704",
+    "author": "tinkerjef",
+    "date": "2024-10-14",
+    "content": "And I guess if I were to choose a specific example, it\u2019d be Jon saying boosting 16k and low passing 27k creating a pleasing phase bump, where psychoacoustic research tells us phase shifts like that aren\u2019t audible",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295559363238428793",
+    "author": "cian riordan",
+    "date": "2024-10-14",
+    "content": "I very rarely hear or notice phase shift on single source EQ moves. If I do, it's often on low end or sub material... especially kick drums or 808s. I'll find they punch a different way... sometimes good, sometiems bad... so I tend to be a little more judicious with moves down there.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295559402345992265",
+    "author": "Dereck Blackburn",
+    "date": "2024-10-14",
+    "content": "I thought it might have been because of the preference for that sort of EQ curve.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1295563411484315719",
+    "author": "peterlabberton",
+    "date": "2024-10-14",
+    "content": "Funny you mention this\u2014I\u2019ve also never been particularly keyed in to phase shifts in a single source, but I do often try a high pass on a drum buss to see if it gets the punch of the kick to hit in a better way. Assuming it\u2019s not adding tons of gain\u2026 my best guess is that\u2019s just the phase shift playing with the envelope of the attack? I think this feels obvious to me but I guess I\u2019ve never explicitly thought \u201cthat\u2019s because of phase shift\u201d, more just \u201cthat\u2019s because of the high pass\u201d.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295609932074455141",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "I\u2019m fascinated with phase and waves . I expect this might all be familiar to you but it seems there\u2019s some handy info about phase and audio here https://mycourses.aalto.fi/pluginfile.php/666520/course/section/128564/Jon%20Fagerstr%C3%B6m_1929997_assignsubmission_file_AAT_Seminar_paper_Phase_Equalization_JF_FINAL.pdf?time=1558421096226#:~:text=Phase%20equalizers%20are%20filters%20that,response%20of%20a%20given%20system.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295610318994804768",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "Do you have izotope eq ? There\u2019s a setting in the preferences that says something like \u201cshow all curves \u201c click on it and it adds a time display into the graphic on the gui",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295610554114773075",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "You can then go into the little sidebar on the tab for each eq point and you ll see a slider that allows you to move the eq point from linear to minimum phase",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295610860101832744",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "It\u2019s an interesting tool to be able to slide between eq types and not have to switch them as in FabFilter .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295611979590799410",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "Another one is to take a sine wave at 100 hz and put in a high pass filter and start moving it around and look at the consequent response post filter on the sine wave",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295613562055692309",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "I recall it as him pointing out that although we look at the Hz number on an eq we should be aware that it may have a pronounced effect on our perception of an area of audio elsewhere . I\u2019ve heard this described as the yin yang effect . So if on the master I feel it\u2019s too bright , I could choose to work in the low end with boosts in a certain place   As much as cuts in the high end , in order to affect that perception of brightness",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295613794273333313",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "Jon using a 6db low pass on many of his channels",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1295613948401553421",
+    "author": "spectrummasters",
+    "date": "2024-10-14",
+    "content": "As much as we all know the high pass is quite dramatic in the low end",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1308921255625228390",
+    "author": "Zack Hames",
+    "date": "2024-11-20",
+    "content": "Also, if the music is supposed to be listened to loud\u2026.do some EQ moves with the speakers up a bit. I find EQ moves translate better when I mix with some decent volume. Mixing quiet makes everything so out of balance for me especially low end and high end",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1311738351161839749",
+    "author": "spectrummasters",
+    "date": "2024-11-28",
+    "content": "\u2026.SSL comp on the 2 bus , anti vocal pumping strategies . \nTLDR , I love the SSL Bus comp on the 2 bus . 10ms attack usually \u2026release program dependent (not usually auto ) and for about 2 -3 db gain . I got rid of MB compression on my mixbus and do earlier . So , I love the character of the SSL comp as a finisher , glue etc . Only problem . I find it impossible sometimes to avoid vocal pumping . Are there any old vet strategies for this ? I\u2019ve tried pinning the vocal on its bus pre 2 bus in an effort to anchor it in the mix , but the dynamics I lose in the vocal by so doing still don\u2019t really seem to earn me much improvement against the pumping of the SSL",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1312337062862655548",
+    "author": "spectrummasters",
+    "date": "2024-11-30",
+    "content": "FWIW , I think for me it\u2019s only been once I\u2019ve really been able to hear compression that any bussing I have done made any sense lol . When we start mixing there\u2019s all this , what\u2019s your chain , what\u2019s your template , side chain , don\u2019t side chain \u2026..and you can\u2019t really do anything with any of that info until you\u2019ve spent ages learning to hear the character of compression imho",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313236853050183780",
+    "author": "BoozleBAM",
+    "date": "2024-12-02",
+    "content": "My biggest thing with compression is how it changes the \"pulse\" of everything. How do you guys get around that?? It totally changes the pocket - Compression. I avoid it whenever possible for this reason alone. I do see it as a tool with tons of potential to create different sounds, though... Help.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313237598273142914",
+    "author": "BoozleBAM",
+    "date": "2024-12-02",
+    "content": "Right. That's my biggest problems with most compressors - Those parameters are fixed. WHich makes zero sense to me...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313237801827045486",
+    "author": "Jemody",
+    "date": "2024-12-02",
+    "content": "That tends to be the case with opto compressors from what I've found, if you get a nice vu or fet compressor you usually have more options when it comes to it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313238500933636249",
+    "author": "spectrummasters",
+    "date": "2024-12-02",
+    "content": "@BoozleBAM hey man hope you\u2019ve been well . \n\nI find one of the things I use compression for most often is to really find the pocket and make things dance between elements",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313239464566591569",
+    "author": "spectrummasters",
+    "date": "2024-12-02",
+    "content": "Gonna link you to  a couple of vids of JJP rapping on the concept of compression",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1313270194944344125",
+    "author": "BoozleBAM",
+    "date": "2024-12-02",
+    "content": "Oh, snap - I was thinking of \"Ratio\" when I was talking about fixed parameters. My bad. That bothers me a little bit too, though - I feel like all the parameters on a compressor should be totally customizable... Thoughts? And definitely I can't STAND opto comps with fixed attack and release (fairchild)...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313278464270274580",
+    "author": "Jemody",
+    "date": "2024-12-02",
+    "content": "Slower compressors like the Fairchild I  like to use as glue to smooth everything out at the end. They're not meant to be the first compressor in a chain from what I learned",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313320627318427708",
+    "author": "montrose recording",
+    "date": "2024-12-02",
+    "content": "not to be that guy, but i believe the fairchild was designed to be first in \u2018the chain\u2019 fwiw.  it was likely designed to be the only compressor used on the session. like those scenes from beatles get back",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313322985913847849",
+    "author": "Jemody",
+    "date": "2024-12-02",
+    "content": "Might have a warped view on the fairchild since it seems to be advertised as a limiting compressor",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1313324021110145115",
+    "author": "montrose recording",
+    "date": "2024-12-02",
+    "content": "well,  all the software is modeled on a compressor designed when there was dramatically fewer optins",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1326381677416808469",
+    "author": "BoozleBAM",
+    "date": "2025-01-07",
+    "content": "Another question (although I probably already know the answer) - What's everybody panning their room mics at?? I do great with panning the close mics, but the rooms are the one thing I've never been able to settle on panning - wise. Sometimes I think they sound good hard R and L (rarely), sometimes 76%, sometimes, 33%, sometimes 47% - whatever. I just... those are the one element of the kit that I can't ever settle on panning-wise. And, truthfully, most of the time I think they sound better dumped from the mix entirely, but ya know - that's just me and my room probably.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1326388988180955156",
+    "author": "Zack Hames",
+    "date": "2025-01-07",
+    "content": "HELL YEAH\nHonestly only thing I don\u2019t pan hard are Tom mics and hihat.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1334540681661906974",
+    "author": "BoozleBAM",
+    "date": "2025-01-30",
+    "content": "I know for SURE I was using some nasty cabling when I did all these scratch tracks - The compression REALLY brought up the static/ noise whatever. I have much nicer cables now.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1341084289441202208",
+    "author": "Josh",
+    "date": "2025-02-17",
+    "content": "And just because they\u2019re dark doesn\u2019t mean the high end isn\u2019t analytical. I could finally hear exactly what my de-esser was doing and low passing became more important. But as far the \u201cprofile\u201d of the high end, it rarely translates for me if Im sent a session where I have to really sculpt the high end material in it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345065106148688005",
+    "author": "BoozleBAM",
+    "date": "2025-02-28",
+    "content": "Thank you so much for this, Ross!!! I'm gonna have a blast sifting through these methods this afternoon... With the Rough Ryder mention - Are you referring to the compressor by Audio Damage or is there another one (distortion plugin?)? Also, i was thinking about this recently: I wonder if one of the reasons I'm not super stoked with my room mic sound is because i recorded them through the spdif on the back of my interface Yeah - When i was getting started, i didn't have that many channels, so i kind of \"sacrificed\" my room mics by sending them through the spdif inputs so that i could use my pres for more important stuff. They honestly don't sound bad to me, but i was wondering if that could be a reason why i just never got them to fit well in the mix - crappy spdif or something just not gelling well. That's probably a silly thought.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345257037893730435",
+    "author": "cian riordan",
+    "date": "2025-02-28",
+    "content": "Some specific EQ notes:",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1347622416922181632",
+    "author": "hyanrarvey",
+    "date": "2025-03-07",
+    "content": "Cause the fender hotrodded is basically a marshall so like grab the Randall eq it weird to where it makes the JCM chorus part or whatever massive",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1349073473057722571",
+    "author": "Rollmottle",
+    "date": "2025-03-11",
+    "content": "hire it out. if your goal is to release music, you don't need to learn how to mix.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1399445168024719420",
+    "author": "lystell",
+    "date": "2025-07-28",
+    "content": "Been reading up and get it now. My bad. Back to compressors \ud83d\ude42",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1401124577702318111",
+    "author": "spectrummasters",
+    "date": "2025-08-02",
+    "content": "I expect this will be common knowledge to the vets but might be new to others (as it is to me ) and thought it looked a fascinating technique im going to try and wanted to share :\n\nI just watched Steve albini describe how he would use an equalizer in a feedback loop to generate a resonant frequency, then blend that tone with the original kick drum signal to allow him to choose a complementary pitch/note with the eq and via the feedback loop also add sustain to taste . \nIf others know a better routing please do correct me : i think he sent the kick to the eq as an aux (not an insert), then brings the return back in a new channel , then sends that channel back to the eq again, creating the feedback loop and blends that into the mix to support the untreated kick. \nI feel this is a little different to regular ITB parallels or VOG processing in that he\u2019s creating a feedback loop/resonance at a chosen note \u2026sort of like synthesising an 808 ? Kinda genius. \n(This is happening OTB with hardware )",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1404219295764054117",
+    "author": "Brian Reynolds",
+    "date": "2025-08-10",
+    "content": "You're probably right. But if mixing is a distant third behind drums and production. With a 30k budget over a year. LA resale market to sift thru. 1k compressor doesn't seem excessive but also not a necessity with the plugins as you mentioned",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1404300309198667888",
+    "author": "Jake Gillespie",
+    "date": "2025-08-10",
+    "content": "Agreed.. a great compressor wont fix a cheap mic pack. glad @M J is putting money in mics. and treatment; That will get you good tones so quick (so long as you're good at drums and tuning them which i know @M J is).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1413637766595608696",
+    "author": "Colin Althaus",
+    "date": "2025-09-05",
+    "content": "(Without EQ that is)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1416106307970138173",
+    "author": "M J",
+    "date": "2025-09-12",
+    "content": "Thank you, I think I was starting to lose the forest for the trees when I heard you and him discuss that point and forgot that he did say he does receive things already compressed.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1437135305164718313",
+    "author": "Zack Hames",
+    "date": "2025-11-09",
+    "content": "I pan the first one hard and then double with the other panned opposite. I may turn up the current one a slight amount.\n\nAlso when I do the doubles I always have to turn both down a few dB to be able to hear everything else.\n\nI\u2019m also super used to doing it, so I don\u2019t know how else I would do it. I just make micro adjustments to the levels as needed",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1455983819013230796",
+    "author": "Adam Thein",
+    "date": "2025-12-31",
+    "content": "That being said one of my favorite bus compressors is the 5050 unfortunately.  But I just don\u2019t use it that way.  Anything I run through it I commit and move on.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1458120959176212613",
+    "author": "BoozleBAM",
+    "date": "2026-01-06",
+    "content": "He's out of town for a week but looking forward to talking when he gets back. I really didn't like what he did with the drums on the first mix-around, but he's mostly fixed it. This was our first hiccup, I'd say.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1460496284174778601",
+    "author": "bobby k",
+    "date": "2026-01-12",
+    "content": "Ive been catching some weird phase stuff happening on parallel compression during recording drums. Half normal my preamps output on the patch bay and slammed into an 1176, or the shure level loc spinoff I have. I\u2019ll nudge by samples or phase flip in PT to remedy the situation but can\u2019t seem to escape it. Any tips?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1464607475885015132",
+    "author": "spectrummasters",
+    "date": "2026-01-24",
+    "content": "That i am not yet guru level certain about pan decisions on live drums!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1469183691136831674",
+    "author": "Bryan DiMaio",
+    "date": "2026-02-05",
+    "content": "In terms of 500 series compression for vocals, I'm a *huge* fan of the Buzz Audio Essence",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472072726993960962",
+    "author": "Will Melones",
+    "date": "2026-02-13",
+    "content": "Wouldn\u2019t it also even out the transients in a more consistent way than compression? Lop the jagged peaks off to zero, and then regenerate all the transients equally and controllably?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472072982758162664",
+    "author": "Bryan DiMaio",
+    "date": "2026-02-13",
+    "content": "depends on the compressor (technically you can use lookahead/super fast attack and a very high ratio to do the same thing) but yea",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472083946698444800",
+    "author": "masteredbyjack",
+    "date": "2026-02-13",
+    "content": "To illustrate a good example of the difference and why (guessing) Jon would want to clip rather than do this (which would control the transients as you describe)\n\nIf you use a long look ahead, call it a limiter with a long look ahead. That will let the processor know about the transient well before it hits the GR circuit, thus avoiding distortion/harmonics (of course there still could be some artifacts). But even though there will be samples at the threshold, it won\u2019t be a straight line waveform as if you clipped it. It is pushing the waveform down. The waveform itself is actually changed still, so it is not exact but it\u2019s different than clipping.\n\nA clipper just squares it off. Hence harmonics.\n\nThis is why you can limit/compress an instrument like piano, which has a tendency to hear distortion easily, when clipping it would be a disaster (unless you are going for that)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472981029831573779",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "any idea how vocal effects that dont involve panning can end up making a vocal sound not just phase-y, but also like its literally being panned in the stereo field?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472985455623409870",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "this might be more of a #\ud83d\udc69\ud83c\udf73mixing-talk question, but any general tips and chain placement information on a plug in like vocal bender? or any pitch and formant adjustments and minimizing the robot/phase sound that tends to quickly create? \nfor ex., would it be better to tune -> bend -> compress or bend -> tune -comp? (or maybe only vocal bend/pitch shift after compression and level is set on a vocal?)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472987218221207708",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "after double checking, im thinking it was cla vocal steorizer/spreader doing its normal thing on top of some sort of delay or issue with the tune during recording (the recording itself has minimal processing but i remember a delay issue for a bit). still pretty weird since it kind of came out sounding like a perfect circular pan on the lead vocal. Thanks again for your input",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472988711494094899",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "so youre not too worried about the compressor then? curious if a less dyanmic signal generally pitch shifts easier",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472988884047630441",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "ill try to put some heavy compression between the tune and bend and experiment with it next time and see",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472994582085238930",
+    "author": "spectrummasters",
+    "date": "2026-02-16",
+    "content": "Looking at that chain , if I\u2019m reading it right ? depending on what\u2019s active in your cla vocals \n\nYou\u2019re sending a parallel compressed vocal , then phased  , potentially with the cla delay and verb into a de esser then a channel strip then another CL76  then whatever neutrons got instantiated , then sending to some verb and delay ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472995564538036234",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "usualyl i only use the stereo function minimally so it doesnt pop up. i read that you can pan the vocal inwardly evenly and that will limit the scope of the clas panned/stero effects",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1472996471740829727",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "i was advised here to try to start and rely on eq and comp, ill have to figure out saturation and other effects on my own later ig",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473001208158490685",
+    "author": "spectrummasters",
+    "date": "2026-02-16",
+    "content": "I\u2019m doing a little analog compression eq and saturation on the way in so don\u2019t really need plugins when recording \n\nPro q is in . And a little Valhalla vintage just for some sauce for the artist , about 12 per cent with some pre delay . All good",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1473001429387186250",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "saturation is a good idea. i feel like a lot of what these allin ones and chains are doing sometimes is mostly compression and saturation for that extra bite and shine ig",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473001634320613584",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "i want to switch to logic jsut for AU plugins being eaasier to get. but i dont want to stop learning pro tools. maybe i should start mixing in logic after tracking myself",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473003597322260644",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "you think a good starting point is eq, compressoin, and saturation to get most of that sound?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  }
+]

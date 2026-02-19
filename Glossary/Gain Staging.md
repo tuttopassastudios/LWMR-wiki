@@ -45,3 +45,12 @@ In #mixing-talk (706 gain staging/levels messages), gain staging is discussed pr
 - [[Recording and Tracking Workflows]]
 - [[Compression Techniques]]
 - [[Mix Bus Processing]]
+
+## Beginner Context (from #newbie-questions)
+
+"What is gain staging?" is one of the most common #newbie-questions. Slow Hand's explanation (11 reactions) is the channel's definitive answer:
+
+> [!quote] Discord Source — Slow Hand (2022-10-31) — 11 reactions in #newbie-questions
+> "Gain staging is about finding the optimal amount of gain at every stage of the recording and mixing process. Good gain staging allows you to get the best fidelity out of a recording by preventing things from creating unwanted distortion or amplifying unwanted noise. OR if you are seeking some distortion and compression it's about turning up the gain enough to give you the amount that you're seeking from your tools."
+
+See [[Beginner FAQ#Recording Basics]] and [[Getting Started with Music Production]].

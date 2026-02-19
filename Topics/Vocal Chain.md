@@ -225,3 +225,8 @@ In VariAudio, deleting an analyzed segment disables pitch correction for that sp
 > Key contributors: David Fuller (polar pattern primer — 14 reactions), Nomograph Mastering, Bryan DiMaio, Gerhard Westphalen
 > Date range: January 2024 – February 2026
 > See also: [[nerd-talk Channel Summary]]
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Beginner vocal chain context:** oaklandmatt (6 reactions): "1. Sing a lot every day. If you don't, no other advice matters. 2. Hire a decent vocal coach." chrissorem (6 reactions): "Most people hear tuning/intonation better with a bass element in the mix." BatMeckley (4 reactions): "Bounce all your vocals from beat 1. Make a stereo instrumental bounce. Tune and de-ess to your hearts content." 47 vocal production messages categorized from beginners.
+> See also: [[Beginner FAQ#Vocal Production]]

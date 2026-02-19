@@ -12,7 +12,14 @@ modified: 2026-02-18
 > [!info] Map of Content
 > Central hub for all mixing-related knowledge in this vault.
 >
-> **Source channels:** #daw-talk, #mixing-talk (48,084 messages — largest processed channel), #recording-talk
+> **Source channels:** #daw-talk, #mixing-talk (48,084 messages — largest processed channel), #recording-talk, #newbie-questions
+
+---
+
+## Getting Started
+
+- [[Beginner FAQ]] — most common beginner questions with curated expert answers
+- [[Getting Started with Music Production]] — first steps, gear priorities, DAW selection, learning paths
 
 ---
 

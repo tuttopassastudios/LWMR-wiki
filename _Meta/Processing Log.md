@@ -666,6 +666,88 @@ For each channel processed, record:
 
 ---
 
+### #newbie-questions
+
+- **Channel:** #newbie-questions (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** February 2021 – February 2026
+- **Messages:** 9,859 raw → ~8,607 substantive (>20 chars, non-bot, non-GIF/emoji-only) → ~2,405 keyword-categorized
+- **Unique authors:** 262
+- **Pinned messages:** 15
+- **Q&A pairs extracted:** 1,173 (questions paired with verified expert answers)
+- **Expert substantive messages:** 4,648 (54% of substantive — unusually high expert-to-beginner ratio)
+
+**Category Message Counts:**
+| Category | Messages | Expert |
+|----------|----------|--------|
+| Troubleshooting | 595 | 292 |
+| Career & Learning | 332 | 175 |
+| Mixing Basics | 331 | 174 |
+| File Management | 326 | 182 |
+| Gear Recommendations | 297 | 136 |
+| DAW Workflow | 283 | 127 |
+| Mastering Basics | 273 | 164 |
+| Music Theory & Arrangement | 227 | 116 |
+| Recording Basics | 116 | 59 |
+| Plugin Recommendations | 102 | 49 |
+| Monitoring & Headphones | 93 | 39 |
+| Getting Started | 77 | 37 |
+| Vocal Production | 47 | 23 |
+| Microphone Selection | 36 | 20 |
+| Acoustic Treatment | 36 | 20 |
+
+**Pages created (2 topic + 6 glossary):**
+- [[Getting Started with Music Production]] — first steps, gear priorities, DAW selection, learning paths, career advice
+- [[Beginner FAQ]] — organized Q&A reference covering all 15 extraction categories with curated expert answers
+- [[Phantom Power]], [[XLR]], [[Ground Loop]], [[Proximity Effect]], [[Loudness Normalization]], [[DI Box]]
+
+**Pages enriched (14):**
+- [[Budget Gear Guide]] — first interface/mic recs, beginner gear priority
+- [[Acoustic Treatment Guide]] — "do I need treatment?", foam myths, closet booth
+- [[Vocal Chain]] — beginner vocal chain advice
+- [[Compression Techniques]] — beginner-oriented compression explanations
+- [[Reverb and Delay Techniques]] — "how much reverb?" questions
+- [[Vocal Mixing]] — beginner vocal mixing questions
+- [[DAW Comparison]] — "what DAW should I get?" discussions
+- [[Gain Staging]] — "what is gain staging?" beginner explanations
+- [[LUFS]] — "how loud should my master be?"
+- [[Buffer Size]] — "why am I getting crackles?"
+- [[Sample Rate]] — 48k recommendation (pinned, 59 reactions)
+- [[Session Templates and Organization]] — beginner session setup
+- [[Recording and Tracking Workflows]] — basic recording process
+- [[Music Business Pricing and Rates]] — "should I work for free?"
+
+**Channel summary:** [[newbie-questions Channel Summary]]
+
+**MOCs updated:** [[Mixing]], [[Recording]], [[Workflow]] — added links to Beginner FAQ and Getting Started
+
+**Identified experts:**
+- **Nomograph Mastering** (599 substantive, 88%) — Mastering basics, sample rate (59-reaction pinned post), troubleshooting
+- **cian riordan** (478 substantive, 90%) — File management, troubleshooting, mixing basics, career advice (1,203 total reactions — highest in channel)
+- **Bryan DiMaio** (371 substantive, 86%) — Troubleshooting, file management, DAW workflow
+- **Zack Hames** (325 substantive, 94%) — Troubleshooting, gear recommendations, mixing basics
+- **hyanrarvey** (301 substantive, 71%) — Troubleshooting, DAW workflow, quick-take advice
+- **Rollmottle** (277 substantive, 86%) — Mastering basics, DAW workflow
+- **David Fuller** (236 substantive, 87%) — Mastering basics, gear recommendations
+- **NoahNeedleman** (230 substantive, 89%) — Mastering basics, mixing basics, community moderation
+- **spectrummasters** (203 substantive, 89%) — Mixing basics (25 msgs), career/learning
+- **Slow Hand** (182 substantive, 91%) — Troubleshooting, career/learning, gain staging (highest avg msg length: 285 chars)
+- **Adam Thein** (172 substantive, 88%) — Troubleshooting, DAW workflow, file management
+- **Eric Martin** (146 substantive, 99%) — Troubleshooting, mastering basics (highest substantive rate)
+- **BatMeckley** (131 substantive, 90%) — Troubleshooting, career advice, taste development
+- **oaklandmatt** (103 substantive, 93%) — Music theory, mixing, mastering, songwriting (channel creator)
+- **LAPhill** (67 substantive, 94%) — Career/learning, mastering feedback etiquette (18-reaction pinned)
+
+**Notes:**
+- BoozleBAM is the most active poster (1,098 substantive messages) but is explicitly a learner — NOT an advice source. Their questions are valuable for understanding what beginners actually ask
+- 54% of substantive messages come from verified experts — an unusually high expert-to-beginner ratio
+- The channel has a notably supportive, patient tone with career/emotional guidance alongside technical answers
+- Nomograph Mastering's sample rate post (59 reactions) is the single most-reacted message and the channel's definitive technical contribution
+- Activity by year: 2021: 1,108 | 2022: 1,010 | 2023: 2,139 | 2024: 3,090 | 2025: 2,071 | 2026: 441
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -682,3 +764,4 @@ For each channel processed, record:
 | #atmos-talk | Jul 2021 – Jan 2026 | 4,539 | ~3,950 | 1 (+4 glossary) | 0 |
 | #biz-talk | Feb 2021 – Feb 2026 | ~3,400+ | ~2,800+ | 8 (+5 glossary) | 0 |
 | #mixing-talk | Aug 2021 – Feb 2026 | 48,084 | ~41,904 (~14,481 categorized) | 8 (+4 glossary) | 0 |
+| #newbie-questions | Feb 2021 – Feb 2026 | 9,859 | ~8,607 (~2,405 categorized, 1,173 Q&A pairs) | 2 (+6 glossary) | 0 |

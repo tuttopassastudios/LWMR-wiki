@@ -158,3 +158,8 @@ The #recording-talk community strongly advocates for committing to sounds during
 > **Key contributors:** EliHeathMusic, thegreatcarsoni, Felipe De Mari Scalone, gaspardm
 > **Message volume:** ~80 messages on dual-mic vocal workflow, Low Latency Monitoring, Apollo aggregate device, and multi-interface I/O
 > See also: [[pro-tools Channel Summary]]
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Basic recording process context:** 116 recording basics messages categorized from beginners. Slow Hand (11 reactions): detailed gain staging explanation covering all stages from mic preamp to final mix. oaklandmatt (13 reactions): "Always think about what you're trying to accomplish at any given stage." BatMeckley (12 reactions): Hardware inserts on budget interfaces cause phasing issues — avoid for beginners.
+> See also: [[Beginner FAQ#Recording Basics]], [[Getting Started with Music Production]]

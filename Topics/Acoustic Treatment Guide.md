@@ -262,3 +262,8 @@ Jasper Boogaard installed Gerhard Westphalen-designed ceiling clouds: "the low e
 > Key contributors: cian riordan, Slow Hand, David Fuller, peterlabberton, francoslate, Rollmottle
 > Notable: Slow Hand's tube trap resource ZIP (13 reactions, pinned reference). Extensive subwoofer integration discussion (77 msgs).
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **"Do I need treatment?" context:** One of the most common beginner questions. Expert consensus: yes, and it matters more than mic or interface upgrades. cian riordan (23 reactions, pinned): "Recommending a 4k converter based on 'audible conversion quality' isn't helpful if the consumer doesn't have a million other ducks in a row first — room treatment, adequate monitoring, proper gainstaging." Foam is universally panned as ineffective. Closet vocal booths are discussed as budget alternatives but not recommended for mixing.
+> See also: [[Beginner FAQ#Acoustic Treatment]], [[Getting Started with Music Production]]

@@ -111,3 +111,8 @@ Slow Hand discovered that deliberately overdriving Valhalla VintageVerb's input 
 > **Channel:** #mixing-talk — **Date Range:** 2021-08 to 2026-02
 > **Key contributors:** chrissorem, Slow Hand, BatMeckley, cian riordan, NoahNeedleman
 > **Message volume:** 1,796 categorized messages
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Beginner reverb context:** Slow Hand (4 reactions): "You can sneak in some early reflections from a reverb to add space around the vocals without sounding overtly spacious. That should give the sound some depth without reading as 'processed.'" Common beginner questions include "how much reverb is too much?" and using reverb to create depth without making mixes sound washed out.
+> See also: [[Beginner FAQ#Vocal Production]]

@@ -29,3 +29,8 @@ Buffer size is one of the primary controls for managing the tradeoff between lat
 ## See Also
 
 - [[DAW Comparison]]
+- [[Troubleshooting DAW Issues]]
+
+## Beginner Context (from #newbie-questions)
+
+"Why am I getting crackles?" is one of the most common troubleshooting questions from beginners. The answer is almost always buffer size: increase to 512 or 1024 samples during mixing, use 64-128 only when tracking with software monitoring. See [[Beginner FAQ#Troubleshooting]].

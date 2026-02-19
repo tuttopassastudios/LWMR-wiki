@@ -1,0 +1,2832 @@
+[
+  {
+    "id": "875840389720981504",
+    "author": "cian riordan",
+    "date": "2021-08-13",
+    "content": "A tangent\u2026\n\nI\u2019m lucky to have spent many years in a great studio with lots of great drums & gear\u2026 not to mention being mentored by one of the great engineers of our time. Having this perspective is massively useful in mixing other peoples tracks, because I feel I have a north star of what good drums can sound like if they\u2019re recorded and performed properly. It used to be that my starting point for mixing drums were working with tracks that I had recorded myself\u2026 and most of the above problems were solved before the mix stage. These days, with smaller budgets and time constraints, its very rare that this is a possibility.\n\nI\u2019m including this drum tracking session from a few years ago that I recorded at Barefoot. It was for a project that Matt was producing that never saw the light of day. But we went all out with the drum setup in the big room, through the console, and had a great drummer. This might be useful for some people who have never gotten properly recorded drum tracks\u2026 to get a sense of how good thigns can sound before the \u2018mix\u2019 stage. These are the tracks that were printed into Pro Tools off of the console, and the three busses were prints of the outboard compressor busses we were using while monitoring. It\u2019s unlikely these busses would get used in mixing, but they\u2019re a good reference to what we were listening to in the room while we were tracking. But as you\u2019ll notice, the individual drum blend can stand on it\u2019s own two feet. Hopefully this is useful as well.\n\nThanks for coming to my Ted talk.",
+    "reactions": 15,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263745304512172102",
+    "author": "Ross Fortune",
+    "date": "2024-07-18",
+    "content": "Solidarity with my pro tools brothers and sisters who find themselves in Logic and keep recording every time they try to zoom out",
+    "reactions": 8,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069280903584546916",
+    "author": "BatMeckley",
+    "date": "2023-01-29",
+    "content": "Man. 85 percent of the tracks I\u2019d get would require an hour of trying to line up the song PROPERLY to the grid. It\u2019s not as easy as lining a kick to the grid as half you guys are using kick samples that have space before the transient.  When I\u2019m out here nudging and stretching vocals at 1/1000th of second resolutions, which can dramatically change the pocket and vibe, it\u2019s a kick in the teeth then if the whole track ends up being a tenth of a second off. \n\nThe trick I came up with was putting four low frequency Square wave bursts maybe an 1/8th note long each at the beginning or end of each song. That means at no matter the master bus processing (or worse the mp3 meta data at the beginning pushing the song back) you can recalibrate EXACTLY the track back on to the grid. In that case, once you\u2019ve figured that bit out, slap whatever you want on the bus. The square wave trick is how we were able to prove how logic or ableton was bouncing out of time even when a ton of people didn\u2019t hear it or notice.",
+    "reactions": 6,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "879589857813479485",
+    "author": "cian riordan",
+    "date": "2021-08-23",
+    "content": "1) Yes! All MPDI-4 mic pres. Signal chain would have been Mic -> Pre -> UTA Console Line In -> Pro Tools.\n\n2) I\u2019m pretty sure this would\u2019ve been a Frankenstein. Most likely Eric\u2019s Sonor birch kick drum with a Remo Black Dot on it. Almost certainly Vistalite toms\u2026 and this sounds like a Bell Brass snare.\n\n3) Room mics are placed probably 20 feet away, spaced wide, pointed at the kit. Eric would always point the room mics away from the drums with the cardioid null towards the drum kit, but I found I got more direct, punchy sounds with it facing the drums. Chamber mics would\u2019ve been a foot apart, pointed 45 degs out\u2026 sort of intentionally phasey to make them wider.\n\n4) Yeah, you\u2019re onto it. The overheads are intentionally wide and close to the cymbals. The mono mic and close mics are doing the heavy lifting with the drums and the L/R OHs are almost just cymbal spot mics with some kit stereo information peppered in.\n\n5) Saturation is a combination of driving the UTA pres, clipping the line input of the console, and trimming things back with the faders. Might\u2019ve been an LA-2a on the snare with no compression, just crapping out the tubes.\n\nSorry wish I woulda taken pictures of this session. Dave Elitch was the drummer and he\u2019s a fucking monster.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "964618052471754802",
+    "author": "Zack Hames",
+    "date": "2022-04-15",
+    "content": "Think of a pro tools session file as \u201cdirections\u201d for all the parameters and files. So you can save a million project files without consequence or space issues, they just tell the files and plugins were to be / set at.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069297985197981706",
+    "author": "oaklandmatt",
+    "date": "2023-01-29",
+    "content": "I love my dear friend @BatMeckley but I think he's wrong here. Just send the instrumental how it sounds the best, and have them send you a bounced ref along with the vocal. I ask them to send me the session too as I have Pro Tools, Logic, and Ableton and can play with their processing and do a new bounce if need be.\n\nIf a vocal bounce comes back with some delay uncompensated or otherwise off the grid, lining up the vocal will NOT take you an hour. You simply line up the ref to your session and the vocal to the ref (the latter is 99% of time already done since they're bouncing from the same session). This takes a few minutes max and I've done it dozens of times. Nudge and flip some phase and you're within a couple samples. You're fine.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069372164626718720",
+    "author": "BatMeckley",
+    "date": "2023-01-29",
+    "content": "Regardless of what anyone says in the discord, whether they\u2019ve encountered it or not or they\u2019ve heard it or not, ableton have confirmed it\u2019s an issue and theyre fixing the code. Whoever it ends up not affecting, more power to ya, but it\u2019s not an \u201cif\u201d issue. It\u2019s been confirmed and they\u2019re working on it.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1194391615490506852",
+    "author": "cian riordan",
+    "date": "2024-01-09",
+    "content": "I started getting serious about recording while I was in college (studying chemistry). I was playing bass in a band at the time and I was the only one that had any sort of decent recording equipment. I found myself being the guy recording all of the band's demos before we went into a 'proper studio'. Eventually, we realized my demos were sounding better than the ones we paid other people to record! Meanwhile, I started assisting (for free) at a local small recording studio and met a really great mentor. The studio was small and its business was mostly weekend warrior type stuff \u2013 nobody really notable. That being said, it was a working studio \u2013 and booked almost 6-7 days a week. The producer was the big fish in the small pond and had a great repeat clientele. Most of the music was not my cup of tea \u2013 but this proved to be a good thing as I was exposed to all sorts of different styles and it allowed me to be comfortable in genres of music which I normally wouldn't gravitate towards. It just made me comfortable around music and musicians in general.\n\nOnce I graduated and decided I wasn't going to use my chemistry degree, I ended up helping the producer build a bigger studio complex from the ground up. I learned an insane amount of stuff during this period \u2013 whether it was researching which Pro Tools system we would need to helping design the wiring layout to actually implementing it all. Ultimately, after months of hard work (and lots of borrowed money) the studio was complete and it was ready for business. I worked here for 2 years or so until I got introduced to Eric Valentine through former Street To Nowhere guitarist Matt Radosevich in Los Angeles. He needed a new full-time assistant and so I hopped at the opportunity and moved to LA \u2013 leaving behind the studio and crew I helped build (they're still going today and they're doing great).",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": true,
+    "is_expert": true
+  },
+  {
+    "id": "1263582730541731910",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-18",
+    "content": "Time to learn Pro Tools haha",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263733439509827614",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "This was a cool Ted Talk, but for real, time to pop off the training wheels. If you want to record real instruments on a computer, get Pro Tools. You're not doing yourself any favors fucking around with Audacity and this other bullshit. Pro Tools Artist is $99 for a perpetual license and will be more than enough firepower to do what you need to do. Not to mention it will be a stepping stone if/when you choose to take it more seriously \u2013 none of time you'll spend learning the software will be in vain.",
+    "reactions": 5,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1174040596151816282",
+    "author": "kylem",
+    "date": "2023-11-14",
+    "content": "Echoing this. The 24hr turn around on a sunday night with 15 people on CC. Multiple levels of approval needed. Deliverables including multi track, grouped stems, pro tools sessions and alt mixes. Contracts and lawyers. Lots of stuff that makes charging 2-3x your indie rate reasonable",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264663337292005418",
+    "author": "cian riordan",
+    "date": "2024-07-21",
+    "content": "The \u201cright\u201d way? You can slip in pro tools.",
+    "reactions": 4,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "852373810677940264",
+    "author": "David Fuller",
+    "date": "2021-06-09",
+    "content": "I'm such a pro tools jockey that I'd rather have like 01_Kick In.01.wav",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1262081715330093099",
+    "author": "Josh",
+    "date": "2024-07-14",
+    "content": "Nah with ableton it\u2019s easy. I only take an interface with Cubase because it cries when you don\u2019t use one",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263736695686434816",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "I did my first paid pro tools session like 3 days after buying my first digi 01 rig. One of the great things about PT is that it\u2019s easy to get started and as deep as you want it to be",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266609393076670464",
+    "author": "montrose recording",
+    "date": "2024-07-26",
+    "content": "yo @BoozleBAM - i know you're in the weeds with edit mountain but i was just doing some piano nudging and thought of you - im not sure how this is configurable in reaper, but ive found it to be effective to maintain feel and sanity by nudging by a fixed amount - i use 10ms for big moves and can hotkey to 1ms if i need to.  i feel like that apporach rather than with the eye keeps the more musical part of my brain engaged longer.  hope thats helpful in some way.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267812103205556256",
+    "author": "Josh Bowman",
+    "date": "2024-07-30",
+    "content": "EQ is powerful! \n\nAre you making the moves with elements in solo or in the context of the mix? Try out both. Solo is easier to hear what your doing to the thing, but eqing the element in context of the song/mix makes it easier to hear if your killing the vibe. I'd guess most people will encourage in-context EQing for this reason.\n\nThe reaper EQ is likely not the issue. Experiment with all the diff filters and shapes for sure! Best way to learn is to try it out. \n\nAlso, eqing something and then undoing it later because it isnt better happens all the time while im mixing. Its great that you're double checking your moves later and trying to be objective about if its an improvement or not. Also- SOMETIMES its a boost not a cut thats needed. Too much bottom, maybe add some top or mids to balance it out instead of cutting bottom (just an example). See how that feels instead.",
+    "reactions": 3,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "828311445841903626",
+    "author": "David Fuller",
+    "date": "2021-04-04",
+    "content": "this is a fairly recent mastering session I did in pro tools",
+    "reactions": 2,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "875750735294373928",
+    "author": "Zack Hames",
+    "date": "2021-08-13",
+    "content": "Honestly I just use Steven slate trigger 2. There may be better ones.\n\nIf you don\u2019t have one, you can make a beat map (ala pro tools) this way you can make your session grid line up to the drum performance itself. I\u2019d start there assuming the drums don\u2019t need to be edited performance wise, then you can drag and drop any individual samples audio files or use MIDI or any drum software instrument.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "876891115251466251",
+    "author": "Slow Hand",
+    "date": "2021-08-16",
+    "content": "Neat question. If you're mixing in two channels (L/R) the headroom should be the same no matter where you pan it (with some caveats which we'll get to). If you have a kick drum panned dead center coming in at -6dB on your digital meter it's going to be coming in at -6 in both the L channel and -6 in the R channel. Each channel has it's own independent headroom that doesn't affect the other (until we add a limiter with linked channels), so let's simplify things a bit and mute the R channel for now:\n\nNow you have your L channel with the kick panned \"center\" and the R channel is muted.  If you were to pan this kick to the hard left it would not affect the volume of the L channel at all. That's because the panning effect is created by subtracting gain from the R channel only. Making the kick sound like it's leaning to the left.\n\nNow there's one big element I've left out so far, and that's *pan law*. Ableton Live has a -3dB pan law. This means that sounds panned to the center are reduced by 3dB. Because if a sound is being played at the same volume by both the L and R channels then their voltage will combine to create a sound that is louder than intended. So all DAWs and mixers compensate for this added loudness by turning down the gain of sounds as they are panned closer to the center (and shared between both speakers).\n\nSince all modern DAWs and mixers have pan laws implemented, what happens when you now pan the kick hard left is that it ends up becoming 3dB louder than it was when it was panned in the center, because it is no longer being turned down by the pan law when it\u2019s centered.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "901029307172921346",
+    "author": "rae",
+    "date": "2021-10-22",
+    "content": "I did a couple of remote recording sessions for a university assignment last year \ud83d\ude42 The artist I recorded was in a studio playing/singing everything and I was producing over zoom and an audio movers link. I sent the artist my pro tools session prior to the day and he opened it up when he got to the studio and then screen shared it to me over zoom through the studio computer. It worked well for me as when he was playing or singing I\u2019d still be able to make notes for him listening through the audio movers link and then I\u2019d unmute my zoom mic at the end of the take and chat to him over the zoom call. Only issue I had was occasionally my wifi would drop out and so the audio movers feed would glitch and then I\u2019d have to listen back quickly after he finished the take to make sure the part that dropped out was okay. That\u2019s just my experience with remote production though \ud83d\ude42",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "955957128638660608",
+    "author": "peterlabberton",
+    "date": "2022-03-22",
+    "content": "\u2026but I\u2019d add to that: if you\u2019re giving yourself an anxiety attack about supposed degraded sound quality by using a fader in pro tools, don\u2019t. It\u2019s fine, move those faders around, automate shit, whatever!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "989902105546465291",
+    "author": "chadwahlbrink",
+    "date": "2022-06-24",
+    "content": "https://help.uaudio.com/hc/en-us/articles/208992366-Configuring-Apollo-s-I-O-for-Hardware-Inserts-in-Pro-Tools - you need to do some extra finagling with how the I/O is laid out in the console softwares matrix. \n\nThe time alignment is not always great\u2026 but I think that also comes from needing a pro tools HDX setup potentially? That\u2019s one of the weird things I have never fully understood with PT.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997939727430860910",
+    "author": "Slow Hand",
+    "date": "2022-07-16",
+    "content": "Perhaps I can address your issue at the source with how you have your Ableton compressor set up:\n\nYou're saying that you cannot get your 808 to duck low enough each time the kick hits. The first thing that stands out to me is that you're using a soft ratio. You need to crank that ratio up to at *least* a 4:1 ratio, but you might be even better off with an 8:1 or higher ratio. You need a high ratio to get the deeper ducking effect that it seems you're seeking.\n\nUsing a soft ratio will never get you a big duck unless you have the threshold pulled all of the way down. And even then it's probably going to have issues recovering correctly after each duck.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1045502120847228988",
+    "author": "Adam Thein",
+    "date": "2022-11-24",
+    "content": "What DAW are you in?  The reason I ask is that I work mostly in Ableton and Fabfilter Q3 was a huge game changer in workflow for me being able to resize the window and have more flexibility with curves and slopes over EQ Eight (the stock EQ).  I\u2019m not sure how the math works out but if I were starting fresh again I\u2019d rebuy the Soundtoys bundle and Fabfilter Q3.\n\nIf you need just Q3 the cheapest I found this year is https://www.jrrshop.com/fabfilter-pro-q, and use code GROUP to bring it down to around $107 USD",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1066170239399755826",
+    "author": "ALXCPH",
+    "date": "2023-01-20",
+    "content": "Reaper is fantastic for that! I\u2019ve been wanting to get a little usb to put in my keychain with the portable install that you can boot from a thumb drive, with my 3 templates on it. I\u2019d probably almost never use it,  but I would feel like a total audio badass \ud83d\ude1d",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1256658605739085906",
+    "author": "chrissorem",
+    "date": "2024-06-29",
+    "content": "Well sorry to tell you the cubase meters sounds bestest",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1260683269049942107",
+    "author": "BatMeckley",
+    "date": "2024-07-10",
+    "content": "For me the biggest boost to my workflow was getting off the smart tool in pro tools, and using the other buttons on the Kensington track ball to access the different tools. (Both in pro tools and in melodyne actually). \n\nSo I have BTT assigning different taps (two finger 3 finger 4 finger, and some double taps of those) mostly to switching through the cursor tools.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263591909062873129",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "I\u2019ve got a great tip for how to get even *more* pro tools like behavior!",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263828744976601108",
+    "author": "gatewoodsensei",
+    "date": "2024-07-19",
+    "content": "One reason for that is because fl has things already readily available for you to start working immediately. Or rather, it\u2019s quicker to get ideas down because of how the program works or maybe because you\u2019re used to the way it works. Protools requires a little more setup, coming from FL. That\u2019s why templates (for me) are crucial for my workflow. Also FL studio is extremely unique in the way it does things. It\u2019s extremely modular. You can put anything anywhere. ProTools isn\u2019t like that, so i definitely understand the culture shock lol. It\u2019ll become more and more like a second language the more you use it. But you have to get the comparisons out of your head while you\u2019re using it or you\u2019ll end up hating it and deleting it off of your computer lol. Keep pressing. You got this. \ud83e\uddbe",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267528609468252241",
+    "author": "Will Melones",
+    "date": "2024-07-29",
+    "content": "Somebody told me that Audible specs or recommends Reaper, so\u2026.definitely Pro Tools. I have voice actor friends doing it in Audacity, Reaper. None really used a DAW prior to the pandemic. Just don\u2019t use the life-ruining click and I\u2019m sure the software will stay out of the way",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1290748569678118996",
+    "author": "Bryan DiMaio",
+    "date": "2024-10-01",
+    "content": "If you aren't 100% sure you know everything about the file management of Reaper (especially on Windows), just stick to the one computer",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1366778243738243083",
+    "author": "bobby k",
+    "date": "2025-04-29",
+    "content": "posting a conversation I had in my own brain in case it helps anybody else...i was chewing on this conversation some more last night. manager or not, it is still essential we each understand the ins and outs of our lanes. i realized that this is just work that needs to be done, same as anything else like learning a new tool or process. and it dawned on me that for X amount of time & effort this year, I could either improve my craft by 5%, or my business by 50%. and if i had to make it black and white and pick one, which would it be? this is a question i'm going to try to start asking myself before organizing my spare time throughout the week. there are so many important things happening outside of Pro Tools I've spent too long pretending don't relate to me.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1371644822125023413",
+    "author": "Slow Hand",
+    "date": "2025-05-12",
+    "content": "Fair enough. The Ableton tuner has a secondary view with a pitch lane, FYI. Guess I took that for granted.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1392206914883948715",
+    "author": "BatMeckley",
+    "date": "2025-07-08",
+    "content": "So, for pro tools I assign the three extra buttons for each one of the tools, and then chording the top two buttons gives me multitool in the instances that\u2019s useful.  \n\nThen my left hand is on asdfg for fades and moving the boundaries of clips (WAY faster than multi tool to just click in the middle of a region or at the zero crossing of an audio file and hitting A)\n\nAfter a few days it should become pretty intuitive and automatic. Like anything else, it\u2019ll take a second to adjust, 2 steps back, 3 steps fwd style.\n\nAnother perk of using melodyne standalone is assigning the trackball buttons for the note tune, cut notes, note length, and the chords for vibrato and note length tools. Makes melo WAYYYY faster.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1436948820863746168",
+    "author": "SawyerM",
+    "date": "2025-11-08",
+    "content": "I will live and die by the pro tools stock tuner plug in",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452427868952068278",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Nah reaper with an atleast 5 min auto  save",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452433451968893080",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Would def ask the reaper forums",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1455982229510688771",
+    "author": "cian riordan",
+    "date": "2025-12-31",
+    "content": "Yes\u2026 you bake it and move it to new tape to live on in a cold dark cave for 20 years. The idea is that you could still retrieve the audio, unlike some old install of pro tools from 25 years ago, or something.",
+    "reactions": 2,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811275977216098305",
+    "author": "Zakhiggins",
+    "date": "2021-02-16",
+    "content": "That's a good a idea, yeah I use pro tools for mixing too. Will deffo try this",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "830387778914222110",
+    "author": "mixedbywong_my",
+    "date": "2021-04-10",
+    "content": "Here\u2019s another question. Metering in the box. Currently using klanghelm\u2019s vumt and the built in Supervision multimeter in cubase . What do the rest of you use ? \ud83e\udd1f\ud83c\udffb",
+    "reactions": 1,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "876891581712592916",
+    "author": "David Fuller",
+    "date": "2021-08-16",
+    "content": "Some DAWs like Pro Tools can actually change pan law. PT can do -2.5dB, -3dB, -4.5dB, and -6dB. Mixes sound different with different pan laws - and I'll bounce some stuff real quick to demonstrate.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "997862154587873300",
+    "author": "Zakhiggins",
+    "date": "2022-07-16",
+    "content": "When you export in FL studio, on the dialogue box that comes up before you export, there's a little button that you can hit to mute all plugins before export, you probably have it enabled",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1058989418523918448",
+    "author": "jonmatteson",
+    "date": "2022-12-31",
+    "content": "Oh didn\u2019t know this! You can do this in ableton and logic I believe.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163602778845872261",
+    "author": "Jeremy Klein",
+    "date": "2023-10-16",
+    "content": "its wild to me how almost no ableton user i observe uses your first 2 commands here",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1166537390840631419",
+    "author": "Nomograph Mastering",
+    "date": "2023-10-24",
+    "content": "We did a pretty intense SRC comparison session for a Metallica record (Hardwired) and Pro Tools was definitely down the list",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1196852984680820766",
+    "author": "rse",
+    "date": "2024-01-16",
+    "content": "I think brakence also mentioned at one point that he uses ableton beat repeat a lot for drums and stuff. This vocal is probably just a delay with really really high feedback",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1196990077058961439",
+    "author": "jonmatteson",
+    "date": "2024-01-16",
+    "content": "I got a session from him once for an artist I work with. All ableton plugs besides soft synths and OTT on everything",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1260725504626135191",
+    "author": "Josh",
+    "date": "2024-07-10",
+    "content": "I\u2019m gonna have to do that. I loathe smart tools because Cubase didn\u2019t get one until recently and always fumble the key commands in PT",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263591424541331486",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "more pro tools like behavior",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263743159146385451",
+    "author": "Adam Thein",
+    "date": "2024-07-18",
+    "content": "This made me feel a little more dumb.  Pro Tools is my 5th daw to learn and I\u2019m finding it the hardest to get a good grip on moving quickly in",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263743689893609593",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "I\u2019ve been doing some learning in Reaper and Cubase lately along with Spectralayers and switching is so hard",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263749777120825416",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "You should hear my \u201cone weird trick\u201d for getting things to feel like pro tools",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1290771267800010865",
+    "author": "Bryan DiMaio",
+    "date": "2024-10-01",
+    "content": "I think he's tried that but I'm pretty sure his reaper file paths are throwing files in local volumes as well so he thinks he's got everything on the drive but it's not all there",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452430868307251321",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Did you do anything that Google ai says when you Google \u201cparsing reaper session\u201d ie",
+    "reactions": 1,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452437457747312752",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "It's okay - I'm gonna go over to the Reaper site and see what I can't figure out there. My main question, I suppose, was to see if this type of a thing can happen simply from hard drives not matching up letter-wise when switching computers, and I think the answer is \"No,\" so I'm good.",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1456565478737576019",
+    "author": "Edward Rivera",
+    "date": "2026-01-02",
+    "content": "Tbf he used to bring up some extreme scenarios where in the apocalypse someone could find a schematic of a tape machine and rebuild it, and not, say, build a mac and Mac OS and pro tools from scratch. I think there\u2019s some merit to it, it\u2019s the same reason I prefer to shoot stuff on film, but I also get why EA has a pro tools rig now",
+    "reactions": 1,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "811273410227208232",
+    "author": "jacobmunk",
+    "date": "2021-02-16",
+    "content": "When I get stems from people who work in a diff daw (usually ableton or logic), the track names are usually a nightmare, so I\u2019ll copy the original name of the track to its comments section on the track, then name the track something that makes sense to me. color coding helps too. That way your brain can do a little less work trying to figure out what\u2019s what, and if the artist/other producer/etc goes \u201ccan you turn up \u2018wonky snare 0003_72849\u2019\u201d you just check your track comments",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "811273789979361301",
+    "author": "jacobmunk",
+    "date": "2021-02-16",
+    "content": "this is for working in pro tools btw, maybe if your software doesn\u2019t have track comments, make a quick spreadsheet?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "820078706898501662",
+    "author": "hendrick",
+    "date": "2021-03-12",
+    "content": "has anyone here upgraded to the new pro tools 2020.11? I'd like to upgrade but idk which files to download exactly since I already have 2019.6 i wouldn't want to download duplicate files",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "820089653205532732",
+    "author": "hendrick",
+    "date": "2021-03-12",
+    "content": "gotcha that makes sense! i thought it was possible bc it is on ableton \ud83d\ude05\ud83d\ude05",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "821480529752490005",
+    "author": "antoniohannamusic",
+    "date": "2021-03-16",
+    "content": "Yo! I have a quick solution for this! \n\nWhen you want to upgrade Pro Tools, just go into your applications folder (MAC) and rename Pro Tools to say Pro ToolsXX or whatever you want, then install the new version as normal it will just install as \"Pro Tools\" then you can open them up independently from your applications folder and keep both so you can always roll back if a new one buggs out with your plugs.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "821485179183824947",
+    "author": "cian riordan",
+    "date": "2021-03-16",
+    "content": "The only issue here is many of the system files get updated with the upgrade as well, so if it's a big enough jump, it will cause hiccups opening pro tools in my experience.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "823705000034304011",
+    "author": "hendrick",
+    "date": "2021-03-22",
+    "content": "yoo what's the most convenient way to save plugin chains in pro tools? I really like how you can make plugin racks in ableton and save them in your library. any way to do the same with pro tools?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "823705273314705468",
+    "author": "David Fuller",
+    "date": "2021-03-22",
+    "content": "depending on what version of pro tools you have...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "827627108342693918",
+    "author": "hendrick",
+    "date": "2021-04-02",
+    "content": "have y\u2019all had a pro tools session stuck restoring tracks? idk what to do i\u2019ve tried many things :/",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "830446572290310165",
+    "author": "mixedbywong_my",
+    "date": "2021-04-10",
+    "content": "Yea . I do the same with rx7 also . Just wondering if thats any accurate ? I usually get lesser numbers (integrated LUFS) than what I get inside of Cubase .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "830796502149365791",
+    "author": "mixedbywong_my",
+    "date": "2021-04-11",
+    "content": "Cubase\u2019s supervision is basically Steinberg\u2019s answer to insight . I\u2019m still getting used to it . But it\u2019s very close to insight . I go back n forth between insight and supervision. Spoilt for choice really .",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "839268064817446962",
+    "author": "peterlabberton",
+    "date": "2021-05-04",
+    "content": "Exactly. Say you\u2019re using line out 1-2 for monitoring, you could use line out 3 to feed the reamp/pedal(s), and then just whatever input you want/whatever your DI is on. If you\u2019re in Pro Tools you can setup a hardware insert, though you\u2019d have to use the same ins and outs (i.e. output 3, input 3).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "848012601178062903",
+    "author": "hendrick",
+    "date": "2021-05-28",
+    "content": "I have pretty much standard stuff, pro tools, ableton, slate, PA, uad, waves, soundtoys, etc etc...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "852373552861675560",
+    "author": "Zack Hames",
+    "date": "2021-06-09",
+    "content": "They are a former pro tools guy gone Studio 1, otherwise I\u2019d do something a bit different if we were both in the same DAW",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "855557162524213248",
+    "author": "Zack Hames",
+    "date": "2021-06-18",
+    "content": "They\u2019re using studio one, I\u2019m sure they could manage that!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "881646271251763251",
+    "author": "Zack Hames",
+    "date": "2021-08-29",
+    "content": "2 Questions:\n\n1. Does anyone have a reason to *not* use 32 Bit Float as opposed to 24 bit depth? I've stuck with 24 out of habit, but 32 seems to have 0 downfalls, besides space usage.\n\n2. I am having trouble monitoring hardware inserts without the obvious latency, even when I figure out the time delay in Pro Tools. Is there something I'm missing? I imagine there has to be a way to monitor hardware inserts in real time and have it be in sync (Delaying all the tracks to be in sync).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "881654587214409799",
+    "author": "mixedbywong_my",
+    "date": "2021-08-29",
+    "content": "I read this on reaper blog a while back when I was wondering this same question , \n\nThis is what i found \n\u201cTo summarize:\n\n32-bit offers absolutely no benefit in terms of sound quality or headroom as a recording bit-depth. Use 24-bit for recording.\n\n32-bit allows you to \u201cunclip\u201d and remove distortion of audio that was captured within the DAW. For rendering virtual instruments or freezing tracks that might go above 0dbFS use 32-bit.\u201d",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "882063160926961755",
+    "author": "chadwahlbrink",
+    "date": "2021-08-30",
+    "content": "In regards to 32-bit, I try to stick with 32bit until Mastering. This is mainly out of an \"abundance of caution,\" but basically, it's theoretically possible to have rounding errors/quantization distortion (granted at like -128dB) when bouncing between the 32-bit processing within the DAW and other processing like izotope RX or even just bouncing stems from one person to another. Note - there is also a settting in pro tools to \"always use 32-bit for audiosuite processing\" for this reason! Also, you can just use a 24bit dither when you go from 32 to 24bit at mastering stage as needed (if you are providing the master).",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "926155458467725392",
+    "author": "Maxim",
+    "date": "2021-12-30",
+    "content": "Is there a shortcut to change the track height of multiple tracks in Pro Tools? Tried Alt & Alt-Shift already",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943638679023407155",
+    "author": "bobby k",
+    "date": "2022-02-16",
+    "content": "just impulsively bought a 2020 Mac mini with M1 for a great price because my 2018 MBP is just not cutting it anymore. can anybody give me a basic breakdown of any compatibility issues to anticipate? I mostly run in PT and Ableton 11. lots of 3rd party plugins... (sorry in advance for not paying attention to the extensive M1 talk in these forums. posting in newbie talk because computer specs are outside of my range of nerdiness, so i'm feeling a little lost haha)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943645052595470386",
+    "author": "Maxim",
+    "date": "2022-02-16",
+    "content": "Do you have the 8Gb or 16Gb version? Ableton 11 on native will run great. Pro Tools might not be useable by the time you get towards the end of a mix or intense session. Or even from the get if you use a few Acustica plugins (they still suck through Rosetta). I don't know every plugin that causes a crash in PT but for sure the Kiloheartz bundle still does. Don't really use them but thought a heads-up could save a headache.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943648518600544276",
+    "author": "Maxim",
+    "date": "2022-02-16",
+    "content": "The issue isn't with the Mac though. Again Ableton is running great. I'll also add that some Native Instrument plugins aren't working at all (not major ones mostly FX). And if for some reason you want to install old 32 Bit plugins that's not going to happen either. Even with previous workarounds, they don't work anymore.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943664847793578076",
+    "author": "bobby k",
+    "date": "2022-02-16",
+    "content": "ok gotcha, thanks for all your thoughts. i'm def a bit nervous but it just sounds like it's case by case based on everyone's plugs/workflow. didn't Avid just drop M1 compatibility for pro tools? could've sworn i saw an article within the last week or two...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "943849156299096105",
+    "author": "Maxim",
+    "date": "2022-02-17",
+    "content": "but in Ableton (Native) it's opening fine",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943851319519739914",
+    "author": "Maxim",
+    "date": "2022-02-17",
+    "content": "But I wouldn't be surprised if Pro Tools just hung itself up. So I just try to save frequently.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "943958673326215268",
+    "author": "Adam Thein",
+    "date": "2022-02-17",
+    "content": "You can select the version it boots under the \"Get Info\" menu at least for Ableton - I'm brand new to my Mac so I'm sure someone else can chime in!  But it's definitely on the application level and not the system level",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "964609047900876860",
+    "author": "Maxim",
+    "date": "2022-04-15",
+    "content": "How are you guys saving different versions of your Pro Tools sessions? Every time you bounce and send it or while you\u2019re working on the track? And is the \u201cSave Copy In\u201d feature the only option here?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "990355304627724379",
+    "author": "rse",
+    "date": "2022-06-25",
+    "content": "That does seem to make sense, I'll be looking at whatever power saving i got going on. I do have all power saving and stuff turned off for FL studio specifically I think, but I'll look into my bios settings forsure",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "994435360266403911",
+    "author": "Slow Hand",
+    "date": "2022-07-06",
+    "content": "Hey there. It's a bit of a large topic to cover without knowing more about the kind of issue that you're having. Luckily, there are lots of tutorials on how to warp Ableton Audio on Youtube. Videos like this: https://www.youtube.com/watch?v=OoVvYtqzT3s",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "994438694977155153",
+    "author": "Slow Hand",
+    "date": "2022-07-06",
+    "content": "Haha. Been there before.\n\nSince you're new here's something else that might help you out with future problems: In the lower-left corner of the screen there is another triangle that you can click which will open up the contextual help window. This will give you a *lot* of information about how Ableton works. It's on the opposite side of the screen from the button that I just showed you.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "997853730110181498",
+    "author": "gagsmile",
+    "date": "2022-07-16",
+    "content": "Hey guys im kindda new to Fl studio I normally use ableton, I exported a song and for some reason some audio clip don\u2019t apply effect on the final export I\u2019ve some of my voice recording that are totally dry like they been exporting without going tru the effect chain. It\u2019s really weird,\nI guess I messed something because when I play the song on fl studio is totally wet and sounds really good but when I export some random verse don\u2019t have effect on",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997889105235017808",
+    "author": "benigma",
+    "date": "2022-07-16",
+    "content": "Hey all, got a question about sidechaining in Ableton, specifically kicks and bass/808s. I normally just use a generic compressor when sidechaining with a soft ratio, no attack/short release, and pretty low threshold (-18 to -24) and it usually works pretty well. Sometimes however the compressor alone isn't enough to dip the 808 and allow the kick to punch through cleanly. I was going to try using F6 instead, but I can't figure out how to sidechain the kick signal itself into F6 (in Ableton at least). Any tips?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "997896140647301243",
+    "author": "Adam Thein",
+    "date": "2022-07-16",
+    "content": "Should just be two steps:\n\nOn 3rd party plugins in live that allow sidechaining, you should see this little Sidechain menu show up.  So this should look really similar to the sidechain settings in the stock compressor. (1st picture)\n\nNext, inside the plugin there should be an option to change the source of the sidechain to \"external\" from default internal.  With the stock Ableton plugins this happens automatically when you engage the sidechain but for 3rd party you have to add it manually.  I don't have F6 but looking up an image of the plugin it looks like the option is in the bottom right (2nd picture).\n\nIf that doesn't work then I'm not sure what's going wrong.",
+    "reactions": 0,
+    "attachments": 2,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "997925604164907039",
+    "author": "Adam Thein",
+    "date": "2022-07-16",
+    "content": "Last ditch effort but looks like if you are on an older version of live the setup might be a little different:  here's the article from the manual!  https://help.ableton.com/hc/en-us/articles/209775325-Sidechaining-a-third-party-plug-in",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1028271633162571826",
+    "author": "emre",
+    "date": "2022-10-08",
+    "content": "how can i export my aux sends (reverbs, delays and other fx) individually when sending out to mixing ? im on pro tools btw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1036783458342666270",
+    "author": "cian riordan",
+    "date": "2022-10-31",
+    "content": "This is a very broad question with many different answers, but I think the easiest way to sum up the concept of \u2018gain staging\u2019 is simply figuring out what level every \u2018device\u2019 is expecting and/or which level is ideal to get the results you want. These \u2018devices\u2019 can be a plugin, a piece of hardware, an A/D/A converter, an auxiliary bus, a mix bus, etc.\n\nIn analog world\u2026 there might be fathomable difference when a compressor or amplifier receives -10dBVU vs +10 dBVU. Accounting for these differences would be considered gain staging \u2014 and you\u2019d be looking for what gets the ideal sound out of your box.\n\nIn digital world\u2026 some plugins may react similarly and others may not care if you\u2019re sending -6dBFS or -0.01dBFS. It\u2019s usually case by case as there are myriad plugins. You also need to consider what level the plugin is sending signal out \u2014 as this will affect how the next plugin processes the audio, or how much headroom it has to work with. Let\u2019s say I\u2019m sending signal out of a compressor plugin into an EQ plugin \u2014 and lets say I\u2019m using the compressor to beef up mean volume of the signal and then I want to EQ some more low end into the signal after the fact. Well, I\u2019m going to be adding gain in the compressor and then the level going into the EQ will be hotter than originally intended. Id want to trim down the output of the compressor (or the input of the EQ) so you have headroom to be able to boost those frequencies without clipping the output of the EQ. In a 32-bit floating mixer like Pro Tools, these issues become less audible as the mixer has higher headroom than its indicating, but you never actually know \u2014 and it\u2019s best to just stick to the parameters that you have control over. If you were to do this same function with an analog compressor and EQ, there would be very noticeable distortion if you didn\u2019t stage the gain properly.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1036783489053372476",
+    "author": "cian riordan",
+    "date": "2022-10-31",
+    "content": "Sometimes gain staging is just managing the signals going to an auxiliary bus or a master fader. If you\u2019ve got everything summing into - say - an aux bus in pro tools, and that aux bus is clipping, then that will be audible distortion going into the next gain stage. It may sound good, it probably doesn\u2019t \u2014 so its something to account for earlier down the chain. If you\u2019re going into a master fader in pro tools, and your signal is over 0dBFS, you can simply turn down the master fader, and it is actually turning down all the signals going to it, not just the output. This is useful because you can then throttle the input to your first plugin in the chain \u2014 say a limiter or maximizer. It\u2019d be a shame to have a fancy clipper on your master bus, only to be clipping the signal in the chain before even getting to it.\n\nIt\u2019s a bit of a scattershot answer to a scattershot question, but the reality is that everything affects everything in audio. And having your head wrapped around signals levels going in and out of things will help you make faster decisions and help you troubleshoot quickly when things aren\u2019t sounding quite right.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1039288163321004052",
+    "author": "Maxim",
+    "date": "2022-11-07",
+    "content": "Is there a shortcut in Pro Tools for moving vocals up in a playlist without pressing the \u2b06\ufe0f button? Google ain\u2019t useful.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1039288261899730985",
+    "author": "Maxim",
+    "date": "2022-11-07",
+    "content": "Actually any Pro Tools comping tips would be heavily appreciated \ud83d\ude4f",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1044334663252062298",
+    "author": "Zach Hughes",
+    "date": "2022-11-21",
+    "content": "Yo so I recently upgraded to Melodyne Studio and am trying out the integration in Pro Tools. I used to have Melodyne 4 and in the standalone app you could click on a note and it would play the pitch as you hold and drag. This is NOT happening in pro tools and I miss it. Does anyone know if that's a feature that can be turned off and on or does it just not work that way in Pro Tools?\n\nupdate: it's working on my harmonies but not lead vocal track for some reason\n\nupdate 2: it started working and I don't know why haha",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1058983727541260318",
+    "author": "Zack Hames",
+    "date": "2022-12-31",
+    "content": "Not in pro tools you can\u2019t AFAIK",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1066169866077339658",
+    "author": "Rollmottle",
+    "date": "2023-01-20",
+    "content": "yeah, i got my Reaper template and config backed up to dropbox so i can dial it up inside the house on my laptop and tweak and tune and try new stuff out.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1067140503721742447",
+    "author": "Jeremy Klein",
+    "date": "2023-01-23",
+    "content": "regarding the dropbox site stream vs the download link, i recorded the output of the stream from the website using the Piezo app. I then dragged it into ableton and level matched it with the download.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1068770000774635520",
+    "author": "TNG G.O.A.T",
+    "date": "2023-01-27",
+    "content": "might do that instead, and couldn\u2019t i just get the volume back from Logic Pro gain plug-in?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069291000855527504",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "Do you think it would make sense to set up a template with a MIDI instrument set to play eighth-note sine waves at a given frequency in the pre-roll, or is entrusting the job to an instrument asking for trouble? I'm thinking of that as a possible quick way to have a sync track available at all times across LPX, PT and Ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069293368250744984",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "That probably makes more sense than using an instrument, especially given that many DAWs (e.g. LPX and Ableton) don't have the AudioSuite-type feature to print a tone.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069294583952986112",
+    "author": "austenballard",
+    "date": "2023-01-29",
+    "content": "Anyway @BatMeckley now that you've enlightened my obsessive-compulsive tendencies to all this, I'm envisioning a nightmare scenario where I send the 2-track to someone who's 1.) using Ableton 2.) at a different sample rate 3.) with clip fades on and 4.) warp set to complex by default...\n\nI guess you can only control for so much when it comes to other people, though.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069309690917437530",
+    "author": "Zach Hughes",
+    "date": "2023-01-29",
+    "content": "I have a follow up question on delay compensation in Pro Tools and will say I've run into similar problems with ODs not lining up when tracked with mixbus processing on ref file. In this scenario with the mixbus would it be that the OD files would be off by the exact amount of dly samples shown at the bottom of the mixbus track with the inserts on it or would it be that pro tools has compensated some but not all and that's why it's off? I mean I've had days where I'll print through the same chain back into pro tools on a mixdown track and it won't line up the same as the day before which just makes me question what the feckkk is going on with delay compensation in pro tools..?\n\nSide note I've found it helpful to keep a duplicate 'submaster' / mixbus channel with zero inserts on it for use when tracking / OD. I'll flip back and forth for monitoring when need be.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1069326803115716650",
+    "author": "Adam Thein",
+    "date": "2023-01-29",
+    "content": "Lol I just messed up bad - I was like 45 minutes into a stem print in ableton at 48k, downloaded these and decided it was a good idea to open the 192k file in RX and my interface switched sample rates and Ableton got very mad",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069339285947416576",
+    "author": "ehutton21",
+    "date": "2023-01-29",
+    "content": "A lot gets said about ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069339329320714241",
+    "author": "ehutton21",
+    "date": "2023-01-29",
+    "content": "And I\u2019ve been using the daw for about 7 years now",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069339770293059664",
+    "author": "ehutton21",
+    "date": "2023-01-29",
+    "content": "He\u2019s also an incredible talent and super meticulous, but I think we\u2019ve had like 3 issues that I can remember in the last 2.5 years of being ableton centric",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1069343185727402156",
+    "author": "Deleted User",
+    "date": "2023-01-29",
+    "content": "the dead space issue seems to happen in both logic and ableton. And I found printing click track helpful because I can make sure it\u2019s lining up in the daw after exporting the vocal files. I\u2019m working on a rubato-ish track with more classical time feel and I printed click track to double check the tempo map I imported from a midi file, correcting issues only took me 5 mins. \n\nBoth Ableton and Logic seem to bounce tracks with extra few ms in the beginning of the song and if you print click (separately) you can figure out how far off it is and just match to that.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1083862145600598168",
+    "author": "Maxim",
+    "date": "2023-03-10",
+    "content": "If you're mostly just depending on CPU (mixing/tracking) getting more ram won't make a difference. I'm in Pro Tools rosetta and ableton (base model 16gb) with buggy Acustica plugins *and* running massive sessions\u2014haven't heard my fans come on yet. Also have never had a pop-up regarding RAM. I've totally forgotten about it existing.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1093392723702194327",
+    "author": "skeed",
+    "date": "2023-04-05",
+    "content": "I\u2019ve done it before and kinda got that impression but was looking for confirmation on it lol. It is indeed easy to command Z. I love how in pro tools u don\u2019t even gotta hit command u can just hit Z it\u2019s great",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1113514024185909310",
+    "author": "Maxim",
+    "date": "2023-05-31",
+    "content": "After years of recording with UAD console, I\u2019m considering moving to recording within Pro Tools. Any settings I need to enable/disable? I\u2019m already reworking my recording template for no latency.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1134509029159354420",
+    "author": "Zack Hames",
+    "date": "2023-07-28",
+    "content": "@cian riordan @Adam Thein @Eric Martin thanks for the fantastic responses. This all makes sense. \n\nThe monitoring the repro-head and recording back to digital all in one step note: This is what I am curious about. There's an Otari MX5050 at the studio that I want to mess around with and we have tons of tapes around the studio i'm sure i could use. \n\nSO, Can you sort of passively have the tape machine going without having to operate it actively and just use pro tools, all while getting the tape sound? Like a hardware insert or simply bringing it in and monitoring? \n\nI didn't grow up with Tape, but I want to explore the sounds because so many of my fav sounding records used tape. Many also DIDN'T, but I feel like i've got to figure this out for myself.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1139680115471691858",
+    "author": "Jawn Delorean",
+    "date": "2023-08-11",
+    "content": "Hey i have some noob questions pertaining to room treatment. I've read a bunch over on gearspace in the forums, read a bunch of ethan winers stuff on his site, and will be occupying a room roughly 14x14x8. I got 16 manville 408 2x4 panels for absorption awhile back and my aim is to treat the room for mixing. I need a space to be able to accurately hear so that i can learn and train my ears. Someone on the unofficial reaper discord recommended you guys. I am gonna get a reference mic and set it all up with REW, adding/ removing /moving panels around and taking measurements and then comparing the results? I'm looking at safe  ' sound batting material for bass traps and clouds etc. This is all i've gathered and i won't be in the space for a few weeks so i thought I'd start to get my ducks in a row. Please any and all recommendations/resources/advice is appreciated.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1155150660120096868",
+    "author": "Deleted User",
+    "date": "2023-09-23",
+    "content": "Hey guys, I have probably a noob question but here it is : \n\nwhen i read that, for example, \"Halo Channel strip is Serban's channel strip of choice for all of his mixes\"\nWhat does \"channel strip\" means exactly ? \nDoes it mean Serban puts the plugin on all of his tracks ?? \nDoes it mean Serban puts the plugin just on his master track (i'm working in Ableton) ?\nDoes it mean Serban puts the plugin into a bus and sends some tracks into it ? \n\nMainly my question is : what is a channel strip ? \n\nThanks :keknervous:",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1155190134002688002",
+    "author": "Deleted User",
+    "date": "2023-09-23",
+    "content": "Another question then : \nWhen i read about someone putting a plugin on his \"MIXBUS\" .... what are they refering to with this term MIXBUS ? \nIf i mix in Ableton, it's like putting a plugin on my master channel, is that correct ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159945772171800576",
+    "author": "Maxim",
+    "date": "2023-10-06",
+    "content": "Interesting never happened to me before. I just hotspot my laptop when I need to Pro Tools something on the go.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1159950148001091604",
+    "author": "Maxim",
+    "date": "2023-10-06",
+    "content": "I fully updated Pro Tools to run native this week",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163591022887047300",
+    "author": "river",
+    "date": "2023-10-16",
+    "content": "Any Ableton users who would like to share their favourite key commands?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163591347228389489",
+    "author": "river",
+    "date": "2023-10-16",
+    "content": "I'm showing a friend Ableton who is completely new to any DAW. Let me start with my favourites",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163602849096269997",
+    "author": "Jeremy Klein",
+    "date": "2023-10-16",
+    "content": "the left and bottom sidebar in ableton take up so much space im connnnnstantly toggling them",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1163606323737415721",
+    "author": "Garth Tim",
+    "date": "2023-10-16",
+    "content": "really wish ableton had a focus window button (usually tilde ~ in other programs). whichever window your mouse is on, it would make it full sized",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1165241291370672228",
+    "author": "xico1702",
+    "date": "2023-10-21",
+    "content": "Hii folks, my name is Francisco and I'm these past few weeks I'm using Pro Tools for editing, mixing and mastering. I have a question. Imagine if I want to listen all the parallel effects without the original track. \n\nFor example, I have a vocal track sending to a plate reverb and a delay. I want to hear just the plate reverb and delay without listen the vocal. Forget pre faders, don't want to use that.\n\nThank you for the attention. \ud83d\ude42",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1166533876747866132",
+    "author": "Will Melones",
+    "date": "2023-10-24",
+    "content": "I feel like relinking the files with a different sample rate would really piss off pro tools",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1166534018704085122",
+    "author": "Rollmottle",
+    "date": "2023-10-24",
+    "content": "yeah, makes sense. not sure how PT works. on my end, Reaper will replace the underlying file if you change the one in the session (post an RX spectral repair for example), so it's pretty seamless over here.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1166798486738579547",
+    "author": "Zakhiggins",
+    "date": "2023-10-25",
+    "content": "Forgive me if it\u2019s obvious, but why in the pro tools Melodyne do the blobs sometimes randomly not move when on other tracks they do?",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1167648614491897988",
+    "author": "Nomograph Mastering",
+    "date": "2023-10-27",
+    "content": "You mean vs Pro Tools?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1169338255980900362",
+    "author": "bobby k",
+    "date": "2023-11-01",
+    "content": "i did some digging and there's actually nothing native to pro tools for this. kind of dumb",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178162007552307200",
+    "author": "! Andy !",
+    "date": "2023-11-25",
+    "content": "Hi Ya'll! I'm just having osme routing issues with the evo 8 sending/returning through a mic pre. I'm not super familiar with the evo, so anyone w/ experience with it i'd appreciate the input. Here's my setup. I'm sending from output 3 on the evo 8, via a xlr cable (w/ trs adaptor attached at the audient output side), into the input of a WA273.\n\nI am then coming out of the 273 into input 4 of the Evo 8. Using abletons external audio effect device & always am getting signal on output 3, but never any back on input 4. I know that the units are communicating, as if I crank all the input gain up on evo 8, & output on 273, it affects the white noise being sent through both.\n\nI've tried all different cables etc to make sure it's working, but it's always the same each time. Any thoughts? It could also be a evo 8 mixer thing which i'm inspecting now, still haven't gotten used to the software.\n\nApologies if the message is a little convoluted, my brain is being melted by this. Appreciate all input! \ud83d\ude42",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1178166571521277982",
+    "author": "Adam Thein",
+    "date": "2023-11-25",
+    "content": "I\u2019d take a look at the interface software - are the outputs to 3+4 turned up in the audient software?  Are you getting visual feedback of signal hitting those channels outside Ableton?\n\nI\u2019d remove as many variables as possible and test each part of the chain individually.  Try connecting the output of the Evo 8 ch 3 back into the Evo 8 input 4 without the 273 first and make sure it isn\u2019t a software issue, then check the analog connections one at a time if that works.  My guess is a software thing with the Audient mixer.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178182426284011570",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "If you can get signal on input 4 then it\u2019s something around the software on output 3. You double check that you have the outputs activated in Ableton?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178183102565199932",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "i'd also remove the external audio effect in Ableton as a variable next and try to just send signal out from a track and receive it on another track.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178189240627122247",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "yes, but how are you getting in to the 273? you mentioned a TRS to XLR adapter, but the XLR on the 273 is the mic input. TRS to TRS Line In on the back of the 273 with the Line button on the front pressed in should get you signal back at Ableton (TRS Line Out from 273 to TRS Line In on the Evo)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178192703020863498",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "have you taken Ableton entirely out of the equation. sound source into 273 back into Evo. does it show up in the Evo mixer?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178193242957819915",
+    "author": "! Andy !",
+    "date": "2023-11-25",
+    "content": "you can also see on ableton itself that the meter reading isn't evven lighting up for any of them",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1178194773497086002",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "make sure you're not sending the track that's sending output on 3 to the monitor in Ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178206019428552766",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "i'm not too familar with the external audio effect module in ableton...i always use 2 tracks to do what you're trying to do because it seems more flexible.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178207240755359744",
+    "author": "Rollmottle",
+    "date": "2023-11-25",
+    "content": "https://help.ableton.com/hc/en-us/articles/360005113200-Using-external-audio-effects#h_79cb3127-5b39-4d3a-bcdd-4e8a89e7ec23 this describes the setup in Ableton for this",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1178679109048602624",
+    "author": "Adam Thein",
+    "date": "2023-11-27",
+    "content": "When you get a chance could you send new screenshots of where you are at @! Andy !? I\u2019m not sure what has changed and what hasn\u2019t - I feel like you must be close.\n\nIt would be helpful to see the Evo software mixes for both 1+2 and 3+4 as well as your Ableton settings both for the external audio plugin and the track routing for that channel and the one you are recording back to successfully.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1179380475681329204",
+    "author": "owengineered",
+    "date": "2023-11-29",
+    "content": "Hey everyone,\n\nThe mixing engineer that I assist is looking to completely revamp his setup.\n\nHe currently works on a pair of Focals with an Apollo twin and wants to switch to a pair of 6-2s with a Lynx Aurora and a Grace M905.\n\nHowever we can\u2019t really wrap our head around the best signal flow to get to the speakers. Is the recommended route to go to the Aurora from Pro tools, then over ADAT from the Lynx to the grace (assuming you need to have an ADAT card in the Lynx and the digital Grace) and then from the Grace over AES to the PMCs ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1196661578775408640",
+    "author": "! Andy !",
+    "date": "2024-01-15",
+    "content": "I've sortof achieved it similarly using a sampler & pulling out the length of the sample slowly, then just printing it & putting some delay on it. Still doesn't sound 100% right so i'll do a deepscan for a delay that can do this, any on ableton that have that functionality?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1210015343947546704",
+    "author": "Adam Thein",
+    "date": "2024-02-21",
+    "content": "Vibey/Sloppy: Alterboy, Soundshifter\nAbleton Complex Warp Mode in a plugin: Elastique Pitch",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1214710107116544000",
+    "author": "bobby k",
+    "date": "2024-03-05",
+    "content": "has anybody heard of a simple plugin that does hardware i/o? We have Logic's I/O, Pro Tool's Insert, and Ableton's External Audio Effect, but I'm curious whether any third party options exist in AU or VST. (why: I want to create a rack preset in metaplugin with various digital solutions in conjunction with my tape machine as an analog insert, but can't seem to use any of these native solutions inside of it)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1225067073449758750",
+    "author": "BoozleBAM",
+    "date": "2024-04-03",
+    "content": "I'm going through some of the JS/ stock stuff in Reaper now and they're so transparent. Really good.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1232336410975928361",
+    "author": "jordanmcleod_io",
+    "date": "2024-04-23",
+    "content": "If you have direct contact info for someone at the label that you interacted with, I'd say it's worth a shot. When I was an intern several years ago, I was thrown into my first big recording session with an 88rising artists because the artist's engineer did not know Pro Tools. I forgot about the song until I saw a billboard for the artist months later, so I looked up the credits and I was not on there. I double checked the recording was the same thing I did, and it was, so I emailed the contact I had about adding my name to the credits and they were super easy about updating the metadata.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1252688103932432444",
+    "author": "bobby k",
+    "date": "2024-06-18",
+    "content": "Some things I think I\u2019m doing right:\n-phone is off from 9pm to 9am, and I schedule blocks to answer texts + emails at the beginning and end of each day. Also, have a nifty code written to automatically put my phone in \u201cwork focus\u201d whenever pro tools is open on my computer. \n-Trello & calendar like a mad man\n-take at least 2 walks most days and doing breath work when I can\n-finally on an ADD med that works for me and I feel like I can move in a straight line for once\n-taking at least one full day off every week to rest (and garden)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1254827304299925645",
+    "author": "h3x",
+    "date": "2024-06-24",
+    "content": "Love this. Also gonna open that pro tools file up in a little bit. Ur the goat!! Thanks for this insighht!!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1254848557370839122",
+    "author": "h3x",
+    "date": "2024-06-24",
+    "content": "after opening the pro tools file, I noticed the output busses are both 80, indicating they are working in parellel to one another. Is this true?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1262079881005760512",
+    "author": "Dereck Blackburn",
+    "date": "2024-07-14",
+    "content": "Figured this dort of question fits better here than anywhere else - I havent had a MacBook Production laptop in years but recently just loaded one up with Ableton Live and some of the basics I use in the studio to write music. Question is - do any of you use a interface while traveling (Focusrite/Babyface/Arrow) and is it really neccesary?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263576020943110314",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Hey guys, sorry to get on here with this, but: I've just finished tracking drums for an album -10 songs, 16 microphones - I tracked in Reaper, but comping and editing in Reaper is TERRIBLY difficult for me; I generated all my click tracks in Audacity and flew them in Reaper to track along to, but I CANNOT get the grid in Reaper to line up with the \"grid\" that I made in Audacity. I can get everything to line up in Tracktion Waveform (really like that DAW), but Waveform doesn't have \"quantizing.\" Annnd... I think I need to quantize some shit?? - The drums are played really well, but there are just a few areas where I might need to nudge things a bit, perhaps take a fill from take 3 and put it on take one - Just generally nudge some things and do some copy pasting, cross fade etc... Help me. I need a bonehead simple DAW for this. I've been dreading this moment the whole time... I've seen some videos of people doing this type of thing in Stuido One and it looks easy, but I can not find their free version anymore - and I'm not sure it would have the features I need to do this??? Again... Help.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263583008192069683",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-18",
+    "content": "(most of us in here are familiar with editing in Pro Tools, it's definitely possible in all other DAWs though)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263583159711436851",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "so you set the BPM in reaper the same as your audacity click and you cant get things to line up?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263584468007129168",
+    "author": "Rollmottle",
+    "date": "2024-07-18",
+    "content": "to learn to do this in Reaper will be the same learning it any other DAW. Kenny Gioia's Reaper videos are where I would start.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263587113144815708",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Okay, right - This is the part I'm unable to get to happen in Reaper - I can get it in Traction Waveform, but not in Reaper for whatever Hellish Reason. I'm sorry bro - very frustrated over here... I will dig more into making it happen in Reaper this evening, I guess.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263587117259292835",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I hate Reaper. It's stable and it has things I like, but I hate Reaper. Sorry ya'll. I know I'm a let down.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263587823986937856",
+    "author": "NoahNeedleman",
+    "date": "2024-07-18",
+    "content": "Reaper\u2019s grid works just fine, you don\u2019t need a brand new DAW to do what you\u2019re tryna do.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263588027201224787",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "also - You recorded this in reaper with no click and are trying to line it up to another click from another daw?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263588135871451147",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "or you recorded in audacity and are trying to bring everything into reaper for mixing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263589051987001384",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I'm sure you're correct. And yes - end of rope, yes. Been that way for to long with Reaper if I'm honest, but that's neither here nor there at this point, really.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263590451294765140",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "No, no, no - I was drumming along to the click that I made in Audacity - I just flew it into Reaper assuming I would be able to recreate the grid in Reaper and that everything would line up perfectly (like it has in other daws for me) so that I could edit, but that did not turn out to be the case - things are not lining up for whatever reason. Hence my looking for other daws to edit in... I would edit in Traction Waveform where things do line up, but there doesn't seem to be any quantizing or stretching abilities in that DAW. And I'm pretty sure i need those...?Hope that all made sense.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263590679112585296",
+    "author": "Felix Byrne",
+    "date": "2024-07-18",
+    "content": "Really not sure why stuff isn't lining up in reaper - it's a constant bpm?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263593724856893663",
+    "author": "spectrummasters",
+    "date": "2024-07-18",
+    "content": "Same sample rate between reaper and audacity ?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263598548306624542",
+    "author": "Iwan Morgan",
+    "date": "2024-07-18",
+    "content": "Are the druns in time with the printed audacity click when you listen in another DAW? If that\u2019s the case i\u2019d take a break, maybe sleep on it and come back. The main hurdle is that your takes are in time (more or less). The syncing is def a setup issue in Reaper if it\u2019s working ok elsewhere. Can you find someone on Reaper forums to remote into your PC and help you for a few mins? @BoozleBAM",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263598727130513410",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "I just want to know if he\u2019s seeing a grid at all in reaper that\u2019s in the right BPM\u2026",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263603459073118248",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Yes - Seeing grid in Reaper at exact same bpm as my Audacity click, but the sounds are not lining up. Researching bullshit to ameliorate the situation Reaper tonight. At the hibachi counter atm.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263609469120811129",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Reaper converted the sample rates - Did everything in Audacity at 96 and Reaper downsampled to 44.1.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263609881731268678",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Not time signature or bpm issue, but thank you. That was my initial thought, as well. It's something with the setup in Reaper.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263613324625576017",
+    "author": "Josh",
+    "date": "2024-07-18",
+    "content": "Has happened to me so much in the past. Idk why but Cubase never wanted to play along",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263614366922571837",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I found an old disc of Cubase the other other day. I'm honestly going to give it a go - I know Reaper is like God's gift or whatever, but I just never took to it. As soon as I learned a basic function on there, I would forget it the next day. Just not the way I'm wired.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263615434494836737",
+    "author": "Josh",
+    "date": "2024-07-18",
+    "content": "Reaper is only good if you have the patience to make it work using your four year coding degree",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263615505525243954",
+    "author": "Josh",
+    "date": "2024-07-18",
+    "content": "Cubase is honestly the most intuitive IMO because it\u2019s super easy to get it to work how you want it to.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263616740240265319",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "I would save yourself some heartache and go directly to your final destination - pro tools",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263621551098695732",
+    "author": "David Fuller",
+    "date": "2024-07-18",
+    "content": "I actually know what's going on here as I used to use reaper - it auto-warps tracks like Ableton",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263626508832866314",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "What a gift Reaper is.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263717051730497627",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "I would honestly still be using Audacity if it weren't for the huge drawback of it not being able to track more than 2 channels at once (and, Audacity imparts some type of compression onto all of it's incoming signals, I heard, which is also not cool...). Unbelieveable drawback... When it was time to upgrade to a DAW for multi-tracking a few years ago, I got online and all the nerds were saying that Reaper was the DAW G.O.D., so I went with Reaper. Have regretted it ever since. lol. I basically use it as a tape machine. I am very, very bad with Reaper. The End.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263733897955377175",
+    "author": "cian riordan",
+    "date": "2024-07-18",
+    "content": "You've got a community of professionals here willing to help and answer questions. You're gonna be out to sea with Reaper, Audacity, et al.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263737076378239067",
+    "author": "BoozleBAM",
+    "date": "2024-07-18",
+    "content": "Considering I've been pegging around in Reaper for the last however many years... Sad, I know...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263737179230965822",
+    "author": "Nomograph Mastering",
+    "date": "2024-07-18",
+    "content": "Reaper is great, no shade. But we\u2019re recommending PT for a reason",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263743904826785892",
+    "author": "Adam Thein",
+    "date": "2024-07-18",
+    "content": "Kudos to all the super minds out there that can keep multiple daw shortcuts in their brain fluidly",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263745178691178536",
+    "author": "mixedbywong_my",
+    "date": "2024-07-18",
+    "content": "I used to work in PT loads from 2004-2010, then transitioned to Logic then back to PT and now in Cubase for last 8 years . What made it easier for me was mapping all my cubase or logic key commands to be as close as possible to the PT one . Doing that really helped my brain adjust to the diff DAWs ( of course there\u2019ll be some workflow  changes to get used to .)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263750405016522802",
+    "author": "Rollmottle",
+    "date": "2024-07-18",
+    "content": "it's to learn Reaper",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1263804129906659400",
+    "author": "rawssx",
+    "date": "2024-07-19",
+    "content": "I\u2019ve used FL STUDIO for like 7 years now, Idk why but i tried using Pro Tools for the first time in 2021. I almost had a migraine, i saw charlie puth producing his song attention on it and i was like well lets try that DAW out, def not something for me. The GUI is outdated for the new aesthetic generation. Logic And FL are much more intuitive imo.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263832852953567296",
+    "author": "gatewoodsensei",
+    "date": "2024-07-19",
+    "content": "Oh heck no definitely don\u2019t do that lol. I use both. FL for production and protools for recording and mixing. I also have studio one but that\u2019s not the point. Whatever works for you works BUT I still say learn pt. Even if it\u2019s not your main daw",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263838026124230761",
+    "author": "rawssx",
+    "date": "2024-07-19",
+    "content": "but i know for a fact that if you are an engineer, Pro Tools is the best one to do it. I am not.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263838245251317885",
+    "author": "BoozleBAM",
+    "date": "2024-07-19",
+    "content": "Is there a simple way I can make it NOT do this?? I just wanna comp some freaking drums. If I can figure this one task out, I'll know enough to finish this album in Reaper and I can move on to PT or whatever...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263840724303085650",
+    "author": "BoozleBAM",
+    "date": "2024-07-19",
+    "content": "Sheeeit! What a generous offer, my man! - It's Reaper that I'm using. Annnd, well... it's a drum kit recorded with 16 mics. Multiple takes (approx 3) with a few areas where I might need to copy paste a fill or whatever, and perhaps nudge some sections a little closer to the beat or whatever. The drums are played very well, and it's almost there. In my mind this should be a really simple task, but Reaper is apparently imposing some \"regulations\" that are interfering with the exectution of said task...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1263850287723188338",
+    "author": "BoozleBAM",
+    "date": "2024-07-19",
+    "content": "I've been trying to download Pro Tools intro for the past hour and AVID keeps on saying \"Sorry for the inconvenience, but something has gone wrong and we are working quickly to fix it. Please try back later.\" I'm apparently unable to make a new account, too... Does AVID do this sometimes?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264662284412911817",
+    "author": "BoozleBAM",
+    "date": "2024-07-21",
+    "content": "Obviously people are making fantastic records in whatever DAW, but in lieu of me just learning how to slip edit in Cubase, and discovering that Reaper and Cubase are (supposedly?) the only DAWS that can slip edit \"correctly,\" why... isn't everybody using Cubase and/ or Reaper for editing? I've been watching videos of drum editing in Cubase vs Protools and the Cubase way seems to be much more efficient - Like, it's actually doing the thing the \"right\" way... Am I daft?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264663153787277424",
+    "author": "Felix Byrne",
+    "date": "2024-07-21",
+    "content": "I assume you're referring to the ability to hold alt and 'slide' the waveforms in clips around within themselves?\n\nIdk just different workflows - it might be fast to do it that way but in pro tools its not really any extra steps to just nudge the whole clip, adjust the start/end and add fades - you're still doing the same thing in both",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264663913967128606",
+    "author": "Felix Byrne",
+    "date": "2024-07-21",
+    "content": "\"slip editing\" is a different thing - essentially butting the end of clip A to the start of clip C when you cut the middle clip B out - exists in PT and reaper and everything else",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264664168120844400",
+    "author": "Felix Byrne",
+    "date": "2024-07-21",
+    "content": "i feel like we said before but you should really download and get used to pro tools",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1264664430969487430",
+    "author": "Felix Byrne",
+    "date": "2024-07-21",
+    "content": "it's pretty much what everyone knows/starts on and everything you learn is entirely transferrable to everything else. 95% of studios are expecting pro tools skills at least in my experience",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266352809138327554",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Okay, soo... Thank you to everyone who's been patiently assisting me - the bonehead - through all this drum editing and DAW shit and whatever else. Update: I was able to successfully download protools intro after several days of not being able to for some reason. During the interim, when I was waiting for avid to be nice to me, I figured out how to 1. Make the grid in Reaper line up with the click tracks that I imported from Audacity - Halleluia. OMG. I have been trying to do that forever. 2. Slip Edit in Reaper and Cubase 3. Use Stretch Markers in Reaper and nudge around little pockets of sound. Now, I have a TRUE and UNIQUE disdain for Reaper. I think it's unintuitive, I think it's cumbersome, I shudder to think of all the time I spent fiddling around with this Nerd-god of a fucking daw when I could've been soaring along in Cubase or Protools, and I'm honestly so, soo sick of it, but... as I'm sitting here with my Dell Lattiude laptop from 2013 with its 8 gigs of ram, trying to install Pro Tools Intro for the 5th time (wheel spinning for minutes on end and then just spontaneously shutting down), I'm thinking to myself, \"Is there any reason I shouldn't just dig my heels into Reaper and finish up this one album with it??\" There are some things I like about Reaper, and the fact that I now preeeetty much know what I need to in order to finish things out, I mean... I've got some serious technological limitations over here. Pro tools intro took 3 hours to download and I'm not even able to install it on my computer. Reaper runs fine (so does Cubase LE4)... I hate it, but I mean... This is where I'm at... Thank you, All.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266353416951824517",
+    "author": "Edward Rivera",
+    "date": "2024-07-26",
+    "content": "A lot of records have been made with reaper. Might as well finish it",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1266353782392885348",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "I'm completely willing (and even wanting) to switch DAWS, but yes - i feel like I'm just kinda stuck here. - unless I buy a new computer. And I finally kind of have the know how to get it done with reaper...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266354875642675212",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Yeah, I mean, aside from preferences in workflow, there's no reason I shouldn't finish it in Reaper, right? I mean, no difference in sonics/ end result? A crossfade is a crossfade?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266356976548315258",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "And I'm **NOT TRYING TO THROW ANY SHADE AT REAPER OR IT'S USERS** - I love you guys, and I'm going to need you, and I'm one of you. I'm just someone who speaks very frankly - I'm a cook and a potty mouth and a shoot from the hip kinda guy, so please don't take any of my bonehead reactions to a very elegantly crafted and super capable DAW personally. Appologies if I've offended anyone.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266358898928124006",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "@Edward Rivera Should I slip edit these drums or time stretch (Stretch markers in reaper) them? They're almost right on - just little nudges here and there...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266362999833100329",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "I also learn from the inside out, which given the way Reaper works, might be the main reason is so difficult for me!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266365595876855809",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Man, Ed - I wish we could be in the same room together. lol. I am just SOOO bad with the technical side of things. I dont' even know what a crossfade is - I know that I need them to \"splice\" audio together? I know that I can set them up in Reaper to \"inject\" themselves automatically? but that's it - I used Audacity for YEARS and only went to Reaper because Audacity can only track 2 mics at once. When I say I'm a bonehead with all this stuff, I mean it...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266367262382755850",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "For example: In Reaper you can adjust the crossfade parameters. You right click on a crossfade, and all of a sudden you can adjust the miliseconds of the crossfade, the angle of the \"x\", the shape of the top half of the x and the bottom half of the x... For a guy like me, this opens up a whole world of possibilities. I immediately want to know what \"this crossfade sounds like and what this cross fade sounds like and what this does to this part and blah, blah, blah...\" Like, there's too much shit to learn - too many parameters. And in my mind, they all sound different. You see what I'm saying??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266368113633656986",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "I'm just going with whatever Reaper is set to automatically and calling it good - If I can't hear any weird warbles or anything then I'm good.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266615204406493195",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Just have to figure out how to do that in the Great Maze that is Reaper. lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266617736625393726",
+    "author": "montrose recording",
+    "date": "2024-07-26",
+    "content": "i dont wanna be problematic, but ill join the chorus of you getting pro tools and biting that bullet - thats work that you will put in the bank rather than a skill set that will most likely never be helpful again - just a memory of a headache",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266618738019532854",
+    "author": "BoozleBAM",
+    "date": "2024-07-26",
+    "content": "Dude, I 100% want to jump into protools right now - but my computer can't handle it. Took me days to even download it and my computer WILL NOT install it for some reason - and that's only the intro version... Everything is already tracked in Reaper and I'm like, so close and already familiar with mixing in it. I mean... it's just where I'm at... working with what I've got going already...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266851313585487943",
+    "author": "BoozleBAM",
+    "date": "2024-07-27",
+    "content": "Okay, so... I don't know if anybody wants to keep hearing from me about my click tracks and editing and all this nonsense, but I figured out what was wrong with my clicks not lining up in Reaper (and other DAWS it turns out) and I think I know what I'm going to do from here on out. The discovery is not pretty, but it is what it is...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1266853325404373196",
+    "author": "BoozleBAM",
+    "date": "2024-07-27",
+    "content": "Just to go into it for the sake of everybody's entertainment and/or edification: The problem is with the clicks that I flew in from Audacity. Half of them line up perfectly with the click track/ metronome is Reaper, Cubase, etc. and half of them don't... Midway through my pre-pro, I remember switching something up in the click settings in Audacity - don't remember what it was... Well, these are the clicks that are not lining up (I'm pretty sure. Lots and lots of sessions happened). They kiiinda line up, but there is a very perceptible mini-flam. So, half the songs I'll be able to rely on the grid some, and half the songs I'll have to go by feel more. The end.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267100373060026401",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "Sorry to spam this server, but I feel obliged to keep everyone updated - I think this is essentially the end of my saga. This is what actually happened. It's ugly. I knew I wasn't as stupid as I thought I was with all of this \"click not lining up\" bs... In the photo, the red waveforms are the click that I imported into Reaper from Audacity. The faint orange and green grid lines are the Reaper grid/ metronome. As you can see, the two beats on the outside are just slightly ahead of the grid, and the middle one is dead on it - This happens every other beat. This was my problem the whole time. The only sad thing is that half of my songs are recorded to fucky clicks like this. I mean... What the hell do I do now?? Everything is recorded to these - guitars, drums... everything...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267101584782004266",
+    "author": "tim adamson \ud83c\udde6\ud83c\uddfa",
+    "date": "2024-07-28",
+    "content": "Idk reaper so someone probably has a better take",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267103461321736256",
+    "author": "Adam Thein",
+    "date": "2024-07-28",
+    "content": "I\u2019d probably delete those clicks out of there now, generate a new one with reaper, and make any edits you hear need making to sound good with the new click, then work from there with new overdubs.  The way it sounds it isn\u2019t far off, and it seems at least every other click is on so you were essentially just listening to a very very subtle swing in the click while working which is gonna be totally workable.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267105097712930868",
+    "author": "Adam Thein",
+    "date": "2024-07-28",
+    "content": "I just mean I would pretend in my head nothing was off with the click I tracked to - just turn it off and keep on where you were, just use a new click if you still want to use it printed from reaper or pro tools when overdubbing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267112236686643256",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "I think... I thiiink... The problem with making a new click in Reaper and tracking along to it from here on, is that many of my songs switch bpms throughout. For example, one of the songs that I have this problem with is 136, 160, 180, 108, 118... When I'm making the grid and stacking these tempos, things can get problematic - things can get cumulatively more off timing wise... I'm gonna have to dive in and see... I might just have to... keep tracking to the fucky click?? I'm gonna have to dig in and really see, I guess...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267112525569200201",
+    "author": "Adam Thein",
+    "date": "2024-07-28",
+    "content": "Maybe edit the click you printed to lock to the reaper grid then and reprint?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267126661560795156",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "You should be able to add tempo changes in reaper",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267127445383807058",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-28",
+    "content": "At least\u2026 I know it\u2019s super duper easy in Pro Tools",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267134359203483759",
+    "author": "Iwan Morgan",
+    "date": "2024-07-28",
+    "content": "If it\u2019s any consolation I googled then downloaded a 120 bpm click a few weeks ago as the Pro Tools Click wasn\u2019t working, and even the downloaded file was not consistent. Luckily spotted it before tracking to it. But, this kind of stuff happens all the time, the main thing is to build a strategy into your practice which expects it to happen and then zero in on ways to make it less likely to happen or at least have the tools to fix things.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267144321489047632",
+    "author": "hyanrarvey",
+    "date": "2024-07-28",
+    "content": "Wait why are you making a click in audacity and then importing it into reaper. Why not just make the click track in reaper?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267269536466473004",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "The way you put that is just so perfect... lol - I'm looking up how to do that in Reaper right now. Also, I *just got done sifting through all the sessions and looking over all the clicks with a microscope to see how bad it all is. Avg time that the click is \"off\" is 7-8 milliseconds (the clicks with the \"every other one on the grid\" phenomenon...) Also, some of the songs that switch bpms throughout - some of those bpm sections line up with the grid in Reaper and some do the \"every other\" thing. So, I'm just saying that to say it, I guess. I may... I may live... lol",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267270555657310320",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "Right, yes. Coming to terms with and figuring out how to do all that right now. There is one section at the end of a song where the grid not lining up is truly egregious. Like, the Reaper click is literally playing in the spaces of the (stupid) Audacity click, but the spacing is all even. So, I thin I can just scooch everything over...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267274257923182706",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "The technical problem I have (which I'm working around thanks to all the kind people out here) is that There are some areas in some of the songs where the click track from Audacity isn't lining up exactly with the Click track that I made in Reaper to edit to. Going back, I never would've done things this way... The good thing is - that everyone has pointed out - is that it's probably not that big of a deal, and I'm kind of starting to agree!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267308543317643285",
+    "author": "BoozleBAM",
+    "date": "2024-07-28",
+    "content": "What's kept me from releasing this album is my own technological ineptitude (which I'm sure everyone here is abundantly familiar with at this point) and the fact that I just finished drums a week or so ago... But going from someone who just last week thought Audacity was the only way to make a click, to now slip editing and time stretching and making grids and shit in Reaper, shit man. I kinda feel like I'm making decent headway! lol. I'm not asking for a pat on the back or anything...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267509361589092406",
+    "author": "bobby k",
+    "date": "2024-07-29",
+    "content": "Anybody tried their hand at audiobook recording? My partner is really interested in giving it a shot, and I\u2019m curious if there are any DAWs suited specifically for this. Obviously I can set her up in Pro Tools and we would be golden, but wanted to explore other paths too. She\u2019s a complete beginner with audio",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267529261623939084",
+    "author": "David Fuller",
+    "date": "2024-07-29",
+    "content": "\"audible specs reaper, so use pro tools\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1267799633850011799",
+    "author": "BoozleBAM",
+    "date": "2024-07-30",
+    "content": "1. Why is it so easy to just absolutely NEUTER a track with eq? Like, I'm hearing things in the drums that I want to cut - 390hz or whatever, guitars too - and every time I pull some of it out, it sounds better, but I lose the impact, and the song doesn't move along as well as it did before. So I always end up just putting it back in... I've mainly been using Reaeq - Reapers stock parametric EQ, but I'm wondering if I need something different? Do I need to start messing with different eq slopes and shapes and whatnot??",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1267830785562382460",
+    "author": "Bryan DiMaio",
+    "date": "2024-07-30",
+    "content": "yes, you paid for infinite insert slots in reaper, you have to use infinite insert slots in reaper /s",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1270875124576555050",
+    "author": "FlugeBluge",
+    "date": "2024-08-07",
+    "content": "Thanks everyone for the help and insight. If I wanted to ask more specific questions about editing techniques in pro tools, what would be the correct channel?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1271039789059149856",
+    "author": "Iwan Morgan",
+    "date": "2024-08-08",
+    "content": "Do you have access to Linkedin Learning? There\u2019s a load of Pro Tools vids on there and some of the Larry Crane videos are good.\n\nBut\u2026what Cian said is correct, best way to learn is to record people for free/cheap. It will force you to come up with solutions in real time and it\u2019s where the main learning moments are.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1271931533665632357",
+    "author": "lystell",
+    "date": "2024-08-10",
+    "content": "In what DAW. I like the RAT pedal in Logic.\nAlso. Only seen videos but the Safari version of Fender Blender sounds nice in the demos.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1271986120070140004",
+    "author": "jonmatteson",
+    "date": "2024-08-10",
+    "content": "The ableton pedal can do the rat sound pretty well",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1274767305817198623",
+    "author": "Zack Hames",
+    "date": "2024-08-18",
+    "content": "Here\u2019s gain staging in a nut shell: don\u2019t clip. In pro tools I try to keep all my faders at 0 or below. Seems to play nice and I don\u2019t ever go back at the end of my mix to push everything down.\n\nMake sure you aren\u2019t clipping within plugins either. Fabfilter pro-Q 3 is notoriously nasty sounding when clipped.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1274812580514365481",
+    "author": "spectrummasters",
+    "date": "2024-08-18",
+    "content": "Ya , fwiw : I like (in Logic Pro ) faders at zero , peaking at -8 in the channels . Touch the faders for balance . Usually peak about -3 in sub groups  buses . Sub group master faders all at -5 from start of mix . Usually ending up about -2 peak in masterbus , 2 bus comp threshold / input gain will adjust to what this number is to get the 3 db peak max I\u2019m looking for usually",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1282760337900179556",
+    "author": "BoozleBAM",
+    "date": "2024-09-09",
+    "content": "Reaper has \"ReaVERB\" which doubles as an ir loader.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1282764853370683607",
+    "author": "cian riordan",
+    "date": "2024-09-09",
+    "content": "I've never used reaper so can't speak to that particular loader.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1282772391813976136",
+    "author": "Will Melones",
+    "date": "2024-09-09",
+    "content": "I\u2019m not familiar with Reaper, but are you using a stereo aux track? If you created a mono aux, you may be running a mono instance of ReaVERB",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283487691622842509",
+    "author": "BoozleBAM",
+    "date": "2024-09-11",
+    "content": "Apparently it's not a great idea to record straight onto a usb external hard drive?? I've had big problems with Reaper sessions disappearing in the weirdest of ways. I could go into details, but yeah... Bad idea?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1283490798339620885",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-11",
+    "content": "hard drive, maybe\nsolid state drive? no, it sounds like your files are allocated every which way in reaper settings",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283490902274211870",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-11",
+    "content": "reaper can dump out files wherever you tell it to but it seems like you might have things set to different disk volumes etc",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283492635901825116",
+    "author": "BoozleBAM",
+    "date": "2024-09-11",
+    "content": "I am having crazy issues with Reaper sessions disappearing - I'll make a session on one computer. Save it to the hard drive. Move to another computer, open the session on that same hard drive, track the session and save it. THEN - I'll go back to the first computer, try and open the session that I just tracked and I'll get the message \"there was an error opening such and such project\". Poof. It disappears from the hard drive completely. No longer in the recent files menu. Just completely gone. This has happened seemingly at random aroun 10 times.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1283492655380037753",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-11",
+    "content": "you've got to look at where reaper is telling things like your reapeaks data and other random stuff to go",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283492779074388162",
+    "author": "BoozleBAM",
+    "date": "2024-09-11",
+    "content": "Sighhhh... It's just one thing after another with Reaper. Omg.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1283492899161641000",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-11",
+    "content": "well it's both, reaper and computers do more or less whatever you tell it (but reaper makes it really easy to tell it to do something bad)",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283492910968602645",
+    "author": "David Fuller",
+    "date": "2024-09-11",
+    "content": "Reaper is insanely unhelpful with this stuff. You have to tell it to do everything, or it just won't.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283494279666208790",
+    "author": "BoozleBAM",
+    "date": "2024-09-11",
+    "content": "This is exactly what I've been doing. I do pre pro on my upstairs laptop and work straight on to the Samsung (or whatever drive). I save the sessions straight on there. I then take that drive downstairs to my tracking room and tracking on another computer. As soon as I take that session upstairs and try to open it up again in Reaper I get the message \"there was an error trying to open session 142.\" I got back into where I saved the files and it's completely gone. This of course doesn't happen every time, but it happens enough.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1283520545559679074",
+    "author": "Rollmottle",
+    "date": "2024-09-11",
+    "content": "this foolio, despite all the face metal and hair product, and Kenny Gioia are the Reaper GOATS",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1283520933017161749",
+    "author": "Bryan DiMaio",
+    "date": "2024-09-11",
+    "content": "I know enough about reaper to know I don't know much about reaper",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1288963632591409252",
+    "author": "bobby k",
+    "date": "2024-09-26",
+    "content": "I know we've discussed this before, but what are some good work arounds for the silicon native vs. Rosetta trouble in Pro Tools? I have a couple favs that run really well on my M3 max when in Native, but are prone to crashing/stalling sessions when in Rosetta. Then vice versace, a few favs that aren't yet available in native, so I've loaded them as VST's with something like Waves's \"StudioRack\" but that's admitedly not my favorite option...",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1290750059834769408",
+    "author": "Bryan DiMaio",
+    "date": "2024-10-01",
+    "content": "Yeah I tried using Windows with Pro Tools for like a year before Apple Silicon became super viable compatibility-wise, but everything was a huge hassle",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1291016509220454471",
+    "author": "BoozleBAM",
+    "date": "2024-10-02",
+    "content": "@Bryan DiMaio I discovered something: The crazy file loss thing ONLY happens when I \"save as\" - like when I'm trying to save another version of something- Not when I just create a new project and \"save project.\" Reaper - *Chefs kiss.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1331785859464167464",
+    "author": "BoozleBAM",
+    "date": "2025-01-22",
+    "content": "I haven't lost any sessions in a while and have been copy/ paste backing up like crazy. I did lose two sessions recently due to connection issues with the usb port, I think. That was not fun - Luckily reaper makes backup files, but still... I hate it all.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345156300450828348",
+    "author": "BoozleBAM",
+    "date": "2025-02-28",
+    "content": "Does bitrate \"kbps\" matter?? I keep hearing 24bit, but Reaper is saying it's at \"bitrate 128kbps\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1345158660720038081",
+    "author": "BoozleBAM",
+    "date": "2025-02-28",
+    "content": "Oh, okay. Wow - I'm the most novice Reaper user in history, so I'll have to look into that. Thank you for bringing it to my attention!",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1347421464902766713",
+    "author": "Zack Hames",
+    "date": "2025-03-06",
+    "content": "@BoozleBAM I find the headphones can be fatiguing and lie about your tone, if you\u2019re able to monitor your amp through your speakers in front of pro tools I find that to be more confidence inducing and less \u201cwhat the fuck is this\u201d later",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1348014211069906944",
+    "author": "Felix Byrne",
+    "date": "2025-03-08",
+    "content": "(also i totally relate lol) its so easy to get into stretching hell in reaper and fuck everything up",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1371624619089592353",
+    "author": "BoozleBAM",
+    "date": "2025-05-12",
+    "content": "Thank you, Sir. Using Reaper.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1378672754865471569",
+    "author": "L U K E",
+    "date": "2025-06-01",
+    "content": "Hey everyone, I am a beginner producer I use FL studio, I sing and play the piano. For a while I have been using plugins to add for example drums or guitars to my songs, but it makes the music sound so dead. What would be the best place to find musicians who would be down to record real instruments for songs? I don\u2019t have a lot of money either \ud83d\ude48",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1385688270658211840",
+    "author": "Zey",
+    "date": "2025-06-20",
+    "content": "Hey everyone, what is the best way to record your screen with the internal sound on a Mac? I tried BlackHole upon Google\u2019s advice but it looks sketchy and doesn\u2019t work at all with Logic or even GarageBand when you\u2019re screen recording those",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1385768862800154716",
+    "author": "Ross Fortune",
+    "date": "2025-06-20",
+    "content": "Do you have pro tools? You can set up PT Audio Bridge (like Blackhole) as an output from any daw, set it as the audio input in QuickTime screen record then monitor system audio through your interface. \n\nIf you need to record system audio and daw audio simultaneously one of the other suggests above would probably be better.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452377947179716710",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "- I've got one computer downstairs for tracking, and one computer upstairs for editing and such. Recorded today and the session was totally screwed by the time I brought it upstairs. I managed to fix the corrupted file, but now Reaper can't \"parse out\" the session. I've never had this happen before, but it can never happen again. Knowledge appreciated. Thnx.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452419666680090704",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "It's saying it can't \"parse out\" the files; When I open the session folder, all the wavs are there, but when I try and open the session file, Reaper apparently can't put them in the right place within the session. If that makes any sense.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452420682733453545",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "Yes, Sir - Unfortunately, the backup file is unable to be \"parsed out\" as well. I ran a function called \"Move to media source preferred position\" and that managed to put everything (all the different takes) where they were time-wise in the session, but there is apparently no way to put them back in their respective \"lanes\" for takes and such - Reaper is a little funny with takes etc; So, what would normally be 10 different tracks is now fifty.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452426852026290389",
+    "author": "Felix Byrne",
+    "date": "2025-12-21",
+    "content": "reaper should auto backup every 5 mins or something",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452427258563268608",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "Huh, man Reaper is way above my pay grade sometimes; if I open the session folder, I've got the rpp file and the session backup file (and all the wavs) but that's it. And the green colored duplicate was files or whatever.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452429014437199923",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Sometimes it\u2019s like that with usb but man it\u2019s been 10 years since I\u2019ve even used a pc and reaper sooo",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452430230294888619",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Boozle throw up a reaper screen shot",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452431167692341499",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "That reaper project parser on GitHub might be the vibe",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452433738939236476",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Did you look at the reaper parsing session thing",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452434352557260873",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "https://github.com/GriffinSauce/reaper-project-parser?tab=readme-ov-file",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452436481082790120",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "We've got these two little puppies and noting else (other than the wavs you see and their apparent reaper file or whatever the green icon thing is underneath them). I think i f'd up something with reaper bak. stuff at some point:",
+    "reactions": 0,
+    "attachments": 1,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452436539400257647",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "Just made a post on the Reaper forum explaining in detail.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452436687262187692",
+    "author": "hyanrarvey",
+    "date": "2025-12-21",
+    "content": "Or reaper > open > that bak session",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1452437135805251688",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "Nope - Reaper won't allow it.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1452477504244809749",
+    "author": "BoozleBAM",
+    "date": "2025-12-21",
+    "content": "When I get rich, I'm 100% hiring somebody to build me out the most insane pro tools rig.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1455979370589192486",
+    "author": "Zack Hames",
+    "date": "2025-12-31",
+    "content": "Definitely, just using it to vibe something up aggressively or send a mix through it, then right back into pro tools. \n\nGood advice ya'll, thank you! @Adam Thein  i'll grab some tape from them. It's not *horribly* expensive given my use case.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1455984872823849042",
+    "author": "Zack Hames",
+    "date": "2025-12-31",
+    "content": "I can imagine! I am anxious about this process with getting my SSL console. I am excited to figure out the path of least resistance. \n\nPeople have mentioned running all the channels on the console back into pro tools, which the engineer that helped with my bands record a couple weeks ago did and it was super easy and fun and it sounded like it did through the desk in general.\n\nI am curious how long I'll be able to be patient or willing to re-run mix revisions through hardware",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1463668993276776604",
+    "author": "bobby k",
+    "date": "2026-01-21",
+    "content": "Anybody got recommendations on Eucon stuff for Pro Tools? Is the SSL one any good?",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1463684035967713280",
+    "author": "Will Melones",
+    "date": "2026-01-21",
+    "content": "I tried a few control surfaces that were *not* Eucon and they just didn\u2019t cut it for me with PT. Almost like Avid maintains a barrier to ensure that hardware without their logo on it will be disappointing. I haven\u2019t used the SSL in particular, but it doesn\u2019t speak Eucon, so I just imagine it\u2019ll feel a bit like a layer on top of the pro tools mixer if that makes any sense",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1464334163787120932",
+    "author": "Zack Hames",
+    "date": "2026-01-23",
+    "content": "what you're saying makes sense. Couple things to try;\n\n1. different click sound! I really like \"marimba 2\" in pro tools for some reason. really easy to hear always, feels REALLY on time.\n\n2. Maybe try having a timed delay on one of your drum signals you can play off of. like a 1/16 note or triplet echo very faintly that, when you're in the pocket, grooves with your drumming. might be tough if you're doing really busy proggy stuff or if you're really worried about timing from an OCD perspective.\n\n3. if you have scratch guitar/bass tracks that were tracked to a click/perfectly gridded drum thing, playing along to that is usually far more inspiring and you can rely less on the click because you can just listen to the instruments.\n\n4. This is where having someone else record you helps. you might be totally in your head about this. a \"producer\" could be like \"bro that take was legit perfect\"",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1471334668216434730",
+    "author": "cian riordan",
+    "date": "2026-02-11",
+    "content": "but its less tactile. With a console, everything for that channel is right there in front of you: mic gain, EQ, aux sends, level to pro tools, etc.",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  },
+  {
+    "id": "1472998602073968713",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "but i want to at least learn to engineer vocals better; since i also track my artist friends. im learning pro tools well but i dont have the ear and mix practice yet",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473001634320613584",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "i want to switch to logic jsut for AU plugins being eaasier to get. but i dont want to stop learning pro tools. maybe i should start mixing in logic after tracking myself",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473002011648725150",
+    "author": "revolution",
+    "date": "2026-02-16",
+    "content": "yeah i dropped FL because using it and pro tools started to get redundant without producing more often",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": false
+  },
+  {
+    "id": "1473302678141407242",
+    "author": "Bryan DiMaio",
+    "date": "2026-02-17",
+    "content": "maybe in Pro Tools 2036 we might get a the right click sound and then the record making process will be back on track",
+    "reactions": 0,
+    "attachments": 0,
+    "is_pinned": false,
+    "is_expert": true
+  }
+]

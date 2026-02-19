@@ -65,3 +65,8 @@ Slow Hand noted that despite the humorous sample rate takes, "JJP is a goldmine 
 > Date range: January 2024 – February 2026
 > Note: The nerd-talk discussion focuses on the engineering theory behind sample rate choices. See [[AD-DA Conversion]] for the full technical treatment.
 > See also: [[nerd-talk Channel Summary]]
+
+> [!quote] Discord Source — #newbie-questions
+> **Channel:** #newbie-questions — **Date Range:** 2021-02 to 2026-02
+> **Definitive answer (59 reactions — most-reacted message in channel, pinned):** Nomograph Mastering (2022-10-22): "If I was asked 'What sample rate should people make records at in 2022?' And was forced to choose then the answer would be 48k. Film and TV prefer it, converters handle it efficiently, and there's no audible benefit to higher rates for most record-making."
+> See also: [[Beginner FAQ#Mastering Basics]], [[newbie-questions Channel Summary]]
