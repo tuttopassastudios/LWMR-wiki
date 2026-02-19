@@ -535,6 +535,48 @@ For each channel processed, record:
 
 ---
 
+### #biz-talk
+
+- **Channel:** #biz-talk (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** February 2021 – February 2026
+- **Messages:** ~3,400+ raw → ~2,800+ substantive (>20 chars, non-bot)
+- **Unique authors:** ~120+
+
+**Pages created (8 topic + 5 glossary):**
+- [[Music Business Pricing and Rates]], [[Royalties and Backend Revenue]], [[Contracts and Legal for Music Professionals]], [[Streaming Economics]]
+- [[Business Structure for Music Professionals]], [[Music Publishing and Songwriting Splits]], [[Client Relations and Project Management]], [[Marketing and Networking for Engineers]]
+- [[Split Sheet]], [[Royalty Points]], [[PRO]], [[Sync Licensing]], [[Mechanical Royalties]]
+
+**Pages enriched (3):**
+- [[DAW Pricing and Licensing]] — added broader service pricing philosophy from biz-talk, linked to new business pages
+- [[Session Mindset and Engineering Philosophy]] — added business sustainability section, oaklandmatt's upfront payment philosophy
+- [[Workflow]] MOC — added Business & Career section linking to new Business MOC
+
+**MOC created:** [[Business]] — new Map of Content for all business-related pages
+
+**Channel summary:** [[biz-talk Channel Summary]]
+
+**Identified experts:**
+- **oaklandmatt** (~450 messages) — Server owner, professional mixer/producer, pricing philosophy, "always get money up front," industry reality checks
+- **Rollmottle** (~320 messages) — Business structure expert (LLC vs S-Corp), tax strategy, accounting tools, PPP loan requirements
+- **mixedbywong_my** (~210 messages) — International perspective on music business, rate variations by market, career building outside US
+- **longstoryshort** (~190 messages) — Streaming economics, Spotify payment model analysis, distributor issues, playlist economics
+- **ehutton21** (~165 messages) — Business strategy, career development frameworks, when to work for free
+- **cypress / cy.mk** (~140 messages) — Networking strategies, venue relationships, organic career growth, open mic approach
+
+**Notes:**
+- This channel represents almost entirely new territory for the vault — the only prior business content was DAW Pricing and Licensing (software costs)
+- Created a new Business domain with its own MOC and 8 topic pages covering pricing, royalties, contracts, streaming, business structure, publishing, client management, and marketing
+- oaklandmatt's pinned advice "ALWAYS GET YOUR MONEY UP FRONT" is the channel's defining contribution
+- The "$100 client has 84 mix notes, the $100k client says 'rad!'" observation is one of the most cited insights across the server
+- Rollmottle's business structure guidance (LLC vs S-Corp) is exceptionally detailed, rivaling professional tax consultation
+- Channel tone is notably practical and direct — less theoretical debate than technical channels
+- Strong overlap with #recording-talk contributors discussing the business side of session work
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -549,3 +591,4 @@ For each channel processed, record:
 | #pro-tools | Feb 2024 – Feb 2026 | 4,104 | ~3,062 | 0 | 6 (glossary) |
 | #show-your-setup | Feb 2021 – Feb 2026 | 12,791 | ~7,761 | 1 (+3 glossary) | 3 (glossary) |
 | #atmos-talk | Jul 2021 – Jan 2026 | 4,539 | ~3,950 | 1 (+4 glossary) | 0 |
+| #biz-talk | Feb 2021 – Feb 2026 | ~3,400+ | ~2,800+ | 8 (+5 glossary) | 0 |

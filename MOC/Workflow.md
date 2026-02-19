@@ -85,12 +85,22 @@ modified: 2026-02-18
 
 ---
 
+## Business & Career
+
+- [[Business]] MOC — music business, pricing, contracts, and career development
+- [[Music Business Pricing and Rates]] — standard rates and pricing strategies
+- [[Client Relations and Project Management]] — managing client relationships and projects
+- [[Marketing and Networking for Engineers]] — career growth and networking
+
+---
+
 ## Related Maps of Content
 
 - [[Recording]] — tracking workflows and session setup
 - [[DAWs and Software]] — DAW-specific workflow features
 - [[Hardware]] — hardware setup and system optimization
 - [[Mixing]] — mix prep and organization
+- [[Business]] — music business and career development
 
 ---
 

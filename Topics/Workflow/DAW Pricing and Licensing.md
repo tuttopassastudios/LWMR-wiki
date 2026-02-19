@@ -110,6 +110,15 @@ Community members share strategies for managing software costs:
 ![[wyku_2025-10-24_samsung-internet.jpg]]
 ***Wyku** — 2025-10-24 — I was going to snag that cable during their BF sale last year, but the shipping to Canada was 5x the price of the cable.*
 
+### Broader Service Pricing Philosophy (from #biz-talk)
+
+While this page focuses on software costs, the #biz-talk channel provides extensive discussion of service pricing that frames DAW costs as just one component of running a music business:
+- DAW and plugin costs should be factored into your rate-setting as business expenses
+- The community emphasizes that software costs pale in comparison to the time investment of mastering tools
+- Subscription fatigue (Avid, Waves WUP, etc.) is a real business concern that affects profitability
+- See [[Music Business Pricing and Rates]] for comprehensive service pricing guidance
+- See [[Business Structure for Music Professionals]] for managing these expenses through proper business structure
+
 ## Source Discussions
 
 > [!quote] Discord Source
@@ -122,3 +131,9 @@ Community members share strategies for managing software costs:
 > **Key contributors:** Ross Fortune, Will Melones
 > **Message volume:** ~60 messages on Avid subscription vs perpetual features, premium plugin tiers, and iLok frustrations
 > See also: [[pro-tools Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #biz-talk — **Date Range:** 2021-02 to 2026-02
+> **Key contributors:** oaklandmatt, Rollmottle
+> **Message volume:** Context on software costs as business expenses within broader service pricing discussions
+> See also: [[biz-talk Channel Summary]]
