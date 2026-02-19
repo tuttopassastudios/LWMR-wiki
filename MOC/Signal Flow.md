@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/signal-flow
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Signal Flow
@@ -20,6 +20,7 @@ modified: 2026-02-17
 - [[Patchbays]] — TT and 1/4" routing, normalling configurations
 - [[500 Series Format]] — modular gear format originated by API
 - [[Cables and Connectivity Guide]] — cable types, standards, and best practices
+- [[Impedance and Audio Electronics]] — impedance, transformers, op-amps, negative feedback
 
 ---
 

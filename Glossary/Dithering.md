@@ -6,7 +6,7 @@ aliases:
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Dithering
@@ -28,3 +28,12 @@ Dithering should be applied as the very last step in the signal chain, after all
 ## See Also
 
 - [[Bounce and Export Workflows]]
+
+## Source Discussions
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~7 (dither theory, noise shaping, noise floor, signal-to-noise ratio)
+> Key contributors: Nomograph Mastering, Gerhard Westphalen
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]

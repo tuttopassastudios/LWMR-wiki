@@ -10,7 +10,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Power Conditioning
@@ -80,6 +80,16 @@ The most common power-related audio problem:
 - Manifests as 60Hz (US) or 50Hz (EU) hum in audio signals
 - **Solutions**: Ground lift on DI boxes, balanced connections, star grounding, isolation transformers
 
+### Ground Loop Theory (from #nerd-talk)
+The #nerd-talk channel (31 messages) provided deeper electrical engineering context for why ground loops occur and how to solve them systematically:
+
+- **Ground loops form when two or more pieces of equipment share a common ground but are connected via different electrical paths** — The resistance difference between these paths causes a small current to flow through the audio cable's ground/shield, inducing hum
+- **Star grounding** is the ideal solution: all equipment grounds terminate at a single point, eliminating the potential difference between ground paths. In practice, this means running all power from one distribution point and ensuring audio connections do not create parallel ground paths
+- **Balanced connections inherently reject ground loop hum** — The differential receiver at the input rejects any signal common to both conductors (including ground-loop-induced hum). This is why balanced connections are the professional standard, not just for noise rejection on long runs
+- **Isolation transformers break the ground path entirely** — A transformer-coupled input or output has no direct electrical connection between the two sides, making ground loops physically impossible across that connection
+- **"Floating" or "lifted" grounds on equipment** can solve ground loops but introduce safety concerns — The safety ground exists to prevent electrocution in fault conditions. Ground lift switches on DI boxes are safe because they only lift the audio signal ground, not the safety ground
+- **Power conditioners with isolation transformers** (like the Furman Power Factor Pro) can solve facility-wide ground loop issues by providing a single, clean ground reference for all connected equipment
+
 ### Dedicated Circuits
 - Ideally, your studio should have its own dedicated electrical circuit(s)
 - Avoid sharing circuits with refrigerators, HVAC, or other high-draw appliances
@@ -113,9 +123,17 @@ Proper power-on sequence prevents pops and speaker damage:
 - [[Cables and Connectivity Guide]]
 - [[Budget Gear Guide]]
 - [[Acoustic Treatment Guide]]
+- [[Impedance and Audio Electronics]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 36
 > Key contributors: Bryan DiMaio, Eric Martin, Nomograph Mastering, Zack Hames, Rollmottle, Gerhard Westphalen, jonmatteson, SoundsLikeJoe
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~31 (power/grounding theory, ground loop analysis, voltage regulation)
+> Key contributors: Nomograph Mastering, Bryan DiMaio, David Fuller, tinkerjef
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]

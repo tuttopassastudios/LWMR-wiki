@@ -9,7 +9,7 @@ tags:
   - domain/signal-flow
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Plugin Formats and Compatibility
@@ -45,6 +45,18 @@ The M1 transition created a multi-year compatibility challenge:
 > [!quote] Source
 > **Author:** Slow Hand — **Date:** 2021-09-23 — **Channel:** #daw-talk
 > "Logic does not run with Rosetta at all. So plugins that are only Rosetta compatible won't work in a DAW that's M1 compatible until they're updated."
+
+### VST3 Goes Open Source (October 2025)
+
+In October 2025, Steinberg/Yamaha released the VST 3.8.0 SDK as open source (10 reactions in #nerd-talk — one of the channel's most-reacted posts). This has significant implications for the plugin ecosystem:
+
+- **Lower barrier to entry** for plugin developers — No licensing fees or agreements required
+- **AI-assisted development** becomes more practical — Open-source code can be used with AI coding tools to accelerate VST3 plugin creation
+- **Community-driven improvements** to the SDK are now possible
+- **Long-term format stability** — Open-source governance reduces the risk of Steinberg making breaking changes
+
+> [!note]
+> The nerd-talk community discussed whether this could accelerate the transition away from VST2 (which Steinberg stopped licensing in 2018) and whether it might encourage DAWs currently not supporting VST3 to adopt it.
 
 ### AAX Limitations
 
@@ -94,3 +106,9 @@ Plugin licensing varies by manufacturer — iLok, native licensing, subscription
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Slow Hand, mixedbywong_my, Ross Fortune, Will Melones, ALXCPH
 > **Message volume:** 2,355 categorized messages (720 from identified experts)
+
+> [!quote] Discord Source
+> **Channel:** #🧠nerd-talk — **Date Range:** January 2024 – February 2026
+> **Messages:** ~9 (VST3 open source announcement, AI code engines for plugin dev, JUCE/Projucer setup)
+> **Key contributors:** Slow Hand, Nomograph Mastering
+> See also: [[nerd-talk Channel Summary]]

@@ -4,7 +4,7 @@ tags:
   - type/moc
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Hardware
@@ -281,6 +281,8 @@ modified: 2026-02-17
 
 ## Topic Guides (Hardware-Related)
 
+- [[Speaker Design and Crossover Theory]] — crossover types, driver design, cabinet acoustics
+- [[Impedance and Audio Electronics]] — impedance, transformers, op-amps, negative feedback
 - [[Acoustic Treatment Guide]] — comprehensive acoustic treatment planning
 - [[AD-DA Conversion]] — converter technology and considerations
 - [[Budget Gear Guide]] — recommended gear at every price point

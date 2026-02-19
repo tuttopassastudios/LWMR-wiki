@@ -78,19 +78,19 @@ Contributors identified as high-credibility sources based on message volume, sub
 
 ## Topic Index
 
-### New Pages Informed by #nerd-talk
-- [[AD-DA Conversion]] — Converter theory, jitter, clocking, delta-sigma discussion
-- [[Power Conditioning]] — Ground loops, power supply theory, hum elimination
-- [[Cables and Connectivity Guide]] — Impedance, balanced vs unbalanced, connector theory
-- [[Acoustic Treatment Guide]] — Room modes, SBIR, absorption/diffusion theory
-- [[Monitor Controllers Guide]] — Speaker crossover theory, monitoring chain
+### New Pages Created from #nerd-talk
+- [[Impedance and Audio Electronics]] — Impedance bridging/matching, transformer theory, op-amp topologies, negative feedback (155 msgs)
+- [[Speaker Design and Crossover Theory]] — Crossover types, driver design, cabinet acoustics, subwoofer integration (145 msgs)
 
-### Existing Pages Enriched
-- [[Vocal Chain]] — Microphone polar pattern physics from David Fuller's primer posts
-- [[Signal Flow]] topics — Impedance, transformer theory, analog electronics
-- [[Sample Rate]] — Converter and Nyquist theory discussions
-- Gear pages — Added deep technical context (e.g., why certain transformer designs sound different)
-- ~10 monitoring/speaker pages — Added crossover and driver theory
+### Existing Pages Enriched with #nerd-talk Content
+- [[AD-DA Conversion]] — Added clocking/jitter theory, delta-sigma conversion, Nyquist implications (53 msgs)
+- [[Power Conditioning]] — Added ground loop EE theory, star grounding, isolation transformer explanation (31 msgs)
+- [[Acoustic Treatment Guide]] — Added room modes math, SBIR theory, REW/SMAART measurement methodology (43 msgs)
+- [[Cables and Connectivity Guide]] — Added impedance theory, balanced CMRR physics, cable capacitance (92 msgs)
+- [[Backup and Storage for Audio]] — Added NAS/ZFS section with popthetrunk's TrueNAS guide, ZFS vs btrfs (58 msgs)
+- [[Sample Rate]] — Added nerd-talk source block for converter/Nyquist theory
+- [[Dithering]] — Added nerd-talk source block (7 msgs)
+- [[Monitor Controllers Guide]] — Added cross-references to new pages
 
 ## Pinned Messages
 
@@ -125,6 +125,7 @@ The channel has 2 pinned messages, both from **popthetrunk**, covering NAS/stora
 - [[gear-talk Channel Summary]] — Hardware gear discussions
 - [[daw-talk Channel Summary]] — DAW software discussions
 - [[recording-talk Channel Summary]] — Practical recording techniques
+- [[Contributors]] — Community contributor rankings (includes #nerd-talk data)
 - [[Home]] — Vault dashboard
 
 ---

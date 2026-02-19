@@ -7,7 +7,7 @@ aliases:
 tags:
   - type/glossary
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Sample Rate
@@ -57,3 +57,11 @@ Slow Hand noted that despite the humorous sample rate takes, "JJP is a goldmine 
 > Channel: #recording-talk
 > Matches: 53
 > Key contributors: cian riordan, Calvin Lauber, chadwahlbrink, Slow Hand, Adam Thein, Nomograph Mastering
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~84 (clocking/jitter theory, Nyquist implications, delta-sigma conversion, oversampling)
+> Key contributors: Nomograph Mastering, Rob Domos, Gerhard Westphalen, David Fuller, Bryan DiMaio
+> Date range: January 2024 – February 2026
+> Note: The nerd-talk discussion focuses on the engineering theory behind sample rate choices. See [[AD-DA Conversion]] for the full technical treatment.
+> See also: [[nerd-talk Channel Summary]]

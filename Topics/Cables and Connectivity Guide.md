@@ -11,7 +11,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Cables and Connectivity Guide
@@ -151,6 +151,30 @@ The community is shifting toward MADI for critical applications:
 - Ground lift switches on DI boxes exist for a reason -- use them when needed
 - See [[Power Conditioning]] for more on clean power
 
+## Impedance and Cable Physics (from #nerd-talk)
+
+The #nerd-talk channel added deeper engineering context to the practical cable recommendations above, explaining *why* balanced connections reject noise and how cable properties affect signal integrity.
+
+### Why Balanced Connections Reject Noise
+Balanced audio uses two signal conductors carrying the same signal in opposite polarity, plus a ground/shield:
+
+- **Common-mode rejection** — Any interference (hum, RF, etc.) picked up along the cable appears equally on both conductors. The differential receiver at the input subtracts one from the other, canceling the noise while doubling the desired signal
+- **The shield is not carrying signal** — It provides electrostatic shielding only. This is why lifting the shield at one end can break ground loops without affecting audio quality
+- **Rejection ratio depends on the receiver** — A transformer-balanced input provides excellent CMRR (common-mode rejection ratio) inherently. An electronically balanced input depends on resistor matching in the differential amplifier — cheaper gear with looser tolerances has worse CMRR
+
+### Cable Capacitance Physics
+All cables have capacitance between their conductors, measured in picofarads per foot (pF/ft):
+
+- **Capacitance forms a low-pass filter** with the source impedance — Higher source impedance and higher cable capacitance mean more high-frequency loss
+- **Low-impedance sources (line level, mic level)** are virtually unaffected by cable capacitance even on long runs — This is why you can run 100+ feet of balanced mic cable without audible degradation
+- **High-impedance sources (guitar pickups, ~5-15 kΩ)** are significantly affected — A 20-foot guitar cable with 30 pF/ft creates a low-pass filter that audibly rolls off highs and shifts the pickup's resonant peak
+- **Cable capacitance is why "cable tone" exists for guitarists** — It is not audiophile nonsense; it is measurable and directly related to the cable's capacitance interacting with the pickup's impedance. See [[Impedance and Audio Electronics]] for the full theory
+
+### Characteristic Impedance and Digital Cables
+- Digital audio cables (AES/EBU, S/PDIF, word clock) have a specified characteristic impedance — 110Ω for AES/EBU, 75Ω for S/PDIF and word clock
+- Using the wrong impedance cable for digital connections can cause reflections, leading to jitter or data errors
+- This is why you should not use random mic cables for AES/EBU connections — they work, but impedance mismatches can degrade the digital signal
+
 ## Common Debates
 
 ### Cable Quality -- Does It Matter?
@@ -190,9 +214,17 @@ The community is shifting toward MADI for critical applications:
 - [[AD-DA Conversion]]
 - [[DIY and Clone Gear]]
 - [[Gear Maintenance and Repair]]
+- [[Impedance and Audio Electronics]]
 
 ## Source Discussions
 > [!quote] Discord Source
 > Channel: #gear-talk
 > Matches: 700
 > Key contributors: Rollmottle, Bryan DiMaio, BatMeckley, David Fuller, cian riordan, Eric Martin, Nomograph Mastering, hyanrarvey, SoundsLikeJoe, Will Melones, Gerhard Westphalen, jantrit, Adam Thein, LAPhill, Ross Fortune
+
+> [!quote] Discord Source
+> Channel: #🧠nerd-talk
+> Messages: ~92 (impedance theory, balanced connection physics, cable capacitance)
+> Key contributors: David Fuller, Nomograph Mastering, Bryan DiMaio, Gerhard Westphalen, tinkerjef
+> Date range: January 2024 – February 2026
+> See also: [[nerd-talk Channel Summary]]
