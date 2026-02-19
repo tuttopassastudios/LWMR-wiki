@@ -10,7 +10,7 @@ modified: 2026-02-18
 # Production
 
 > [!info] Map of Content
-> Central hub for all music production-related knowledge in this vault. Sourced primarily from #production-talk (12,074 messages, January 2022 – February 2026) — covering songwriting, arrangement, beat making, sound design, sampling, virtual instruments, music theory, and creative philosophy.
+> Central hub for all music production-related knowledge in this vault. Sourced from #production-talk (12,074 messages, January 2022 – February 2026) and #songwriting-talk (1,933 messages, April 2021 – February 2026) — covering songwriting, arrangement, beat making, sound design, sampling, virtual instruments, music theory, and creative philosophy.
 
 ---
 
@@ -24,6 +24,9 @@ modified: 2026-02-18
 ## Songwriting & Arrangement
 
 - [[Songwriting and Arrangement]] — song structure, hooks, arrangement decisions, limitations as creative tools
+- [[Lyric Writing]] — lyrics-first philosophy, emotional honesty, storytelling, Rob Domos's "incriminate yourself" principle
+- [[Co-Writing and Collaboration]] — writing room dynamics, trust building, session preparation, writing camps
+- [[Creative Process and Songwriting Practice]] — daily routines, overcoming blocks, song-a-week exercises, oaklandmatt's morning routine
 - [[Music Theory for Producers]] — practical theory for production: chords, scales, harmony, modulation
 
 ---
@@ -95,9 +98,10 @@ Key production-talk insights on creative process:
 
 ---
 
-## Source Channel
+## Source Channels
 
 - [[production-talk Channel Summary]] — 12,074 messages, January 2022 – February 2026
+- [[songwriting-talk Channel Summary]] — 1,933 messages, April 2021 – February 2026
 
 ---
 

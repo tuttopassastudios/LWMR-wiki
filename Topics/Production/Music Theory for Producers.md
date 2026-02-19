@@ -9,6 +9,7 @@ tags:
   - domain/production
   - type/topic
   - channel/production-talk
+  - channel/songwriting-talk
 created: 2026-02-18
 modified: 2026-02-18
 ---
@@ -47,6 +48,16 @@ Key selection discussion in production-talk centers on:
 - **Instrument resonance** — certain keys feel different on guitar (open string keys) vs piano (flat keys often feel "darker")
 - **Transposition** — moving a song up or down to change energy and vocal character
 
+### Melody Writing Exercises (from #songwriting-talk)
+
+Slow Hand provides a detailed methodology for developing melodies, shared as coaching advice:
+
+> [!quote] Source
+> **Author:** Slow Hand — **Date:** 2022-06-26 — **Channel:** #songwriting-talk — 13 reactions
+> "A) Expansion — stretch the melody out over a longer period. Sing it half as fast. Hold certain notes for emphasis. B) Diminution — compress parts into faster runs. Remove notes. Simplify to its melodic essence. C) Repetition — take a fragment and play it again. And again. D) Modulation — transpose it to different keys. Beethoven's 5th is built entirely off a four-note motif. E) Dynamics — play with volume or intensity. Make notes 'bloom' or be breathy. F) Be Another Instrument — sing a bass line, a horn part, sing percussively like Michael Jackson or James Brown. G) Role Playing — give yourself a character and persona. Sing the same thing as different personalities."
+
+These exercises apply classical development techniques (expansion, diminution, modulation) to practical songwriting — theory in service of melody.
+
 ### Harmony and Modulation
 
 - **Key changes** for emotional lift — the classic "truck driver's modulation" (up a half step for the final chorus) is discussed as both effective and cliched
@@ -80,6 +91,8 @@ Different genres have different relationships with theory:
 ## See Also
 
 - [[Songwriting and Arrangement]] — song structure and arrangement decisions
+- [[Lyric Writing]] — how lyrics interact with harmonic choices
+- [[Creative Process and Songwriting Practice]] — daily practice including theory exercises
 - [[MIDI and Virtual Instruments]] — MIDI programming and chord voicing
 - [[Getting Started with Music Production]] — learning paths for beginners
 - [[Beginner FAQ]] — common music theory questions from beginners
@@ -90,3 +103,8 @@ Different genres have different relationships with theory:
 > **Channel:** #production-talk — **Date Range:** 2022-01 to 2026-02
 > **Key contributors:** BatMeckley, oaklandmatt, LAPhill, NoahNeedleman, Rollmottle
 > **Message volume:** 245 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #songwriting-talk — **Date Range:** 2021-04 to 2026-02
+> **Key contributors:** Slow Hand, oaklandmatt, rae, Marshall, Brian Reynolds
+> **Message volume:** 83 categorized messages (Chord Progressions & Harmony) + 147 (Melody & Hooks)

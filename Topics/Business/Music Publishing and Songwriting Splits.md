@@ -9,6 +9,7 @@ tags:
   - domain/business
   - type/topic
   - channel/biz-talk
+  - channel/songwriting-talk
 created: 2026-02-18
 modified: 2026-02-18
 ---
@@ -66,6 +67,16 @@ Understanding the [[Mechanical Royalties|mechanical royalty]] system:
 - Collection requires registration: with your [[PRO]] for performance royalties, and with a mechanical rights organization (Harry Fox Agency, Songtrust, etc.) for mechanical royalties
 - Many songwriters leave mechanical royalties uncollected simply because they don't register
 
+### Co-Writing Session Context (from #songwriting-talk)
+
+The #songwriting-talk channel adds practical context for how splits work in professional co-writing sessions:
+
+- oaklandmatt describes sessions where multiple producers/writers collaborate: one builds tracks, another toplines, the artist brings hooks — splits must accommodate all contributions
+- The challenge of producer contribution: oaklandmatt's "In The Name Of Love" example — an "emotional 3 chord piano ballad" produced into a "festival EDM anthem" — illustrates how production can transform a composition's identity, complicating split discussions
+- Alan Burgman (legendary lyricist, 98 years old) represents the generational perspective: traditional songwriting where lyricist and melody writer had clear, separate roles and corresponding splits
+
+See [[Co-Writing and Collaboration]] for detailed session dynamics and preparation strategies.
+
 ### PRO Registration for Compositions
 
 Registering works with a [[PRO|Performing Rights Organization]]:
@@ -99,6 +110,7 @@ Registering works with a [[PRO|Performing Rights Organization]]:
 - [[Mechanical Royalties]] — composition reproduction royalties
 - [[Contracts and Legal for Music Professionals]] — broader legal protection
 - [[Royalties and Backend Revenue]] — master recording royalties
+- [[Co-Writing and Collaboration]] — session dynamics and preparation strategies
 
 ## Source Discussions
 

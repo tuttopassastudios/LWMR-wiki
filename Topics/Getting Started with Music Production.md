@@ -4,6 +4,7 @@ confidence: high
 tags:
   - type/topic
   - channel/newbie-questions
+  - channel/songwriting-talk
   - domain/workflow
   - domain/recording
 created: 2026-02-18
@@ -158,6 +159,25 @@ See [[Gain Staging]] for the full explanation.
 
 ---
 
+## Songwriting as a Starting Point (from #songwriting-talk)
+
+#songwriting-talk provides a crucial perspective for beginners: **start with songwriting, not production.**
+
+> [!quote] Discord Source — oaklandmatt (2026-02-14) — #songwriting-talk
+> "I would strongly advise people who want to learn how to be great songwriters to avoid any production at all when doing the practice we're talking about. It's so much easier (and time consuming) to play with snare drum sounds and production transitions than to stay focused on lyrics and melody. Almost everyone I know just needs to write lyrics and melody over and over and over."
+
+### Daily Songwriting Practice
+
+> [!quote] Discord Source — oaklandmatt (2022-06-25) — 14 reactions — #songwriting-talk
+> "Learn classic songs and write a song a day for the next month or two. Repetition in the process with a great musical diet. It is rarely more complicated than these two things."
+
+> [!quote] Discord Source — oaklandmatt (2023-09-18) — 12 reactions — #songwriting-talk
+> "When you make lots and lots more music, you're doing the thing that will maximally help you get really good at it and give maximal shots at people hearing your music."
+
+The message for beginners: **volume over perfection.** Write many songs, learn many songs, and your craft will develop through repetition. See [[Creative Process and Songwriting Practice]] for detailed daily routines and [[Lyric Writing]] for the emotional honesty approach.
+
+---
+
 ## Production Philosophy (from #production-talk)
 
 #production-talk adds a creative production perspective to the "getting started" journey:
@@ -183,6 +203,9 @@ The message for beginners: technical knowledge matters, but creative instinct an
 - [[Music Business Pricing and Rates]] — pricing and career advice
 - [[Session Mindset and Engineering Philosophy]] — working with artists
 - [[Songwriting and Arrangement]] — song structure and arrangement techniques
+- [[Lyric Writing]] — lyrics-first philosophy and emotional honesty
+- [[Creative Process and Songwriting Practice]] — daily routines and overcoming blocks
+- [[Co-Writing and Collaboration]] — collaborative songwriting dynamics
 - [[Beat Making and Drum Programming]] — creating drum parts and beats
 - [[Music Theory for Producers]] — practical theory for production
 
@@ -192,6 +215,7 @@ The message for beginners: technical knowledge matters, but creative instinct an
 
 - [[newbie-questions Channel Summary]] — full channel overview and expert list
 - [[production-talk Channel Summary]] — production discussion overview
+- [[songwriting-talk Channel Summary]] — songwriting discussion overview
 - [[Mixing]] MOC — mixing knowledge hub
 - [[Recording]] MOC — recording knowledge hub
 - [[Production]] MOC — production knowledge hub

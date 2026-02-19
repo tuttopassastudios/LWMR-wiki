@@ -890,6 +890,67 @@ For each channel processed, record:
 
 ---
 
+### #songwriting-talk
+
+- **Channel:** #songwriting-talk (Music category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** April 2021 – February 2026
+- **Messages:** 1,933 raw → ~1,781 substantive (>20 chars, non-bot, non-GIF/emoji-only) → ~879 keyword-categorized
+- **Unique authors:** 153
+- **Pinned messages:** 4
+- **Peak activity:** 2023 (711 messages)
+
+**Category Message Counts:**
+| Category | Messages |
+|----------|----------|
+| Lyrics & Lyric Writing | 304 |
+| Demos & Song Production | 187 |
+| Vocal Performance & Delivery | 182 |
+| Instrument-Based Composition | 169 |
+| Creative Process & Workflow | 165 |
+| Melody & Hooks | 147 |
+| References, Study & Learning | 146 |
+| Song Structure & Form | 114 |
+| Co-Writing & Collaboration | 103 |
+| Chord Progressions & Harmony | 83 |
+| Publishing & Songwriting Business | 78 |
+| Genre & Style | 61 |
+
+**Pages created (3 topic):**
+- [[Lyric Writing]] — lyrics-first philosophy, emotional honesty, storytelling, Rob Domos's "incriminate yourself" principle
+- [[Co-Writing and Collaboration]] — writing room dynamics, trust building, session preparation, writing camps
+- [[Creative Process and Songwriting Practice]] — daily routines, overcoming blocks, song-a-week exercises, oaklandmatt's morning routine
+
+**Pages enriched (4):**
+- [[Songwriting and Arrangement]] — major expansion with songwriting-talk source content, lyrics-first philosophy, co-writing workflow
+- [[Music Theory for Producers]] — Slow Hand's melody writing exercises, songwriting-talk source block
+- [[Music Publishing and Songwriting Splits]] — co-writing session splits context from songwriting perspective
+- [[Getting Started with Music Production]] — songwriting as starting point, daily practice advice, separation of songwriting from production practice
+
+**MOC updated:** [[Production]] — expanded Songwriting & Arrangement section with 3 new page links, added songwriting-talk as source channel
+
+**Channel summary:** [[songwriting-talk Channel Summary]]
+
+**Identified experts:**
+- **oaklandmatt** (133 substantive, 94%) — Channel creator, lyrics-first philosophy, morning routine, co-writing session anecdotes — highest avg message length (377 chars) and most reactions (531) of any top contributor in any channel
+- **Josh** (145 substantive, 91%) — Career songwriter, demos/production, instrument composition, transitioning from metal to pop
+- **austenballard** (129 substantive, 91%) — Broad songwriting: instruments, lyrics, vocal performance
+- **Slow Hand** (115 substantive, 93%) — Lyrics, instrument composition, references — launched #song-a-week forum (45 reactions), melody exercise methodology
+- **Rob Domos** (29 substantive, 100%) — "Incriminate yourself" principle (16 reactions), Alan Burgman dinner conversation (12 reactions); 100% substantive rate
+- **BatMeckley** (16 substantive, 94%) — Oblique Strategies, creative block navigation — highest reaction ratio (5.1 per msg)
+- **NoahNeedleman** (21 substantive, 95%) — "The Helper" collaborative identity, vocal performance
+
+**Notes:**
+- This is the vault's **first dedicated songwriting channel** — introducing a creative domain not covered by previous extractions
+- Songwriting is oaklandmatt's passion topic — he has the highest average message length (377 chars) of any top contributor in any channel
+- The channel has an exceptionally high substantive rate (92%) — nearly every message is meaningful
+- The #song-a-week forum (January 2023) is the only community exercise program spawned by any channel
+- Strong overlap with #production-talk's Songwriting & Arrangement category (634 msgs) but provides deeper, more personal philosophy
+- Activity peaked in 2023 (711 msgs) coinciding with the song-a-week launch: 2021: 376 | 2022: 205 | 2023: 711 | 2024: 339 | 2025: 231 | 2026: 71
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -909,3 +970,4 @@ For each channel processed, record:
 | #newbie-questions | Feb 2021 – Feb 2026 | 9,859 | ~8,607 (~2,405 categorized, 1,173 Q&A pairs) | 2 (+6 glossary) | 0 |
 | #mastering-talk | Apr 2022 – Feb 2026 | 22,909 | ~19,806 (~6,466 categorized) | 4 (+2 glossary) | 0 |
 | #production-talk | Jan 2022 – Feb 2026 | 12,074 | ~10,823 (~4,578 categorized) | 5 | 0 |
+| #songwriting-talk | Apr 2021 – Feb 2026 | 1,933 | ~1,781 (~879 categorized) | 3 | 0 |

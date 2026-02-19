@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Josh",
+    "total": 160,
+    "substantive": 145,
+    "substantive_pct": 90.6,
+    "avg_length": 155,
+    "reactions": 152,
+    "top_topics": {
+      "demos_song_production": 17,
+      "instrument_composition": 16,
+      "lyrics_lyric_writing": 13,
+      "creative_process_workflow": 12,
+      "vocal_performance_delivery": 11
+    }
+  },
+  {
+    "name": "oaklandmatt",
+    "total": 142,
+    "substantive": 133,
+    "substantive_pct": 93.7,
+    "avg_length": 377,
+    "reactions": 531,
+    "top_topics": {
+      "lyrics_lyric_writing": 45,
+      "vocal_performance_delivery": 24,
+      "demos_song_production": 24,
+      "melody_hooks": 23,
+      "references_study_learning": 21
+    }
+  },
+  {
+    "name": "austenballard",
+    "total": 142,
+    "substantive": 129,
+    "substantive_pct": 90.8,
+    "avg_length": 159,
+    "reactions": 64,
+    "top_topics": {
+      "instrument_composition": 8,
+      "lyrics_lyric_writing": 8,
+      "vocal_performance_delivery": 8,
+      "creative_process_workflow": 7,
+      "publishing_business": 6
+    }
+  },
+  {
+    "name": "Slow Hand",
+    "total": 124,
+    "substantive": 115,
+    "substantive_pct": 92.7,
+    "avg_length": 303,
+    "reactions": 230,
+    "top_topics": {
+      "lyrics_lyric_writing": 21,
+      "instrument_composition": 20,
+      "references_study_learning": 18,
+      "vocal_performance_delivery": 14,
+      "chord_progressions_harmony": 11
+    }
+  },
+  {
+    "name": "Nomograph Mastering",
+    "total": 91,
+    "substantive": 85,
+    "substantive_pct": 93.4,
+    "avg_length": 85,
+    "reactions": 43,
+    "top_topics": {
+      "song_structure_form": 5,
+      "creative_process_workflow": 4,
+      "lyrics_lyric_writing": 4,
+      "references_study_learning": 2,
+      "cowriting_collaboration": 2
+    }
+  },
+  {
+    "name": "Ross Fortune",
+    "total": 85,
+    "substantive": 78,
+    "substantive_pct": 91.8,
+    "avg_length": 259,
+    "reactions": 64,
+    "top_topics": {
+      "lyrics_lyric_writing": 11,
+      "references_study_learning": 11,
+      "vocal_performance_delivery": 9,
+      "cowriting_collaboration": 6,
+      "creative_process_workflow": 5
+    }
+  },
+  {
+    "name": "OJ",
+    "total": 89,
+    "substantive": 74,
+    "substantive_pct": 83.1,
+    "avg_length": 113,
+    "reactions": 11,
+    "top_topics": {
+      "lyrics_lyric_writing": 11,
+      "demos_song_production": 9,
+      "melody_hooks": 7,
+      "vocal_performance_delivery": 7,
+      "creative_process_workflow": 4
+    }
+  },
+  {
+    "name": "Deleted User",
+    "total": 74,
+    "substantive": 72,
+    "substantive_pct": 97.3,
+    "avg_length": 292,
+    "reactions": 24,
+    "top_topics": {
+      "lyrics_lyric_writing": 15,
+      "creative_process_workflow": 13,
+      "vocal_performance_delivery": 11,
+      "cowriting_collaboration": 9,
+      "instrument_composition": 9
+    }
+  },
+  {
+    "name": "Marshall",
+    "total": 74,
+    "substantive": 65,
+    "substantive_pct": 87.8,
+    "avg_length": 101,
+    "reactions": 5,
+    "top_topics": {
+      "melody_hooks": 14,
+      "song_structure_form": 11,
+      "instrument_composition": 10,
+      "demos_song_production": 9,
+      "lyrics_lyric_writing": 7
+    }
+  },
+  {
+    "name": "Zack Hames",
+    "total": 51,
+    "substantive": 51,
+    "substantive_pct": 100.0,
+    "avg_length": 253,
+    "reactions": 44,
+    "top_topics": {
+      "demos_song_production": 10,
+      "creative_process_workflow": 9,
+      "lyrics_lyric_writing": 8,
+      "song_structure_form": 7,
+      "instrument_composition": 7
+    }
+  },
+  {
+    "name": "Matthew The Cooke\ud83c\udf84\ud83c\udf85\ud83c\udffb",
+    "total": 55,
+    "substantive": 51,
+    "substantive_pct": 92.7,
+    "avg_length": 200,
+    "reactions": 25,
+    "top_topics": {
+      "lyrics_lyric_writing": 13,
+      "demos_song_production": 6,
+      "creative_process_workflow": 5,
+      "vocal_performance_delivery": 5,
+      "melody_hooks": 5
+    }
+  },
+  {
+    "name": "ehutton21",
+    "total": 47,
+    "substantive": 46,
+    "substantive_pct": 97.9,
+    "avg_length": 314,
+    "reactions": 26,
+    "top_topics": {
+      "lyrics_lyric_writing": 13,
+      "vocal_performance_delivery": 6,
+      "cowriting_collaboration": 6,
+      "instrument_composition": 4,
+      "creative_process_workflow": 4
+    }
+  },
+  {
+    "name": "Brian Reynolds",
+    "total": 40,
+    "substantive": 37,
+    "substantive_pct": 92.5,
+    "avg_length": 255,
+    "reactions": 36,
+    "top_topics": {
+      "lyrics_lyric_writing": 10,
+      "melody_hooks": 8,
+      "vocal_performance_delivery": 7,
+      "song_structure_form": 7,
+      "demos_song_production": 5
+    }
+  },
+  {
+    "name": "Rob Domos",
+    "total": 29,
+    "substantive": 29,
+    "substantive_pct": 100.0,
+    "avg_length": 354,
+    "reactions": 67,
+    "top_topics": {
+      "lyrics_lyric_writing": 8,
+      "melody_hooks": 5,
+      "vocal_performance_delivery": 5,
+      "genre_style": 3,
+      "references_study_learning": 3
+    }
+  },
+  {
+    "name": "rae",
+    "total": 28,
+    "substantive": 28,
+    "substantive_pct": 100.0,
+    "avg_length": 296,
+    "reactions": 33,
+    "top_topics": {
+      "lyrics_lyric_writing": 7,
+      "instrument_composition": 5,
+      "chord_progressions_harmony": 4,
+      "references_study_learning": 3,
+      "creative_process_workflow": 3
+    }
+  },
+  {
+    "name": "Joel \"Roomie\" Berghult",
+    "total": 25,
+    "substantive": 23,
+    "substantive_pct": 92.0,
+    "avg_length": 300,
+    "reactions": 25,
+    "top_topics": {
+      "lyrics_lyric_writing": 4,
+      "references_study_learning": 4,
+      "demos_song_production": 3,
+      "vocal_performance_delivery": 2,
+      "song_structure_form": 2
+    }
+  },
+  {
+    "name": "NoahNeedleman",
+    "total": 22,
+    "substantive": 21,
+    "substantive_pct": 95.5,
+    "avg_length": 233,
+    "reactions": 75,
+    "top_topics": {
+      "vocal_performance_delivery": 3,
+      "demos_song_production": 2,
+      "chord_progressions_harmony": 2,
+      "creative_process_workflow": 2,
+      "references_study_learning": 2
+    }
+  },
+  {
+    "name": "Will Melones",
+    "total": 19,
+    "substantive": 19,
+    "substantive_pct": 100.0,
+    "avg_length": 378,
+    "reactions": 19,
+    "top_topics": {
+      "cowriting_collaboration": 4,
+      "lyrics_lyric_writing": 4,
+      "song_structure_form": 3,
+      "creative_process_workflow": 3,
+      "references_study_learning": 3
+    }
+  },
+  {
+    "name": "cy (sigh)",
+    "total": 19,
+    "substantive": 19,
+    "substantive_pct": 100.0,
+    "avg_length": 405,
+    "reactions": 6,
+    "top_topics": {
+      "creative_process_workflow": 7,
+      "lyrics_lyric_writing": 6,
+      "melody_hooks": 4,
+      "vocal_performance_delivery": 3,
+      "references_study_learning": 2
+    }
+  },
+  {
+    "name": "Zakhiggins",
+    "total": 22,
+    "substantive": 18,
+    "substantive_pct": 81.8,
+    "avg_length": 231,
+    "reactions": 40,
+    "top_topics": {
+      "lyrics_lyric_writing": 3,
+      "instrument_composition": 2,
+      "melody_hooks": 2,
+      "chord_progressions_harmony": 2,
+      "demos_song_production": 1
+    }
+  },
+  {
+    "name": "David Fuller",
+    "total": 21,
+    "substantive": 17,
+    "substantive_pct": 81.0,
+    "avg_length": 80,
+    "reactions": 2,
+    "top_topics": {
+      "chord_progressions_harmony": 2,
+      "melody_hooks": 2,
+      "song_structure_form": 1,
+      "genre_style": 1
+    }
+  },
+  {
+    "name": "BatMeckley",
+    "total": 17,
+    "substantive": 16,
+    "substantive_pct": 94.1,
+    "avg_length": 296,
+    "reactions": 82,
+    "top_topics": {
+      "lyrics_lyric_writing": 3,
+      "demos_song_production": 2,
+      "melody_hooks": 1,
+      "cowriting_collaboration": 1,
+      "genre_style": 1
+    }
+  },
+  {
+    "name": "revolution",
+    "total": 14,
+    "substantive": 14,
+    "substantive_pct": 100.0,
+    "avg_length": 490,
+    "reactions": 0,
+    "top_topics": {
+      "creative_process_workflow": 3,
+      "lyrics_lyric_writing": 3,
+      "song_structure_form": 3,
+      "demos_song_production": 3,
+      "references_study_learning": 3
+    }
+  },
+  {
+    "name": "peterlabberton",
+    "total": 13,
+    "substantive": 13,
+    "substantive_pct": 100.0,
+    "avg_length": 503,
+    "reactions": 7,
+    "top_topics": {
+      "cowriting_collaboration": 6,
+      "demos_song_production": 5,
+      "instrument_composition": 4,
+      "references_study_learning": 3,
+      "melody_hooks": 2
+    }
+  },
+  {
+    "name": "samvalentine",
+    "total": 13,
+    "substantive": 13,
+    "substantive_pct": 100.0,
+    "avg_length": 183,
+    "reactions": 7,
+    "top_topics": {
+      "references_study_learning": 1,
+      "genre_style": 1,
+      "melody_hooks": 1,
+      "song_structure_form": 1,
+      "publishing_business": 1
+    }
+  },
+  {
+    "name": "youngteam",
+    "total": 13,
+    "substantive": 13,
+    "substantive_pct": 100.0,
+    "avg_length": 275,
+    "reactions": 13,
+    "top_topics": {
+      "creative_process_workflow": 4,
+      "lyrics_lyric_writing": 3,
+      "demos_song_production": 2,
+      "instrument_composition": 2,
+      "publishing_business": 2
+    }
+  },
+  {
+    "name": "LAPhill",
+    "total": 14,
+    "substantive": 13,
+    "substantive_pct": 92.9,
+    "avg_length": 199,
+    "reactions": 36,
+    "top_topics": {
+      "cowriting_collaboration": 2,
+      "creative_process_workflow": 2,
+      "instrument_composition": 1,
+      "lyrics_lyric_writing": 1,
+      "melody_hooks": 1
+    }
+  },
+  {
+    "name": "rileybrewer",
+    "total": 13,
+    "substantive": 13,
+    "substantive_pct": 100.0,
+    "avg_length": 107,
+    "reactions": 6,
+    "top_topics": {
+      "references_study_learning": 4,
+      "demos_song_production": 2
+    }
+  },
+  {
+    "name": "Jack",
+    "total": 13,
+    "substantive": 13,
+    "substantive_pct": 100.0,
+    "avg_length": 248,
+    "reactions": 16,
+    "top_topics": {
+      "song_structure_form": 6,
+      "lyrics_lyric_writing": 4,
+      "demos_song_production": 4,
+      "instrument_composition": 2,
+      "creative_process_workflow": 2
+    }
+  },
+  {
+    "name": "TALLL",
+    "total": 13,
+    "substantive": 12,
+    "substantive_pct": 92.3,
+    "avg_length": 83,
+    "reactions": 1,
+    "top_topics": {
+      "chord_progressions_harmony": 2,
+      "creative_process_workflow": 1
+    }
+  }
+]

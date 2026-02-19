@@ -1,0 +1,68 @@
+{
+  "total_messages": 1933,
+  "date_range": "2021-04-02 to 2026-02-16",
+  "substantive_messages": 1781,
+  "noise_filtered": 152,
+  "unique_authors": 153,
+  "unique_messages_categorized": 879,
+  "uncategorized": 902,
+  "activity_by_year": {
+    "2021": 376,
+    "2022": 205,
+    "2023": 711,
+    "2024": 339,
+    "2025": 231,
+    "2026": 71
+  },
+  "categories": {
+    "lyrics_lyric_writing": {
+      "label": "Lyrics & Lyric Writing",
+      "count": 304
+    },
+    "melody_hooks": {
+      "label": "Melody & Hooks",
+      "count": 147
+    },
+    "chord_progressions_harmony": {
+      "label": "Chord Progressions & Harmony",
+      "count": 83
+    },
+    "song_structure_form": {
+      "label": "Song Structure & Form",
+      "count": 114
+    },
+    "creative_process_workflow": {
+      "label": "Creative Process & Workflow",
+      "count": 165
+    },
+    "cowriting_collaboration": {
+      "label": "Co-Writing & Collaboration",
+      "count": 103
+    },
+    "demos_song_production": {
+      "label": "Demos & Song Production",
+      "count": 187
+    },
+    "vocal_performance_delivery": {
+      "label": "Vocal Performance & Delivery",
+      "count": 182
+    },
+    "references_study_learning": {
+      "label": "References, Study & Learning",
+      "count": 146
+    },
+    "genre_style": {
+      "label": "Genre & Style",
+      "count": 61
+    },
+    "instrument_composition": {
+      "label": "Instrument-Based Composition",
+      "count": 169
+    },
+    "publishing_business": {
+      "label": "Publishing & Songwriting Business",
+      "count": 78
+    }
+  },
+  "pinned_count": 4
+}
