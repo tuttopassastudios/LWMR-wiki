@@ -80,6 +80,20 @@ Managing latency is critical when recording through plugin-heavy sessions in Abl
 - **Mixbus routing trick** — jonmatteson's approach: route all tracks to a submix bus, then route the submix to the master. This allows you to bypass the submix (and all its latency) when recording, while keeping your mix chain intact for playback (#ableton-live)
 - **Bypassed plugins still add delay compensation** — even bypassed plugins contribute to Ableton's delay compensation calculation. Remove (not just bypass) unused plugins from tracks to reduce overall latency (#ableton-live)
 
+### Logic Pro CPU Tips (from #logic-pro)
+
+**Rosetta vs Native Mode:**
+Some Logic users on Apple Silicon report better stability running Logic under Rosetta 2, with minimal performance difference. This is particularly useful when third-party plugins are causing "plugin caused Logic to be unstable" warnings in native mode (Deleted User, petter, #logic-pro).
+
+**Low Latency Mode:**
+Logic's Low Latency Mode bypasses bus routing and high-latency plugins to minimize monitoring latency during recording. The "Make Low Latency Safe" right-click option on individual plugins protects them from being bypassed, useful for plugins you need to hear while tracking (Deleted User, #logic-pro).
+
+**Buffer Size for Bouncing:**
+Increasing buffer size before bouncing can fix clicks and artifacts in the first ~30 seconds of bounced files. This is a common Logic-specific gotcha — the buffer size that works fine for playback may cause bounce glitches (spectrummasters, Finding Hope, #logic-pro).
+
+**M4 Mac Mini RAM for Logic:**
+For Logic Pro users considering the M4 Mac Mini, 24GB RAM is recommended over 16GB for heavier sessions with multiple virtual instruments and sample libraries. 16GB is adequate for lighter travel setups (Adam Thein, joshua_wav, #logic-pro).
+
 ## Practical Application
 - **Freeze/commit tracks** to free CPU from plugin processing
 - **Group strategically** in Ableton to distribute CPU threads
@@ -159,3 +173,9 @@ I only wa...*
 > **Channel:** #ableton-live — **Date Range:** 2024-02 to 2026-02
 > **Key contributors:** Adam Thein, jonmatteson, Slow Hand, Josh
 > **Message volume:** ~80 categorized messages on CPU optimization, latency management, and Live 12 improvements
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Adam Thein, spectrummasters, Finding Hope, Deleted User, petter
+> **Message volume:** ~20 messages on Rosetta vs native, low latency mode, buffer for bouncing, and M4 Mac Mini RAM
+> See also: [[logic-pro Channel Summary]]

@@ -47,6 +47,18 @@ Community consensus suggests 16GB as the minimum for serious production work, wi
 ### Storage Recommendations
 SSDs are considered mandatory for modern audio production. Members recommend NVMe drives for the system/application drive and a separate SSD for session audio. Spinning HDDs remain acceptable only for archival [[Backup and Storage for Audio|backup purposes]]. External Thunderbolt SSDs are popular for portable rigs, though some members report occasional I/O issues with USB-C enclosures.
 
+### Logic Pro Hardware Notes (from #logic-pro)
+
+**M4 Mac Mini for Logic:**
+- 16GB works well as a travel/portable setup for lighter Logic sessions (joshua_wav, #logic-pro)
+- 24GB+ recommended for heavier production work with multiple virtual instruments and sample libraries (Adam Thein, #logic-pro)
+
+**M1 MacBook Air:**
+Surprisingly capable as a travel Logic Pro setup — handles standard mixing and production sessions without issue (joshua_wav, #logic-pro).
+
+**USB-A Interface Issues on Apple Silicon:**
+MacBooks using USB-A audio interfaces (via USB-C adapter) can experience clock/sync problems, causing sample rate mismatch, clicks, and dropouts. This appears to be related to the adapter's clock handling rather than the interface itself (TURBO CHOOK, #logic-pro).
+
 ## Practical Application
 - Start with at least 32GB RAM for future-proofing large sessions
 - Use separate SSDs for system and session audio to reduce I/O contention
@@ -112,3 +124,9 @@ I'll load a whole folder of 808s into individual cha...*
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** Bryan DiMaio, cian riordan, Adam Thein, Slow Hand, Iwan Morgan
 > **Message volume:** 914 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Adam Thein, joshua_wav, TURBO CHOOK
+> **Message volume:** ~20 messages on M4 Mac Mini, M1 MacBook Air, and USB-A interface issues
+> See also: [[logic-pro Channel Summary]]

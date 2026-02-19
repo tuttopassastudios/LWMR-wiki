@@ -121,6 +121,29 @@ When delivering stems from Ableton to other DAWs (particularly [[Pro Tools]]):
 - **One-shot drum sample archiving** — Slow Hand's practice of bouncing all drum samples used in a session as one-shots into a dedicated folder before archiving, ensuring the session can be reconstructed even if sample libraries change or are uninstalled (#ableton-live)
 - **Collect All and Save habit** — always run Collect All and Save before archiving an Ableton session. This copies all referenced audio files, samples, and presets into the project folder, making the session self-contained (#ableton-live)
 
+### Logic Pro Export Workflow (from #logic-pro)
+
+Logic Pro lacks native batch stem export — the most discussed pain point in the #logic-pro channel. There is no way to export multiple stems through the mix bus without manually soloing each track.
+
+**Core Limitation:**
+- Bouncing in Logic renders only what is audible on the stereo output
+- To export individual stems, you must solo each track and bounce one at a time
+- No equivalent to Pro Tools' track output assignment or Cubase's Export Audio Mixdown batch mode
+
+**Third-Party Workarounds:**
+- **Nic's Logic Bouncer ([[SoundFlow]])** — automated solo-bounce workflow that scripts the tedious manual process; the most recommended solution but requires a SoundFlow subscription (Bryan DiMaio, #logic-pro)
+- **Bouncrrr** — standalone third-party tool praised as simple and reliable for batch stem export (Ross Fortune, Chad Rodgers, #logic-pro)
+- **Forte** — newer tool with promising features but reported as buggy and unreliable (Chad Rodgers, Spencer Broschard, #logic-pro)
+
+**Bounce Tips and Gotchas:**
+- **Cycle range bounce** — use pre-roll + a blank MIDI clip to define a consistent cycle range for bouncing (austenballard, #logic-pro)
+- **Bounce glitches** — clicks and artifacts in the first ~30 seconds of bounced files. Fix by switching from offline to realtime bounce, or by increasing the buffer size before bouncing (DavidEngquist, Finding Hope, spectrummasters, #logic-pro)
+- **Automation PDC bug** — automation plays back early during bounce due to plugin delay compensation. The "bip" (bounce in place) workaround commits the automation before the final bounce (austenballard, esquinalee, #logic-pro)
+
+**Cross-DAW Handoff from Logic:**
+- Unpack [[Take Folder|take folders]] before exporting — this extracts individual takes to separate tracks
+- Export as mono when the source material is mono (hyanrarvey, oaklandmatt, #logic-pro)
+
 ## Variations
 - **Offline bounce** — faster than real-time but may miss real-time-dependent effects
 - **Real-time bounce** — captures everything including hardware inserts and real-time effects
@@ -203,3 +226,9 @@ With one issue, but it's workable. Sending to a return from a nested track ("dru
 > **Key contributors:** SoundsLikeJoe, chrissorem, Joel "Roomie" Berghult
 > **Message volume:** ~20 messages on render queue, Render in Place, loop export, and wet FX stems
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Bryan DiMaio, austenballard, spectrummasters, hyanrarvey, Chad Rodgers, Ross Fortune
+> **Message volume:** ~100 messages on Logic export limitations, bounce glitches, automation bugs, and third-party bounce tools
+> See also: [[logic-pro Channel Summary]]

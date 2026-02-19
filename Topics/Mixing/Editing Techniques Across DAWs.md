@@ -41,6 +41,41 @@ Comping (assembling the best take from multiple recordings) varies widely. [[Pro
 - **Time stretching in audio editor** — Cubase's Sample Editor provides direct time-stretch handles on audio events, with algorithm selection (Standard, Musical, Solo) for different source material
 - **[[VariAudio]]** — integrated pitch and timing editing directly in the Sample Editor (see [[Vocal Editing Across DAWs]] for details)
 
+### Logic Pro Editing Workflow (from #logic-pro)
+
+Users migrating from [[Pro Tools]] to Logic consistently report editing workflow frustrations. spectrummasters provided the community's most detailed reference for Logic's editing system:
+
+**Editing Frustrations vs Pro Tools:**
+- No true slip tool equivalent — Logic's region-based editing model differs fundamentally from PT's clip-based approach
+- Nudge behavior requires learning Logic's specific grid and nudge value system
+- Region movement modes (Overlap, No Overlap, Shuffle) change how audio behaves when dragged, and the default behavior surprises PT users (Iwan Morgan, spectrummasters, #logic-pro)
+
+**Drag Mode Settings:**
+Logic's editing behavior is controlled by drag modes that must be understood to work efficiently:
+- **Smart** — context-sensitive behavior based on cursor position and grid settings
+- **Relative** — maintains the relative position of regions when dragging (preserves timing offsets)
+- **Absolute** — snaps the dragged region's start point to the grid (spectrummasters, #logic-pro)
+
+**Tool Assignment:**
+The recommended Logic editing tool configuration (spectrummasters, #logic-pro):
+- Right-click: Scissors tool (for splitting regions)
+- Left-click: Pointer tool (default selection/movement)
+- Cmd+click: Mute tool (quick region muting)
+- Set up auto-fade in preferences for automatic crossfades at edit points
+
+**Region Alignment:**
+- **":" key** — jumps the selected region to the playhead position (essential shortcut)
+- **"Move to Selected Track"** — moves a region to a different track while maintaining its time position (itaylerner, spectrummasters, #logic-pro)
+
+**Smart Tempo from Audio:**
+Logic can generate a tempo map from clickless recordings — useful for editing recorded performances that weren't tracked to a click. The generated tempo map allows grid-based editing even on free-time recordings (spectrummasters, #logic-pro).
+
+**Flex Time vs Ableton Warp:**
+Logic's Flex Time quantize is described as "glitchy af" compared to Ableton's Warp — artifacts are more noticeable and the interface is less intuitive (austenballard, #logic-pro).
+
+**Transient Markers:**
+Logic's transient markers require manual clicking to snap to zero crossings — they don't automatically land on zero crossings, which can cause clicks at edit points if not corrected (Jonathan Arnold, Jack, #logic-pro).
+
 ### DAW-Specific Editing Strengths
 Each DAW has particular editing strengths valued by the community:
 - **[[Pro Tools]]:** Tab to Transient, Beat Detective, Playlist comping, nudge shortcuts
@@ -81,3 +116,9 @@ Each DAW has particular editing strengths valued by the community:
 > **Key contributors:** Joel "Roomie" Berghult, SoundsLikeJoe, Lee Rouse
 > **Message volume:** ~15 messages on blob editing, time stretching, and audio editor features
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** spectrummasters, Iwan Morgan, austenballard, itaylerner, Jonathan Arnold
+> **Message volume:** ~60 messages on editing frustrations, drag modes, tool assignment, Smart Tempo, Flex Time, and region alignment
+> See also: [[logic-pro Channel Summary]]

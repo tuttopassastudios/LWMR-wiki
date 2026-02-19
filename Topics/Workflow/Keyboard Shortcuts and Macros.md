@@ -72,6 +72,20 @@ MIDI Insert effects in Cubase are non-destructive by default. The "Print MIDI Mo
 > **Author:** LAPhill — **Date:** 2025 — **Channel:** #cubase
 > LAPhill's Logical Editor preset library covers velocity editing, note filtering, CC manipulation, and track organization — the most comprehensive community preset collection shared in the channel.
 
+### Logic Pro Key Commands (from #logic-pro)
+
+**SoundFlow with Logic:**
+[[SoundFlow]] works with Logic Pro but is less robust than its Pro Tools integration. Users report -1700 errors more frequently in Logic. The primary useful SoundFlow script is **Nic's Logic Bouncer**, which automates the tedious solo-bounce stem export workflow (Spencer Broschard, Tristan, #logic-pro).
+
+**Essential Logic Key Commands:**
+- **Cmd+U** — set/toggle cycle range
+- **Cmd+R** — repeat region (caused crash in Logic 11.0, fixed in 11.0.1)
+- **Cmd+L** — controller assignment mode (toggle on/off; conflicts with some third-party software)
+- **":" (colon)** — jump selected region to playhead position (essential for region alignment)
+
+**Controller Assignment:**
+Cmd+L toggles Logic's controller assignment mode, allowing MIDI CC mapping to any on-screen parameter. Caution: some third-party software (particularly notation and scoring tools) can conflict with this mode (Jonathan Arnold, #logic-pro).
+
 ## Practical Application
 - Learn your DAW's default shortcuts before customizing — they are designed around common workflows
 - Map your ten most-used actions to easy single-key or two-key shortcuts
@@ -123,3 +137,9 @@ I'll load a whole folder of 808s into individual cha...*
 > **Key contributors:** LAPhill, SoundsLikeJoe, Jeff Dunne, Joel "Roomie" Berghult
 > **Message volume:** ~80 messages on Logical Editor, PLE, macros, and Stream Deck integration
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Spencer Broschard, Tristan, Jonathan Arnold, Bryan DiMaio
+> **Message volume:** ~20 messages on SoundFlow with Logic, key commands, and controller assignment
+> See also: [[logic-pro Channel Summary]]

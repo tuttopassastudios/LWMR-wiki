@@ -47,6 +47,11 @@ modified: 2026-02-17
 - Direct Offline Processing for non-destructive offline effects
 - **ARA reliability caveat** — Melodyne via ARA in Cubase produces clicks/pops at region boundaries; Auto-Tune ARA mode can cause crashes. Community recommends committing ARA-processed audio early or using VariAudio to avoid ARA entirely for simple tuning tasks
 
+**Logic Pro (from #logic-pro):**
+- **[[Take Folder]] comping** — pack takes into a folder, quick swipe comp across take lanes, flatten to commit. One of Logic's strongest vocal editing features (hyanrarvey, #logic-pro)
+- **Audio to MIDI** — Logic's built-in feature converts monophonic audio to MIDI notes. For a free alternative with more control, community recommends **NeuralNote** (Sam Segarra, Deleted User, #logic-pro)
+- **Melodyne in Logic 11.2** — new insert behavior provides faster access to Melodyne directly from the channel strip, streamlining the pitch correction workflow (Chad Rodgers, #logic-pro)
+
 ### Creative Vocal Processing (Ableton)
 Slow Hand demonstrated a sophisticated parallel vocal chain using Audio Effect Racks:
 - **Chain 1:** Basic vocal sculpting (EQ/Comp) — enclosed in a rack for A/B toggling
@@ -104,3 +109,9 @@ Many professionals use a multi-DAW approach:
 > **Key contributors:** Lee Rouse, SoundsLikeJoe, Joel "Roomie" Berghult
 > **Message volume:** ~60 messages on VariAudio techniques, ARA issues, and pitch correction workflows
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** hyanrarvey, Sam Segarra, Chad Rodgers
+> **Message volume:** ~15 messages on take folder comping, Audio to MIDI, and Melodyne in Logic 11.2
+> See also: [[logic-pro Channel Summary]]

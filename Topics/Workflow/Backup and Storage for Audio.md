@@ -9,7 +9,7 @@ tags:
   - domain/workflow
   - type/topic
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Backup and Storage for Audio
@@ -44,6 +44,67 @@ When a project is delivered, professionals typically consolidate all session fil
 
 ### Disaster Recovery
 Time Machine on macOS provides basic versioned backup but has limitations for large audio sessions — it can slow down during recording and may not handle external drives gracefully. Dedicated backup software with versioning (Carbon Copy Cloner, ChronoSync) offers more control for audio professionals.
+
+### NAS, ZFS, and Enterprise Storage (from #nerd-talk)
+
+The #nerd-talk channel produced 58 messages on NAS/ZFS storage — including both pinned messages in the channel — making it the most detailed NAS/storage resource on the entire server. popthetrunk's TrueNAS configuration guides are the centerpiece.
+
+#### Why NAS for Audio?
+A NAS (Network Attached Storage) provides centralized, redundant storage accessible from any machine on the network:
+- **Multiple computers can access the same archive** without manually copying files between drives
+- **RAID configurations provide redundancy** — A single drive failure does not mean data loss
+- **Dedicated storage hardware** separates your archive from your workstation, improving both performance and reliability
+- **Remote access** — Access archived sessions from anywhere on your network (or remotely with proper configuration)
+
+#### ZFS vs btrfs — File System Comparison
+The nerd-talk community strongly favors ZFS for audio archival:
+
+| Feature | ZFS | btrfs |
+|---------|-----|-------|
+| **Data integrity** | End-to-end checksums, self-healing with redundancy | Checksums available but less mature |
+| **RAID implementation** | Native RAID-Z (Z1, Z2, Z3) — mature, battle-tested | RAID 5/6 still considered experimental |
+| **Snapshots** | Copy-on-write snapshots, very fast | Copy-on-write snapshots, fast |
+| **Compression** | LZ4 (recommended), ZSTD, GZIP | LZ4, ZSTD, ZLIB |
+| **ECC RAM support** | Strongly recommended (detects memory corruption) | Not specifically optimized for ECC |
+| **Community verdict** | "Bulletproof data protection" | Fine for basic NAS use, but ZFS preferred for critical archives |
+
+#### TrueNAS/ZFS Configuration for Audio (from popthetrunk's Pinned Messages)
+
+**Dataset configuration for Pro Tools sessions:**
+- Change ZFS record size to **1M** (default 128K is suboptimal for large audio files)
+- Enable **LZ4 compression** — It is fast enough to be transparent and saves meaningful space on audio archives
+- Prioritize CPUs with **many PCIe lanes** (AMD Epyc or Threadripper) for maximum drive throughput
+- Invest in **ECC RAM** before spending on non-RAM caches — ECC prevents silent data corruption that could destroy your archive
+
+**Synology NAS optimization:**
+- Add **SSD read-only cache** to accelerate access to frequently-used archived sessions
+- **Max out system RAM** — NAS operating systems use free RAM as cache, and more RAM means faster browsing/searching of large archives
+- If using Synology's btrfs, understand that it provides good-enough data integrity for most users, but ZFS (via TrueNAS) is the gold standard for bulletproof protection
+
+#### NAS Hardware Recommendations
+| Component | Recommendation | Why |
+|-----------|---------------|-----|
+| **NAS OS** | TrueNAS (formerly FreeNAS) | Best ZFS implementation, enterprise-grade, free |
+| **Alternative** | Synology DSM | Easier setup, good btrfs support, less technical |
+| **RAM** | ECC RAM, as much as possible | ZFS uses RAM for ARC cache; ECC prevents data corruption |
+| **Drives** | NAS-rated HDDs (WD Red Pro, Seagate IronWolf Pro) | Designed for 24/7 operation, vibration-resistant |
+| **RAID level** | RAID-Z2 (minimum) | Survives 2 simultaneous drive failures |
+| **Network** | 10GbE if streaming active sessions | 1GbE is fine for archive access only |
+
+### Logic Pro Backup Tips (from #logic-pro)
+
+**Package vs Folder for Backup:**
+Logic sessions saved as packages (single macOS bundle) are more portable and self-contained than folder-based sessions. For backup and sharing, packages are recommended because they prevent broken file references. Always run Consolidate (File > Project Management > Consolidate) before sharing to ensure all referenced audio is inside the package (spectrummasters, #logic-pro).
+
+**Logic Cloud Collaboration Limitations:**
+- **Dropbox issues with packages** — Dropbox can struggle with Logic packages (macOS bundles), sometimes failing to sync individual files within the bundle or corrupting the package structure (Iwan Morgan, #logic-pro)
+- **Compress before upload** — always compress Logic packages to .zip before uploading to Dropbox, Google Drive, or other cloud services. This prevents cloud sync from interfering with the internal package structure (Mark_Tarlton, kalpipal, #logic-pro)
+
+**Time Machine:**
+Set Time Machine to back up at least twice daily for active projects. This provides versioned backups that can recover accidentally deleted audio files or corrupted sessions (spectrummasters, #logic-pro).
+
+**NAS Caution:**
+Logic has known issues with non-macOS formatted drives. Running sessions directly from a NAS (particularly Linux-formatted NAS volumes) can cause file path errors, missing audio, and session corruption. Keep active Logic sessions on macOS-formatted local drives and use NAS only for archival (hyanrarvey, #logic-pro).
 
 ## Practical Application
 - Follow the 3-2-1 backup rule: three copies, two media types, one offsite
@@ -84,3 +145,16 @@ Time Machine on macOS provides basic versioned backup but has limitations for la
 > **Channel:** #daw-talk — **Date Range:** 2021-02 to 2026-02
 > **Key contributors:** cian riordan, Edward Rivera, Adam Thein, Rollmottle, Will Melones
 > **Message volume:** 250 categorized messages
+
+> [!quote] Discord Source
+> **Channel:** #🧠nerd-talk — **Date Range:** January 2024 – February 2026
+> **Messages:** ~58 (NAS/ZFS storage, TrueNAS configuration, Synology optimization, backup infrastructure)
+> **Key contributors:** popthetrunk (both pinned messages), cian riordan, Rob Domos, Nomograph Mastering
+> **Notable:** Both of the channel's pinned messages are popthetrunk's NAS/ZFS configuration guides
+> See also: [[nerd-talk Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** spectrummasters, hyanrarvey, Iwan Morgan, Mark_Tarlton, kalpipal
+> **Message volume:** ~25 messages on package vs folder, cloud collaboration limitations, Time Machine, and NAS caution
+> See also: [[logic-pro Channel Summary]]

@@ -322,6 +322,54 @@ For each channel processed, record:
 
 ---
 
+### #logic-pro
+
+- **Channel:** #logic-pro (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** February 2024 – February 2026
+- **Messages:** 621 raw → ~480 substantive (40+ chars)
+- **Unique authors:** ~50
+
+**Glossary entries created (2):**
+- [[Take Folder]], [[Selection-Based Processing]]
+
+**Pages enriched (11):**
+- [[Logic Pro]] — Major expansion: Logic 11 issues, bounce limitations, take folders, SBP warnings, reference routing, stock synths, session collaboration, drum triggering, legacy sessions
+- [[Bounce and Export Workflows]] — Added Logic export limitations, bounce glitches, automation PDC bugs, Nic's Logic Bouncer, Bouncrrr, Forte
+- [[Troubleshooting DAW Issues]] — Added Logic 11 Command-R crash, SBP issues, Voice Isolation, plugin instability, frozen track PDC, automation bugs
+- [[Session Templates and Organization]] — Added default patch, Project Alternatives, consolidate, package vs folder, project notes camera
+- [[CPU Optimization for Audio]] — Added Rosetta vs native, low latency mode, buffer for bouncing, M4 Mac Mini RAM
+- [[Computer Hardware for Audio]] — Added M4 Mac Mini, M1 MacBook Air, USB-A interface issues
+- [[Editing Techniques Across DAWs]] — Added editing frustrations (PT→Logic), drag modes, tool assignment, Smart Tempo, Flex Time, transient markers
+- [[Vocal Editing Across DAWs]] — Added take folder comping, Audio to MIDI, Melodyne in Logic 11.2
+- [[Keyboard Shortcuts and Macros]] — Added SoundFlow with Logic, key commands, controller assignment
+- [[Recording and Tracking Workflows]] — Added low latency mode, PDC settings, AAF import, missing files
+- [[Backup and Storage for Audio]] — Added package vs folder, cloud limitations, Time Machine, NAS caution
+
+**Channel summary:** [[logic-pro Channel Summary]]
+
+**MOC updated:** [[DAWs and Software]] — added Logic Pro-Specific Concepts section
+
+**Identified experts:**
+- **hyanrarvey** (113 messages) — Broad Logic workflow, take folders, session management, drum triggering, NAS caution
+- **spectrummasters** (90 messages) — Reference routing, editing workflow, SBP warnings, session cleanup, Time Machine, project notes
+- **Brian Reynolds** (33 messages) — Logic 11 crash reporting, reference track routing, mix bus workflow
+- **Bryan DiMaio** (27 messages) — SoundFlow with Logic, Voice Isolation bug, Melodyne workflow
+- **Iwan Morgan** (19 messages) — Editing frustrations (PT→Logic), file overview bug, cloud collaboration
+- **austenballard** (16 messages) — Cycle range bounce, automation PDC bugs, Flex Time critique
+- **Sam Segarra** (15 messages) — Audio to MIDI, NeuralNote, plugin workflows
+- **Adam Thein** (15 messages) — I/O plugin routing bug, reference routing, M4 Mac Mini RAM, frozen track fix
+
+**Notes:**
+- The #logic-pro channel's single most discussed topic is the lack of batch stem export — a frustration that drives some users to Pro Tools for final delivery
+- Logic 11 instability generated the most cautious upgrade advice seen for any DAW on the server
+- Selection-Based Processing is a welcomed feature that community consensus says to avoid for critical work
+- Editing workflow frustrations (vs Pro Tools) are a consistent theme from users migrating between DAWs
+- Logic confidence upgraded from medium to high (now has dedicated channel + daw-talk data)
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -332,3 +380,4 @@ For each channel processed, record:
 | #recording-talk (Media) | Dec 2021 – Feb 2026 | — | 413 images, 279 links | +1 (External Resources) | 0 |
 | #ableton-live | Feb 2024 – Feb 2026 | 1,982 | ~1,495 | 3 | 0 |
 | #cubase | Sep 2024 – Jan 2026 | 518 | ~421 | 0 | 3 (glossary) |
+| #logic-pro | Feb 2024 – Feb 2026 | 621 | ~480 | 0 | 2 (glossary) |

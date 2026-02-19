@@ -82,6 +82,28 @@ The #cubase community discussed systematic track color approaches:
 - Cubase's track visibility configurations allow saving and recalling visibility presets per workflow stage (tracking, editing, mixing)
 - Combine color coding with PLE (Project Logical Editor) presets to show/hide tracks by color
 
+### Logic Pro Organization Tips (from #logic-pro)
+
+**Default Patch Limitation:**
+Bus sends configured in a default patch do not save — they must be reconfigured each time a new track is created from the patch. This is a known Logic limitation that catches new users (Charlie Deane, #logic-pro).
+
+**Project Alternatives:**
+Logic's Project Alternatives feature allows maintaining multiple versions of a session within a single project file — useful for storing different mix versions, arrangement experiments, or client revisions without duplicating the entire project (spectrummasters, #logic-pro).
+
+**Consolidate Session for Portability:**
+File > Project Management > Consolidate gathers all referenced audio files, samples, and assets into the project folder. Essential before sharing sessions or moving them between machines (spectrummasters, #logic-pro).
+
+**Package vs Folder:**
+- **Package** — a single macOS bundle containing all project assets. Recommended for collaboration and portability since everything is self-contained
+- **Folder** — a directory structure with separate audio files. Easier to navigate in Finder but riskier for file path breakage
+- For collaboration, use packages and compress before uploading (hyanrarvey, #logic-pro)
+
+**Session Cleanup:**
+File > Save As > Copy All Media creates a clean copy with only the audio files actually used in the session, removing unused recordings and imports (hyanrarvey, #logic-pro).
+
+**Project Notes Camera:**
+Logic Pro allows inserting photos directly from iPhone/iPad camera into project notes — useful for documenting gear setups, mic placements, and outboard settings during tracking sessions (spectrummasters, #logic-pro).
+
 ## Practical Application
 - Invest time building templates — it pays off exponentially
 - Use scripting tools (SoundFlow, ReaScript) to automate repetitive tasks
@@ -150,3 +172,9 @@ If you're breaking a single sampled instrument out ac...*
 > **Key contributors:** Dean Tuza, LAPhill, chrissorem
 > **Message volume:** ~15 messages on Hazel rules, track color coding, and PLE visibility presets
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** spectrummasters, hyanrarvey, Charlie Deane
+> **Message volume:** ~55 messages on default patches, Project Alternatives, consolidate, package vs folder, and session cleanup
+> See also: [[logic-pro Channel Summary]]

@@ -75,6 +75,44 @@ When a session crashes on load:
 > **Author:** SoundsLikeJoe — **Date:** 2024–2025 — **Channel:** #cubase
 > SoundsLikeJoe's "bad plugin" diagnosis workflow — rename VST folders, open session, re-enable one at a time — is the systematic approach to isolating session crashes.
 
+### Logic Pro-Specific Issues (from #logic-pro)
+
+**Logic 11 Command-R Crash:**
+Pressing Cmd+R (Repeat Region) in Logic 11.0 caused widespread crashes and hangs. This was one of the most reported issues in the channel, affecting Brian Reynolds, Skyler Young, and Marty Byrde among others. Fixed in Logic 11.0.1 — community strongly recommends waiting for the first maintenance update before upgrading to any major Logic version.
+
+**Plugin Instability on Apple Silicon:**
+Multiple M2 users reported "plugin caused Logic to be unstable" warnings. Some found running Logic under Rosetta provided better stability with minimal performance difference (Skyler Young, Deleted User, petter, #logic-pro).
+
+**Plugin Alliance Copy-Drag Bug:**
+When copying Plugin Alliance plugins between channel strips, Logic sometimes grabs the wrong plugin instance (spectrummasters, #logic-pro).
+
+**Logic 10.5 — Worst Update:**
+Community members recall Logic 10.5 as the most disruptive update — plugins broken, sessions crashing, workflow changes that disrupted established users (Deleted User, #logic-pro).
+
+**[[Selection-Based Processing]] Issues:**
+Logic's Selection-Based Processing feature (AU effects applied destructively to regions) causes:
+- Unpredictable audio dropouts after use
+- Destructive file corruption that is difficult to undo
+- Community recommendation: use Bounce in Place instead (spectrummasters, itaylerner, #logic-pro)
+
+**Plugin Settings Forgotten:**
+Logic occasionally resets plugin parameters — reported with Boz Big Clipper, FabFilter Pro-C 2 in dual mono mode, and Ozone 9 (DavidEngquist, #logic-pro).
+
+**Voice Isolation Mode:**
+macOS's Voice Isolation mic mode can silently activate and block all audio input in Logic, with no obvious indication in the DAW. The fix is to check Control Center > Mic Mode and disable Voice Isolation (Bryan DiMaio, Strange Adonis, #logic-pro).
+
+**USB Type-A Clock/Sync Issues:**
+MacBooks using USB-A audio interfaces (via adapter) can experience sample rate mismatch and clock sync problems, causing clicks and dropouts (TURBO CHOOK, #logic-pro).
+
+**Frozen Track Delay Compensation:**
+Unfreezing tracks can break timing alignment. The fix is to remove and reinstantiate the plugins on the affected track, which forces Logic to recalculate delay compensation (Adam Thein, #logic-pro).
+
+**File Overview Reconstruction:**
+Some sessions repeatedly rebuild their audio file overview every time they are opened, adding significant load time (Iwan Morgan, #logic-pro).
+
+**Automation Latency / PDC Issues:**
+Automation can trigger early during bounce due to plugin delay compensation. The "bip" (bounce in place) workaround commits the automation before the final bounce (austenballard, esquinalee, #logic-pro).
+
 ## Practical Application
 - Save incremental session versions frequently to enable rollback
 - Isolate plugin crashes by disabling plugins one at a time
@@ -150,3 +188,9 @@ I have a ...*
 > **Key contributors:** LAPhill, SoundsLikeJoe, Lee Rouse, Joel "Roomie" Berghult
 > **Message volume:** ~15 messages on Cubase crashes, ARA issues, GPU conflicts, and plugin troubleshooting
 > See also: [[cubase Channel Summary]]
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** spectrummasters, Brian Reynolds, Bryan DiMaio, Adam Thein, Iwan Morgan, austenballard
+> **Message volume:** ~55 messages on Logic 11 crashes, SBP issues, Voice Isolation, plugin instability, frozen track PDC, and automation bugs
+> See also: [[logic-pro Channel Summary]]

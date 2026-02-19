@@ -81,6 +81,13 @@ modified: 2026-02-18
 
 ---
 
+## Logic Pro-Specific Concepts
+
+- [[Take Folder]] — comping system for managing recording takes
+- [[Selection-Based Processing]] — destructive AudioUnit processing on selections
+
+---
+
 ## Plugins & Formats
 
 - [[Plugin Formats and Compatibility]] — AAX, VST, AU format details

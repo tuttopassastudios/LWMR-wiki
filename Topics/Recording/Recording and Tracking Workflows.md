@@ -91,6 +91,23 @@ cian riordan provided detailed guidance on backup strategies:
 - [[Pro Tools]] — industry standard for tracking
 - [[Session Templates and Organization]] — template setup
 
+### Logic Pro Recording Tips (from #logic-pro)
+
+**Low Latency Mode Details:**
+Logic's Low Latency Mode bypasses bus routing and high-latency plugins to minimize monitoring latency during recording. Use the "Make Low Latency Safe" right-click option on plugins you need to hear while tracking — this prevents those specific plugins from being bypassed when Low Latency Mode is engaged (Deleted User, #logic-pro).
+
+**Plugin Delay Compensation Setting:**
+Logic's PDC (Plugin Delay Compensation) must be set to "ALL" (not "Audio and Software Instrument" or "OFF") to ensure proper delay compensation across all track types. Incorrect PDC settings cause timing misalignment between tracks (thecoleyoung, #logic-pro).
+
+**AAF Import:**
+When importing AAF files into Logic, you must select "AAF file" as the import format — not "audio file." Selecting the wrong format causes Logic to fail silently or import only the first audio file in the AAF (Deleted User, mariano, #logic-pro).
+
+**Missing Audio Files:**
+When Logic reports missing audio files:
+1. Right-click the project package and choose "Show Package Contents" to inspect the audio folder
+2. Use Logic's File Browser to manually locate and relink missing files
+3. File > Project Management > Consolidate to copy all referenced files into the project (Deleted User, hyanrarvey, spectrummasters, #logic-pro)
+
 ## Session Workflow in Practice (from #recording-talk)
 
 ### A Full Tracking Day
@@ -115,3 +132,9 @@ The #recording-talk community strongly advocates for committing to sounds during
 > [!quote] Discord Source
 > **Channel:** #recording-talk — **Date Range:** 2021-12 to 2026-02
 > **Key contributors:** Zack Hames, cian riordan, NoahNeedleman, BatMeckley
+
+> [!quote] Discord Source
+> **Channel:** #logic-pro — **Date Range:** 2024-02 to 2026-02
+> **Key contributors:** Deleted User, thecoleyoung, mariano, hyanrarvey, spectrummasters
+> **Message volume:** ~20 messages on low latency mode, PDC settings, AAF import, and missing audio files
+> See also: [[logic-pro Channel Summary]]
