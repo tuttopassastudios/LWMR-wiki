@@ -12,7 +12,7 @@ manufacturer: Genelec
 category: Monitor
 price_range: $500–$5,000+ per pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Genelec Monitors
@@ -73,3 +73,8 @@ modified: 2026-02-17
 > Date range: April 2021 – March 2022
 > Key contributors: David Fuller, Zack Hames, h3x
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Genelec 8020s appear in Eric Martin's mobile checked-bag studio (Mac Studio + Apollo x4 + Genelec 8020s in a Pelican Air 1615). Genelec's wood-finish models generate aesthetic discussion alongside acoustic performance. The community values Genelecs for small-room and portable setups where SAM room correction compensates for compromised placement.

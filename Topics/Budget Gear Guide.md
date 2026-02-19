@@ -10,7 +10,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Budget Gear Guide
@@ -180,6 +180,29 @@ If the community had to recommend a single microphone for someone starting out:
 - **Upgrading converters before monitors** -- You will not hear converter differences through budget monitors in an untreated room
 - **Assuming expensive = better for your situation** -- A $200 SM57 may genuinely outperform a $3,000 condenser on certain sources
 
+## Budget Studio Builds from #show-your-setup
+
+The setup channel provides real evidence of budget-friendly studio solutions:
+
+### DIY Desk Builds
+- **bobby k's $100 desk** — Sold his Output Platform and built a replacement from scrap wood. "Noticeably better, plus feels good to get that money back" (9 reactions). Acoustically superior due to reduced reflective surface area.
+- **Josh Bowman's weekend renovation** — Repurposed old wood and a closet shelf into a minimal desk after REW measurements showed dramatic improvement without the big desk.
+- **The tiny desk consensus** — Multiple members confirm that downsizing furniture and investing in treatment produces better results than expensive studio desks.
+
+### Affordable Treatment
+- **AYOSHADOW's DIY panels** — Handmade acoustic treatment built as a family project for a living room studio
+- **EliHeathMusic's wheeled panels** — DIY rolling bass traps with accessible construction plans shared with the community
+- **Will Melones' corner treatment** — Simple rockwool wedge at ceiling/front-wall junction yielded +6dB improvement at 135Hz
+- **bobby k's $200 double-paned window** — Found a gas-insulated, double-paned window (new $1,700) for his garage studio conversion
+
+### Budget Monitor Options
+- Community setup photos document successful mixes on Adam A7Xs (jantrit, 11 years), Kali speakers (discussed as upgrade recommendations), and other affordable monitors paired with proper treatment.
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Key contributors: bobby k (DIY desk, budget build), Josh Bowman (weekend renovation), AYOSHADOW (DIY panels), EliHeathMusic (wheeled bass traps), Will Melones (corner treatment)
+
 ## See Also
 - [[Acoustic Treatment Guide]]
 - [[Monitor Controllers Guide]]
@@ -187,6 +210,7 @@ If the community had to recommend a single microphone for someone starting out:
 - [[Outboard vs In-The-Box]]
 - [[DIY and Clone Gear]]
 - [[Vocal Chain]]
+- [[Studio Design and Setup]]
 
 ## Source Discussions
 > [!quote] Discord Source

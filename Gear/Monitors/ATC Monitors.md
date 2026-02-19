@@ -13,7 +13,7 @@ manufacturer: ATC (Acoustic Transducer Company)
 category: Studio Monitor
 price_range: $3,000-$15,000/pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # ATC Monitors
@@ -93,3 +93,11 @@ ATCs are chosen by engineers who prioritize accuracy and translation above all e
 > Date range: April 2021 – March 2022
 > Key contributors: sethearnest, David Fuller, Josh Bowman, cian riordan, peterlabberton, Rollmottle, kidcutler
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] BatMeckley — PMC 6 vs ATC vs Neumann 420 comparison (#show-your-setup, March 2024, 18 reactions)
+> "The 420's are truly fantastic monitors. They do the low end thing that I like out of the PMC 6-2's without that weird pressed against the glass flatness that I hear in them. A much more pleasant high end too. [...] But they do run a bit lean in the 250-500hz range and FOR ME that would cause me to make poor mix decisions. [...] The PMC 6's however blew me away. Leaps and bounds better for me than the 6-2, and I could work on them without a sub even though I'm sure they'd be better with."
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: ATCs remain aspirational references in studio setup discussions. BatMeckley's detailed A/B/C comparison of ATC, PMC 6, and Neumann KH420 (18 reactions) is the most substantive speaker comparison in the channel. chrissorem's Neumann KH420 review provides direct ATC-comparable context. Community continues the monitoring-talk debate in real-world studio build contexts.

@@ -12,7 +12,7 @@ manufacturer: Sonarworks
 category: Plugin
 price_range: $100–$300
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Sonarworks SoundID
@@ -80,3 +80,8 @@ modified: 2026-02-17
 > Key contributors: David Fuller, francoslate, cian riordan
 > Notable: Community debate on room correction software vs physical treatment — consensus favors treatment first, Sonarworks as supplement
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Sonarworks/SoundID appears in setup discussion as a quick-start tool — Nomograph Mastering humorously described a minimal setup as "Tube traps are for suckers! I painted the concrete walls red, got sonarworks going and got right to work!!" (16 reactions). The community treats Sonarworks as a practical supplement, not a replacement for treatment. Nomograph Mastering's joke — "We can put anyone who asks about sonarworks in the hushbox" (10 reactions) — reflects the community's gentle discouragement of over-reliance on software correction.

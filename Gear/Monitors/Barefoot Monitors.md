@@ -12,7 +12,7 @@ manufacturer: Barefoot Sound
 category: Monitor
 price_range: $5,000–$15,000+ per pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Barefoot Monitors
@@ -74,3 +74,8 @@ modified: 2026-02-17
 > Date range: April 2021 – March 2022
 > Key contributors: David Fuller, cian riordan, Josh, analoginthedigital
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Barefoot monitors appear in studio visit photos and aspiration discussion. Community members reference visiting studios with Barefoots, maintaining the polarizing reputation from monitoring-talk — some love them, others find them "weird." The setup context reinforces that Barefoots require proper room treatment to perform.

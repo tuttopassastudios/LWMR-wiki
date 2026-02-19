@@ -14,7 +14,7 @@ manufacturer: Focal
 category: Monitor
 price_range: $500–$8,000+ per pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Focal Monitors
@@ -75,3 +75,8 @@ modified: 2026-02-17
 > Date range: April 2021 – March 2022
 > Key contributors: David Fuller, sethearnest, cian riordan
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Focal monitors appear in several studio setup photos. Community discussion in setup context reinforces the monitoring-talk consensus — brightness is a defining characteristic. Members who upgraded from Focals to PMC or ATC report significant midrange improvements.

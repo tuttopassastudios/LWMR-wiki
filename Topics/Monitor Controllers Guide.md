@@ -9,7 +9,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Monitor Controllers Guide
@@ -147,3 +147,8 @@ The functional benefits (speaker switching, mono check) are reason enough -- the
 > Date range: April 2021 – March 2022
 > Key contributors: cian riordan, David Fuller, Eric Martin
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Monitor controllers appear in studio setup photos as part of the monitoring chain. P.K. Stephan's hybrid studio uses a Dangerous Liaison for mixbus/mastering gear control. The community's setup photos consistently show controllers positioned for immediate access at the mix position, reinforcing the monitoring-talk consensus that a dedicated hardware controller is essential for professional monitoring workflow.

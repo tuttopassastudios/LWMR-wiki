@@ -13,7 +13,7 @@ manufacturer: Various (API originated format)
 category: Format/Standard
 price_range: Racks $150-$1,000, modules $200-$2,000
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # 500 Series Format
@@ -71,3 +71,8 @@ The 500 series format serves several key roles. For producers and engineers buil
 > Channel: #gear-talk
 > Date: April 2022 - September 2025
 > Key contributors: BatMeckley, NoahNeedleman, cian riordan, Nomograph Mastering, David Fuller, Rollmottle, hyanrarvey, alex_epton, peterlabberton, jantrit, popaganda, Ross Fortune, herbie, Bryan DiMaio, GaspardMurph
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: 500 series lunchboxes appear frequently in home studio setup photos, often in side racks alongside patchbays. The community trend toward minimal desks with side-mounted rack gear has increased 500 series visibility as a space-efficient outboard solution. Multiple studio build documentations show 500 series as the entry point for hybrid workflows.

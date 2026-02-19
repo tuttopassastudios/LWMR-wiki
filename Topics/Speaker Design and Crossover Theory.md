@@ -196,3 +196,8 @@ This is why ear-height alignment with the tweeter is standard practice — it pu
 > Key contributors: David Fuller, Rollmottle, sethearnest, cian riordan, peterlabberton
 > Notable: Practical listening-based observations that complement nerd-talk's theoretical foundations
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Setup photos provide real-world evidence for speaker design theory. denimes' custom 3-way mains with Hypex amps represent DIY speaker building informed by crossover theory. Gerhard Westphalen's new speaker installation (64 reactions — the channel's all-time most-reacted post) demonstrates custom speaker design in practice. BatMeckley's detailed PMC 6 vs ATC vs Neumann KH420 comparison (18 reactions) provides practical listening data on different crossover and driver configurations — noting the 420's lean 250-500Hz range and the PMC 6's full-range capability without a sub.

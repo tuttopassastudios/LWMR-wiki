@@ -11,7 +11,7 @@ manufacturer: Avantone Pro
 category: Monitor
 price_range: $150–$300 per pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Avantone MixCube
@@ -65,3 +65,8 @@ modified: 2026-02-17
 > Messages: ~5
 > Date range: April 2021 – March 2022
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: MixCubes appear as secondary reference speakers in several studio setup photos. Their role as a mono check tool alongside larger mains is consistent across setups. The tiny desk movement has not affected MixCube usage since they serve a fundamentally different purpose than primary monitors.

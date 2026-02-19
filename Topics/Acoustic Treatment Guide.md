@@ -189,6 +189,37 @@ The #recording-talk community draws a critical distinction:
 - Great tracking rooms (Ocean Way, Barefoot, Sound City) are defined by their personality, not their measurement graphs
 - See [[Room Mics and Ambient Recording]] for how room character is captured and used
 
+## Studio Setup Context
+
+The #show-your-setup channel provides extensive real-world treatment evidence across home studios, professional builds, and rental spaces:
+
+### DIY Treatment Builds
+- **AYOSHADOW** built handmade acoustic panels with his father — "Been a super fun project" (14 reactions)
+- **Will Melones** added a corner chunk of rockwool at the ceiling/front wall junction and "improved a null at 135Hz by at least 6dB"
+- **EliHeathMusic** designed wheeled bass trap panels for a closet-backed room — portable, rental-friendly, with shared construction plans
+- **ehutton21** invested in 9 GIK panels for comprehensive coverage
+
+### Diaphragmatic Membrane Absorbers
+Zack Hames installed Gerhard Westphalen-designed membrane absorbers: "I don't understand how these diaphragmatic membrane absorbers work… but damn do they work! It's wild walking around this room and the low end is 100x more balanced." (14 reactions)
+
+### Hard vs. Soft Front Wall
+masteredbyjack's experience during his Nomograph Mastering-designed room build is definitive: soft felt front wall made the room "too dead, uncomfortable" — switching to a hard front wall restored "much more depth and energy but everything still as crisp and clear."
+
+### Ceiling Clouds
+Jasper Boogaard installed Gerhard Westphalen-designed ceiling clouds: "the low end feels so much tighter without having even started with the back wall" (30 reactions)
+
+### Rental-Friendly Solutions
+- **[[ASC Tube Trap|Tube traps]]** and **[[Attack Wall|attack walls]]** — portable bass management for rented spaces
+- **jantrit's DIY attack wall** — "Changed my mixing life absolutely" in a rented space with Adam A7Xs across 6 rooms over 11 years
+- **Wheeled panels** — EliHeathMusic's solution for maintaining closet access while treating a small room
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Messages: ~203 (acoustic treatment category)
+> Date range: February 2021 – February 2026
+> Key contributors: Gerhard Westphalen (room designs), Zack Hames, masteredbyjack, peterlabberton, jantrit, AYOSHADOW, Will Melones, EliHeathMusic, ehutton21, Jasper Boogaard
+> Notable: Gerhard Westphalen has designed rooms for multiple community members. The hard vs soft front wall finding is one of the most actionable discoveries in the channel.
+
 ## See Also
 - [[Monitor Controllers Guide]]
 - [[Budget Gear Guide]]
@@ -196,6 +227,10 @@ The #recording-talk community draws a critical distinction:
 - [[Computer Hardware for Audio]]
 - [[Room Mics and Ambient Recording]]
 - [[Speaker Design and Crossover Theory]]
+- [[Studio Design and Setup]]
+- [[ASC Tube Trap]]
+- [[Attack Wall]]
+- [[REW]]
 
 ## Source Discussions
 > [!quote] Discord Source

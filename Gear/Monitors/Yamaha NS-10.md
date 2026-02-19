@@ -12,7 +12,7 @@ manufacturer: Yamaha
 category: Monitor
 price_range: $800–$2,000 used per pair
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Yamaha NS-10
@@ -65,6 +65,7 @@ modified: 2026-02-17
 - [[Yamaha HS Monitors]]
 - [[ATC Monitors]]
 - [[PMC Monitors]]
+- [[Studio Design and Setup]] — NS-10s in studio context
 
 ## Source Discussions
 
@@ -82,5 +83,10 @@ modified: 2026-02-17
 > Channel: #🔈monitoring-talk
 > Messages: 11
 > Date range: April 2021 – March 2022
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: NS-10s appear frequently in studio setup photos, often as secondary reference monitors alongside larger mains. LAPhill's comment — "Arguing about NS-10s on the internet is an objectively bad use of time at the beach" (14 reactions) — captures the community's self-aware humor around the endless NS-10 debate. The tiny desk movement has reduced NS-10 usage as members move to smaller setups where NS-10s' physical footprint and harsh midrange are less practical.
 > Key contributors: cian riordan, David Fuller
 > See also: [[monitoring-talk Channel Summary]]

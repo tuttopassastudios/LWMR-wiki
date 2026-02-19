@@ -10,7 +10,7 @@ tags:
   - type/topic
   - domain/hardware
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Console Philosophy
@@ -141,12 +141,29 @@ Many members acknowledge that the tactile, committed nature of console work chan
 - **Assuming console mixing is inherently superior** to ITB mixing -- the best mixers in the world work in both domains
 - **Not factoring in the AD/DA conversion channels** needed to integrate a console with a DAW
 
+## Console Installations from #show-your-setup
+
+The setup channel documents several real-world console installations:
+
+- **Zack Hames' SSL 6040 E** — The channel's most-reacted gear acquisition (52 reactions). Purchased after building out a basement studio with Trident 24 console, later upgrading to SSL. cian riordan's response captured the community's support: "That's a deal and a half. I'm sure there's a lot of people in your life saying you're crazy for making that decision but I'll happily be the voice of support."
+- **Neotek consoles** — cian riordan recorded at a studio with a Neotek: "Neotek consoles aren't my favorite, but it did the job. 9/10, would record here again." The adobe brick room character outweighed the console preference.
+- **SSL 4000** — nachomaquieira tracked drums+bass through an SSL 4000's preamps and EQs alongside Neve 1064 preamps and Pultecs
+- **Console-as-furniture** — Eric Martin's studio build journey shows the console as the centerpiece of room design, with acoustic treatment built around it. The community trend toward tiny desks notably excludes console owners, who build rooms around their consoles.
+- **popaganda** — "I'm really loving the Stryfecta on the console sends" (15 reactions) — creative effect routing through console infrastructure
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Messages: ~105 (console category)
+> Date range: February 2021 – February 2026
+> Key contributors: Zack Hames (SSL 6040 E, Trident 24), cian riordan, nachomaquieira (SSL 4000), popaganda, Eric Martin, Chad Rodgers (SSL desk)
+
 ## See Also
 - [[Outboard vs In-The-Box]]
 - [[AD-DA Conversion]]
 - [[Budget Gear Guide]]
 - [[DAW Summing and Sound Differences]]
 - [[Cables and Connectivity Guide]]
+- [[Studio Design and Setup]]
 
 ## Source Discussions
 > [!quote] Discord Source

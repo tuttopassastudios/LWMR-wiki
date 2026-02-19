@@ -64,3 +64,8 @@ modified: 2026-02-18
 > Date range: April 2021 – March 2022
 > Key contributors: David Fuller, peterlabberton
 > See also: [[monitoring-talk Channel Summary]]
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Amphion monitors appear in live room and tracking setups where their sealed-cabinet design and smooth character are valued. Community feedback focuses on their distinct voicing compared to ported alternatives.

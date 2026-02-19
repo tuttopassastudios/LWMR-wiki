@@ -427,6 +427,51 @@ For each channel processed, record:
 
 ---
 
+### #show-your-setup
+
+- **Channel:** #show-your-setup (Studio category)
+- **Server:** Live with Matt Rad
+- **Export date:** 2026-02-18
+- **Date range:** February 2021 – February 2026
+- **Messages:** 12,791 raw → ~7,761 substantive (40+ chars) → ~2,707 keyword-categorized
+- **Unique authors:** 259
+- **Image attachments:** 1,814
+
+**Pages created (1 topic + 3 glossary):**
+- [[Studio Design and Setup]] — Major new topic page covering room layout, studio builds, ergonomics, DIY furniture, lighting, cable management
+- [[ASC Tube Trap]], [[Attack Wall]], [[REW]]
+
+**Pages enriched (16):**
+- [[Yamaha NS-10]], [[Genelec Monitors]], [[Focal Monitors]], [[Amphion]], [[Barefoot Monitors]], [[ATC Monitors]], [[Avantone MixCube]]
+- [[Patchbays]], [[500 Series Format]]
+- [[Acoustic Treatment Guide]], [[Console Philosophy]], [[Budget Gear Guide]], [[Monitor Controllers Guide]]
+- [[Speaker Design and Crossover Theory]], [[Outboard vs In-The-Box]]
+- [[Sonarworks SoundID]]
+
+**Channel summary:** [[show-your-setup Channel Summary]]
+
+**Identified experts:**
+- **Nomograph Mastering** (723 substantive) — Acoustic design consulting (Unf*ck), community humor, mastering studio reference
+- **cian riordan** (476 substantive) — Studio visits, gear commentary, patchbay troubleshooting, most-reacted contributor (2,645 total reactions)
+- **Zack Hames** (342 substantive) — Full basement studio build with Trident → SSL journey, membrane absorbers
+- **BatMeckley** (320 substantive) — Detailed PMC/ATC/Neumann 420 speaker comparison, setup critique
+- **Rollmottle** (295 substantive) — Side-saddle screen placement, studio photography
+- **Eric Martin** (285 substantive) — Commercial studio build from concrete block, mobile checked-bag studio
+- **chrissorem** (285 substantive) — Grammy-winning engineer, creative session setups
+- **peterlabberton** (209 substantive) — Studio house build, multi-year construction documentation
+- **Gerhard Westphalen** (179 substantive) — Community acoustician, room designs for multiple members, custom speakers (64 reactions — all-time most-reacted post)
+
+**Notes:**
+- Channel is uniquely photo-heavy (1,814 images) and visually focused — unlike other processed channels, the primary content is studio photographs with contextual discussion
+- Substantive rate (60.7%) is lower than technical channels due to many short photo reactions and encouragement messages
+- "Tiny desk movement" is the channel's defining trend — multiple members document dramatic acoustic improvements after downsizing furniture
+- Gerhard Westphalen has designed rooms for 6+ community members, making this channel an informal acoustic design case study library
+- Multi-year build documentation (Eric Martin, peterlabberton, Zack Hames) is unique long-form content not found in any other channel
+- The channel is unusually positive and supportive compared to more debate-heavy channels
+- 5,567 substantive messages remain uncategorized (general setup photos, social interaction, encouragement)
+
+---
+
 ## Summary
 
 | Channel | Date Range | Messages (Raw) | Messages (Filtered) | Pages Created | Stubs Created |
@@ -439,3 +484,4 @@ For each channel processed, record:
 | #cubase | Sep 2024 – Jan 2026 | 518 | ~421 | 0 | 3 (glossary) |
 | #logic-pro | Feb 2024 – Feb 2026 | 621 | ~480 | 0 | 2 (glossary) |
 | #pro-tools | Feb 2024 – Feb 2026 | 4,104 | ~3,062 | 0 | 6 (glossary) |
+| #show-your-setup | Feb 2021 – Feb 2026 | 12,791 | ~7,761 | 1 (+3 glossary) | 3 (glossary) |

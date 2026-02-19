@@ -10,7 +10,7 @@ tags:
   - type/topic
   - domain/workflow
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Outboard vs In-The-Box
@@ -161,3 +161,10 @@ The community acknowledges that sighted comparisons are unreliable. Properly lev
 > Channel: #gear-talk
 > Matches: 325
 > Key contributors: cian riordan, Eric Martin, peterlabberton, BatMeckley, hyanrarvey, Zack Hames, ehutton21, popaganda, Nomograph Mastering, Bryan DiMaio, GaspardMurph, Rollmottle, NoahNeedleman
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Messages: ~582 (outboard rack category)
+> Date range: February 2021 – February 2026
+> Context: The setup channel provides photographic evidence of the hybrid workflow in practice. The community trend is clear: side racks with 500 series and patchbays, minimal desk footprint, everything always connected. P.K. Stephan's hybrid rig — "I like having everything connected and mic'ed up because I notice that I only use the stuff that I can access quickly" (30 reactions) — captures the consensus that accessibility determines whether outboard gets used. LAPhill's comprehensive studio wiring (Tim O'Sullivan build-out, 31 reactions) demonstrates the end-state of mature hybrid integration.
+> Key contributors: P.K. Stephan, LAPhill, Zack Hames, nachomaquieira, popaganda

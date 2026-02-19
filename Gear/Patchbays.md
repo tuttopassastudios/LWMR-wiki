@@ -13,7 +13,7 @@ manufacturer: Various (Switchcraft, Neutrik, Samson, etc.)
 category: Studio Infrastructure
 price_range: $100-$1,500
 created: 2026-02-17
-modified: 2026-02-17
+modified: 2026-02-18
 ---
 
 # Patchbays
@@ -74,3 +74,8 @@ A patchbay becomes essential once a studio has more than a handful of outboard p
 > Channel: #gear-talk
 > Date: March 2021 - December 2023
 > Key contributors: cian riordan, Rollmottle, BatMeckley, David Fuller, Eric Martin, Zack Hames, hyanrarvey, Bryan DiMaio, chrissorem, Nomograph Mastering, Zeuswayn3, shaunobi, peterlabberton
+
+> [!quote] Discord Source
+> Channel: #📸show-your-setup
+> Date range: February 2021 – February 2026
+> Context: Patchbays feature prominently in rack integration photos. cian riordan documented a full-day patchbay troubleshooting session (18 reactions). LAPhill's studio wiring overhaul by Tim O'Sullivan — routing pedals, synths, and preamps to patchbays with right-angle cables (31 reactions) — is the most comprehensive patchbay workflow description in the channel. P.K. Stephan's hybrid setup with XLR patchbay for all recording paths demonstrates professional patchbay integration.
